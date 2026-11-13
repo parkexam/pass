@@ -67,10 +67,13 @@ async function loadExternal(p){
 }
 const pendingWrongCount=()=>db.wrongIds.filter(id=>!db.wrongCompletedIds.includes(id)).length;
 const completedWrongCount=()=>db.wrongIds.filter(id=>db.wrongCompletedIds.includes(id)).length;
-const allSolved = ()=>db.history.reduce((n,h)=>n+h.total,0);
-const allCorrect=()=>db.history.reduce((n,h)=>n+h.correct,0);
+// 오답 복습(source:'wrong')은 학습 이력에는 남지만 일반 기출 통계에서는 제외합니다.
+// 기존 브라우저에 저장된 과거 오답 복습 기록에도 이 필터가 그대로 적용됩니다.
+const isExamAttempt=h=>h && h.source!=='wrong';
+const allSolved = ()=>db.history.reduce((n,h)=>n+(isExamAttempt(h)?(Number(h.total)||0):0),0);
+const allCorrect=()=>db.history.reduce((n,h)=>n+(isExamAttempt(h)?(Number(h.correct)||0):0),0);
 const accuracy=()=>allSolved()?Math.round(allCorrect()/allSolved()*100):null;
-const todaySolved=()=>db.history.filter(h=>h.day===today()).reduce((n,h)=>n+h.total,0);
+const todaySolved=()=>db.history.filter(h=>isExamAttempt(h)&&h.day===today()).reduce((n,h)=>n+(Number(h.total)||0),0);
 // 응시 1회 기록만 삭제하고, 해당 기록에서 유래한 오답만 정리합니다.
 // 오답을 사용자가 수동 삭제했다면 되살리지 않습니다.
 function deleteHistoryAttempt(id){

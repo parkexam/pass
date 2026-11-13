@@ -68,12 +68,12 @@ function result(){
  const timeLabel=i=>hasClock?`<span class="result-time">⏱ ${formatClock(h.timeSpentMs[i]||0)}</span>`:'';
   const canDelete=!!db.history.find(x=>x.id===h.id);
   return `<div class="result-topbar"><button class="back" data-act="view" data-val="history">← 내가 푼 기출 목록</button>${canDelete?`<button type="button" class="history-delete-btn" data-act="historyDelete" data-val="${esc(h.id)}">기록 삭제</button>`:''}</div>
-  ${canDelete?`<p class="history-delete-note">기록 삭제 시 누적 풀이·평균 정답률 집계에서 제외되고, 이 응시로 발생한 오답도 정리돼요.</p>`:''}
+  ${canDelete?`<p class="history-delete-note">${reviewMode?'오답 복습은 누적 풀이·평균 정답률에 집계되지 않아요. 삭제하면 이 복습 기록만 제거돼요.':'기록 삭제 시 누적 풀이·평균 정답률 집계에서 제외되고, 이 응시로 발생한 오답도 정리돼요.'}</p>`:''}
  <div class="eyebrow" style="margin-top:16px">${reviewMode?'REVIEW RESULT':'RESULT SUMMARY'}</div><h1 class="titleline">${reviewMode?'오답 복습을 마쳤어요!':'시험이 끝났어요!'}</h1>
  <p class="description">문항번호의 ○·×를 누르면 정답과 해설을 확인할 수 있어요.</p>
  ${reviewMode?`<div class="scorecard review-scorecard"><span class="small">오답 복습 결과</span>
  <div class="review-scoreline">오답 ${n}문항 중<br><strong>정답 ${ok}문항</strong></div>
- <div class="row between" style="opacity:.9"><span>복습완료 ${ok}문항</span><span>다시 학습 ${n-ok}문항</span></div>
+ <div class="review-session-total" style="opacity:.9">${n}문항 복습 완료</div>
  ${hasClock?`<div class="result-total-time">⏱ 총 풀이 시간 ${totalTime}</div>`:''}</div>`:
  `<div class="scorecard"><span class="small">나의 점수</span>
  <div class="big">${Math.round(ok/n*100)}<small> / 100점</small></div>

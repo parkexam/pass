@@ -59,7 +59,7 @@ document.addEventListener('click',e=>{const b=e.target.closest('[data-act]');if(
   else{
    const isReview=item.source==='wrong';
    const message=`「${item.title}」 ${formatDay(item.time)} 응시 기록을 삭제할까요?\n\n`+
-    `• 누적 풀이 문항 수와 평균 정답률에서 이번 응시를 제외합니다.\n`+
+    (isReview?'• 오답 복습은 이미 누적 풀이·평균 정답률 집계에서 제외되어 있습니다.\n':'• 누적 풀이 문항 수와 평균 정답률에서 이번 응시를 제외합니다.\n')+
     `• 이 응시로 인해 등록된 오답은 다른 남은 기록을 고려하여 정리됩니다.\n`+
     `• 다른 시험의 기록과 원본 문제지는 유지됩니다.\n\n`+
     `삭제 후 복구할 수 없습니다.`;
