@@ -71,6 +71,59 @@ const allSolved = ()=>db.history.reduce((n,h)=>n+h.total,0);
 const allCorrect=()=>db.history.reduce((n,h)=>n+h.correct,0);
 const accuracy=()=>allSolved()?Math.round(allCorrect()/allSolved()*100):null;
 const todaySolved=()=>db.history.filter(h=>h.day===today()).reduce((n,h)=>n+h.total,0);
+// 응시 1회 기록만 삭제하고, 해당 기록에서 유래한 오답만 정리합니다.
+// 오답을 사용자가 수동 삭제했다면 되살리지 않습니다.
+function deleteHistoryAttempt(id){
+ const record=db.history.find(h=>h.id===id);
+ if(!record)return false;
+ const saved={
+  history:db.history,
+  wrongIds:[...db.wrongIds],
+  wrongCompletedIds:[...db.wrongCompletedIds],
+  wrongSnapshots:{...db.wrongSnapshots}
+ };
+ db.history=db.history.filter(h=>h.id!==id);
+ const affected=new Set((record.items||[]).map(q=>q&&q.id).filter(Boolean));
+ for(const qid of affected){
+  // A manually removed wrong answer must not reappear.
+  if(!db.wrongIds.includes(qid))continue;
+  const remaining=[];
+  for(const h of db.history){
+   if(!Array.isArray(h.items))continue;
+   h.items.forEach((q,i)=>{
+    if(q&&q.id===qid){
+     remaining.push({q,correct:Array.isArray(h.answers)&&h.answers[i]===q.answer});
+    }
+   });
+  }
+  // Only an actual remaining incorrect submission may keep an item in wrong notes.
+  const lastWrong=[...remaining].reverse().find(event=>!event.correct);
+  if(!lastWrong){
+   db.wrongIds=db.wrongIds.filter(x=>x!==qid);
+   db.wrongCompletedIds=db.wrongCompletedIds.filter(x=>x!==qid);
+   delete db.wrongSnapshots[qid];
+  }else{
+   // Reflect the newest still-saved attempt, not the deleted one.
+   const last=remaining[remaining.length-1];
+   if(last.correct){
+    if(!db.wrongCompletedIds.includes(qid))db.wrongCompletedIds.push(qid);
+   }else{
+    db.wrongCompletedIds=db.wrongCompletedIds.filter(x=>x!==qid);
+   }
+   // Recover a source image / question for legacy notes if necessary.
+   if(!db.wrongSnapshots[qid])db.wrongSnapshots[qid]=lastWrong.q;
+  }
+ }
+ if(!persist()){
+  db.history=saved.history;
+  db.wrongIds=saved.wrongIds;
+  db.wrongCompletedIds=saved.wrongCompletedIds;
+  db.wrongSnapshots=saved.wrongSnapshots;
+  return false;
+ }
+ return true;
+}
+
 function nav(){return `<nav class="bottomnav" aria-label="하단 메뉴">${navs.map(([key,label,svg])=>`<button data-act="view" data-val="${key}" class="${S.view===key?'active':''}"><span class="navico"><svg viewBox="0 0 24 24">${svg}</svg></span>${label}</button>`).join('')}</nav>`}
 function appHeader(){return `<div class="header row between"><div class="brand"><div class="logo"><img src="assets/brand/exam-bank-icon.png" alt="EXAM BANK 로고"></div><div><div class="brandname">EXAM BANK</div><div class="eyebrow" style="font-size:9px;letter-spacing:.1em">Your next achievement</div></div></div><button class="avatar" data-act="view" data-val="my" aria-label="마이 페이지">나</button></div>`}
 function catCards(){return `<div class="cards">${db.exams.map((e,i)=>`<button class="cat" data-act="exam" data-val="${esc(e.id)}"><h3>${esc(e.name)}</h3><p>${esc(e.desc||'')}</p></button>`).join('')}</div>${db.exams.length?'':`<div class="empty">관리자 페이지에서 시험 분야를 등록해 주세요.</div>`}`}

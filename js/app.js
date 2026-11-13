@@ -53,6 +53,23 @@ document.addEventListener('click',e=>{const b=e.target.closest('[data-act]');if(
   ids.forEach(id=>delete db.wrongSnapshots[id]);S.reviewId=null;persist();keep=true;
  }
  else if(a==='historyDetail'){const item=db.history.find(h=>h.id===v);if(item){S.result=item;S.reviewId=null;S.view='result'}}
+ else if(a==='historyDelete'){
+  const item=db.history.find(h=>h.id===v);
+  if(!item){toast('이미 삭제된 응시 기록입니다.');S.result=null;S.view='history';}
+  else{
+   const isReview=item.source==='wrong';
+   const message=`「${item.title}」 ${formatDay(item.time)} 응시 기록을 삭제할까요?\n\n`+
+    `• 누적 풀이 문항 수와 평균 정답률에서 이번 응시를 제외합니다.\n`+
+    `• 이 응시로 인해 등록된 오답은 다른 남은 기록을 고려하여 정리됩니다.\n`+
+    `• 다른 시험의 기록과 원본 문제지는 유지됩니다.\n\n`+
+    `삭제 후 복구할 수 없습니다.`;
+   if(!confirm(message))return;
+   if(!deleteHistoryAttempt(v))return;
+   S.result=null;S.reviewId=null;S.view='history';
+   toast(isReview?'오답 복습 기록을 삭제했습니다.':'응시 기록을 삭제하고 통계를 다시 계산했습니다.');
+  }
+ }
+
  else if(a==='adminTab'){S.adminTab=v;S.editId=null;S.adminFilter='';keep=true}
  else if(a==='adminCancel'){S.editId=null;keep=true}
  else if(a==='edit'){S.editId=v;keep=false}
