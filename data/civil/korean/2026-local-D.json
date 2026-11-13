@@ -1,0 +1,369 @@
+{
+  "id": "paper_civil_korean_2026_local_D",
+  "title": "2026 지방직 9급 국어 D책형",
+  "year": 2026,
+  "source": "2026 지방직 9급 국어 D책형 PDF 및 사용자 제공 정답표 · 자체 해설 초안(검수 필요)",
+  "subjectId": "sub_civil_0",
+  "questions": [
+    {
+      "id": "civil2026-local-korean-D-q01",
+      "paperId": "paper_civil_korean_2026_local_D",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2026/local-D/q01.webp",
+      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n공공언어 원칙에서는 대등하게 연결되는 표현의 구조가 같아야 합니다. ②의 「편의를 확대하고 불편의 축소 방안」은 서술 구조와 명사 구조가 병렬되어 어색합니다. 「편의를 확대하고 불편을 축소하는 방안」처럼 고쳐야 하므로 ②는 적절한 수정이 아닙니다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2026-local-korean-D-q02",
+      "paperId": "paper_civil_korean_2026_local_D",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2026/local-D/q02.webp",
+      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n글의 흐름은 근대 독서 방식이 정독으로 변했다는 설명(다) → 정독에 맞는 공간과 자세의 훈련(가) → 독서 속도의 증가와 편집 방식 변화(라) → 구체적인 편집 기술·부호의 발달(나)입니다. 따라서 ①이 맞습니다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2026-local-korean-D-q03",
+      "paperId": "paper_civil_korean_2026_local_D",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2026/local-D/q03.webp",
+      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n신호등 색과 의미의 관계는 사회적 약속에 의한 상징적 기호(가), 지도는 실제 영토의 모습과 닮은 도상적 기호(나), 곰 발자국은 실제 곰이 지나갔다는 인과적 연결이 있는 지표적 기호(다)입니다. 이 순서가 ③입니다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2026-local-korean-D-q04",
+      "paperId": "paper_civil_korean_2026_local_D",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2026/local-D/q04.webp",
+      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n3장의 제목은 귀농 청년의 「주거 지원 방안」입니다. 그런데 ③의 미사용 주택지 정리를 통한 농지 확대는 주거 지원보다 농지·창업 지원에 가까워 제목과의 통일성이 부족합니다. 따라서 ③이 적절하지 않습니다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2026-local-korean-D-q05",
+      "paperId": "paper_civil_korean_2026_local_D",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2026/local-D/q05.webp",
+      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n물이 얼어 얼음이 되면 부피가 줄어드는 것이 아니라 커집니다. 따라서 「고체인 얼음이 되면 오히려 부피가 작아진다」는 ㉡을 「부피가 커진다」로 바로잡은 ②가 옳습니다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2026-local-korean-D-q06",
+      "paperId": "paper_civil_korean_2026_local_D",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2026/local-D/q06.webp",
+      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n복합 성씨와 한 글자 성의 경계가 혼동될 수 있으면 성과 이름을 띄어 쓸 수 있습니다. 「황보영」에서 성이 「황」이라면 「황 보영」으로 적을 수 있으므로, 이를 쓸 수 없다고 한 ①은 적절하지 않습니다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2026-local-korean-D-q07",
+      "paperId": "paper_civil_korean_2026_local_D",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2026/local-D/q07.webp",
+      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n지문은 지하국 대적 퇴치 설화가 외부의 힘보다 주인공 자신이 가진 자원을 활용해 위기를 해결하고 성장하는 이야기임을 강조합니다. 이러한 핵심 내용을 반영한 ①이 적절합니다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2026-local-korean-D-q08",
+      "paperId": "paper_civil_korean_2026_local_D",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2026/local-D/q08.webp",
+      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n「알 수 있다」는 내용을 인식·이해한다는 의미입니다. ④의 「앞으로 무엇을 해야 하는가를 알기 위해서는 책을 읽어야 한다」도 지식을 얻고 이해한다는 뜻이므로 가장 가깝습니다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2026-local-korean-D-q09",
+      "paperId": "paper_civil_korean_2026_local_D",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2026/local-D/q09.webp",
+      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n같은 생리적 반응도 그 상황을 어떻게 해석하고 어떤 감정으로 명명하느냐에 따라 경험이 달라집니다. 감정을 해석과 명명에 의해 능동적으로 구성되는 경험으로 파악한 ②가 중심 내용입니다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2026-local-korean-D-q10",
+      "paperId": "paper_civil_korean_2026_local_D",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2026/local-D/q10.webp",
+      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n㉢ 「부여하는」은 의미를 새로 주거나 덧붙인다는 뜻입니다. 이미 있던 뜻을 알아차리는 「깨닫는」과는 다르므로, 유사 표현으로 적절하지 않은 것은 ③입니다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2026-local-korean-D-q11",
+      "paperId": "paper_civil_korean_2026_local_D",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2026/local-D/q11.webp",
+      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n마음이 있는 대상은 인간과 감정적 소통을 하고, 소통하는 대상은 도덕적 지위를 갖는다는 전제가 있습니다. 식물은 마음이 있으므로 도덕적 지위를 가지며, 로봇은 마음이 없으므로 소통하지 않고 도덕적 지위를 갖지 않습니다. 따라서 ①이 필연적 결론입니다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2026-local-korean-D-q12",
+      "paperId": "paper_civil_korean_2026_local_D",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2026/local-D/q12.webp",
+      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n지문은 역사와 전설이 과거의 공백을 채우는 서사라는 공통점이 있지만, 그 공백을 사실적으로 구성하면 역사, 허구적으로 구성하면 전설이라고 설명합니다. 같은 과거라도 구성 방식에 따라 구별된다는 ③이 적절합니다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2026-local-korean-D-q13",
+      "paperId": "paper_civil_korean_2026_local_D",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2026/local-D/q13.webp",
+      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n㉠은 전설이 사건을 증거물에 담아 전하는 특징, ㉢은 과거의 공백을 허구적으로 채우는 방식, ㉣은 향유층이 자신들의 목소리로 전승하는 특징을 설명합니다. ㉡은 전설로 이행하기 이전의 신성한 기적 이야기라는 기원에 초점을 두므로 나머지와 가장 다릅니다. 정답은 ②입니다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2026-local-korean-D-q14",
+      "paperId": "paper_civil_korean_2026_local_D",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2026/local-D/q14.webp",
+      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n닭 울음소리를 부정하는 해석에서는 「닭」을 실제로 우는 동물로 보고 개벽의 광야를 정적의 공간으로 이해합니다. 반대로 새벽을 알리는 「지고한 소리의 매개체」로 해석하는 것은 울음소리를 긍정하는 입장이므로 ④는 부적절합니다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4
+    },
+    {
+      "id": "civil2026-local-korean-D-q15",
+      "paperId": "paper_civil_korean_2026_local_D",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2026/local-D/q15.webp",
+      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n주민도서관과 아동돌봄센터에 방문하지 않는다는 정보가 있습니다. ③의 「다문화센터와 주민도서관 중 적어도 한 곳 방문」을 더하면 주민도서관을 방문하지 않으므로 다문화센터 방문이 확정됩니다. 병의 진술에 의해 전통시장 방문도 확정되므로 ③이 맞습니다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4
+    },
+    {
+      "id": "civil2026-local-korean-D-q16",
+      "paperId": "paper_civil_korean_2026_local_D",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2026/local-D/q16.webp",
+      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n㉠은 믿음이 합리적이려면 감각·의식에 근거한 확실한 사실이거나 입증 논증이 있어야 한다는 「일반적인 기준」을 주장합니다. 도깨비에 관한 특정 믿음이 논증을 갖춘 사례 하나는 이런 기준의 보편적 타당성을 입증하지 못합니다. 따라서 기준이 강화된다고 한 ④는 적절하지 않습니다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4
+    },
+    {
+      "id": "civil2026-local-korean-D-q17",
+      "paperId": "paper_civil_korean_2026_local_D",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2026/local-D/q17.webp",
+      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n금리 인상(P)과 통화량 동결(Q)이 함께 성립하면 소비심리 위축이 따라 물가 상승률 둔화(S)가 발생합니다. 그런데 실제로는 S가 아니므로 대우에 의해 P와 Q가 동시에 참일 수 없습니다. 즉 「금리가 인상되지 않거나 통화량이 동결되지 않는다」는 ④가 반드시 참입니다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4
+    },
+    {
+      "id": "civil2026-local-korean-D-q18",
+      "paperId": "paper_civil_korean_2026_local_D",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2026/local-D/q18.webp",
+      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n지문은 당시 존재하던 「아음·설음·순음·치음·후음」의 분류 체계를 훈민정음 창제 때 도입했다고 설명합니다. 그 분류 체계를 새로 만들어 기본자를 정했다는 ④는 본문과 다릅니다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 5
+    },
+    {
+      "id": "civil2026-local-korean-D-q19",
+      "paperId": "paper_civil_korean_2026_local_D",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2026/local-D/q19.webp",
+      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n주거지 위생 상태를 비슷하게 통제한 상태에서 전원에서 오래 살수록 알레르기 발병률이 낮았다면, 유익한 공생 미생물에 대한 노출이 면역계 발달에 기여한다는 주장에 힘이 실립니다. 따라서 ③이 적절합니다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 5
+    },
+    {
+      "id": "civil2026-local-korean-D-q20",
+      "paperId": "paper_civil_korean_2026_local_D",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2026/local-D/q20.webp",
+      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n시라는 전체 효율을 우선해 두 줄 서기를 지지했고, 승현은 처음에는 개인 배려를 이유로 한 줄 서기를 옹호하다가 안전 문제를 고려해 두 줄 서기로 입장을 바꿉니다. 둘 다 기준에 따라 줄 서기 방식을 바꾸는 데 동의한다는 ③의 설명은 대화에서 확인되지 않습니다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 5
+    }
+  ]
+}

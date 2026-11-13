@@ -99,6 +99,16 @@
       "questionCount": 20,
       "dataFile": "data/nursing/community/2026-local-D.json",
       "external": true
+    },
+    {
+      "id": "paper_civil_korean_2026_local_D",
+      "subjectId": "sub_civil_0",
+      "title": "2026 지방직 9급 국어 D책형",
+      "year": 2026,
+      "source": "2026 지방직 9급 국어 D책형 PDF 및 사용자 제공 정답표 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/korean/2026-local-D.json",
+      "external": true
     }
   ]
 }
