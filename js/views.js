@@ -21,7 +21,18 @@ function quiz(){
  const z=getAttempt();if(!z||!z.items.length)return emptyGo('진행 중인 시험이 없습니다.');
  const q=z.items[z.index],n=z.items.length,answered=z.answers.filter(x=>x!==null).length,choice=z.answers[z.index],checked=z.mode==='instant'&&z.checked[z.index];
  const scan=q.kind==='scan';
- const choices=q.options.map((txt,i)=>`<button class="option ${choice===i?'selected':''} ${checked&&i===q.answer?'correct':''} ${checked&&choice===i&&choice!==q.answer?'wrongpick':''}" data-act="answer" data-val="${i}" ${checked?'disabled':''}><span class="number">${scan?txt:i+1}</span>${scan?'':`<span>${esc(txt)}</span>`}</button>`).join('');
+ const choices=q.options.map((txt,i)=>{
+  const picked=choice===i;
+  const isCorrect=checked&&i===q.answer;
+  const isWrong=checked&&picked&&i!==q.answer;
+  const stateLabel=isCorrect?'정답':isWrong?'오답':picked?'선택됨':'미선택';
+  const stateIcon=isCorrect?'✓':isWrong?'×':picked?'✓':'';
+  return `<button type="button" class="option ${picked?'selected':''} ${isCorrect?'correct':''} ${isWrong?'wrongpick':''}" data-act="answer" data-val="${i}" aria-pressed="${picked}" ${scan?`aria-label="${i+1}번 보기, ${stateLabel}"`:''} ${checked?'disabled':''}>
+    <span class="number" aria-hidden="true">${i+1}</span>
+    ${scan?`<span class="choice-caption" aria-hidden="true">${isCorrect?'정답':isWrong?'오답':picked?'선택됨':'보기'}</span>`:`<span class="choice-copy">${esc(txt)}</span>`}
+    ${stateIcon?`<span class="choice-status" aria-hidden="true">${stateIcon}</span>`:''}
+  </button>`;
+ }).join('');
  return `<div class="quizhead"><button data-act="quit" class="exit" aria-label="문제풀이 종료">×</button><div><b>${esc(z.title)}</b><div class="muted small" style="text-align:center">문제 ${z.index+1} / ${n}</div></div><span class="tag green">${answered}/${n} 응답</span></div>
  <div class="clockbar"><div class="clock-info"><span class="clock-kicker">⏱ 현재 문항</span><strong id="question-time" class="clock-readout">${formatClock(clockNow(z,z.index))}</strong></div><div class="clock-info total"><span class="clock-kicker">전체 풀이 시간</span><strong id="exam-total-time" class="clock-readout">${formatClock(totalClockMs(z))}</strong></div><button class="clock-toggle" data-act="toggleClock" aria-label="${z.timerPaused?'타이머 다시 시작':'타이머 일시정지'}">${z.timerPaused?'▶ 재개':'Ⅱ 일시정지'}</button></div>
  <div class="progress"><span style="width:${((z.index+1)/n)*100}%"></span></div><section class="question">
