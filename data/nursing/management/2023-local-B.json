@@ -1,0 +1,489 @@
+{
+  "id": "paper_nursing_management_2023_local_B",
+  "title": "2023 지방직 9급 간호관리 B책형",
+  "year": 2023,
+  "source": "2023 지방직 9급 간호관리 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+  "subjectId": "sub_nursing_manage",
+  "questions": [
+    {
+      "id": "nursing2023-local-management-B-q01",
+      "paperId": "paper_nursing_management_2023_local_B",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/management/2023/local-B/q01.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n고전적 관리이론과 신고전적 이론, 현대 관리이론의 특징을 구별하는 문항입니다. 행태과학론은 인간의 욕구와 행동 특성을 과학적 방법으로 연구해 조직 관리에 적용하려는 이론입니다.",
+      "optionExplanations": [
+        "과학적 원리를 직무 수행에 적용해 생산성을 높이려는 것은 테일러의 과학적 관리론입니다.",
+        "조직에서의 인간 욕구와 행동 특성을 과학적 방법으로 설명한다는 것이 행태과학론의 핵심입니다. 정답입니다.",
+        "공식적 권한 체계와 규칙을 강조하는 것은 베버의 관료제론입니다.",
+        "보편적 조직운영 원칙과 관리 활동을 제시하는 것은 페이욜의 관리과정론입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2023-local-management-B-q02",
+      "paperId": "paper_nursing_management_2023_local_B",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2023/local-B/q02.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n직무설계 방법별 장단점을 구분하는 문항입니다. 직무확대는 수평적으로 업무의 종류를 늘려 과업의 다양성을 높이는 방법으로, 반복 업무에서 오는 단조로움을 줄여 줍니다.",
+      "optionExplanations": [
+        "능률성 향상은 전문화·단순화와 관련된 효과이지 직무확대의 장점이 아닙니다.",
+        "자율성 향상은 의사결정 권한을 넓히는 직무충실화의 효과입니다.",
+        "책임감 감소는 오히려 직무확대가 가져올 수 있는 단점으로 설명됩니다.",
+        "업무 종류가 늘어나 반복적 업무에서 오는 단조로움이 줄어드는 것이 직무확대의 대표적 장점입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2023-local-management-B-q03",
+      "paperId": "paper_nursing_management_2023_local_B",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2023/local-B/q03.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n거래적 리더십과 변혁적 리더십을 구별하는 문항입니다. 변혁적 리더십은 개별적 배려, 지적 자극, 영감적 동기부여, 이상적 영향력을 통해 구성원의 가치와 동기를 변화시킵니다.",
+      "optionExplanations": [
+        "단기적 목표와 전망을 강조하는 것은 거래적 리더십의 조건적 보상과 관련됩니다.",
+        "문제해결방법을 미리 알려주는 것은 예외에 의한 관리(거래적 리더십)에 해당합니다.",
+        "성과에 대한 가시적 보상 제공은 대표적인 거래적 리더십의 행동입니다.",
+        "개별적 배려와 자아 성장 기회 제공은 구성원을 변화시키는 변혁적 리더십의 특성입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2023-local-management-B-q04",
+      "paperId": "paper_nursing_management_2023_local_B",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2023/local-B/q04.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기본급 결정 기준에 따른 임금 유형을 구분하는 문항입니다. 직무급은 연공이나 능력이 아니라 수행하는 직무의 가치, 즉 책임성과 난이도에 따라 임금을 결정합니다.",
+      "optionExplanations": [
+        "직무 수행 능력은 능력급의 결정 요인입니다.",
+        "근속 연수와 학력은 연공급의 결정 요인입니다.",
+        "직무의 책임성과 난이도가 직무급의 임금 결정 요인입니다. 정답입니다.",
+        "조직에 대한 공헌도는 직무급이 아니라 성과·공헌급의 기준에 가깝습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2023-local-management-B-q05",
+      "paperId": "paper_nursing_management_2023_local_B",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/management/2023/local-B/q05.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n의료법 시행규칙상 감염관리위원회·감염관리실의 설치 대상과 운영 기준을 확인하는 문항입니다. 시행규칙 제46조제2항은 종합병원, 150개 이상의 병상을 갖춘 병원, 치과병원, 한방병원의 감염관리실 인력 중 1명 이상은 전담 근무하도록 정하고 있습니다.",
+      "optionExplanations": [
+        "설치 대상은 '보건복지부령으로 정하는 일정 규모 이상'의 병원급 의료기관(100개 이상 병상)으로, 모든 병원급 의료기관이 아닙니다.",
+        "종합병원 등의 감염관리실 인력 중 1명 이상을 전담 근무하도록 한 규정에 부합합니다. 정답입니다.",
+        "교육은 별표에서 정한 교육기준에 따라 받아야 하는 것으로, '매년 32시간 이상'으로 단정할 수 없습니다.",
+        "감염관리실 업무 수행 인력은 의사, 간호사, 해당 의료기관의 장이 인정하는 사람으로 의사로 한정되지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2023-local-management-B-q06",
+      "paperId": "paper_nursing_management_2023_local_B",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2023/local-B/q06.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n목표관리(MBO)의 장점과 단점을 구분하는 문항입니다. 목표관리는 구성원이 목표 설정에 참여해 참여의식을 높이고, 목표 달성도를 기준으로 성과를 객관적으로 평가하며, 자신의 직무를 스스로 관리·통제하도록 합니다. 다만 목표를 정해 두고 운영하므로 환경 변화에 따른 목표 변경은 신속하지 못합니다.",
+      "optionExplanations": [
+        "ㄱ과 ㄴ은 목표관리의 대표적 장점이지만 ㄷ을 빠뜨렸습니다.",
+        "ㄷ은 장점이지만 ㄹ(환경 변화 시 신속한 목표 변경)은 목표관리의 단점입니다.",
+        "ㄱ, ㄴ, ㄷ이 모두 목표관리의 장점에 해당합니다. 정답입니다.",
+        "ㄹ이 단점이므로 장점만을 고른 것이 아닙니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2023-local-management-B-q07",
+      "paperId": "paper_nursing_management_2023_local_B",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/management/2023/local-B/q07.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n면접 방법의 개념을 구분하는 문항입니다. 다수의 면접자가 한 지원자를 면접하고 면접자 간 의견 교환으로 자질을 폭넓게 평가하는 방식은 패널 면접입니다.",
+      "optionExplanations": [
+        "집단 면접은 다수의 지원자를 한 자리에서 함께 면접하는 방식입니다.",
+        "여러 면접자가 한 지원자를 평가하고 의견을 교환하는 방식이 패널 면접입니다. 정답입니다.",
+        "정형적 면접은 정해진 질문지를 사용해 획일적으로 진행하는 면접입니다.",
+        "스트레스 면접은 지원자에게 의도적으로 압박을 주어 반응을 보는 면접입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2023-local-management-B-q08",
+      "paperId": "paper_nursing_management_2023_local_B",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2023/local-B/q08.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n마약류 관리에 관한 법률 제12조상 사고 마약류 보고 사유를 확인하는 문항입니다. 재해로 인한 상실, 분실 또는 도난, 변질·부패 또는 파손이 모두 보고 사유에 해당합니다.",
+      "optionExplanations": [
+        "ㄱ만 포함되고 파손(ㄴ)과 재해로 인한 상실(ㄷ)이 빠져 있어 불충분합니다.",
+        "ㄴ, ㄷ만 포함되어 분실·도난(ㄱ)과 변질·부패(ㄹ)가 빠져 있습니다.",
+        "ㄴ(파손)이 빠져 있어 법령상 보고 사유를 모두 고르지 못했습니다.",
+        "분실·도난, 파손, 재해로 인한 상실, 변질·부패가 모두 법 제12조제1항이 정한 보고 사유입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2023-local-management-B-q09",
+      "paperId": "paper_nursing_management_2023_local_B",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/management/2023/local-B/q09.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n산업공학적 방법으로 간호사 수를 산정하는 공식을 이해하는 문항입니다. 연간 총 간호시간은 '환자 1인당 일 평균 간호시간 × 일 평균 환자 수 × 7일 × 52주'로 구하고, 이를 '간호사 1인당 주 근무시간 × 연간 근무 주 수'로 나누어 간호사 수를 산정합니다.",
+      "optionExplanations": [
+        "A가 환자 1인당 일 평균 간호시간, B가 간호사 1인당 주 근무시간인 배치가 공식과 일치합니다. 정답입니다.",
+        "B가 '일 근무시간'이면 연간 근무 주 수를 곱하는 분모와 단위가 맞지 않습니다.",
+        "A와 B가 서로 뒤바뀌어 총 간호시간을 구할 수 없습니다.",
+        "A가 '간호사 1인당 일 근무시간'이면 환자 수를 곱해 총 간호시간을 구하는 구조가 성립하지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2023-local-management-B-q10",
+      "paperId": "paper_nursing_management_2023_local_B",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/management/2023/local-B/q10.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nWHO가 제시한 성공적인 환자안전사고 보고시스템의 특징을 확인하는 문항입니다. 보고시스템은 처벌 권한이 있는 기관과 독립적이어야 하고 권고안을 전파할 능력이 있어야 하며, 시스템·프로세스·제품의 변화에 초점을 두어야 합니다. 보고자와 기관의 정보는 비밀이 보장되어야 합니다.",
+      "optionExplanations": [
+        "보고자와 기관 정보를 대중에 공개하는 것은 자발적 보고를 위축시키므로 성공적 보고시스템의 특징이 아닙니다. 정답입니다.",
+        "권고안을 전파할 능력을 갖추어야 한다는 것은 제시된 특징에 해당합니다.",
+        "개인 행위보다 시스템·프로세스·제품 변화에 초점을 둔다는 것도 제시된 특징입니다.",
+        "처벌 권한이 있는 기관으로부터 독립적으로 운영되어야 한다는 것도 제시된 특징입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2023-local-management-B-q11",
+      "paperId": "paper_nursing_management_2023_local_B",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2023/local-B/q11.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n균형성과표(BSC)의 네 관점을 구분하는 문항입니다. 내부 업무프로세스 관점은 업무의 질과 효율을 높이는 내부 활동을 평가하므로, 간호실무표준을 개발한 건수처럼 조직 내부의 프로세스 개선 성과가 지표가 됩니다.",
+      "optionExplanations": [
+        "재원일수 단축률은 내부 프로세스 개선의 결과이지만 고객 관점의 성과로 분류되는 경우가 많습니다.",
+        "환자 만족도는 고객 관점의 지표입니다.",
+        "간호실무표준 개발 건수는 내부 업무프로세스 개선 활동을 직접 보여 주는 지표입니다. 정답입니다.",
+        "직무역량 교육 참여도는 학습과 성장 관점의 지표입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2023-local-management-B-q12",
+      "paperId": "paper_nursing_management_2023_local_B",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/management/2023/local-B/q12.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n6시그마 기법의 특징을 확인하는 문항입니다. 6시그마는 산포(편차)를 줄여 불량을 백만 개당 3.4개 수준으로 낮추는 것을 목표로 하며, 3시그마보다 높은 품질 수준을 추구하고 DMAIC 절차를 사용합니다.",
+      "optionExplanations": [
+        "1:29:300 법칙은 하인리히가 제시한 재해 발생 비율에 관한 것으로, 6시그마 기법의 의미가 아닙니다. 정답입니다.",
+        "6시그마는 구성원 간 직무 수행 결과의 편차를 줄이는 것을 핵심으로 합니다.",
+        "6시그마는 3시그마(불량률 약 0.27%)보다 우수한 품질 수준(3.4ppm)을 추구합니다.",
+        "DMAIC(정의-측정-분석-개선-관리)는 6시그마의 대표적 수행 절차입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2023-local-management-B-q13",
+      "paperId": "paper_nursing_management_2023_local_B",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2023/local-B/q13.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n토마스-킬만의 갈등 해결전략을 상황에 맞게 연결하는 문항입니다. 수용형은 상대방의 요구가 자신보다 더 중요할 때 상대의 입장을 받아들이는 전략입니다.",
+      "optionExplanations": [
+        "자신에게 사소한 사안에는 경쟁형이 아니라 회피형이 적합합니다.",
+        "자신이 옳다고 확신하는 경우에는 회피형이 아니라 경쟁형이 적합합니다.",
+        "상대방에게 더 중요한 사안이면 상대의 요구를 받아들이는 수용형이 적합합니다. 정답입니다.",
+        "통합적 해결책을 찾고자 할 때는 타협형이 아니라 협력형(문제 해결형)이 적합합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2023-local-management-B-q14",
+      "paperId": "paper_nursing_management_2023_local_B",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2023/local-B/q14.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n간호관리료의 구조와 등급 산정 기준을 확인하는 문항입니다. 간호관리료는 입원료에 포함되어 간호사 확보 수준에 따라 등급별로 차등 지급되며, 상급종합병원 일반병동은 1등급부터 6등급까지로 구분합니다.",
+      "optionExplanations": [
+        "입원료에서 의학관리료가 약 40%를 차지하고, 간호관리료는 그보다 낮은 비중(약 25%)이므로 40%라는 설명은 틀립니다.",
+        "간호관리료는 행위별 수가가 아니라 입원료에 포함되어 등급별로 차등 지급되는 수가입니다.",
+        "상급종합병원 일반병동의 간호관리료를 1등급 내지 6등급으로 구분한다는 설명은 간호관리료 차등제의 등급 체계에 부합합니다. 정답입니다.",
+        "등급은 근무조별 인원이 아니라 간호사 1인당 병상 수(또는 환자 수)를 기준으로 산정하므로 틀립니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2023-local-management-B-q15",
+      "paperId": "paper_nursing_management_2023_local_B",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/management/2023/local-B/q15.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n신포괄수가제의 운영 방식을 확인하는 문항입니다. 신포괄수가제는 입원일수에 따라 구분한 환자군별로 요양급여비용 산정방식(포괄 부분과 비포괄 부분)이 달라지는 지불제도입니다.",
+      "optionExplanations": [
+        "신포괄수가제 시범사업은 2020년이 아니라 2013년부터 시작되었습니다.",
+        "입원일수에 따라 구분한 환자군별로 요양급여비용 산정방식이 다르다는 설명이 신포괄수가제의 구조에 부합합니다. 정답입니다.",
+        "의료급여 수급권자에게도 적용되므로 '적용되지 않는다'는 설명은 틀립니다.",
+        "백내장 등 7개 질병군만 대상으로 하는 것은 포괄수가제(DRG)의 설명입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2023-local-management-B-q16",
+      "paperId": "paper_nursing_management_2023_local_B",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2023/local-B/q16.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n의사결정의 계층을 구분하는 문항입니다. 관리적 의사결정은 중간관리자가 수행하며, 부서별 자원 조달 방법이나 운영 계획처럼 전략을 실행하기 위한 구체적 방안을 정합니다.",
+      "optionExplanations": [
+        "최고관리자가 수행하는 것은 전략적 의사결정입니다.",
+        "정형적이고 구조적인 의사결정은 반복적 상황에서 이루어지는 운영적 의사결정의 성격입니다.",
+        "조직의 장기 계획 수립은 전략적 의사결정에 해당합니다.",
+        "부서별 자원 조달 방법을 결정하는 것은 중간관리자의 관리적 의사결정에 해당합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2023-local-management-B-q17",
+      "paperId": "paper_nursing_management_2023_local_B",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/management/2023/local-B/q17.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n길리스의 간호관리 체계모형에서 투입-변환-산출 요소를 구분하는 문항입니다. 생산자 투입 요소는 간호사 수, 간호사의 지식과 기술 등 투입 자원이고, 직무만족도·생산성·이직률·재원일수는 산출 요소에 해당합니다.",
+      "optionExplanations": [
+        "간호사 직무만족도와 간호 생산성은 산출 요소이므로 생산자 투입 요소의 예시로는 적절하지 않습니다. 정답입니다.",
+        "환자의 중증도와 간호 요구도는 소비자 투입 요소로 적절합니다.",
+        "의사결정과 간호의 질 관리 활동은 변환 과정의 예로 적절합니다.",
+        "간호사 이직률과 재원일수는 산출 요소로 적절합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2023-local-management-B-q18",
+      "paperId": "paper_nursing_management_2023_local_B",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/management/2023/local-B/q18.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n간호·간병통합서비스 제공 환자의 범위를 확인하는 문항입니다. 이 서비스는 간병이 필요하지만 보호자의 간병이 어렵거나 간병을 제한할 필요가 있는 환자, 의료인이 필요하다고 인정하는 환자 등을 대상으로 하며, 중증도가 높아 종합병원급 진료가 필요한 환자는 제외됩니다.",
+      "optionExplanations": [
+        "진료 성격이나 질병 특성상 보호자의 간병을 제한할 필요가 있는 환자는 서비스 제공 대상입니다.",
+        "중증도와 질병군 특성상 종합병원급 진료가 필요하다고 인정되는 환자는 통합서비스 대상에서 제외됩니다. 정답입니다.",
+        "생활 여건이나 경제 상황상 보호자 간병이 현저히 곤란한 환자는 서비스 제공 대상입니다.",
+        "의사·치과의사·한의사가 필요하다고 인정하는 입원 환자도 서비스 제공 대상입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2023-local-management-B-q19",
+      "paperId": "paper_nursing_management_2023_local_B",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2023/local-B/q19.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n의료법상 수술 등 중대한 위해가 우려되는 경우 환자에게 설명하고 동의를 받아야 하는 사항을 확인하는 문항입니다. 진단명, 수술의 필요성·방법·내용, 전형적으로 예상되는 후유증·부작용, 수술 전후 환자가 준수해야 할 사항을 모두 설명해야 합니다.",
+      "optionExplanations": [
+        "ㄴ, ㄷ이 빠져 있어 불충분합니다.",
+        "ㄹ(수술 전후 환자가 준수하여야 할 사항)이 빠져 있습니다.",
+        "ㄱ(진단명)이 빠져 있습니다.",
+        "ㄱ, ㄴ, ㄷ, ㄹ 모두 의료법이 정한 설명·동의 사항에 해당합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2023-local-management-B-q20",
+      "paperId": "paper_nursing_management_2023_local_B",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2023/local-B/q20.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n정보관리 기법의 개념을 구분하는 문항입니다. 대용량 데이터에서 쉽게 드러나지 않는 패턴과 지식을 발견해 의사결정에 유용한 정보를 추출하는 과정은 데이터 마이닝입니다.",
+      "optionExplanations": [
+        "메타데이터는 데이터에 대한 데이터, 즉 데이터의 속성 정보를 뜻합니다.",
+        "델파이 기법은 전문가 집단의 반복된 의견 수렴으로 합의를 도출하는 방법입니다.",
+        "대용량 데이터에서 숨은 패턴과 지식을 찾아내는 과정은 데이터 마이닝입니다. 정답입니다.",
+        "클라우드 컴퓨팅은 컴퓨팅 자원을 인터넷으로 제공하는 서비스 방식입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    }
+  ]
+}

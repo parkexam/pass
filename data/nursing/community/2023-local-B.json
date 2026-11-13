@@ -1,0 +1,489 @@
+{
+  "id": "paper_nursing_community_2023_local_B",
+  "title": "2023 지방직 9급 지역사회간호 B책형",
+  "year": 2023,
+  "source": "2023 지방직 9급 지역사회간호 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+  "subjectId": "sub_nursing_community",
+  "questions": [
+    {
+      "id": "nursing2023-local-community-B-q01",
+      "paperId": "paper_nursing_community_2023_local_B",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2023/local-B/q01.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n보건교육 방법의 개념을 구분하는 문항입니다. 전체 학습자를 여러 소그룹으로 나누어 토론한 뒤 다시 모여 결과를 요약·정리하는 방식은 분단토의입니다.",
+      "optionExplanations": [
+        "배심토의는 배심원 역할을 맡은 소수가 토의하고 청중이 질문하는 방식입니다.",
+        "심포지엄은 여러 전문가가 각자의 견해를 발표한 뒤 토론하는 방식입니다.",
+        "소그룹으로 나누어 토론한 후 전체가 모여 결과를 정리하는 방식은 분단토의입니다. 정답입니다.",
+        "브레인스토밍은 비판 없이 많은 아이디어를 자유롭게 내는 방법으로 소그룹 재편성과 요약의 과정이 없습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2023-local-community-B-q02",
+      "paperId": "paper_nursing_community_2023_local_B",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2023/local-B/q02.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n작업환경 관리 방법(대치·격리·환기·교육)을 구분하는 문항입니다. 유해 요인 자체를 다른 것으로 바꾸는 방법이 대치입니다.",
+      "optionExplanations": [
+        "가연성 물질이 든 플라스틱통을 철제통으로 바꾼 것은 위험 요인을 다른 것으로 대체한 대치에 해당합니다. 정답입니다.",
+        "격리는 유해 요인을 다른 장소나 밀폐된 공간으로 분리하는 방법입니다.",
+        "환기는 오염된 공기를 신선한 공기로 바꾸는 방법입니다.",
+        "교육은 작업자에게 안전 지식과 실천을 가르치는 방법입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2023-local-community-B-q03",
+      "paperId": "paper_nursing_community_2023_local_B",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2023/local-B/q03.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n가족발달주기에 따른 발달과업을 판단하는 문항입니다. 첫 자녀가 결혼해 출가하고 막내가 취업한 시기는 자녀가 성인으로 독립해 나가는 단계로, 부부는 부부관계를 재조정하는 과업을 수행합니다.",
+      "optionExplanations": [
+        "직업의 안정화는 청년기 개인의 발달과업입니다.",
+        "자녀가 출가하는 시기의 부부는 자녀 양육에서 벗어나 부부관계를 재조정해야 합니다. 정답입니다.",
+        "자녀의 사회화 교육은 학령기·청소년기 자녀를 둔 가족의 과업입니다.",
+        "친척에 대한 이해와 관계 수립은 결혼 초기 가족의 과업입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2023-local-community-B-q04",
+      "paperId": "paper_nursing_community_2023_local_B",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2023/local-B/q04.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n프로그램 평가 지표를 구분하는 문항입니다. 결과평가는 프로그램을 수행한 뒤 나타난 변화, 즉 목표 달성 정도를 보여 주는 지표입니다. 6개월 걷기운동 프로그램의 결과로 체중이 감소한 사람의 수가 이에 해당합니다.",
+      "optionExplanations": [
+        "참여자 수는 프로그램 참여 정도를 보여 주는 과정평가 지표입니다.",
+        "운영 간호사 수는 투입된 인력을 나타내는 투입(구조) 지표입니다.",
+        "체중 감소자 수는 프로그램의 결과로 나타난 건강 변화를 보여 주는 결과평가 지표입니다. 정답입니다.",
+        "운영 횟수는 프로그램이 얼마나 수행되었는지를 보여 주는 과정평가 지표입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2023-local-community-B-q05",
+      "paperId": "paper_nursing_community_2023_local_B",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2023/local-B/q05.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n농어촌 등 보건의료를 위한 특별조치법 시행령 제14조가 정한 보건진료 전담공무원의 의료행위 범위를 확인하는 문항입니다. 질병·부상 상태를 판별하기 위한 진찰·검사, 환자의 이송, 질병·부상의 악화 방지를 위한 처치, 만성병 환자의 요양지도 및 관리가 모두 업무 범위에 포함됩니다.",
+      "optionExplanations": [
+        "ㄴ(악화 방지를 위한 처치)이 빠져 있습니다.",
+        "ㄱ(만성병 환자의 요양지도 및 관리)이 빠져 있습니다.",
+        "ㄹ(환자의 이송)이 빠져 있습니다.",
+        "ㄱ부터 ㄹ까지 모두 시행령이 정한 의료행위 범위에 해당합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2023-local-community-B-q06",
+      "paperId": "paper_nursing_community_2023_local_B",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2023/local-B/q06.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n건강신념모형의 주요 개념을 사례에 적용하는 문항입니다. 질병에 걸릴 가능성에 대한 주관적 판단이 지각된 민감성, 질병의 결과가 얼마나 심각한지에 대한 판단이 지각된 심각성입니다.",
+      "optionExplanations": [
+        "(가)는 폐암에 걸릴 가능성에 대한 판단이므로 지각된 민감성, (나)는 걸렸을 때의 치료 어려움과 사망확률에 대한 판단이므로 지각된 심각성입니다. 정답입니다.",
+        "(가)와 (나)의 개념이 서로 바뀌어 있습니다.",
+        "(나)는 질병의 결과에 대한 판단이므로 지각된 심각성이며, 지각된 장애성이 아닙니다.",
+        "(가)가 민감성인 점을 반영하지 못했고, (나)도 지각된 심각성이어야 합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2023-local-community-B-q07",
+      "paperId": "paper_nursing_community_2023_local_B",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2023/local-B/q07.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n선천성대사이상검사 항목을 구분하는 문항입니다. 신생아 대상 검사는 대부분 유전성 대사질환을 선별하는 것으로, 브루셀라증은 동물 매개 감염병이어서 이에 해당하지 않습니다.",
+      "optionExplanations": [
+        "갑상선기능저하증은 선천성대사이상검사 항목입니다.",
+        "브루셀라증은 가축 등에서 옮는 감염병으로 선천성대사이상검사 항목이 아닙니다. 정답입니다.",
+        "호모시스틴뇨증은 아미노산 대사이상으로 검사 항목에 포함됩니다.",
+        "단풍당뇨증(메이플시럽요증)도 선천성대사이상검사 항목입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2023-local-community-B-q08",
+      "paperId": "paper_nursing_community_2023_local_B",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2023/local-B/q08.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지역사회간호 이론을 사정 내용에 적용하는 문항입니다. 저항선, 정상방어선, 유연방어선과 스트레스원에 초점을 두고 1·2·3차 예방활동으로 중재하는 것은 뉴먼의 건강관리체계이론입니다.",
+      "optionExplanations": [
+        "스트레스원과 방어선, 기본 구조와 에너지 자원을 중심으로 사정하는 것은 건강관리체계이론입니다. 정답입니다.",
+        "자가간호이론은 개인이 자신의 건강을 유지하기 위해 스스로 돌보는 능력에 초점을 둡니다.",
+        "교환이론은 사회적 상호작용에서 비용과 보상의 교환 관계를 설명합니다.",
+        "적응이론은 인간의 적응 체계와 적응 양상을 설명하는 이론입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2023-local-community-B-q09",
+      "paperId": "paper_nursing_community_2023_local_B",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2023/local-B/q09.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지역사회간호사업의 체계모형을 이해하는 문항입니다. 모형은 투입(지역사회 주민·자원) → 과정(지역사회간호과정) → 산출(지역사회 적정기능 수준 향상)의 흐름으로 구성되며, (가)에는 사업의 궁극적 산출이 들어갑니다.",
+      "optionExplanations": [
+        "지역사회주민은 투입 요소에 해당합니다.",
+        "지역사회간호과정은 과정 요소입니다.",
+        "산출 요소로서 사업을 통해 도달하려는 목표인 지역사회 적정기능 수준 향상이 (가)에 해당합니다. 정답입니다.",
+        "지역사회 물적 자원은 투입 요소입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2023-local-community-B-q10",
+      "paperId": "paper_nursing_community_2023_local_B",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2023/local-B/q10.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n보건지표의 분모를 확인하는 문항입니다. 모성사망률은 임신·분만과 관련된 사망이 가임기 여성 인구 중 얼마나 발생했는지를 나타내므로 분모가 가임기 여성 수(또는 10만 명)입니다.",
+      "optionExplanations": [
+        "영아사망률은 그해 출생아 수를 분모로 합니다.",
+        "저체중아 출생률은 그해 출생아 수를 분모로 합니다.",
+        "모성사망비는 그해 출생아 수를 분모로 합니다.",
+        "모성사망률은 출생아 수가 아니라 가임기 여성 인구를 분모로 하므로 해당합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2023-local-community-B-q11",
+      "paperId": "paper_nursing_community_2023_local_B",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2023/local-B/q11.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n방문간호의 종류와 법적 근거를 확인하는 문항입니다. 의료법 시행규칙은 가정간호를 실시하려는 의료기관의 장이 가정전문간호사를 2명 이상 두도록 정하고 있습니다.",
+      "optionExplanations": [
+        "의료기관 가정간호의 목표는 퇴원 후 개별 환자의 건강 유지·증진이지 지역사회 인구집단의 건강행태 개선이 아닙니다.",
+        "의료법 시행규칙상 가정간호를 실시하는 의료기관의 장은 가정전문간호사를 2명 이상 두어야 한다는 설명이 규정에 부합합니다. 정답입니다.",
+        "지역보건법 시행규칙은 방문건강관리 전담공무원의 자격을 간호사 등으로 정하고 있으며, 2년 이상 경력을 요구한다고 단정할 수 없습니다.",
+        "노인장기요양보험의 방문간호급여는 행위별 진료수가가 아니라 정해진 수가 기준으로 산정합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2023-local-community-B-q12",
+      "paperId": "paper_nursing_community_2023_local_B",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2023/local-B/q12.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nBPRS(기본 우선순위 평점 체계)로 건강문제의 우선순위를 정하는 문항입니다. BPRS는 (문제의 크기 + 문제의 심각도) × 사업의 효과로 점수를 산출합니다. ①은 (8+6)×4=56, ②는 (2+4)×7=42, ③은 (4+8)×5=60, ④는 (10+5)×3=45로 ③이 가장 높습니다.",
+      "optionExplanations": [
+        "(8+6)×4=56점으로 ③보다 낮습니다.",
+        "(2+4)×7=42점으로 네 문제 중 가장 낮습니다.",
+        "(4+8)×5=60점으로 가장 높아 우선순위가 가장 앞섭니다. 정답입니다.",
+        "(10+5)×3=45점으로 ③보다 낮습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2023-local-community-B-q13",
+      "paperId": "paper_nursing_community_2023_local_B",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2023/local-B/q13.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n환자-대조군 연구의 교차비(odds ratio)를 계산하는 문항입니다. 교차비는 (노출군 중 환자의 교차비)/(비노출군 중 환자의 교차비), 즉 (240×460)/(360×40)으로 계산합니다.",
+      "optionExplanations": [
+        "분자와 분모의 위치가 바뀐 잘못된 계산입니다.",
+        "교차비는 (a×d)/(b×c)이므로 (240×460)/(360×40)이 맞습니다. 정답입니다.",
+        "분모를 전체 인구로 계산한 식으로 교차비의 정의와 다릅니다.",
+        "분자와 분모가 뒤바뀐 식입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2023-local-community-B-q14",
+      "paperId": "paper_nursing_community_2023_local_B",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2023/local-B/q14.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n가족밀착도(FACES)로 파악할 수 있는 정보를 구분하는 문항입니다. 가족밀착도는 가족 구성원 간의 정서적 유대와 관계, 상호작용 수준을 측정하므로 가족의 생활사건처럼 시간에 따라 발생하는 사건은 파악할 수 없습니다.",
+      "optionExplanations": [
+        "생활사건은 가족밀착도가 아니라 생활사건척도 등으로 파악해야 하므로 해당합니다. 정답입니다.",
+        "가족 간의 관계는 가족밀착도가 직접 측정하는 내용입니다.",
+        "정서적 지지는 가족밀착도를 통해 파악할 수 있는 영역입니다.",
+        "가족의 전체적인 상호작용은 가족밀착도로 측정하는 핵심 개념입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2023-local-community-B-q15",
+      "paperId": "paper_nursing_community_2023_local_B",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2023/local-B/q15.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n의료급여 제도의 내용을 확인하는 문항입니다. 의료급여 수급자는 국민기초생활 보장법상 수급자 외에도 의사상자, 국가유공자 등 다른 법령에 따라 지원받는 사람도 포함되므로 '기초생활보장 수급자가 아니면 될 수 없다'는 설명은 옳지 않습니다.",
+      "optionExplanations": [
+        "1종과 2종 수급권자의 본인부담금은 차등 적용되므로 옳은 설명입니다.",
+        "국민기초생활 보장법상 수급자 외에도 다른 법령에 따라 의료급여를 받는 대상자가 있으므로 옳지 않은 설명입니다. 정답입니다.",
+        "의료급여는 사회보장 중 공공부조에 해당하므로 옳은 설명입니다.",
+        "의료급여 관리사는 의료기관에서 2년 이상 근무한 의료인 등의 요건을 갖추어야 하므로 옳은 설명입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2023-local-community-B-q16",
+      "paperId": "paper_nursing_community_2023_local_B",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2023/local-B/q16.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n취약가족의 유형을 구분하는 문항입니다. 취약가족은 구조적 취약가족(한부모·이혼·별거 가족)과 기능적 취약가족(저소득 가족, 취업모 가족, 만성질환자 가족), 가족 내 상호작용이 취약한 가족(학대·알코올중독 가족), 발달단계상 취약한 가족(미혼모·미숙아 가족) 등으로 나뉩니다.",
+      "optionExplanations": [
+        "학대 가족은 가족 내 상호작용이 취약한 가족으로 분류됩니다.",
+        "한부모 가족은 가족 구조의 변화에 따른 구조적 취약가족입니다.",
+        "미혼모 가족은 발달단계상 취약가족으로 분류됩니다.",
+        "저소득 가족은 기능적 취약가족에 해당합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2023-local-community-B-q17",
+      "paperId": "paper_nursing_community_2023_local_B",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2023/local-B/q17.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nLeavell과 Clark의 질병 자연사 단계별 예방 조치를 연결하는 문항입니다. 불현성 감염기는 질병이 진행 중이나 증상이 나타나지 않는 단계로, 조기 발견을 위한 집단검진이 이에 해당합니다.",
+      "optionExplanations": [
+        "비병원성기에는 환경위생·안전 확보 등 1차 예방이 이루어지며, 사례발견은 아닙니다.",
+        "불현성 감염기에는 조기 발견을 위한 집단검진이 이루어지므로 적절합니다. 정답입니다.",
+        "발현성 감염기에는 적절한 치료와 합병증 예방이 이루어지며, 환경위생은 1차 예방입니다.",
+        "회복기에는 재활과 사회 복귀 지원이 이루어지며, 개인위생은 1차 예방에 해당합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2023-local-community-B-q18",
+      "paperId": "paper_nursing_community_2023_local_B",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2023/local-B/q18.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n보건의료체계 하부구조의 구성요소를 구분하는 문항입니다. 하부구조는 물적 자원, 인적 자원, 지식과 기술 등으로 구성되며, 보건의료지식은 자원 개발 요소에 해당합니다.",
+      "optionExplanations": [
+        "외국 원조는 재원 조달 요소입니다.",
+        "공공재원은 재원 조달 요소에 해당합니다.",
+        "국가보건당국은 관리(조직·제도) 요소입니다.",
+        "보건의료지식은 교육·연구를 통해 개발되는 자원 요소에 해당합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2023-local-community-B-q19",
+      "paperId": "paper_nursing_community_2023_local_B",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2023/local-B/q19.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지역보건법 시행령상 지역사회 건강실태조사 결과의 통보 대상을 확인하는 문항입니다. 지방자치단체장은 매년 보건소를 통해 실시한 지역사회 건강실태조사 결과를 질병관리청장에게 통보해야 합니다.",
+      "optionExplanations": [
+        "행정안전부장관은 통보 대상이 아닙니다.",
+        "한국건강증진개발원장은 통보 대상이 아닙니다.",
+        "지역사회 건강실태조사 결과를 질병관리청장에게 통보하도록 규정하고 있습니다. 정답입니다.",
+        "보건복지부장관이 아니라 질병관리청장이 통보 대상입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2023-local-community-B-q20",
+      "paperId": "paper_nursing_community_2023_local_B",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2023/local-B/q20.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n응급상황의 우선 처치를 판단하는 문항입니다. 의식이 없고 체온이 41℃이며 발한이 없는 것은 전형적인 열사병으로, 체온을 빨리 낮추는 것이 가장 중요한 초기 처치입니다.",
+      "optionExplanations": [
+        "몸을 얼음물에 담가 신속히 체온을 낮추는 것이 열사병의 우선 처치입니다. 정답입니다.",
+        "1~2시간 안정시키는 것은 체온이 더 오르게 하여 위험하므로 적절하지 않습니다.",
+        "가슴을 격렬하게 마찰하면 말초에 혈액이 몰려 체온이 더 상승하고 피부 손상 위험이 커집니다.",
+        "강심제 투여는 현장에서 우선할 처치가 아니며 전문 의료인의 판단이 필요한 처치입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    }
+  ]
+}

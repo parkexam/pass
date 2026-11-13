@@ -259,6 +259,76 @@
       "questionCount": 40,
       "dataFile": "data/leet/reasoning/2025.json",
       "external": true
+    },
+    {
+      "id": "paper_civil_korean_2023_local_B",
+      "subjectId": "sub_civil_0",
+      "title": "2023 지방직 9급 국어 B책형",
+      "year": 2023,
+      "source": "2023 지방직 9급 국어 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/korean/2023-local-B.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_english_2023_local_B",
+      "subjectId": "sub_civil_1",
+      "title": "2023 지방직 9급 영어 B책형",
+      "year": 2023,
+      "source": "2023 지방직 9급 영어 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/english/2023-local-B.json",
+      "external": true
+    },
+    {
+      "id": "paper_nursing_management_2023_local_B",
+      "subjectId": "sub_nursing_manage",
+      "title": "2023 지방직 9급 간호관리 B책형",
+      "year": 2023,
+      "source": "2023 지방직 9급 간호관리 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/nursing/management/2023-local-B.json",
+      "external": true
+    },
+    {
+      "id": "paper_nursing_community_2023_local_B",
+      "subjectId": "sub_nursing_community",
+      "title": "2023 지방직 9급 지역사회간호 B책형",
+      "year": 2023,
+      "source": "2023 지방직 9급 지역사회간호 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/nursing/community/2023-local-B.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_korean_2023_national_nah",
+      "subjectId": "sub_civil_0",
+      "title": "2023 국가직 9급 국어 나책형",
+      "year": 2023,
+      "source": "2023 국가직 9급 국어 나책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/korean/2023-national-nah.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_english_2023_national_nah",
+      "subjectId": "sub_civil_1",
+      "title": "2023 국가직 9급 영어 나책형",
+      "year": 2023,
+      "source": "2023 국가직 9급 영어 나책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/english/2023-national-nah.json",
+      "external": true
+    },
+    {
+      "id": "paper_leet_2024_reasoning",
+      "subjectId": "sub_leet_1",
+      "title": "2024학년도 LEET 추리논증 (홀수형)",
+      "year": 2024,
+      "source": "2024학년도 법학적성시험 추리논증 홀수형 문제지 및 공개 정답표 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 40,
+      "dataFile": "data/leet/reasoning/2024.json",
+      "external": true
     }
   ]
 }

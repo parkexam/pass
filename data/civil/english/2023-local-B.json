@@ -1,0 +1,489 @@
+{
+  "id": "paper_civil_english_2023_local_B",
+  "title": "2023 지방직 9급 영어 B책형",
+  "year": 2023,
+  "source": "2023 지방직 9급 영어 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+  "subjectId": "sub_civil_1",
+  "questions": [
+    {
+      "id": "civil2023-local-english-B-q01",
+      "paperId": "paper_civil_english_2023_local_B",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/english/2023/local-B/q01.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n밑줄 친 subsequent(그다음의, 뒤이은)와 의미가 가장 가까운 어휘를 고르는 문항입니다. 앞으로 있을 발표에서 프로젝트에 대한 추가 설명을 하겠다는 문맥이므로 '다음의'를 뜻하는 following이 적절합니다.",
+      "optionExplanations": [
+        "required는 '요구되는'이라는 뜻으로 시간적 순서를 나타내지 않습니다.",
+        "following은 '뒤따르는, 다음의'라는 뜻으로 subsequent와 같은 의미입니다. 정답입니다.",
+        "advanced는 '앞선, 진보한'이라는 뜻이어서 뒤이은 발표라는 문맥과 맞지 않습니다.",
+        "supplementary는 '보충의'라는 뜻으로 성격은 비슷하나 '뒤에 오는'이라는 시간적 의미는 없습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2023-local-english-B-q02",
+      "paperId": "paper_civil_english_2023_local_B",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/english/2023/local-B/q02.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n밑줄 친 courtesy(예의, 정중함)와 의미가 같은 어휘를 고르는 문항입니다. 재채기할 때 'excuse me'라고 말하는 것이 남에게 예의를 보이는 관습이라는 문맥이므로 politeness가 적절합니다.",
+      "optionExplanations": [
+        "charity는 '자선'이라는 뜻으로 예의와는 관계가 없습니다.",
+        "humility는 '겸손'이라는 뜻으로 상대를 배려하는 예의와는 다릅니다.",
+        "boldness는 '대담함'이라는 뜻으로 오히려 예의와 반대되는 느낌입니다.",
+        "politeness는 '공손함, 예의 바름'이라는 뜻으로 courtesy와 같은 의미입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2023-local-english-B-q03",
+      "paperId": "paper_civil_english_2023_local_B",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/english/2023/local-B/q03.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n밑줄 친 have been brought up(자라다, 양육되다)과 의미가 가까운 어휘를 고르는 문항입니다. 아이들이 건강식으로 자랐다는 문맥이므로 '양육하다'를 뜻하는 raised가 적절합니다.",
+      "optionExplanations": [
+        "raised는 '기르다, 양육하다'라는 뜻으로 brought up과 같은 의미입니다. 정답입니다.",
+        "advised는 '충고하다'라는 뜻으로 양육과는 관계가 없습니다.",
+        "observed는 '관찰하다'라는 뜻으로 문맥에 맞지 않습니다.",
+        "controlled는 '통제하다'라는 뜻으로 자라난 환경을 말하는 문맥과 다릅니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2023-local-english-B-q04",
+      "paperId": "paper_civil_english_2023_local_B",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/english/2023/local-B/q04.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n밑줄 친 was not done away with(폐지되지 않았다)와 의미가 가까운 어휘를 고르는 문항입니다. 미국에서 노예제가 19세기까지 폐지되지 않았다는 문맥이므로 abolished(폐지하다)가 적절합니다.",
+      "optionExplanations": [
+        "abolished는 '폐지하다'라는 뜻으로 do away with와 같은 의미입니다. 정답입니다.",
+        "consented는 '동의하다'라는 뜻으로 문맥과 맞지 않습니다.",
+        "criticized는 '비판하다'라는 뜻이어서 제도가 없어지지 않았다는 의미와 다릅니다.",
+        "justified는 '정당화하다'라는 뜻으로 폐지와 반대되는 방향입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2023-local-english-B-q05",
+      "paperId": "paper_civil_english_2023_local_B",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/english/2023/local-B/q05.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n유권자가 선거 과정을 명확히 보고 이해할 수 있도록 더 큰 무엇을 요구했는지 고르는 문항입니다. 'see and understand it clearly'가 단서이므로 '투명성'을 뜻하는 transparency가 적절합니다.",
+      "optionExplanations": [
+        "deception(기만)은 유권자가 명확히 이해하려는 요구와 정반대입니다.",
+        "flexibility(유연성)는 선거 과정을 명확히 볼 수 있게 해 주는 성질이 아닙니다.",
+        "competition(경쟁)은 선거의 성격일 수는 있으나 '명확히 보고 이해한다'는 단서와 연결되지 않습니다.",
+        "transparency(투명성)는 과정이 명확히 드러나 이해될 수 있음을 뜻하므로 가장 적절합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2023-local-english-B-q06",
+      "paperId": "paper_civil_english_2023_local_B",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/english/2023/local-B/q06.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n어법상 틀린 부분을 찾는 문항입니다. 'is ③what the superior team may not have perceived …'에서 보어절을 이끌어야 할 것은 접속사 that입니다. what은 'the thing that'의 의미로 쓰여 '우수한 팀이 지각하지 못한 것'이라는 명사절이 되어, 주어 보어 자리에 오면 '이유는 …이다'라는 구조가 성립하지 않습니다.",
+      "optionExplanations": [
+        "in which는 앞의 upsets in sports를 받는 관계대명사로 적절합니다.",
+        "the team predicted to win은 '우승할 것으로 예상되는 팀'이라는 분사구 수식으로 적절합니다.",
+        "what은 'the reason is what …' 구조에서 보어 명사절을 이끌 수 없으므로 that으로 고쳐야 합니다. 정답입니다.",
+        "threatening to their continued success는 '그들의 지속적 성공에 위협이 되는'이라는 형용사적 쓰임으로 적절합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2023-local-english-B-q07",
+      "paperId": "paper_civil_english_2023_local_B",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/english/2023/local-B/q07.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n어법상 틀린 문장을 찾는 문항입니다. alive는 서술적 용법으로만 쓰는 형용사이므로 명사 앞에서 관형어로 쓸 수 없습니다. 'an alive man'은 'a living man'으로 고쳐야 합니다.",
+      "optionExplanations": [
+        "should have gone은 '갔어야 했는데'라는 과거 사실에 대한 후회를 나타내는 조동사 표현으로 적절합니다.",
+        "as much money as we used to는 비교 구문에서 반복을 피한 표현으로 적절합니다.",
+        "alive는 서술적 용법만 가능한 형용사여서 명사 man을 앞에서 수식할 수 없으므로 틀린 문장입니다. 정답입니다.",
+        "was looked at by는 수동태에서 전치사가 함께 쓰인 형태로 문법에 맞습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2023-local-english-B-q08",
+      "paperId": "paper_civil_english_2023_local_B",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/english/2023/local-B/q08.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n우리말을 영어로 잘못 옮긴 것을 찾는 문항입니다. '감동하게 되었다'는 감정을 느끼는 주체가 주어이므로 수동태 be made touching이 아니라 be moved(by)로 써야 합니다. 'be made to do'는 '…하게 시키다'라는 사역의 수동 표현입니다.",
+      "optionExplanations": [
+        "우리는 감동한 주체이므로 'We were moved by his speech'가 맞습니다. touching은 감정을 유발하는 대상에 쓰는 표현이어서 틀린 문장입니다. 정답입니다.",
+        "Apart from its cost는 '비용은 차치하고'에 해당하는 적절한 표현입니다.",
+        "while drinking hot tea는 '뜨거운 차를 마시는 동안'이라는 분사구문으로 자연스럽습니다.",
+        "made him suited for는 '그를 …에 적합하게 만들었다'라는 의미로 우리말과 일치합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2023-local-english-B-q09",
+      "paperId": "paper_civil_english_2023_local_B",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/english/2023/local-B/q09.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n도움을 청하는 A의 말에 B가 응답하고 이어서 A가 길을 묻는 대화입니다. B는 'Sure. Can I help you with anything?'처럼 흔쾌히 돕겠다고 답한 뒤 용건을 물어야 대화가 자연스럽게 이어집니다.",
+      "optionExplanations": [
+        "'We have no idea how to handle this situation'은 상황을 처리할 방법을 모르겠다는 말로, 도움을 주겠다는 응답이 될 수 없습니다.",
+        "'Would you mind telling us who is in charge?'는 담당자가 누구인지 묻는 말로, 도움을 청하는 A의 요청에 대한 응답이 아닙니다.",
+        "'I could use some help around here'는 오히려 자신이 도움이 필요하다는 말이어서 상대의 부탁에 대한 응답으로 어색합니다.",
+        "도움을 주겠다고 수락하고 무엇을 도와줄지 묻는 응답으로, 이어지는 A의 용건 설명과 자연스럽게 연결됩니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2023-local-english-B-q10",
+      "paperId": "paper_civil_english_2023_local_B",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/english/2023/local-B/q10.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n자신이 마지막으로 퇴근하며 사무실의 전등과 에어컨을 켜 둔 사실을 알게 된 B가 사과하고 재발을 다짐하는 흐름이 자연스럽습니다.",
+      "optionExplanations": [
+        "'This machine is working fine'은 기계 상태를 말하는 것으로, 전등과 에어컨을 끄지 않았다는 상황과 관계없습니다.",
+        "'Everyone likes to work with you'는 갑작스러운 칭찬으로 대화의 흐름과 맞지 않습니다.",
+        "자신의 실수를 인정하고 사과하며 앞으로 조심하겠다고 다짐하는 응답으로 가장 자연스럽습니다. 정답입니다.",
+        "'You must be tired because you get off work too late'는 야근을 걱정하는 말로 사과가 필요한 상황에 맞지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2023-local-english-B-q11",
+      "paperId": "paper_civil_english_2023_local_B",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/english/2023/local-B/q11.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n대화의 질문과 응답이 자연스럽게 이어지는지 판단하는 문항입니다. 'How long has it been?'은 만나지 않은 기간을 묻는 질문이므로, 차로 걸린 시간을 답하면 묻는 말과 답이 어긋납니다.",
+      "optionExplanations": [
+        "머리 시술을 어떻게 할지 묻는 말에 염색을 하고 싶다고 답해 자연스럽습니다.",
+        "지구 온난화를 늦출 방법을 묻는 말에 대중교통 이용을 늘리자는 답으로 자연스럽습니다.",
+        "'How long has it been?'은 '얼마 만에 만나는 거야'라는 뜻인데 '차로 한 시간 반 걸렸다'고 답해 질문과 응답이 맞지 않습니다. 정답입니다.",
+        "폴 걱정에 대한 조언을 구하는 말에 가정법으로 조언해 자연스럽습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2023-local-english-B-q12",
+      "paperId": "paper_civil_english_2023_local_B",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/english/2023/local-B/q12.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글 전체를 아우르는 제목을 고르는 문항입니다. 글은 골먼의 저서를 통해 인간의 뇌가 사회적 관계를 갈망한다는 점을 설명하면서도, 동시에 현대 사회가 더 외로워졌다는 조사 결과를 제시합니다. 중심 개념은 '사회적 뇌'입니다.",
+      "optionExplanations": [
+        "외로움은 글의 일부 내용이지만, 뇌가 사회적 연결을 갈망한다는 중심 논지의 제목으로는 좁습니다.",
+        "인간의 뇌가 사회적 관계를 갈망한다는 내용이 글의 중심이므로 가장 적절한 제목입니다. 정답입니다.",
+        "설문 조사는 근거 자료로 언급될 뿐 글의 주제가 아닙니다.",
+        "글은 인간 연결의 위험을 말하는 것이 아니라 연결에 대한 욕구를 말하고 있습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2023-local-english-B-q13",
+      "paperId": "paper_civil_english_2023_local_B",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/english/2023/local-B/q13.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글의 주제를 고르는 문항입니다. 타고난 이점이 있더라도 오랜 기간 의식적이고 의도적인 연습을 통해야 재능과 성공으로 이어지며, 이점이 없는 사람도 같은 연습으로 재능을 개발할 수 있다고 주장합니다.",
+      "optionExplanations": [
+        "타고난 이점은 도입부의 소재일 뿐, 글이 강조하는 바가 아닙니다.",
+        "지속적인 노력(의도적 연습)으로 재능을 키우는 것이 중요하다는 것이 이 글의 주제입니다. 정답입니다.",
+        "내성적인 사람의 사회적 어려움은 예시로 든 것일 뿐 주제가 아닙니다.",
+        "자신의 강점과 약점을 파악하라는 내용은 글에 제시되어 있지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2023-local-english-B-q14",
+      "paperId": "paper_civil_english_2023_local_B",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/english/2023/local-B/q14.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글의 요지를 고르는 문항입니다. 바이러스가 식물의 가뭄 저항성과 내열성을 높인다는 실험 결과를 통해, 많은 생물이 스스로 충분하기보다 공생에 의존한다는 견해를 뒷받침한다고 말합니다. 즉 바이러스가 숙주에게 이로울 수 있다는 것입니다.",
+      "optionExplanations": [
+        "글은 생물이 자급자족하기보다 공생에 의존한다는 견해를 지지하므로 반대입니다.",
+        "바이러스가 식물에 유익할 수 있다는 내용이지, 바이러스를 없애야 한다는 주장은 없습니다.",
+        "공생 원리가 감염된 식물에 적용될 수 없다는 내용은 글에 없습니다.",
+        "바이러스가 숙주에게 해가 되기만 하는 것이 아니라 이로움을 주기도 한다는 것이 이 글의 요지입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2023-local-english-B-q15",
+      "paperId": "paper_civil_english_2023_local_B",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/english/2023/local-B/q15.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글의 내용과 일치하지 않는 것을 찾는 문항입니다. 글은 대부분의 단풍나무시럽 생산자가 양동이를 손으로 모아 직접 시럽을 끓이는 가족 농민이라고 했으므로, 기계로 수거한다는 설명은 일치하지 않습니다.",
+      "optionExplanations": [
+        "사탕단풍나무가 매년 봄에 수액을 만든다고 했으므로 일치합니다.",
+        "특별한 칼로 나무껍질에 틈새를 내고 tap을 단다고 했으므로 일치합니다.",
+        "수액 40갤론으로 시럽 1갤론을 만든다고 했으므로 일치합니다.",
+        "양동이를 손으로 모아 직접 끓인다고 했으므로 '기계로 수거한다'는 설명은 일치하지 않습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2023-local-english-B-q16",
+      "paperId": "paper_civil_english_2023_local_B",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/english/2023/local-B/q16.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글의 흐름과 무관한 문장을 찾는 문항입니다. 글은 잡지 편집자가 '작가가 사람을 좋아해야 독자가 작품을 좋아한다'고 강조한 일화를 전하는 글입니다. ④의 서턴(Thurston)은 마술사에 관한 내용으로, 사람에 대한 관심이라는 주제와 이어지지 않습니다.",
+      "optionExplanations": [
+        "편집자가 매일 오는 원고를 읽고 작가가 사람을 좋아하는지 느낄 수 있다고 말한 부분으로 흐름에 맞습니다.",
+        "작가가 사람을 좋아하지 않으면 독자도 작품을 좋아하지 않는다는 발언으로 주제와 이어집니다.",
+        "편집자가 소설 쓰기 강연에서 사람에 대한 관심을 강조했다는 내용으로 흐름에 맞습니다.",
+        "마술사 서턴의 무대 소감은 사람에 대한 관심이라는 글의 주제와 무관하므로 흐름상 어색합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2023-local-english-B-q17",
+      "paperId": "paper_civil_english_2023_local_B",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/english/2023/local-B/q17.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n주어진 글에 이어질 순서를 정하는 문항입니다. 도입문은 몇 년 전까지 AI 대화가 종말론적 예측으로 끝났다고 말합니다. 이어서 (B)가 2014년 전문가들의 구체적 발언을 제시하고, (A)가 'More recently, however'로 전환을 알린 뒤, (C)가 'This shift'로 그 이유를 설명합니다.",
+      "optionExplanations": [
+        "(A)의 'things have begun to change'가 (B)의 구체적 사례보다 먼저 오면 무엇이 달라졌는지가 설명되지 않습니다.",
+        "(B)가 도입문의 종말론적 예측을 구체화하고, (A)가 최근의 변화를, (C)가 그 변화의 이유를 설명해 가장 자연스럽습니다. 정답입니다.",
+        "(C)의 'This shift'가 가리킬 변화가 (A)보다 먼저 제시되지 않아 연결이 되지 않습니다.",
+        "(C)를 먼저 두면 'This shift'가 가리킬 내용이 없어 글의 흐름이 성립하지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2023-local-english-B-q18",
+      "paperId": "paper_civil_english_2023_local_B",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/english/2023/local-B/q18.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n주어진 문장이 들어갈 위치를 찾는 문항입니다. 'Yet, requests for such self-assessments are pervasive throughout one's career.'는 자기 평가를 요구하는 일이 두루 많다는 내용이므로, 학교·직장 지원, 면접, 인사평가 등 여러 상황을 나열하는 문장 앞에 와야 합니다.",
+      "optionExplanations": [
+        "①은 성과를 주관적으로 서술하는 방법이 불분명하다는 문장 앞이라 '이러한 자기 평가'를 받을 자리가 아닙니다.",
+        "②는 'There is no right answer' 뒤에서 자기 평가 요구가 직장 생활 전반에 걸쳐 나타난다는 점을 밝히고, 이어지는 구체적 사례 나열로 자연스럽게 연결됩니다. 정답입니다.",
+        "③은 사례 나열 뒤에 와서 '이러한 자기 평가'가 가리킬 대상이 이미 모두 나열된 뒤여서 흐름이 어색합니다.",
+        "④는 자기 홍보의 개념을 설명하는 문장과 결과를 연결하는 자리여서 주어진 문장이 들어가기 어렵습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2023-local-english-B-q19",
+      "paperId": "paper_civil_english_2023_local_B",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/english/2023/local-B/q19.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n빈칸에 들어갈 접속 부사를 고르는 문항입니다. 앞에서는 불안을 줄이기 위한 회피 전략을 설명했고, 뒤에서는 그런 전략이 장기적으로 불안을 더 악화시킨다고 말하므로, 상식과 반대되는 결과임을 나타내는 Paradoxically가 적절합니다.",
+      "optionExplanations": [
+        "역설적임을 나타내는 부사로, 회피가 불안을 키운다는 반전된 결과를 이끌어 주므로 적절합니다. 정답입니다.",
+        "Fortunately는 다행스러운 결과를 이끄는 부사여서 불안이 악화된다는 내용과 맞지 않습니다.",
+        "Neutrally는 중립적 태도를 나타내는 부사로 문맥상 대조를 드러내지 못합니다.",
+        "Creatively는 창의적으로라는 뜻으로 앞뒤 논리 관계와 무관합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2023-local-english-B-q20",
+      "paperId": "paper_civil_english_2023_local_B",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/english/2023/local-B/q20.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n빈칸에 들어갈 내용을 찾는 문항입니다. 빈칸 뒤에서 수신함(in-box)에 해당하는 곳이 많을수록 관리가 어려우므로 가능한 한 수신함 수를 줄이라고 했으므로, 정보 관리의 시작은 수신함의 수를 최소화하는 것입니다.",
+      "optionExplanations": [
+        "여러 목표를 동시에 세우는 것은 정보 관리와 관계없습니다.",
+        "들어오는 정보에 몰입하는 것은 뒤에서 말하는 수신함 줄이기와 이어지지 않습니다.",
+        "수신함의 수를 최소한으로 줄이는 것이 정보 관리의 시작이라는 내용이 뒤 문장과 정확히 연결됩니다. 정답입니다.",
+        "열정을 느끼는 정보를 고르는 것은 글에서 언급되지 않았습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    }
+  ]
+}

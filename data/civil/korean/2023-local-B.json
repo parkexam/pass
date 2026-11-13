@@ -1,0 +1,489 @@
+{
+  "id": "paper_civil_korean_2023_local_B",
+  "title": "2023 지방직 9급 국어 B책형",
+  "year": 2023,
+  "source": "2023 지방직 9급 국어 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+  "subjectId": "sub_civil_0",
+  "questions": [
+    {
+      "id": "civil2023-local-korean-B-q01",
+      "paperId": "paper_civil_korean_2023_local_B",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2023/local-B/q01.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n말하기 방식(공감·간접 발화·질문·반박)을 구분하는 문항입니다. ㉠은 김 주무관이 설명회 개최의 필요성을 밝힌 데 대해 최 주무관이 '저도 요즘 그 필요성을 절감하고 있어요'라고 응답한 것으로, 상대의 의견에 동의하며 공감을 드러낸 표현입니다.",
+      "optionExplanations": [
+        "상대가 제시한 필요성에 같은 느낌을 가지고 있다고 밝혀 공감을 표현하고 있으므로 적절합니다. 정답입니다.",
+        "㉡은 '어떻게 준비해야 효과적으로 전달할 수 있을지 고민이에요'라는 평서문으로 우회해 물은 간접 발화이므로, '직접 질문'한 것이 아닙니다.",
+        "㉢은 반대 의사를 드러낸 것이 아니라 청중의 특성 중 무엇을 조사할지 구체적으로 묻는 질문입니다.",
+        "㉣은 최 주무관의 질문에 대한 답을 '나이, 성별, 직업 등을 조사할까요?'처럼 의문문 형식으로 제안한 것이지, 상대의 의견을 반박한 것이 아닙니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2023-local-korean-B-q02",
+      "paperId": "paper_civil_korean_2023_local_B",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2023/local-B/q02.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지시어와 접속어를 단서로 문장을 배열하는 문항입니다. '그에 따르면'의 내용이 되는 (나)가 먼저 오고, (나)를 받아 전두엽의 역할을 설명하는 (가)가 이어지며, '이처럼'으로 앞 내용을 요약·발전시키는 (다)가 마지막에 놓입니다.",
+      "optionExplanations": [
+        "(나)에서 A 교수의 연구를 소개한 뒤 (가)가 '그에 따르면'으로 이를 받고, (다)가 '이처럼'으로 둘을 묶어 마무리하므로 가장 자연스럽습니다. 정답입니다.",
+        "(다)의 '이처럼'이 가리킬 앞 내용이 없는데 (다)가 (가)보다 먼저 오면 지시어의 연결이 성립하지 않습니다.",
+        "(다)를 첫머리에 두면 '이처럼'의 선행 내용이 없어 글의 흐름이 끊깁니다.",
+        "(다)가 먼저 오는 것은 물론 (나)보다 (가)가 앞서 '그에 따르면'의 지시 대상도 사라져 부적절합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2023-local-korean-B-q03",
+      "paperId": "paper_civil_korean_2023_local_B",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2023/local-B/q03.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n문장 성분을 판별하는 문항입니다. '물이 얼음이 되었다'에서 '얼음이'는 서술어 '되다'가 요구하는 성분으로, 주어를 보충해 주는 보어입니다. 주격 조사 '이'와 형태가 같지만 보격 조사로 쓰였습니다.",
+      "optionExplanations": [
+        "'지원은'은 '지원이가'로 바꿀 수 있어 동작의 주체인 주어임을 알 수 있으므로 적절합니다.",
+        "'만들었다'는 주어 '유선은'과 목적어 '도자기를'을 요구하는 두 자리 서술어이므로 적절합니다.",
+        "'얼음이'는 서술어를 꾸미는 부사어가 아니라 '되다' 앞에서 주어를 보충하는 보어이므로 적절하지 않습니다. 정답입니다.",
+        "'어머나'는 감탄사로 문장의 다른 성분과 직접 관련을 맺지 않는 독립어이므로 적절합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2023-local-korean-B-q04",
+      "paperId": "paper_civil_korean_2023_local_B",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2023/local-B/q04.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n한자어의 뜻을 정확히 알고 유사 표현으로 바꿀 수 있는지 묻는 문항입니다. '부유(浮遊)하다'는 물 위나 물속, 또는 공기 중에 떠다니는 것을 뜻하므로 '헤엄치는'으로 바꿀 수 없습니다.",
+      "optionExplanations": [
+        "'맹종(盲從)'은 옳고 그름을 가리지 않고 남의 말이나 행동을 무조건 따르는 것이므로 '무분별하게 따르는'으로 바꿀 수 있습니다.",
+        "'탈피(脫皮)하다'는 굳은 틀이나 생활에서 벗어나는 것이므로 '벗어나'로 바꿀 수 있습니다.",
+        "'제고(提高)하다'는 수준이나 정도를 끌어올리는 것이므로 '끌어올리기'로 바꿀 수 있습니다.",
+        "'부유(浮遊)하다'는 떠다니는 것이지 헤엄치는 것이 아니므로 바꿔 쓸 수 없습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2023-local-korean-B-q05",
+      "paperId": "paper_civil_korean_2023_local_B",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2023/local-B/q05.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n고전 시가 두 편의 표현 기법을 비교하는 문항입니다. (나)는 '청산'과 '유수'를 영원성을 지닌 대상으로 제시하며 화자의 의지를 노래한 것으로, 시각적 심상은 드러나지만 청각적 심상은 나타나지 않습니다.",
+      "optionExplanations": [
+        "(가)는 변하지 않는 '청산'과 흘러가는 '녹수'를 대조해 임과의 관계와 화자의 처지를 드러내므로 적절합니다.",
+        "(나)에는 '청산', '유수' 같은 시각적 심상만 있고 소리를 환기하는 청각적 심상은 없으므로 적절하지 않습니다. 정답입니다.",
+        "두 작품 모두 '청산-녹수', '만고-주야'처럼 짝을 이루는 대구 표현으로 시상을 전개하고 있으므로 적절합니다.",
+        "(가)의 '청산이야 변할손가', (나)의 '엇뎨하여 … 긋디 아니하고'는 의문 형식으로 뜻을 강조하는 설의적 표현이므로 적절합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2023-local-korean-B-q06",
+      "paperId": "paper_civil_korean_2023_local_B",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2023/local-B/q06.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n설명문의 중심 내용을 파악하는 문항입니다. 글은 교환가치와 사용가치의 개념을 설명한 뒤, 댓글에 휩쓸려 사용가치를 잘못 판단한 사례를 제시하며 사용가치가 어떤 과정을 거쳐 결정되었는지 따져야 한다고 주장합니다.",
+      "optionExplanations": [
+        "글은 교환가치가 큰 상품을 사라고 권하지 않고, 교환가치가 높아도 사용가치가 없으면 사지 않게 된다는 점을 말하고 있습니다.",
+        "교환가치와 사용가치를 두루 고려하라는 것이 아니라, 사용가치가 자신의 필요에 따라 결정되었는지를 따지라는 것이 중심입니다.",
+        "글은 다른 사람들의 평가에 휩쓸려 구매한 사례를 반례로 제시하며 그러한 태도를 경계하고 있으므로 반대되는 내용입니다.",
+        "건강한 소비를 위해 사용가치가 자신의 필요에 의해 결정된 것인지 신중하게 따져야 한다는 것이 이 글의 중심 내용입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2023-local-korean-B-q07",
+      "paperId": "paper_civil_korean_2023_local_B",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2023/local-B/q07.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n문맥에 맞지 않는 어휘를 찾아 고치는 문항입니다. 앞에서 서학의 어떤 부분은 '수용'했다고 했으므로, 반대되는 부분은 받아들이지 않았다는 뜻이 되어야 합니다. 따라서 '지향했다'를 '지양했다'로 고쳐야 합니다.",
+      "optionExplanations": [
+        "'학(學)'이라는 말에서 짐작할 수 있다는 앞뒤 내용으로 볼 때 학문적 관점이 앞서므로 그대로 두는 것이 적절합니다.",
+        "서학 수용에 적극적이었던 이들도 무조건 따르자고 하지는 않았다는 흐름이므로 '주장하지는 않았는데'가 자연스럽습니다.",
+        "양명학·고증학 등 다른 사유 체계도 있었으므로 서학이 유일한 대안이 아니었다는 서술이 문맥에 맞습니다.",
+        "'지향(志向)하다'는 뜻을 두고 나아간다는 의미여서 수용하지 않았다는 앞뒤 문맥과 어긋나므로 '지양(止揚)했다'로 고쳐야 합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2023-local-korean-B-q08",
+      "paperId": "paper_civil_korean_2023_local_B",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2023/local-B/q08.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n빈칸 앞뒤의 논리적 관계를 파악하는 문항입니다. 뒤에서 독자의 수준에 맞춰 개념과 용어를 써야 이해된다는 점, 글쓰기가 필자의 메시지를 독자에게 전달하는 행위라는 점이 이어지므로, 예상 독자 분석이 메시지 전달에 도움이 된다는 내용이 들어가야 합니다.",
+      "optionExplanations": [
+        "계획하기가 첫 단계라는 사실은 뒤에 이어지는 독자 수준·메시지 전달과 직접 연결되지 않습니다.",
+        "어려운 용어를 어느 정도 포함해야 한다는 내용은 뒤에서 독자가 이해하기 어렵게 된다는 서술과 상충합니다.",
+        "예상 독자를 분석하면 필자의 메시지를 독자에게 효과적으로 전달할 수 있다는 내용이 앞뒤 문맥에 가장 잘 맞습니다. 정답입니다.",
+        "글의 목적과 주제가 독자의 배경지식에 따라 결정된다는 내용은 글에 제시되어 있지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2023-local-korean-B-q09",
+      "paperId": "paper_civil_korean_2023_local_B",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2023/local-B/q09.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n현대시의 정서와 표현을 이해하는 문항입니다. 화자는 사랑을 잃은 뒤 대상을 호명하며 이별을 고하고 공허한 내면을 드러내지만, 글을 쓰는 행위를 통해 잃어버린 사랑을 회복하려는 열망은 나타나지 않습니다.",
+      "optionExplanations": [
+        "'잘 있거라'로 밤·안개·촛불 등을 호명하며 안타까운 심정을 드러내므로 적절합니다.",
+        "'가엾은 내 사랑 빈집에 갇혔네'에서 빈집은 상실감으로 비어 버린 내면을 상징하므로 적절합니다.",
+        "'잘 있거라'의 반복과 감탄적 어조로 이별의 정서를 부각하고 있으므로 적절합니다.",
+        "화자는 글을 쓰며 대상을 떠나보내고 상실감에 잠길 뿐, 사랑의 회복을 바라지 않으므로 적절하지 않습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2023-local-korean-B-q10",
+      "paperId": "paper_civil_korean_2023_local_B",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2023/local-B/q10.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n서술자의 위치와 시점을 파악하는 문항입니다. '나'가 작품 속 인물로 등장해 권 선생의 부탁을 완곡히 거절하는 과정과 그의 표정·행동을 진술하고 있으므로 1인칭 관찰자 시점입니다.",
+      "optionExplanations": [
+        "다른 인물의 속마음을 전지적으로 서술하지 않고 '나'가 보고 느낀 범위에서 전달하고 있습니다.",
+        "'나'가 등장인물로서 권 선생의 말과 표정, 행동을 직접 진술하고 있으므로 적절합니다. 정답입니다.",
+        "유년 시절을 회상하는 장면이 아니라 현재 벌어지는 빚 독촉 상황을 서술하고 있습니다.",
+        "'나'가 상황에 개입해 판단과 감정을 드러내므로 주관을 배제한 외부 관찰자 시점이 아닙니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2023-local-korean-B-q11",
+      "paperId": "paper_civil_korean_2023_local_B",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2023/local-B/q11.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n대화의 발화 의도를 분석하는 문항입니다. 운용은 설탕세를 부과하면 당 소비가 줄어든다고 믿을 근거가 있는지 되물었을 뿐, 은지의 주장에 반대한다는 입장을 밝히지 않았습니다.",
+      "optionExplanations": [
+        "은지는 첫 발언에서 설탕세 부과 논란을 화제로 제시하고 자신의 주장을 펼치므로 적절합니다.",
+        "운용은 근거를 요구했을 뿐 찬성이나 반대 어느 쪽도 드러내지 않았으므로 '반대하고 있다'는 분석은 적절하지 않습니다. 정답입니다.",
+        "은지는 두 번째 발언에서 세계보건기구 보고서를 근거로 제시하고 있으므로 적절합니다.",
+        "재윤은 당 섭취와 질병 발생이 유의미한 상관관계가 없다는 연구 결과를 들어 은지의 근거를 부정하고 있으므로 적절합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2023-local-korean-B-q12",
+      "paperId": "paper_civil_korean_2023_local_B",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2023/local-B/q12.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n문맥에 맞는 한자어를 고르는 문항입니다. ㉡은 자기가 살던 자기 명의의 집을 팔려는 상황이므로 '물건을 팔아 넘김'을 뜻하는 '매도(賣渡)'나 '매각'이 와야 합니다. '매수(買受)'는 물건을 사들이는 것을 뜻해 문맥과 반대입니다.",
+      "optionExplanations": [
+        "'구가(謳歌)하다'는 세상이 좋다고 노래하거나 즐거워한다는 뜻으로, 전성기를 누리고 있다는 문맥에 맞습니다.",
+        "'매수(買受)'는 사들이는 것이어서 집을 팔려는 문맥과 반대이므로 적절하지 않습니다. 정답입니다.",
+        "'알력(軋轢)'은 서로 뜻이 맞지 않아 마찰을 일으키는 것으로, 중재자가 필요할 만큼 갈등이 심한 상황에 맞습니다.",
+        "'편달(鞭撻)'은 낭보를 받고 힘써 노력하도록 격려한다는 뜻으로, 앞으로 지도와 격려를 부탁한다는 문맥에 맞습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2023-local-korean-B-q13",
+      "paperId": "paper_civil_korean_2023_local_B",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2023/local-B/q13.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n형태가 비슷한 단어의 쓰임을 구별하는 문항입니다. '겉잡다'는 겉으로 보고 대강 짐작해 헤아린다는 뜻이고, '걷잡다'는 한 방향으로 치우친 형세를 붙들어 잡거나 마음을 진정시킨다는 뜻입니다. 경기장에 온 사람을 대강 헤아리는 문맥에는 '겉잡아서'가 맞습니다.",
+      "optionExplanations": [
+        "'힘에 부치다'는 힘이 모자라 견디기 어렵다는 뜻으로 문맥에 맞는 표준어입니다.",
+        "'알음이 있다'는 서로 알고 지내는 사이임을 뜻하는 표현으로 문맥에 맞습니다.",
+        "'저절로 닫혔다'는 저절로 그렇게 된 상태를 나타내는 '닫히다'의 쓰임으로 적절합니다.",
+        "사람 수를 겉으로 보고 대강 헤아리는 문맥이므로 '걷잡아서'가 아니라 '겉잡아서'로 써야 합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2023-local-korean-B-q14",
+      "paperId": "paper_civil_korean_2023_local_B",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2023/local-B/q14.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n동음이의 한자어를 문맥에 맞게 표기하는 문항입니다. '장관'은 행정 각부의 우두머리이므로 '長官', '보상'은 손해를 갚아 준다는 뜻이므로 '補償', '결재'는 상관이 안건을 검토해 승인한다는 뜻이므로 '決裁'로 적어야 합니다.",
+      "optionExplanations": [
+        "長官·補償·決裁가 모두 문맥에 맞는 표기입니다. 정답입니다.",
+        "'장관'을 '將官'(장수)으로, '보상'을 '報償'(빚이나 받은 것을 갚음)으로 잘못 적었습니다.",
+        "'보상'을 '報償'으로, '결재'를 '決濟'(거래 관계를 끝맺음)로 잘못 적었습니다.",
+        "'장관'을 '將官'으로, '결재'를 '決濟'로 잘못 적었습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2023-local-korean-B-q15",
+      "paperId": "paper_civil_korean_2023_local_B",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2023/local-B/q15.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글에서 추론할 수 없는 내용을 찾는 문항입니다. 글은 개별적 유일무이성을 제거하면 사회의 다원성이 파괴된다고만 했을 뿐, 유일무이성을 보존하려는 제도가 보편적 복수성을 침해한다는 내용은 어디에도 없습니다.",
+      "optionExplanations": [
+        "글에서 우리는 고립된 '단수'가 아니라 복수와 단수를 겸비한 다원적 존재라고 했으므로 추론할 수 있습니다.",
+        "다원적 사회에서는 획일화를 시도해선 안 되고 공존의 태도가 필요하다고 했으므로 추론할 수 있습니다.",
+        "유일무이성을 보존하는 제도가 보편적 복수성을 침해한다는 내용은 글에 근거가 없어 추론할 수 없습니다. 정답입니다.",
+        "개별적 유일무이성을 제거하는 것은 사회의 다원성을 파괴하는 일이라고 했으므로 추론할 수 있습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2023-local-korean-B-q16",
+      "paperId": "paper_civil_korean_2023_local_B",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2023/local-B/q16.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n판소리계 소설의 표현과 내용을 이해하는 문항입니다. 춘향은 매를 맞으면서도 이도령에 대한 절개를 드러낼 뿐, 대화를 통해 내적 갈등이 해결되는 모습은 나타나지 않습니다.",
+      "optionExplanations": [
+        "'일자', '이자', '삼자'처럼 같은 글자를 반복해 리듬감을 조성하고 있으므로 적절합니다.",
+        "'일자·이자·삼자' 등 숫자를 활용해 매를 맞는 상황을 제시하고 있으므로 적절합니다.",
+        "대화는 있으나 춘향의 갈등은 해소되지 않고 오히려 고통과 한탄으로 이어지므로 적절하지 않습니다. 정답입니다.",
+        "'일부종사', '삼강', '삼종지도' 등 유교적 가치를 담은 말로 절개를 지키려는 의지를 드러내므로 적절합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2023-local-korean-B-q17",
+      "paperId": "paper_civil_korean_2023_local_B",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2023/local-B/q17.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n설명문의 세부 내용을 확인하는 문항입니다. 차람은 소설을 가진 사람에게 직접 빌려 보는 방식일 뿐, 대가를 지불했다는 내용은 글에 없습니다. 돈을 지불하고 빌려 보는 것은 세책가를 통한 상업적 대여입니다.",
+      "optionExplanations": [
+        "구연은 글을 모르는 사람들을 대상으로 이루어졌다고 했으므로 적절합니다.",
+        "차람은 알고 지내던 개인 사이에서 무료로 빌려 보는 것이고, 대가를 지불하는 것은 상업적 대여이므로 적절하지 않습니다. 정답입니다.",
+        "구연에 의한 유통은 시간과 공간의 제약이 많았다고 했으므로 문헌에 의한 유통의 제약이 적다는 설명은 적절합니다.",
+        "세책가에서는 구매보다 훨씬 적은 비용으로 빌려 볼 수 있어 성행했다고 했으므로 적절합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2023-local-korean-B-q18",
+      "paperId": "paper_civil_korean_2023_local_B",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2023/local-B/q18.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글의 내용을 정확히 이해했는지 확인하는 문항입니다. 반신을 수록한 까닭은 반면교사로 삼기 위해서였으나, 연개소문처럼 민족적 영웅의 모습이 담긴 사례가 있어 삼국사기를 다면적이고 중층적인 텍스트로 볼 수 있다는 것이 글의 요지입니다.",
+      "optionExplanations": [
+        "열전에 고구려인과 백제인이 수록된 것은 사실이지만, 그것으로 신라 정통론을 계승하지 않았다고 단정할 수 없습니다.",
+        "반신으로 분류된 연개소문의 사례가 기존 평가(신라 정통론·유교적 사관)를 다르게 볼 수 있게 하는 근거가 된다는 내용이므로 적절합니다. 정답입니다.",
+        "관직에 있지 않았으나 기릴 만한 사람도 열전에 실었다고 했으므로 반대입니다.",
+        "열전은 10권으로 본기 28권, 지 9권, 표 3권보다 적으므로 가장 많은 권수를 차지한다는 설명은 틀립니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4
+    },
+    {
+      "id": "civil2023-local-korean-B-q19",
+      "paperId": "paper_civil_korean_2023_local_B",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2023/local-B/q19.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글에서 추론할 수 없는 내용을 찾는 문항입니다. 최초의 IQ 검사는 정규학교에 입학하기 어려운 지적장애아·학습부진아를 가려내기 위한 기초 학습 능력 평가 목적으로 실시되었으므로, 우수한 아이를 고르기 위해서였다는 설명은 글과 다릅니다.",
+      "optionExplanations": [
+        "검사는 학습 부진아를 가려내기 위해 실시되었으므로 '우수한 아이를 고르기 위해' 시행되었다는 추론은 적절하지 않습니다. 정답입니다.",
+        "이 검사를 통해 비로소 지능을 수치화하고 객관적으로 비교할 수 있게 되었다고 했으므로 추론할 수 있습니다.",
+        "IQ 검사는 인간의 지능 중 일부만 측정한다고 했으므로 IQ가 높아도 전체 지능이 높지 않을 수 있음을 추론할 수 있습니다.",
+        "IQ 검사가 읽기·계산 등 사고 기능 관련 과목의 성취도와 관련이 있다고 했으므로 추론할 수 있습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4
+    },
+    {
+      "id": "civil2023-local-korean-B-q20",
+      "paperId": "paper_civil_korean_2023_local_B",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2023/local-B/q20.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글의 내용으로 추론할 수 없는 것을 찾는 문항입니다. 글은 한자가 문맥에 따라 다른 문장성분으로 쓰인다는 점을 설명했을 뿐, 한문이 한국어 문장보다 문장성분 자체가 복잡하다고 비교한 내용은 없습니다.",
+      "optionExplanations": [
+        "한문의 문장성분이 한국어 문장보다 복잡하다는 서술은 글에 없으므로 추론할 수 없습니다. 정답입니다.",
+        "'깨끗하게 한 물'에서 '淨'은 '깨끗하게 하다'로 '水'를 수식하는 관형어이므로 추론할 수 있습니다.",
+        "'愛'는 문맥에 따라 문장성분만 달라질 뿐 뜻은 같으므로 동음이의어가 아니라는 설명은 글의 내용과 일치합니다.",
+        "'의사'는 한글로만 쓰면 '병을 고치는 사람(醫師)'인지 '의로운 지사(義士)'인지 구별할 수 없다는 예에 해당하므로 추론할 수 있습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4
+    }
+  ]
+}
