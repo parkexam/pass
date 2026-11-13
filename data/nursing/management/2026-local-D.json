@@ -19,9 +19,15 @@
       ],
       "answer": 1,
       "imageUrl": "assets/questions/nursing/management/2026/local-D/q01.webp",
-      "explanation": "자체 작성 해설 초안(공식 해설 아님 · 검수 필요)\n연공급은 근속연수, 학력, 연령 등 개인의 연공 요소에 따라 임금을 정하는 체계입니다. 운영은 비교적 단순하지만 성과·능력에 따른 차등 보상이 제한되는 특성이 있습니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n근속연수·학력·연령 같은 연공 요소로 임금을 정하는 임금체계는 연공급입니다. 운영이 단순한 대신 유능한 인력 확보가 어렵고 성과에 따른 보상이 제한됩니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1
+      "sourcePage": 1,
+      "optionExplanations": [
+        "성과급은 개인이나 집단의 성과에 따라 임금을 차등 지급하는 체계입니다.",
+        "연공급은 근속연수·학력·연령 등 연공 요소로 임금을 결정합니다. 정답입니다.",
+        "직무급은 직무의 난이도·책임 정도를 기준으로 임금을 정합니다.",
+        "직능급은 개인이 보유한 능력과 기술 수준을 기준으로 임금을 정합니다."
+      ]
     },
     {
       "id": "nursing2026-local-management-D-q02",
@@ -37,9 +43,15 @@
       ],
       "answer": 2,
       "imageUrl": "assets/questions/nursing/management/2026/local-D/q02.webp",
-      "explanation": "자체 작성 해설 초안(공식 해설 아님 · 검수 필요)\n질병과 치료 방법, 연구 참여 여부, 진료비 등을 충분히 설명받고 질문한 뒤 동의 여부를 결정하는 권리는 '알권리 및 자기결정권'입니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n질병 상태와 치료 방법, 연구 대상 여부, 진료 비용 등에 대해 충분히 설명을 듣고 동의 여부를 스스로 결정할 수 있는 권리는 알권리 및 자기결정권입니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1
+      "sourcePage": 1,
+      "optionExplanations": [
+        "진료받을 권리는 의료 서비스를 제공받을 권리로, 설명과 동의에 관한 내용과는 다릅니다.",
+        "비밀을 보호받을 권리는 진료 과정에서 알게 된 정보의 비밀 유지에 관한 권리입니다.",
+        "충분한 설명을 듣고 동의 여부를 결정하는 권리는 알권리 및 자기결정권입니다. 정답입니다.",
+        "상담·조정을 신청할 권리는 분쟁이 생겼을 때 구제를 요청하는 권리입니다."
+      ]
     },
     {
       "id": "nursing2026-local-management-D-q03",
@@ -55,9 +67,15 @@
       ],
       "answer": 2,
       "imageUrl": "assets/questions/nursing/management/2026/local-D/q03.webp",
-      "explanation": "자체 작성 해설 초안(공식 해설 아님 · 검수 필요)\n신의(信義)의 규칙은 의료인의 신뢰 관계와 비밀 보호 의무를 강조합니다. 간호 과정에서 알게 된 환자의 비밀을 유지하는 ③이 이에 해당합니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n신의의 규칙은 대상자와의 약속을 지키고 신뢰를 유지하는 원칙으로, 간호하면서 알게 된 비밀을 유지하는 것이 대표적입니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1
+      "sourcePage": 1,
+      "optionExplanations": [
+        "공평하게 자원을 배분하는 것은 정의의 규칙에 해당합니다.",
+        "위험과 고통을 최소화하는 것은 악행금지의 규칙에 해당합니다.",
+        "간호하면서 알게 된 비밀을 유지하는 것이 신의(성실)의 규칙입니다. 정답입니다.",
+        "치료에 대한 동의를 구하는 것은 자율성 존중의 원칙에 해당합니다."
+      ]
     },
     {
       "id": "nursing2026-local-management-D-q04",
@@ -73,9 +91,15 @@
       ],
       "answer": 0,
       "imageUrl": "assets/questions/nursing/management/2026/local-D/q04.webp",
-      "explanation": "자체 작성 해설 초안(공식 해설 아님 · 검수 필요)\n런차트(run chart)는 측정값을 시간순으로 나타내 변화와 추세를 파악하는 도구입니다. 월별 낙상 발생 건수의 추이 확인에 적절합니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n시간의 흐름에 따라 월별 낙상 발생 건수의 추이를 보여 주는 데는 런차트(꺾은선 그래프)가 적합합니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1
+      "sourcePage": 1,
+      "optionExplanations": [
+        "런차트는 시간에 따른 변화 추이를 선으로 보여 주므로 월별 추이 파악에 적합합니다. 정답입니다.",
+        "흐름도는 업무나 절차의 흐름을 단계별로 나타낼 때 사용합니다.",
+        "레이더 차트는 여러 항목의 수준을 한눈에 비교할 때 사용합니다.",
+        "인과관계도는 원인과 결과의 관계를 분석할 때 사용합니다."
+      ]
     },
     {
       "id": "nursing2026-local-management-D-q05",
@@ -91,9 +115,15 @@
       ],
       "answer": 3,
       "imageUrl": "assets/questions/nursing/management/2026/local-D/q05.webp",
-      "explanation": "자체 작성 해설 초안(공식 해설 아님 · 검수 필요)\nSBAR의 R(Recommendation)은 담당 의사에게 필요한 조치·처방·평가 등을 구체적으로 요청하는 단계입니다. 지문의 '확인하러 와 주시거나 처방해 주실 수 있으세요?'가 권고에 해당합니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n환자 상태를 확인해 달라거나 진통제 처방을 요청하는 것은 확인한 문제에 대한 간호사의 제안이므로 SBAR의 권고(Recommendation) 단계입니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1
+      "sourcePage": 1,
+      "optionExplanations": [
+        "Situation은 현재 환자의 상황을 간단히 보고하는 단계입니다.",
+        "Background는 환자의 배경 정보와 관련 병력을 전달하는 단계입니다.",
+        "Assessment는 사정한 결과와 간호사의 판단을 제시하는 단계입니다.",
+        "Recommendation은 문제 해결을 위한 제안과 요청을 전달하는 단계입니다. '병실로 와 주시거나 처방해 주실 수 있으세요?'가 이에 해당합니다. 정답입니다."
+      ]
     },
     {
       "id": "nursing2026-local-management-D-q06",
@@ -109,9 +139,15 @@
       ],
       "answer": 0,
       "imageUrl": "assets/questions/nursing/management/2026/local-D/q06.webp",
-      "explanation": "자체 작성 해설 초안(공식 해설 아님 · 검수 필요)\n알더퍼의 ERG 이론은 존재욕구(Existence), 관계욕구(Relatedness), 성장욕구(Growth)의 세 요소로 구성됩니다. '소속욕구'는 이 세 요소의 공식 명칭이 아닙니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n알더퍼의 ERG 이론은 존재욕구(E), 관계욕구(R), 성장욕구(G)의 세 가지로 구성되므로 소속욕구는 이 이론의 구성요소가 아닙니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1
+      "sourcePage": 1,
+      "optionExplanations": [
+        "소속욕구는 ERG 이론의 구성요소가 아니라 다른 동기이론에서 쓰이는 개념입니다. 정답입니다.",
+        "성장욕구(G)는 ERG 이론의 구성요소입니다.",
+        "관계욕구(R)는 ERG 이론의 구성요소입니다.",
+        "존재욕구(E)는 ERG 이론의 구성요소입니다."
+      ]
     },
     {
       "id": "nursing2026-local-management-D-q07",
@@ -127,9 +163,15 @@
       ],
       "answer": 1,
       "imageUrl": "assets/questions/nursing/management/2026/local-D/q07.webp",
-      "explanation": "자체 작성 해설 초안(공식 해설 아님 · 검수 필요)\n기획의 탄력성 원칙은 환경의 변화에 맞춰 계획을 조정할 수 있도록 유연성을 갖추는 것을 뜻합니다. 하부 집행기관의 자율적 대응도 강조한 지문이므로 ②가 맞습니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n환경 변화에 대응하고 하부 집행기관이 재량을 충분히 발휘하도록 계층을 줄이고 융통성을 두는 원칙은 탄력성의 원칙입니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1
+      "sourcePage": 1,
+      "optionExplanations": [
+        "필요성의 원칙은 조직의 목적 달성에 필요한 기능을 중심으로 조직을 구성한다는 원칙입니다.",
+        "탄력성의 원칙은 변동하는 상황에 대응하고 하부 조직의 자율성을 보장하는 원칙입니다. 정답입니다.",
+        "균형성의 원칙은 조직의 각 부분이 균형을 이루도록 구성한다는 원칙입니다.",
+        "포괄성의 원칙은 조직이 맡은 기능을 빠짐없이 포함한다는 원칙입니다."
+      ]
     },
     {
       "id": "nursing2026-local-management-D-q08",
@@ -145,9 +187,15 @@
       ],
       "answer": 0,
       "imageUrl": "assets/questions/nursing/management/2026/local-D/q08.webp",
-      "explanation": "자체 작성 해설 초안(공식 해설 아님 · 검수 필요)\n목표관리법(MBO)은 관리자와 구성원이 함께 측정 가능한 목표를 정하고, 수행 기간 뒤 목표 달성 정도를 평가에 반영하는 방식입니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n관리자와 구성원이 함께 측정 가능한 목표를 설정하고, 그 목표의 달성 정도를 평가에 반영하는 방식은 목표관리법(MBO)입니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1
+      "sourcePage": 1,
+      "optionExplanations": [
+        "목표관리법은 구성원과 목표를 함께 설정하고 결과를 평가에 반영합니다. 정답입니다.",
+        "강제배분법은 평가 결과를 정해진 비율로 강제 배분하는 방법입니다.",
+        "도표식 평정척도법은 평가 항목별로 등급을 표시하는 방법입니다.",
+        "행동기준 평정척도법은 행동의 빈도를 기준으로 평가하는 방법입니다."
+      ]
     },
     {
       "id": "nursing2026-local-management-D-q09",
@@ -163,9 +211,15 @@
       ],
       "answer": 1,
       "imageUrl": "assets/questions/nursing/management/2026/local-D/q09.webp",
-      "explanation": "자체 작성 해설 초안(공식 해설 아님 · 검수 필요)\n화재가 의심되면 우선 주위에 화재 사실을 알려 신속한 대응을 시작해야 합니다. 지문의 보기 중 ②가 이에 해당합니다. 실제 현장에서는 기관의 화재대응 절차에 따라 환자 구조·신고·확산 방지를 병행합니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n화재를 발견하면 즉시 큰 소리로 '불이야'를 외쳐 주변에 알리는 것이 가장 먼저 해야 할 행동입니다(알림).",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1
+      "sourcePage": 1,
+      "optionExplanations": [
+        "중환자 우선 이동은 화재 상황을 확인하고 대피 계획에 따라 이루어지는 후속 조치입니다.",
+        "화재 발생 즉시 '불이야'라고 외쳐 알리는 것이 첫 행동입니다. 정답입니다.",
+        "승강기를 이용한 대피는 화재 시 금지되며 계단을 이용해야 합니다.",
+        "보호자와 방문객의 대피는 환자 안전 확보 이후에 안내할 일입니다."
+      ]
     },
     {
       "id": "nursing2026-local-management-D-q10",
@@ -181,9 +235,15 @@
       ],
       "answer": 3,
       "imageUrl": "assets/questions/nursing/management/2026/local-D/q10.webp",
-      "explanation": "자체 작성 해설 초안(공식 해설 아님 · 검수 필요)\n길리스의 체계론적 간호관리과정에서 직무만족은 관리 활동을 통해 나타나는 '산출'에 해당합니다. 재무관리·갈등관리·동기부여는 관리 과정의 활동에 가깝습니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n길리스의 체계론적 관점에서 간호관리과정은 투입을 산출로 전환하는 과정이며, 직무만족과 간호의 질 같은 산출물을 낳습니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1
+      "sourcePage": 1,
+      "optionExplanations": [
+        "재무관리는 관리과정의 기능 중 하나로 산출에 해당하지 않습니다.",
+        "갈등관리도 관리활동의 한 부분입니다.",
+        "동기부여는 구성원을 움직이는 관리과정의 요소입니다.",
+        "직무만족은 간호관리과정을 거쳐 나타나는 산출입니다. 정답입니다."
+      ]
     },
     {
       "id": "nursing2026-local-management-D-q11",
@@ -199,9 +259,15 @@
       ],
       "answer": 1,
       "imageUrl": "assets/questions/nursing/management/2026/local-D/q11.webp",
-      "explanation": "자체 작성 해설 초안(공식 해설 아님 · 검수 필요)\n기능적 간호는 간호 업무를 투약, 처치 등 기능별로 나누어 각 간호사가 특정 업무를 담당하도록 하는 방식입니다. 따라서 ②가 맞습니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기능적 간호는 효율성을 기초로 각 간호사가 특정 업무를 분담해 간호를 제공하는 방법입니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1
+      "sourcePage": 1,
+      "optionExplanations": [
+        "전인적 간호를 위해 전문인력과 비전문인력이 함께 참여하는 것은 팀 간호의 특징입니다.",
+        "효율성을 기초로 각 간호사가 특정 업무를 분담하는 것이 기능적 간호입니다. 정답입니다.",
+        "입원부터 퇴원까지 한 명의 간호사가 책임지는 것은 배정(사례) 간호입니다.",
+        "병동의 지리적 구분에 따라 2~3명이 팀을 이루는 것은 구역(모듈) 간호입니다."
+      ]
     },
     {
       "id": "nursing2026-local-management-D-q12",
@@ -217,9 +283,15 @@
       ],
       "answer": 1,
       "imageUrl": "assets/questions/nursing/management/2026/local-D/q12.webp",
-      "explanation": "자체 작성 해설 초안(공식 해설 아님 · 검수 필요)\n제시된 2026년 시험의 의료법 시행규칙 기준으로 10년간 보존해야 하는 문서는 수술기록입니다. 환자 명부·간호기록부·검사 관련 기록은 보존기간이 서로 다를 수 있습니다. 법령 내용은 향후 개정 여부를 별도로 검토해야 합니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n의료법 시행규칙상 수술기록은 계속적인 진료를 위해 10년간 보존해야 하는 문서입니다(연장 보존하는 경우 제외).",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 2
+      "sourcePage": 2,
+      "optionExplanations": [
+        "환자 명부는 5년간 보존합니다.",
+        "수술기록은 10년간 보존해야 하는 문서입니다. 정답입니다.",
+        "간호기록부는 5년간 보존합니다.",
+        "검사내용 및 검사소견기록은 5년간 보존합니다."
+      ]
     },
     {
       "id": "nursing2026-local-management-D-q13",
@@ -235,9 +307,15 @@
       ],
       "answer": 3,
       "imageUrl": "assets/questions/nursing/management/2026/local-D/q13.webp",
-      "explanation": "자체 작성 해설 초안(공식 해설 아님 · 검수 필요)\n적재적소주의는 각자의 능력과 성격 등 개인 특성에 가장 적합한 직위에 배치해 역량을 발휘하게 하는 원칙입니다. ④가 정확한 설명입니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n적재적소주의는 개인이 지닌 능력과 성격 등을 고려해 가장 적합한 직위에 배치하여 능력을 최대한 발휘하게 하는 원칙입니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 2
+      "sourcePage": 2,
+      "optionExplanations": [
+        "능력주의는 상하좌우의 구분 없이 능력에 따라 평등하게 배치하는 원칙입니다.",
+        "균형주의는 직무를 통해 성장시키면서 조직과 개인의 발전을 함께 도모하는 원칙입니다.",
+        "인재육성주의는 능력을 발휘할 수 있는 영역을 제공하고 평가에 만족하도록 대우하는 원칙입니다.",
+        "적재적소주의는 개인의 능력·성격에 맞는 최적의 직위에 배치하는 원칙입니다. 정답입니다."
+      ]
     },
     {
       "id": "nursing2026-local-management-D-q14",
@@ -253,9 +331,15 @@
       ],
       "answer": 2,
       "imageUrl": "assets/questions/nursing/management/2026/local-D/q14.webp",
-      "explanation": "자체 작성 해설 초안(공식 해설 아님 · 검수 필요)\n비공식조직은 구성원의 사회적 욕구와 자연스러운 인간관계를 바탕으로 형성됩니다. 권한·책임·직무를 공식적으로 정하는 구조와 구별됩니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n비공식조직은 사회적 욕구에 의해 자연스럽게 만들어진 조직으로 인간 상호관계를 바탕으로 합니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 2
+      "sourcePage": 2,
+      "optionExplanations": [
+        "계층과 부서 간 권한·책임을 명확히 하는 것은 공식조직의 특징입니다.",
+        "구체적 직무를 할당하고 지위·신분 체계를 문서화하는 것도 공식조직의 특징입니다.",
+        "사회적 욕구에 의해 자생적으로 만들어지고 인간 상호관계를 바탕으로 하는 것이 비공식조직입니다. 정답입니다.",
+        "역할 관계를 인위적으로 체계화한 것은 공식조직입니다."
+      ]
     },
     {
       "id": "nursing2026-local-management-D-q15",
@@ -271,9 +355,15 @@
       ],
       "answer": 1,
       "imageUrl": "assets/questions/nursing/management/2026/local-D/q15.webp",
-      "explanation": "자체 작성 해설 초안(공식 해설 아님 · 검수 필요)\n카츠(Katz)의 인간적 기술은 타인과 원만하게 의사소통하고 효과적으로 협력하는 능력입니다. 특정 직무의 지식·도구 활용은 전문적 기술에 더 가깝습니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n카츠의 인간적 기술은 조직구성원과 원만하게 의사소통하고 효과적으로 상호작용하는 능력입니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 2
+      "sourcePage": 2,
+      "optionExplanations": [
+        "지식·방법·기구를 사용하는 능력은 실무적 기술입니다.",
+        "구성원과 원만히 의사소통하고 상호작용하는 능력이 인간적 기술입니다. 정답입니다.",
+        "조직을 전체적으로 보고 각 부분의 연관성을 이해하는 능력은 개념적 기술입니다.",
+        "분석적 사고와 상황판단으로 조직을 조정·통합하는 능력도 개념적 기술에 가깝습니다."
+      ]
     },
     {
       "id": "nursing2026-local-management-D-q16",
@@ -289,9 +379,15 @@
       ],
       "answer": 3,
       "imageUrl": "assets/questions/nursing/management/2026/local-D/q16.webp",
-      "explanation": "자체 작성 해설 초안(공식 해설 아님 · 검수 필요)\n작업표본방법(work sampling)은 작업 과정을 무작위 시점에 반복 관찰해 직무 활동에 대한 정보를 수집하는 직무분석 방법입니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n직무분석 담당자가 일정 기간 동안 무작위 간격으로 관찰하여 직무 정보를 얻는 방법은 작업표본방법입니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 2
+      "sourcePage": 2,
+      "optionExplanations": [
+        "면접법은 직무 수행자와 직접 대화로 정보를 얻는 방법입니다.",
+        "설문지법은 질문지를 통해 정보를 수집하는 방법입니다.",
+        "중요사건방법은 직무 수행 중 결정적인 사건을 중심으로 정보를 모으는 방법입니다.",
+        "작업표본방법은 무작위 간격으로 관찰해 직무 정보를 얻는 방법입니다. 정답입니다."
+      ]
     },
     {
       "id": "nursing2026-local-management-D-q17",
@@ -307,9 +403,15 @@
       ],
       "answer": 0,
       "imageUrl": "assets/questions/nursing/management/2026/local-D/q17.webp",
-      "explanation": "자체 작성 해설 초안(공식 해설 아님 · 검수 필요)\n제시된 2026년 시험의 간호법상 간호사 업무에는 간호요구 관찰과 간호판단, 교육·상담, 지도하의 진료 보조 등이 포함됩니다. ①의 조산 관련 임무는 이 문항에서 간호사의 임무가 아닌 것으로 제시됩니다. 법령 개정에 따른 변동 가능성이 있어 시행 시점 확인이 필요합니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n조산과 신생아에 대한 보건·양호 지도는 조산사의 업무이므로 간호법상 간호사의 업무에 해당하지 않습니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 2
+      "sourcePage": 2,
+      "optionExplanations": [
+        "조산과 임상부 및 신생아에 대한 보건과 양호지도는 조산사의 업무입니다. 간호사의 업무가 아닙니다. 정답입니다.",
+        "간호 요구자에 대한 교육·상담과 건강증진 활동의 기획·수행은 간호사의 업무입니다.",
+        "관찰·자료수집·간호판단 및 요양을 위한 간호는 간호사의 핵심 업무입니다.",
+        "의사·치과의사·한의사의 지도에 따른 진료의 보조는 간호사의 업무에 포함됩니다."
+      ]
     },
     {
       "id": "nursing2026-local-management-D-q18",
@@ -325,9 +427,15 @@
       ],
       "answer": 2,
       "imageUrl": "assets/questions/nursing/management/2026/local-D/q18.webp",
-      "explanation": "자체 작성 해설 초안(공식 해설 아님 · 검수 필요)\n변혁적 리더십의 주요 요소는 이상적 영향력(카리스마), 영감적 동기부여, 지적 자극, 개별적 배려입니다. 상황에 따른 보상은 거래적 리더십 요소이므로 ㄱ·ㄴ·ㄷ인 ③이 맞습니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n변혁적 리더십의 구성요소는 지적 자극, 카리스마(이상적 영향력), 개별적 배려이며, 상황에 따른 보상은 거래적 리더십의 요소입니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 2
+      "sourcePage": 2,
+      "optionExplanations": [
+        "지적 자극과 개별적 배려만 고른 것으로 카리스마가 빠졌습니다.",
+        "카리스마와 개별적 배려만 고른 것으로 지적 자극이 빠졌습니다.",
+        "지적 자극, 카리스마, 개별적 배려가 모두 변혁적 리더십의 구성요소입니다. 정답입니다.",
+        "상황에 따른 보상은 거래적 리더십의 요소이므로 함께 고르면 틀립니다."
+      ]
     },
     {
       "id": "nursing2026-local-management-D-q19",
@@ -343,9 +451,15 @@
       ],
       "answer": 3,
       "imageUrl": "assets/questions/nursing/management/2026/local-D/q19.webp",
-      "explanation": "자체 작성 해설 초안(공식 해설 아님 · 검수 필요)\n활동성 폐결핵은 공기매개 감염관리 대상입니다. 음압 격리실이 없는 경우 다른 공간과 공기가 연결되지 않도록 격리하는 대안이 보기 중 타당합니다. 실제 의료기관에서는 감염관리 지침과 공기전파격리 기준을 우선 적용해야 합니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n결핵은 공기 전파 질환이므로 음압 격리실이 없을 때는 공기 흐름이 다른 공간과 연결되지 않는 1인실에 배치해야 합니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 2
+      "sourcePage": 2,
+      "optionExplanations": [
+        "다른 결핵 환자와 함께 격리하는 것은 같은 병원체 환자끼리의 동일 병실 배치가 허용되는 경우에 해당하지만, 일반적인 감염관리 원칙과는 다릅니다.",
+        "결핵은 1m 이내 거리로만 전파되는 것이 아니므로 수술용 마스크 착용만으로는 부족하고 N95 등이 필요합니다.",
+        "사용한 마스크를 일반폐기물 용기에 버리는 것은 감염성 폐기물 관리 기준에 어긋납니다.",
+        "공기 흐름이 다른 공간과 연결되지 않는 1인실에 배치하는 것이 적절합니다. 정답입니다."
+      ]
     },
     {
       "id": "nursing2026-local-management-D-q20",
@@ -361,9 +475,15 @@
       ],
       "answer": 2,
       "imageUrl": "assets/questions/nursing/management/2026/local-D/q20.webp",
-      "explanation": "자체 작성 해설 초안(공식 해설 아님 · 검수 필요)\n기획은 목적과 예산 수립, 조직은 직무와 권한 배분, 지휘는 협력과 갈등관리 등에 해당합니다. ③의 '표준과 성과의 비교·측정'은 인사보다 통제 기능에 해당합니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n성과를 측정하고 표준과의 차이를 파악하는 것은 관리과정 중 통제(평가)에 해당하므로, 인사에 대한 설명으로 옳지 않습니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 2
+      "sourcePage": 2,
+      "optionExplanations": [
+        "기획은 조직의 목표와 철학을 정하고 예산을 계획하는 기능입니다.",
+        "조직은 직무 내용을 편성하고 권한과 책임을 명확히 하는 기능입니다.",
+        "성과 측정과 표준 비교는 인사가 아니라 통제(평가)의 기능입니다. 옳지 않습니다. 정답입니다.",
+        "지휘는 갈등을 관리하고 협력을 강화하는 기능입니다."
+      ]
     }
   ]
 }

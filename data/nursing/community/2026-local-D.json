@@ -19,9 +19,15 @@
       ],
       "answer": 3,
       "imageUrl": "assets/questions/nursing/community/2026/local-D/q01.webp",
-      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n지역사회간호사의 직접간호제공자 역할은 대상자에게 기본간호술과 전문 간호기술을 실제로 제공하며 면담·상담·관찰·교육을 함께 수행하는 역할입니다. 따라서 ④가 맞습니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기본간호술부터 전문 간호기술까지 요구되고 면담·상담·의사소통·관찰·경청·교육 기술이 필요한 역할은 가장 오래된 역할인 직접간호제공자입니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1
+      "sourcePage": 1,
+      "optionExplanations": [
+        "협력자는 보건의료 인력과 관련 전문가 집단 간의 협력과 연계를 담당합니다.",
+        "변화촉진자는 지역사회의 변화를 이끌어 내기 위한 조정과 중재를 담당합니다.",
+        "사례관리자는 대상자에게 필요한 서비스를 연결하고 조정합니다.",
+        "직접간호제공자는 대상자에게 직접 간호를 수행하는 가장 오래된 역할입니다. 정답입니다."
+      ]
     },
     {
       "id": "nursing2026-local-community-D-q02",
@@ -37,9 +43,15 @@
       ],
       "answer": 0,
       "imageUrl": "assets/questions/nursing/community/2026/local-D/q02.webp",
-      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n금연교실을 매주 1회 실시한다는 목표는 사업이 제공한 활동의 횟수, 즉 산출물에 초점을 둡니다. 인력·예산 등 투입 자원이 아닌 산출목표이므로 ①입니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n'금연교실을 매주 1회 실시한다'는 사업을 통해 실제로 제공하는 활동 수준을 정한 것이므로 투입-산출모형의 산출목표에 해당합니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1
+      "sourcePage": 1,
+      "optionExplanations": [
+        "산출목표는 프로그램을 통해 제공되는 서비스의 양을 정합니다. 정답입니다.",
+        "투입목표는 프로그램 수행에 필요한 인력·예산·물자를 정합니다.",
+        "결과목표는 대상자의 건강 상태나 행태 변화를 정합니다.",
+        "영향목표는 장기적인 건강 수준의 변화를 정합니다."
+      ]
     },
     {
       "id": "nursing2026-local-community-D-q03",
@@ -55,9 +67,15 @@
       ],
       "answer": 2,
       "imageUrl": "assets/questions/nursing/community/2026/local-D/q03.webp",
-      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n자료를 표·그림·그래프 형태로 정리해 핵심 특성을 드러내는 것은 지역사회 간호사정의 자료분석 중 요약단계입니다. 정답은 ③입니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n자료를 표나 그림, 그래프 등으로 작성하는 단계는 분석된 자료를 보기 쉽게 정리하는 요약단계입니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1
+      "sourcePage": 1,
+      "optionExplanations": [
+        "분류단계는 자료를 기준에 따라 나누어 묶는 단계입니다.",
+        "확인단계는 수집된 자료의 정확성을 점검하는 단계입니다.",
+        "요약단계는 자료를 표·그림·그래프로 정리해 보여 주는 단계입니다. 정답입니다.",
+        "결론단계는 분석 결과를 해석하고 판단을 내리는 단계입니다."
+      ]
     },
     {
       "id": "nursing2026-local-community-D-q04",
@@ -73,9 +91,15 @@
       ],
       "answer": 3,
       "imageUrl": "assets/questions/nursing/community/2026/local-D/q04.webp",
-      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n보건진료 전담공무원의 자격 및 배치에 관한 근거는 「농어촌 등 보건의료를 위한 특별조치법」입니다. 2026년 시험에서 ④가 정답입니다. 법률은 개정될 수 있으니 실제 업무 적용 시 현행 법령을 확인해야 합니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n보건진료 전담공무원의 자격과 직무는「농어촌 등 보건의료를 위한 특별조치법」에서 규정하고 있습니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1
+      "sourcePage": 1,
+      "optionExplanations": [
+        "의료법은 의료인과 의료기관의 자격·운영을 규정합니다.",
+        "지역보건법은 보건소 등 지역보건의료기관의 설치와 운영을 규정합니다.",
+        "국민건강증진법은 건강증진 사업과 정책의 기본 사항을 규정합니다.",
+        "「농어촌 등 보건의료를 위한 특별조치법」이 보건진료 전담공무원의 자격과 직무를 규정합니다. 정답입니다."
+      ]
     },
     {
       "id": "nursing2026-local-community-D-q05",
@@ -91,9 +115,15 @@
       ],
       "answer": 0,
       "imageUrl": "assets/questions/nursing/community/2026/local-D/q05.webp",
-      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n브래드쇼의 규범적 요구(normative need)는 전문가 또는 전문적 기준에 의해 결정되는 요구입니다. 따라서 ①입니다. 당사자가 느끼는 요구나 비교를 통해 발견하는 요구와 구별합니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n브래드쇼의 요구 유형에서 전문가의 판단과 규범에 따라 규정되는 요구는 규범적 요구입니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1
+      "sourcePage": 1,
+      "optionExplanations": [
+        "규범적 요구는 전문가가 경험과 지식에 따라 규정한 요구입니다. 정답입니다.",
+        "내면적 요구는 대상자가 스스로 느끼는 요구입니다.",
+        "표출적 요구는 느낀 요구가 행동으로 나타난 것입니다.",
+        "비교적 요구는 유사한 지역·집단과 비교해 파악한 요구입니다."
+      ]
     },
     {
       "id": "nursing2026-local-community-D-q06",
@@ -109,9 +139,15 @@
       ],
       "answer": 1,
       "imageUrl": "assets/questions/nursing/community/2026/local-D/q06.webp",
-      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n국민건강보험 가입자는 직장가입자와 지역가입자로 구분됩니다. 임의 가입 제도가 아니며, 보험자는 국민건강보험공단입니다. 따라서 ②가 정답입니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국민건강보험 가입자는 소득이 있는 직장과 그 피부양자로 구성된 직장가입자와 그 밖의 지역가입자로 구분됩니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1
+      "sourcePage": 1,
+      "optionExplanations": [
+        "보험료는 소득과 재산 등 부과 기준에 따라 정해지며 건강수준에 따라 책정되지 않습니다.",
+        "가입자는 직장가입자와 지역가입자로 구분됩니다. 정답입니다.",
+        "건강보험은 법정 강제가입이므로 가입 여부를 개인이 임의로 결정할 수 없습니다.",
+        "보험자는 국민건강보험공단이며, 심사평가원은 요양급여비용을 심사·평가하는 기관입니다."
+      ]
     },
     {
       "id": "nursing2026-local-community-D-q07",
@@ -127,9 +163,15 @@
       ],
       "answer": 3,
       "imageUrl": "assets/questions/nursing/community/2026/local-D/q07.webp",
-      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n건강관리구분 C1은 직업성 질병으로 진전될 우려가 있어 추적검사 등의 관찰이 필요한 경우입니다. C2는 일반 질병으로 진전될 우려가 있는 경우에 해당하므로 ④입니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n근로자 건강진단 실시기준상 C1은 직업성 질병으로 진전될 우려가 있어 추적검사 등 관찰이 필요한 근로자입니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1
+      "sourcePage": 1,
+      "optionExplanations": [
+        "일반 질병의 소견을 보여 사후관리가 필요한 자는 C2에 해당합니다.",
+        "직업성 질병의 소견을 보여 사후관리가 필요한 자는 D1에 해당합니다.",
+        "일반 질병으로 진전될 우려가 있어 추적관리가 필요한 자는 판정 구분에 해당하지 않습니다.",
+        "직업성 질병으로 진행될 우려가 있어 추적검사 등 관찰이 필요한 자가 C1입니다. 정답입니다."
+      ]
     },
     {
       "id": "nursing2026-local-community-D-q08",
@@ -145,9 +187,15 @@
       ],
       "answer": 2,
       "imageUrl": "assets/questions/nursing/community/2026/local-D/q08.webp",
-      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n뉴만의 건강관리체계 모형에서 기본구조(basic structure)는 개인의 생존에 필요한 중심 에너지 자원과 개인 특성으로 구성됩니다. 따라서 생리적·심리적·사회문화적·발달적·영적 변수들이 언급된 ③입니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n생리적·심리적·사회문화적·발달적·영적 변수로 구성되어 개인의 고유한 특성을 나타내는 것은 뉴먼의 기본구조입니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1
+      "sourcePage": 1,
+      "optionExplanations": [
+        "저항선은 기본구조를 보호하는 방어선입니다.",
+        "삼차예방은 체계가 적응한 뒤 재구성되는 단계입니다.",
+        "기본구조는 다섯 가지 변수로 이루어진 개인의 핵심 구조입니다. 정답입니다.",
+        "스트레스원은 체계에 영향을 주는 환경적 자극입니다."
+      ]
     },
     {
       "id": "nursing2026-local-community-D-q09",
@@ -163,9 +211,15 @@
       ],
       "answer": 1,
       "imageUrl": "assets/questions/nursing/community/2026/local-D/q09.webp",
-      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\nBCG는 백신 접종으로 항원을 인위적으로 투여하여 신생아 스스로 면역반응을 일으키게 합니다. 따라서 인공능동면역인 ②가 정답입니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nBCG 백신은 약독화한 결핵균을 접종해 몸의 면역 반응을 유도하는 인공능동면역입니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1
+      "sourcePage": 1,
+      "optionExplanations": [
+        "자연능동면역은 감염을 앓은 뒤 자연적으로 얻는 면역입니다.",
+        "인공능동면역은 백신 접종으로 항체를 스스로 만들게 하는 면역입니다. 정답입니다.",
+        "자연수동면역은 모체의 항체가 태반이나 초유를 통해 전달되는 면역입니다.",
+        "인공수동면역은 면역혈청·면역글로불린을 주입해 항체를 직접 받는 면역입니다."
+      ]
     },
     {
       "id": "nursing2026-local-community-D-q10",
@@ -181,9 +235,15 @@
       ],
       "answer": 3,
       "imageUrl": "assets/questions/nursing/community/2026/local-D/q10.webp",
-      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n상징적 상호작용이론은 가족구성원이 부여하는 의미와 역할 기대, 의사소통, 가족 내부의 상호작용에 주목합니다. 가족 내부의 관계와 상호작용을 설명한 ④가 맞습니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n가족 구성원 개인 간의 관계와 역할 수행, 가족 내적 과정에 초점을 두는 이론은 상징적 상호작용론입니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1
+      "sourcePage": 1,
+      "optionExplanations": [
+        "체계이론은 가족을 상호작용하는 하나의 체계로 봅니다.",
+        "가족발달이론은 가족생활주기별 발달과업에 초점을 둡니다.",
+        "구조-기능주의 이론은 가족의 구조와 기능이 사회에 어떻게 기여하는지 봅니다.",
+        "상징적 상호작용론은 개인 간 상호작용과 역할, 의미 해석에 초점을 둡니다. 정답입니다."
+      ]
     },
     {
       "id": "nursing2026-local-community-D-q11",
@@ -199,9 +259,15 @@
       ],
       "answer": 1,
       "imageUrl": "assets/questions/nursing/community/2026/local-D/q11.webp",
-      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n감염 사슬은 병원체 → 병원소 → 병원소로부터의 탈출 → 전파 → 새로운 숙주로의 침입 → 감수성 있는 숙주 순서로 이어집니다. (나)→(가)→(다)→(마)→(라)→(바)이므로 ②입니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n감염의 성립은 병원체 → 병원소 → 병원소로부터의 탈출 → 전파 → 새로운 숙주로의 침입 → 숙주의 감수성 순서로 이어집니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1
+      "sourcePage": 1,
+      "optionExplanations": [
+        "병원소가 먼저 나와야 하므로 순서가 틀립니다.",
+        "(나) 병원체 → (가) 병원소 → (다) 탈출 → (마) 전파 → (라) 침입 → (바) 감수성의 순서입니다. 정답입니다.",
+        "병원소에서 탈출하기 전에 병원체가 있어야 하므로 틀립니다.",
+        "병원체가 맨 앞에 와야 합니다."
+      ]
     },
     {
       "id": "nursing2026-local-community-D-q12",
@@ -217,9 +283,15 @@
       ],
       "answer": 0,
       "imageUrl": "assets/questions/nursing/community/2026/local-D/q12.webp",
-      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n시뮬레이션은 실제 환자에게 위험을 주지 않고 임상 상황을 연습할 수 있어 윤리적 문제를 줄이는 데 도움이 됩니다. 능동적 참여와 동기 유발이 가능하지만 준비에 시간·비용이 들 수 있으므로, 옳지 않은 ①이 정답입니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n시뮬레이션 교육은 실제와 유사한 환경에서 반복 연습이 가능해 윤리적 문제가 발생할 소지가 적으므로, 소지가 많다는 설명은 옳지 않습니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 2
+      "sourcePage": 2,
+      "optionExplanations": [
+        "시뮬레이션은 실제 대상자에게 위해를 주지 않아 윤리적 문제의 소지가 적습니다. 옳지 않습니다. 정답입니다.",
+        "학습자의 능동적 참여를 촉진하는 것은 시뮬레이션 교육의 장점입니다.",
+        "흥미를 유발하고 학습 동기를 촉진하는 것도 장점입니다.",
+        "모의상황 준비에 시간·노력·비용이 많이 드는 것은 단점이지만 옳은 설명입니다."
+      ]
     },
     {
       "id": "nursing2026-local-community-D-q13",
@@ -235,9 +307,15 @@
       ],
       "answer": 2,
       "imageUrl": "assets/questions/nursing/community/2026/local-D/q13.webp",
-      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n코호트 연구는 특정 위험요인에 노출된 집단과 비노출 집단을 추적해 발생률을 비교하므로 상대위험도 계산과 시간적 선후관계 판단에 유리합니다. 정답은 ③입니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n위험요인 노출 집단과 비노출 집단을 추적하여 질병 발생률과 비교위험도를 구하는 연구는 코호트 연구입니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 2
+      "sourcePage": 2,
+      "optionExplanations": [
+        "단면연구는 한 시점의 노출과 질병 상태를 함께 조사합니다.",
+        "실험연구는 연구자가 중재를 직접 배정합니다.",
+        "코호트연구는 노출 집단과 비노출 집단을 추적해 발생률과 비교위험도를 구합니다. 정답입니다.",
+        "환자-대조군연구는 질병군과 대조군의 과거 노출을 비교합니다."
+      ]
     },
     {
       "id": "nursing2026-local-community-D-q14",
@@ -253,9 +331,15 @@
       ],
       "answer": 1,
       "imageUrl": "assets/questions/nursing/community/2026/local-D/q14.webp",
-      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n구조평가는 사업에 투입되는 인력·시설·장비·예산 등 자원의 적절성을 살핍니다. 투입 인력이 적절했는지를 묻는 ②가 구조평가입니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n구조평가는 사업 수행에 투입된 인력·자원·시설이 적절하게 갖추어졌는지를 평가하는 영역입니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 2
+      "sourcePage": 2,
+      "optionExplanations": [
+        "사업이 계획대로 진행되었는가는 과정평가에 해당합니다.",
+        "투입된 인력이 적절하였는가는 구조평가에 해당합니다. 정답입니다.",
+        "간호수행방법이나 수단의 적합성은 과정평가에 해당합니다.",
+        "제공된 중재내용이 가족에게 적절하였는가는 과정·결과평가에 해당합니다."
+      ]
     },
     {
       "id": "nursing2026-local-community-D-q15",
@@ -271,9 +355,15 @@
       ],
       "answer": 3,
       "imageUrl": "assets/questions/nursing/community/2026/local-D/q15.webp",
-      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n건강증진의 옹호(advocate)는 건강의 중요성을 알리고 건강을 뒷받침할 공공정책 수립을 촉구하는 활동입니다. 정책적 지지와 대중의 관심 환기를 설명한 ④가 맞습니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n옹호는 대상자를 대신해 건강의 중요성에 대한 관심을 불러일으키고 보건정책 수립을 촉구하는 활동입니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 2
+      "sourcePage": 2,
+      "optionExplanations": [
+        "보건의료 인력 간 연합이 필요한 것은 협동(연대)에 해당합니다.",
+        "분야 간 통합과 조정이 필요한 것은 조정에 해당합니다.",
+        "스스로 건강관리에 참여하고 책임지는 것은 자조에 해당합니다.",
+        "정책 수립의 필요성에 대한 촉구는 옹호에 해당합니다. 정답입니다."
+      ]
     },
     {
       "id": "nursing2026-local-community-D-q16",
@@ -289,9 +379,15 @@
       ],
       "answer": 2,
       "imageUrl": "assets/questions/nursing/community/2026/local-D/q16.webp",
-      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n재난 중증도 분류에서 흑색은 사망했거나 제한된 가용 자원으로 생존 가능성이 극히 낮아 소생을 기대하기 어려운 환자를 의미합니다. 제시된 ③이 해당합니다. 실제 분류는 현장 지침에 따라 수행합니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n흑색은 손상이 있으나 사용 가능한 자원으로는 생존이 거의 불가능하다고 판단되는 환자로, 생존 가능성이 낮은 상태입니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 2
+      "sourcePage": 2,
+      "optionExplanations": [
+        "생존에 영향이 없고 치료가 지연되어도 안전한 환자는 녹색입니다.",
+        "생명을 위협하는 부상으로 즉각 치료가 필요한 환자는 적색입니다.",
+        "사용 가능한 자원으로 생존이 거의 불가능하다고 판단되는 환자가 흑색입니다. 정답입니다.",
+        "치료 여부와 관계없이 생존이 예상되는 환자는 생존 가능성이 높은 상태입니다."
+      ]
     },
     {
       "id": "nursing2026-local-community-D-q17",
@@ -307,9 +403,15 @@
       ],
       "answer": 2,
       "imageUrl": "assets/questions/nursing/community/2026/local-D/q17.webp",
-      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\nMATCH는 위험요인과 예방방법이 이미 알려져 있고 우선순위가 정해졌을 때 실행 중심의 보건사업을 설계하는 모형입니다. 목적 설정·중재계획·프로그램 개발·실행 준비·평가를 제시한 ③입니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n위험요인과 예방방법이 알려져 있고 우선순위가 정해져 있을 때 실제 수행을 위해 사업을 개발하는 모형은 MATCH입니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 2
+      "sourcePage": 2,
+      "optionExplanations": [
+        "NIBP는 요구사정과 영향 평가를 중심으로 사업을 기획하는 모형입니다.",
+        "PATCH는 지역사회의 요구를 진단하고 보건교육 프로그램을 계획하는 모형입니다.",
+        "MATCH는 우선순위가 정해진 문제의 실제 수행을 위한 중재 개발에 적합한 모형입니다. 정답입니다.",
+        "MAPP는 지역사회의 역량을 강화하고 파트너십으로 실행력을 높이는 기획 모형입니다."
+      ]
     },
     {
       "id": "nursing2026-local-community-D-q18",
@@ -325,9 +427,15 @@
       ],
       "answer": 1,
       "imageUrl": "assets/questions/nursing/community/2026/local-D/q18.webp",
-      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n사회생태학적 모형의 개인 간 수준(interpersonal level)은 가족·친구·동료 관계와 사회적 지지망 등에 초점을 둡니다. 사회적 네트워크 강화인 ②가 맞습니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사회생태학적 모형에서 개인 간 요인은 가족·친구·동료 등과의 관계와 사회적 지지이므로, 사회적 네트워크 강화가 이에 해당합니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 2
+      "sourcePage": 2,
+      "optionExplanations": [
+        "조례나 법 제정은 공공정책 요인에 해당합니다.",
+        "사회적 네트워크 강화는 개인 간 요인에 해당합니다. 정답입니다.",
+        "유인과 규제 조치는 조직·지역사회 요인에 해당합니다.",
+        "개인의 지식·태도·신념 변화를 위한 교육은 개인 내적 요인에 해당합니다."
+      ]
     },
     {
       "id": "nursing2026-local-community-D-q19",
@@ -343,9 +451,15 @@
       ],
       "answer": 2,
       "imageUrl": "assets/questions/nursing/community/2026/local-D/q19.webp",
-      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n전체 사망자 가운데 50세 이상 사망자가 차지하는 비율은 비례사망지수(PMI, proportional mortality indicator)입니다. 정답은 ③입니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n비례사망지수(PMI)는 특정 연도의 전체 사망자 수 중 50세 이상 사망자가 차지하는 비율입니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 2
+      "sourcePage": 2,
+      "optionExplanations": [
+        "조사망률은 연간 사망자 수를 그 해의 총인구로 나눈 값입니다.",
+        "표준화사망비는 표준인구의 사망 수준과 비교한 관찰 사망자 수의 비입니다.",
+        "비례사망지수가 50세 이상 사망자 비율을 나타냅니다. 정답입니다.",
+        "비례사망률은 특정 질병의 사망자 수를 전체 사망자 수로 나눈 값입니다."
+      ]
     },
     {
       "id": "nursing2026-local-community-D-q20",
@@ -361,9 +475,15 @@
       ],
       "answer": 3,
       "imageUrl": "assets/questions/nursing/community/2026/local-D/q20.webp",
-      "explanation": "자체 작성 해설 초안 (공식 해설 아님 · 검수 필요)\n2026년 D책형 정답표 기준으로 홍역·결핵·폐렴구균이 해당하고 황열은 제외되어 ㄴ·ㄷ·ㄹ인 ④가 정답입니다. 필수예방접종의 대상 질병은 법령 개정에 따라 달라질 수 있으므로 실제 적용 시 시행일을 확인해야 합니다.",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n감염병의 예방 및 관리에 관한 법률 시행규칙상 특별자치시장·특별자치도지사·시장·군수·구청장이 필수예방접종을 실시해야 하는 질병에는 홍역·결핵·폐렴구균 등이 포함되며, 황열은 이에 해당하지 않습니다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 2
+      "sourcePage": 2,
+      "optionExplanations": [
+        "황열은 필수예방접종 대상에서 제외되므로 ㄱ이 포함되면 틀립니다.",
+        "결핵이 빠지고 폐렴구균만 포함되어 부족합니다.",
+        "폐렴구균만 포함되고 홍역·결핵이 빠져 틀립니다.",
+        "홍역(ㄴ), 결핵(ㄷ), 폐렴구균(ㄹ)이 모두 필수예방접종 대상 질병입니다. 정답입니다."
+      ]
     }
   ]
 }
