@@ -189,6 +189,46 @@
       "questionCount": 40,
       "dataFile": "data/leet/reasoning/2026.json",
       "external": true
+    },
+    {
+      "id": "paper_civil_korean_2024_local_C",
+      "subjectId": "sub_civil_0",
+      "title": "2024 지방직 9급 국어 C책형",
+      "year": 2024,
+      "source": "2024 지방직 9급 국어 C책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/korean/2024-local-C.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_english_2024_local_C",
+      "subjectId": "sub_civil_1",
+      "title": "2024 지방직 9급 영어 C책형",
+      "year": 2024,
+      "source": "2024 지방직 9급 영어 C책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/english/2024-local-C.json",
+      "external": true
+    },
+    {
+      "id": "paper_nursing_management_2024_local_C",
+      "subjectId": "sub_nursing_manage",
+      "title": "2024 지방직 9급 간호관리 C책형",
+      "year": 2024,
+      "source": "2024 지방직 9급 간호관리 C책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/nursing/management/2024-local-C.json",
+      "external": true
+    },
+    {
+      "id": "paper_nursing_community_2024_local_C",
+      "subjectId": "sub_nursing_community",
+      "title": "2024 지방직 9급 지역사회간호 C책형",
+      "year": 2024,
+      "source": "2024 지방직 9급 지역사회간호 C책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/nursing/community/2024-local-C.json",
+      "external": true
     }
   ]
 }

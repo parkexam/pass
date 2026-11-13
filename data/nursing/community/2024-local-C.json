@@ -1,0 +1,489 @@
+{
+  "id": "paper_nursing_community_2024_local_C",
+  "title": "2024 지방직 9급 지역사회간호 C책형",
+  "year": 2024,
+  "source": "2024 지방직 9급 지역사회간호 C책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+  "subjectId": "sub_nursing_community",
+  "questions": [
+    {
+      "id": "nursing2024-local-community-C-q01",
+      "paperId": "paper_nursing_community_2024_local_C",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2024/local-C/q01.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nSWOT 분석에서 기회와 위협은 지역사회 바깥에서 생기는 환경 요인입니다. 대기오염과 기후 변화, 신종 감염병 대유행은 지역사회에 부정적으로 작용하는 외부 요인이므로 위협에 해당합니다.",
+      "optionExplanations": [
+        "강점은 지역사회가 지닌 긍정적인 내부 자원입니다.",
+        "약점은 지역사회 내부의 부족한 점이나 문제점입니다.",
+        "기회는 외부 환경의 긍정적 변화로 활용할 수 있는 요인입니다.",
+        "건강문제 발생 증가와 감염병 대유행에 따른 불안은 외부에서 오는 부정적 요인이므로 위협입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2024-local-community-C-q02",
+      "paperId": "paper_nursing_community_2024_local_C",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2024/local-C/q02.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n프라이(Fry)가 분류한 자유방임형 체계는 민간 의료기관 중심으로 운영되며 국가의 개입이 적어, 국민이 의료기관과 의료인을 자유롭게 선택할 수 있는 재량권이 큽니다. 대신 의료비 부담이 개인에게 돌아가고 자원 배분의 형평성은 낮습니다.",
+      "optionExplanations": [
+        "국민의료비 절감 효과는 오히려 국가 개입이 강한 체계에서 기대하기 쉽습니다.",
+        "자유방임형은 시장에 맡기므로 지역 간·계층 간 형평성이 낮습니다.",
+        "국가의 규제가 적어 국민이 의료기관과 의료인을 자유롭게 고를 수 있습니다. 정답입니다.",
+        "포괄적 보건의료서비스 제공은 국가주도형·사회보장형 체계의 특징입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2024-local-community-C-q03",
+      "paperId": "paper_nursing_community_2024_local_C",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2024/local-C/q03.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지역사회 간호사업 목표는 측정 가능하고, 실현 가능하며, 지역사회 문제와 관련이 있어야 하고, 시간적 범위가 분명해야 합니다. 추상적인 표현은 평가를 어렵게 하므로 목표의 기준이 될 수 없습니다.",
+      "optionExplanations": [
+        "측정 가능성은 목표 달성 여부를 판단하기 위한 필수 기준입니다.",
+        "목표는 구체적이어야 하므로 추상성은 갖추어야 할 기준이 아니라 피해야 할 성질입니다. 정답입니다.",
+        "실현 가능성은 자원과 여건을 고려해 달성할 수 있어야 한다는 기준입니다.",
+        "지역사회 문제와의 연관성은 사업의 필요성을 뒷받침하는 기준입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2024-local-community-C-q04",
+      "paperId": "paper_nursing_community_2024_local_C",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2024/local-C/q04.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n의료기관 가정간호는 의료기관이 퇴원 환자 등을 대상으로 제공하는 유료 서비스로, 건강보험이 적용되지만 무료로 제공되는 것은 아닙니다.",
+      "optionExplanations": [
+        "가정간호에서는 기본간호와 함께 치료적 간호가 제공됩니다.",
+        "가정간호는 건강보험 수가가 적용되는 유료 서비스이므로 누구에게나 무료라는 설명은 옳지 않습니다. 정답입니다.",
+        "가정간호는 가정전문간호사가 수행하도록 정해져 있습니다.",
+        "담당의사가 의뢰한 조기퇴원 환자 등이 주요 대상자입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2024-local-community-C-q05",
+      "paperId": "paper_nursing_community_2024_local_C",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2024/local-C/q05.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n자료분석은 분류, 요약, 확인·비교, 결론의 단계로 이루어집니다. 수집한 정보를 연관성 있는 항목끼리 묶어 범주화하는 것은 분류단계에 해당합니다.",
+      "optionExplanations": [
+        "항목끼리 묶어 범주를 만드는 분류단계에 해당합니다. 정답입니다.",
+        "요약단계는 분류한 자료를 간추려 핵심을 정리하는 단계입니다.",
+        "확인·비교단계는 자료의 타당성을 확인하고 다른 자료와 비교하는 단계입니다.",
+        "결론단계는 분석 결과를 종합해 간호진단을 내리는 단계입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2024-local-community-C-q06",
+      "paperId": "paper_nursing_community_2024_local_C",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2024/local-C/q06.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n그림은 개인을 중심에 두고 가족, 친척, 이웃, 기관 등 지지 자원을 동심원으로 배치해 관계의 친밀도와 지지망을 보여 줍니다. 이는 사회지지도입니다.",
+      "optionExplanations": [
+        "개인을 둘러싼 지지 자원을 동심원으로 나타낸 사회지지도입니다. 정답입니다.",
+        "외부체계도는 가족과 외부 체계 사이의 에너지 흐름을 화살표로 표시합니다.",
+        "가족밀착도는 가족 구성원 사이의 정서적 유대 강도를 나타냅니다.",
+        "가족구조도는 가족의 세대 구조와 가족관계를 계보 형태로 그립니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2024-local-community-C-q07",
+      "paperId": "paper_nursing_community_2024_local_C",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2024/local-C/q07.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n범이론 모형에서 준비단계는 앞으로 1개월 안에 행동을 시작할 의도를 가지고 서약이나 준비를 하는 단계입니다. 이달 내로 금연하겠다고 서약서를 작성한 A 씨는 준비단계에 해당합니다.",
+      "optionExplanations": [
+        "계획이전단계는 6개월 안에 행동을 시작할 의도가 없는 단계입니다.",
+        "서약서를 작성하는 등 곧 행동에 옮길 준비를 하고 있으므로 준비단계입니다. 정답입니다.",
+        "행동단계는 실제로 금연을 시작한 뒤 6개월까지의 단계입니다.",
+        "유지단계는 6개월 이상 금연을 지속하는 단계입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2024-local-community-C-q08",
+      "paperId": "paper_nursing_community_2024_local_C",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2024/local-C/q08.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n오마하체계는 환경, 사회심리, 생리, 건강행위 관련의 네 영역으로 문제를 분류합니다. 인지적 영역은 오마하체계의 영역이 아닙니다.",
+      "optionExplanations": [
+        "오마하체계의 영역은 환경·사회심리·생리·건강행위 관련이므로 인지적 영역은 해당하지 않습니다. 정답입니다.",
+        "환경적 영역은 주거, 위생, 안전 등 생활 환경의 문제를 다룹니다.",
+        "생리적 영역은 신체 기능과 증상에 관한 문제를 다룹니다.",
+        "사회심리적 영역은 정서, 역할, 관계 등에 관한 문제를 다룹니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2024-local-community-C-q09",
+      "paperId": "paper_nursing_community_2024_local_C",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2024/local-C/q09.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n이차예방은 질병이 이미 발생했지만 증상이 나타나기 전에 조기 발견해 치료하는 단계입니다. 선별검사로 자궁경부암을 조기에 진단하는 것이 대표적인 이차예방입니다.",
+      "optionExplanations": [
+        "개인위생 보건교육은 질병 발생을 막는 일차예방입니다.",
+        "균형 잡힌 급식 제공도 건강을 유지해 질병을 예방하는 일차예방입니다.",
+        "선별검사를 통한 조기 진단은 이차예방에 해당합니다. 정답입니다.",
+        "뇌졸중 회복기 환자의 작업요법은 재활을 돕는 삼차예방입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2024-local-community-C-q10",
+      "paperId": "paper_nursing_community_2024_local_C",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2024/local-C/q10.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n민감도는 실제로 간암이 있는 사람 중 검사에서 양성으로 나온 비율로 40÷(40+10)=80%이고, 특이도는 간암이 없는 사람 중 음성으로 나온 비율로 190÷(10+190)=95%입니다.",
+      "optionExplanations": [
+        "특이도와 민감도의 값이 서로 뒤바뀌어 있습니다.",
+        "특이도가 95%이므로 80%는 맞지 않습니다.",
+        "민감도가 80%이므로 40%는 맞지 않습니다.",
+        "특이도 95%, 민감도 80%로 계산이 맞습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2024-local-community-C-q11",
+      "paperId": "paper_nursing_community_2024_local_C",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2024/local-C/q11.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n로이의 적응이론에서 자아개념 양상은 자신의 외모, 능력, 가치에 대한 지각과 관련된 영역입니다. 자신이 가치 있는 사람이라고 생각하는 것은 자아개념 양상에 해당합니다.",
+      "optionExplanations": [
+        "생리적 기능 양상은 산소, 수분, 영양, 활동 등 신체 기능에 관한 영역입니다.",
+        "자신의 가치와 외모에 대한 만족은 자아개념 양상에 해당합니다. 정답입니다.",
+        "역할기능 양상은 가족·직업 등에서 맡은 역할 수행에 관한 영역입니다.",
+        "상호의존 양상은 타인과의 애정과 지지 관계에 관한 영역입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2024-local-community-C-q12",
+      "paperId": "paper_nursing_community_2024_local_C",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2024/local-C/q12.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n항아리형은 출생률이 낮아 유소년층이 줄고 생산연령층이 농촌을 떠나면서 중간이 잘록해진 인구 구조로, 생산연령층의 유출이 큰 농촌형 구조를 말합니다.",
+      "optionExplanations": [
+        "생산연령층이 빠져나가 인구 구조가 항아리 모양이 되는 농촌형 구조가 항아리형입니다. 정답입니다.",
+        "생산연령층의 유입이 큰 구조는 피라미드형이나 종형에 가깝습니다.",
+        "출생률과 사망률이 모두 높은 구조는 유소년층이 넓은 피라미드형입니다.",
+        "출생률과 사망률이 모두 낮은 구조는 방추형입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2024-local-community-C-q13",
+      "paperId": "paper_nursing_community_2024_local_C",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2024/local-C/q13.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n제5차 국민건강증진종합계획에서 비감염성 질환 예방관리 분과는 암, 심뇌혈관질환, 비만, 손상을 중점과제로 둡니다. 신체활동은 건강생활 실천 분과, 지역사회 정신건강은 정신건강 관리 분과, 건강정보 이해력 제고는 건강친화적 환경 구축 분과의 과제입니다.",
+      "optionExplanations": [
+        "손상은 비감염성 질환 예방관리 분과의 중점과제입니다. 정답입니다.",
+        "신체활동은 건강생활 실천 분과의 중점과제입니다.",
+        "지역사회 정신건강은 정신건강 관리 분과의 중점과제입니다.",
+        "건강정보 이해력 제고는 건강친화적 환경 구축 분과의 중점과제입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2024-local-community-C-q14",
+      "paperId": "paper_nursing_community_2024_local_C",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2024/local-C/q14.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n학교보건법 시행령상 보건교사의 직무에는 보건지도를 위한 학생가정 방문이 포함됩니다. 학교보건계획 수립에 관한 자문, 학생과 교직원의 건강상담, 건강진단과 건강평가는 학교의사(학교약사)의 직무입니다.",
+      "optionExplanations": [
+        "학교보건계획의 수립에 관한 자문은 학교의사의 직무입니다. 보건교사는 학교보건계획의 수립을 맡습니다.",
+        "학생과 교직원의 건강상담은 학교의사의 직무입니다.",
+        "학생과 교직원의 건강진단과 건강평가는 학교의사의 직무입니다.",
+        "보건지도를 위한 학생가정 방문은 보건교사의 직무에 해당합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2024-local-community-C-q15",
+      "paperId": "paper_nursing_community_2024_local_C",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2024/local-C/q15.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n가족 내 구성원의 배열과 관계, 전체와 구성원의 관계, 나아가 가족과 사회의 관계에 관심을 두는 이론은 구조-기능이론입니다.",
+      "optionExplanations": [
+        "위기이론은 가족이 위기 상황에서 어떻게 대처하는지를 설명합니다.",
+        "가족발달이론은 가족 생활 주기별 과업과 전환을 설명합니다.",
+        "교환이론은 가족 관계에서 보상과 비용의 교환을 설명합니다.",
+        "구조와 기능, 가족과 사회의 관계에 주목하는 이론은 구조-기능이론입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2024-local-community-C-q16",
+      "paperId": "paper_nursing_community_2024_local_C",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2024/local-C/q16.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n브라이언트의 우선순위 결정방법은 팩치(PATCH) 모형의 기준에 주민의 관심도를 더한 것으로, 문제의 크기, 심각도, 사업의 기술적 해결 가능성, 주민의 관심도를 기준으로 삼습니다.",
+      "optionExplanations": [
+        "토론토 보건부가 개발한 방법이 아니라 팩치 모형을 바탕으로 주민의 관심도를 보완한 방법입니다.",
+        "결정기준에 주민의 관심도가 포함된다는 설명이 옳습니다. 정답입니다.",
+        "황금 다이아몬드 상자를 이용하는 것은 황금 다이아몬드 방식입니다.",
+        "평가항목에 0점 또는 1점을 부여하는 방법은 브라이언트 방식이 아닙니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2024-local-community-C-q17",
+      "paperId": "paper_nursing_community_2024_local_C",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2024/local-C/q17.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n세균성 식중독은 세균 자체가 장에서 증식해 일으키는 감염형과, 세균이 미리 만들어 낸 독소로 일으키는 독소형으로 나뉩니다. 황색포도상구균 식중독이 대표적인 독소형입니다.",
+      "optionExplanations": [
+        "살모넬라는 세균이 장에서 증식하는 감염형입니다.",
+        "장염 비브리오도 감염형 식중독입니다.",
+        "황색포도상구균은 식품에서 미리 증식해 만든 독소로 발병하는 독소형입니다. 정답입니다.",
+        "캠필로박터도 감염형 식중독입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2024-local-community-C-q18",
+      "paperId": "paper_nursing_community_2024_local_C",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2024/local-C/q18.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n조정은 담당자들의 업무를 비교하고 조율해 중복이나 누락을 막고 능력에 맞게 일이 분배되도록 하는 활동입니다.",
+      "optionExplanations": [
+        "감독은 업무 수행의 적정성과 성과를 지켜보고 지도하는 활동입니다.",
+        "감시는 건강문제나 환경의 변화를 지속적으로 관찰하는 활동입니다.",
+        "업무의 분배와 중복·누락 여부를 확인하고 조율하는 조정 활동입니다. 정답입니다.",
+        "직접간호는 간호사가 대상자에게 직접 간호를 제공하는 활동입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2024-local-community-C-q19",
+      "paperId": "paper_nursing_community_2024_local_C",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2024/local-C/q19.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n학교 감염병 예방·위기대응 매뉴얼에서 유증상자를 발견해 의료기관 진료를 통해 감염병(의심) 환자 발생 여부를 확인하는 단계는 대응 제1단계입니다.",
+      "optionExplanations": [
+        "예방단계는 평상시 감염병 예방 활동을 하는 단계입니다.",
+        "유증상자를 확인하고 의료기관 진료로 환자 발생 여부를 확인하는 대응 제1단계입니다. 정답입니다.",
+        "대응 제2단계는 환자가 확진되었을 때 접촉자 관리 등을 하는 단계입니다.",
+        "대응 제3단계는 집단 발생 등에 대응하는 단계입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2024-local-community-C-q20",
+      "paperId": "paper_nursing_community_2024_local_C",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2024/local-C/q20.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n근로자 건강진단 결과 업무수행 적합 여부는 가·나·다·라로 판정하며, '나' 판정은 일정한 조건(환경 개선, 보호구 착용, 건강진단 주기 단축 등)을 갖추면 현재의 작업이 가능한 경우를 말합니다.",
+      "optionExplanations": [
+        "'가' 판정은 현재의 조건하에서 작업이 가능한 경우입니다.",
+        "'다' 판정은 건강장해가 우려되어 한시적으로 현재의 작업을 할 수 없는 경우입니다.",
+        "조건을 갖추면 현재 작업이 가능하다는 '나' 판정의 설명입니다. 정답입니다.",
+        "'라' 판정은 건강장해의 악화나 영구 장해가 우려되어 현재의 작업을 해서는 안 되는 경우입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    }
+  ]
+}

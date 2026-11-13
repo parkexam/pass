@@ -1,0 +1,489 @@
+{
+  "id": "paper_nursing_management_2024_local_C",
+  "title": "2024 지방직 9급 간호관리 C책형",
+  "year": 2024,
+  "source": "2024 지방직 9급 간호관리 C책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+  "subjectId": "sub_nursing_manage",
+  "questions": [
+    {
+      "id": "nursing2024-local-management-C-q01",
+      "paperId": "paper_nursing_management_2024_local_C",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/management/2024/local-C/q01.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n간호관리과정은 기획-조직-인적자원관리-지휘-통제로 이어지며, 기획 단계에서는 조직의 사명과 목표를 세우고 그 목표를 달성할 전략과 자원 배분을 정합니다.",
+      "optionExplanations": [
+        "조직의 사명과 목표를 설정하는 일은 기획 단계의 핵심 활동입니다. 정답입니다.",
+        "구성원을 동기부여하고 격려하는 것은 지휘(동기부여) 단계의 활동입니다.",
+        "직무 성과를 측정하고 개선하는 것은 통제 단계의 활동입니다.",
+        "직무 수행을 평가하여 보상하는 것은 인적자원관리·통제 단계의 활동입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2024-local-management-C-q02",
+      "paperId": "paper_nursing_management_2024_local_C",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2024/local-C/q02.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n통솔범위의 원리는 한 관리자가 직접 지휘·감독할 수 있는 부하의 수를 적정 범위로 제한해야 한다는 조직화 원리입니다.",
+      "optionExplanations": [
+        "권한과 책임 수준에 따라 위계를 설정하는 것은 계층(계선)의 원리입니다.",
+        "명령과 보고체계를 일원화하는 것은 명령통일의 원리입니다.",
+        "한 관리자가 지휘·감독할 수 있는 구성원의 수를 제한하는 것이 통솔범위의 원리입니다. 정답입니다.",
+        "규정과 절차로 부서 간 활동을 통합하는 것은 조정·통합의 원리에 가깝습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2024-local-management-C-q03",
+      "paperId": "paper_nursing_management_2024_local_C",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2024/local-C/q03.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n집권화는 의사결정 권한을 상부에 모으므로 전체를 하나로 통합하고 조정하기 쉬운 반면, 현장 대응이 느려집니다. 그래서 부서 간 통합과 조정이 중요할수록 집권화가 유리합니다.",
+      "optionExplanations": [
+        "시장이 넓게 분포될수록 현장의 판단이 필요하므로 분권화가 유리합니다.",
+        "비일상적인 직무가 많을수록 현장에서 신속히 판단해야 하므로 분권화가 유리합니다.",
+        "하급자의 능력이 뛰어날수록 권한을 나누어 맡기는 분권화가 유리합니다.",
+        "부서 간 통합과 조정이 중요할수록 전체를 한 방향으로 묶기 쉬운 집권화가 바람직합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2024-local-management-C-q04",
+      "paperId": "paper_nursing_management_2024_local_C",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/management/2024/local-C/q04.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n중심화 경향은 평가자가 우수와 열등을 가르기 부담스러워 모든 사람을 중간 수준으로 평가하는 오류입니다.",
+      "optionExplanations": [
+        "후광 효과는 한 가지 두드러진 특성이 다른 평가 항목까지 밝게 비추어 평가되는 오류입니다.",
+        "극단적인 평점을 피하려 중간값에 몰아 평가하는 것이 중심화 경향입니다. 정답입니다.",
+        "시간적 오류는 최근의 성과에 치우쳐 평가하는 오류입니다.",
+        "논리적 오류는 서로 관련 없는 특성을 논리적으로 연결해 평가하는 오류입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2024-local-management-C-q05",
+      "paperId": "paper_nursing_management_2024_local_C",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2024/local-C/q05.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n간호의 질 평가는 구조-과정-결과로 나뉘며, 과정 지표는 간호가 실제로 어떤 절차와 규범에 따라 제공되었는지를 봅니다. 간호기록 수행 비율이 대표적인 과정 지표입니다.",
+      "optionExplanations": [
+        "욕창·낙상 발생률은 간호 결과를 보여주는 결과 지표입니다.",
+        "환자 대비 간호사 수는 인력·시설 등 투입 요소를 보는 구조 지표입니다.",
+        "직무기술서 구비 여부도 구조 지표에 해당합니다.",
+        "간호기록 수행 비율은 간호 과정이 규정대로 이루어졌는지를 보는 과정 지표입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2024-local-management-C-q06",
+      "paperId": "paper_nursing_management_2024_local_C",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2024/local-C/q06.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n투약 전 환자 확인은 서로 독립된 두 가지 지표로 하며, 환자 이름과 등록번호처럼 확인 과정에서 환자 본인이나 팔찌로 대조할 수 있는 정보를 씁니다.",
+      "optionExplanations": [
+        "병실 호수와 병상 번호는 환자가 옮겨지면 바뀌므로 확인 지표로 부적절합니다.",
+        "병실 호수와 병상 번호는 둘 다 위치 정보여서 독립된 두 지표가 되지 못합니다.",
+        "환자 이름과 등록번호는 서로 다른 두 지표로 환자를 정확히 확인할 수 있습니다. 정답입니다.",
+        "등록번호와 병상 번호 중 병상 번호는 위치 정보여서 부적절합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2024-local-management-C-q07",
+      "paperId": "paper_nursing_management_2024_local_C",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2024/local-C/q07.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n유동자산은 1년 안에 현금화되거나 소비되는 자산으로, 의료용 소모품처럼 쓰면 없어지는 물품이 여기에 속합니다.",
+      "optionExplanations": [
+        "의료기기는 고가이며 장기간 사용하는 고정자산입니다.",
+        "기계설비는 건물·설비에 속하는 고정자산입니다.",
+        "일반 비품도 반복 사용하는 고정자산입니다.",
+        "의료용 소모품은 사용하면 소비되는 유동자산입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2024-local-management-C-q08",
+      "paperId": "paper_nursing_management_2024_local_C",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2024/local-C/q08.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n촉진전략은 광고·홍보·판촉 등으로 고객에게 정보를 알리고 구매를 자극하는 전략입니다. 지역 신문에 봉사활동 기사를 게재한 것은 홍보를 통한 촉진활동입니다.",
+      "optionExplanations": [
+        "제품전략은 서비스의 내용·수준을 바꾸는 전략입니다.",
+        "가격전략은 진료비·수가를 조정하는 전략입니다.",
+        "유통전략은 서비스가 전달되는 경로와 장소를 다루는 전략입니다.",
+        "신문 기사로 병원의 활동을 알린 것은 촉진전략입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2024-local-management-C-q09",
+      "paperId": "paper_nursing_management_2024_local_C",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/management/2024/local-C/q09.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n한국간호사 윤리강령의 전문인으로서 간호사의 의무에는 안전을 위한 간호, 정의와 신뢰의 증진 등이 담기고, 인간의 존엄성 보호와 간호 대상자 보호는 간호사와 대상자 영역에 해당합니다.",
+      "optionExplanations": [
+        "ㄱ 인간의 존엄성 보호는 간호사와 대상자 영역의 항목입니다.",
+        "ㄴ 안전을 위한 간호와 ㄷ 정의와 신뢰의 증진이 전문인으로서의 의무 영역에 속합니다. 정답입니다.",
+        "ㄷ은 맞지만 ㄹ 간호 대상자 보호는 간호사와 대상자 영역입니다.",
+        "ㄱ과 ㄹ은 간호사와 대상자 영역이므로 답이 되지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2024-local-management-C-q10",
+      "paperId": "paper_nursing_management_2024_local_C",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/management/2024/local-C/q10.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n보상적 권력은 상대가 원하는 보상(기회, 포상, 승진 등)을 줄 수 있는 능력에서 나오는 권력입니다. 해외여행 기회를 제공하기로 한 것은 보상적 권력입니다.",
+      "optionExplanations": [
+        "해외여행 기회라는 보상을 제공하므로 보상적 권력입니다. 정답입니다.",
+        "강압적 권력은 처벌·위협으로 복종을 얻는 권력입니다.",
+        "준거적 권력은 상대가 동일시하거나 따르고 싶어 하는 사람에게서 생기는 권력입니다.",
+        "전문적 권력은 전문 지식과 경험에서 나오는 권력입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2024-local-management-C-q11",
+      "paperId": "paper_nursing_management_2024_local_C",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2024/local-C/q11.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n환자안전법상 환자안전사고를 보건복지부장관에게 보고할 수 있는 사람은 보건의료기관의 장, 환자안전 전담인력, 보건의료인 등이며, 환자 보호자는 보고 주체에 포함되지 않습니다.",
+      "optionExplanations": [
+        "기관의 장만 보고할 수 있는 것은 아닙니다.",
+        "전담인력과 보건의료인 외에 기관의 장도 보고할 수 있습니다.",
+        "ㄱ, ㄴ, ㄷ 모두 환자안전법상 보고할 수 있는 사람입니다. 정답입니다.",
+        "환자 보호자는 법령상 보고 주체로 규정되어 있지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2024-local-management-C-q12",
+      "paperId": "paper_nursing_management_2024_local_C",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2024/local-C/q12.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n집단의사결정은 여러 사람이 참여해 수용도가 높아지지만 시간과 비용이 들고, 책임 소재가 불분명해지며, 최적안 대신 타협안이 선택되기 쉽습니다. 따라서 책임 소재가 명료하다는 것은 집단의사결정의 특징이 아닙니다.",
+      "optionExplanations": [
+        "구성원이 결정 과정에 참여하므로 수용도가 높아집니다.",
+        "의견을 모으는 데 시간과 비용이 많이 듭니다.",
+        "책임이 여러 사람에게 나뉘어 책임 소재가 오히려 불명료해집니다. 집단의사결정의 특징이 아닙니다. 정답입니다.",
+        "이해관계를 반영하다 보니 최적안보다 타협안을 고르기 쉽습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2024-local-management-C-q13",
+      "paperId": "paper_nursing_management_2024_local_C",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2024/local-C/q13.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n허즈버그의 동기-위생이론에서 위생 요인은 불만족을 없애는 요인일 뿐 만족이나 동기를 직접 높이지는 못하므로, 불만족을 줄이려면 위생 요인을 개선해야 합니다.",
+      "optionExplanations": [
+        "동기부여의 인지적 과정을 설명하는 것은 기대이론입니다.",
+        "외적 요인(작업 조건, 임금 등)은 위생 요인에 해당합니다.",
+        "위생 요인은 불만족을 줄일 뿐 성과 향상으로 이어지지 않습니다.",
+        "직무 불만족을 줄이려면 위생 요인을 개선해야 합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2024-local-management-C-q14",
+      "paperId": "paper_nursing_management_2024_local_C",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/management/2024/local-C/q14.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사전연명의료의향서처럼 환자가 의사능력이 있을 때 직접 밝힌 의사를 그대로 따르는 것을 순수 자율성 표준이라고 합니다.",
+      "optionExplanations": [
+        "대리 판단 표준은 환자의 가치관을 알고 있는 대리인이 판단하는 방식입니다.",
+        "환자가 직접 작성한 의향서에 따라 결정했으므로 순수 자율성 표준입니다. 정답입니다.",
+        "합리적 성인 표준은 합리적인 사람이라면 무엇을 원할지로 판단하는 방식입니다.",
+        "최선의 이익 표준은 환자에게 가장 이익이 되는 쪽으로 판단하는 방식입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2024-local-management-C-q15",
+      "paperId": "paper_nursing_management_2024_local_C",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2024/local-C/q15.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n스위스 치즈 모형에서 사고는 여러 방어층의 구멍이 우연히 겹칠 때 발생하며, 근본 원인은 눈에 잘 띄지 않는 잠재적(숨은) 오류입니다. 가시적 오류는 결과로 드러난 직접적 실수를 가리킵니다.",
+      "optionExplanations": [
+        "여러 단계에 방어벽을 두어 구멍이 겹치지 않게 해야 한다는 설명은 옳습니다.",
+        "사고는 개인의 실수가 아니라 여러 요인이 겹쳐 생긴다는 설명도 옳습니다.",
+        "개인보다 시스템을 바꿔야 한다는 설명도 스위스 치즈 모형에 부합합니다.",
+        "근본 원인은 가시적 오류가 아니라 잠재적 오류입니다. 옳지 않습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2024-local-management-C-q16",
+      "paperId": "paper_nursing_management_2024_local_C",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/management/2024/local-C/q16.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nTQM은 질이 낮은 서비스만 골라 고치는 활동이 아니라, 모든 부서가 참여해 과정과 결과를 함께 향상시키는 전사적·지속적 개선 활동입니다.",
+      "optionExplanations": [
+        "임상·비임상 부서가 모두 참여하는 전사적 활동이라는 설명은 옳습니다.",
+        "TQM은 문제가 있는 부분만 다루는 것이 아니라 전 과정의 질 향상을 지향합니다. 옳지 않습니다. 정답입니다.",
+        "통계 자료와 분석 도구로 문제의 단서를 찾는 설명은 옳습니다.",
+        "결과와 과정을 함께 개선한다는 설명도 옳습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2024-local-management-C-q17",
+      "paperId": "paper_nursing_management_2024_local_C",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2024/local-C/q17.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n자본예산은 시설·장비·토지처럼 여러 해에 걸쳐 쓰는 자산에 대한 투자 예산입니다. MRI 장비, 중환자실 침대, 토지 구입비가 여기에 속하고 전기수도료는 해마다 반복되는 운영예산입니다.",
+      "optionExplanations": [
+        "ㄱ 전기수도료는 반복적으로 지출되는 운영예산입니다.",
+        "ㄹ 토지는 자본예산이지만 ㄴ MRI 장비 구입비도 자본예산이므로 부족합니다.",
+        "ㄴ MRI 장비, ㄷ 환자 침대, ㄹ 토지 구입비가 모두 자본예산입니다. 정답입니다.",
+        "ㄱ 전기수도료가 포함되어 답이 되지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2024-local-management-C-q18",
+      "paperId": "paper_nursing_management_2024_local_C",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/management/2024/local-C/q18.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n급성기병원 인증기준의 환자진료체계 영역에는 정확한 환자 확인, 의료진 간 의사소통, 수술·시술의 정확한 수행, 낙상 예방, 손위생 등 환자 진료의 안전과 질에 관한 기준이 들어갑니다.",
+      "optionExplanations": [
+        "기본가치체계는 환자 존중과 권리 등 병원의 가치 지향을 다루는 영역입니다.",
+        "제시된 항목은 모두 환자 진료의 안전과 직접 관련된 환자진료체계 영역입니다. 정답입니다.",
+        "조직관리체계는 리더십·인력·시설 등 조직 운영을 다루는 영역입니다.",
+        "성과관리체계는 지표를 통한 성과 측정과 개선을 다루는 영역입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2024-local-management-C-q19",
+      "paperId": "paper_nursing_management_2024_local_C",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2024/local-C/q19.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n항암제처럼 세포독성이 있는 혼합 조제 약품은 환자에게 사용하지 않았더라도 재사용할 수 없고 폐기해야 합니다. 재사용을 전제로 반납약 처리하는 것은 옳지 않습니다.",
+      "optionExplanations": [
+        "유사 발음 약품을 떨어뜨려 보관하는 것은 혼동 예방을 위한 적절한 관리입니다.",
+        "냉장 보관 약품의 온도를 2~8도로 유지하는 것은 적절합니다.",
+        "혼합 조제 항암제는 재사용할 수 없으므로 재사용을 전제로 한 반납약 처리는 옳지 않습니다. 정답입니다.",
+        "비품약을 사용한 뒤 처방을 받아 다시 채우는 것은 적절한 관리입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2024-local-management-C-q20",
+      "paperId": "paper_nursing_management_2024_local_C",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2024/local-C/q20.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n고전적 관리이론에는 테일러의 과학적 관리론, 베버의 관료제론, 페이욜의 일반관리론이 속하고, 버틀란피의 시스템 이론은 현대(신) 관리이론에 해당합니다.",
+      "optionExplanations": [
+        "ㄱ은 고전적 이론이지만 ㄷ 페이욜도 고전적 이론이므로 부족합니다.",
+        "ㄹ 시스템 이론은 현대 관리이론이므로 답이 되지 않습니다.",
+        "ㄱ, ㄴ, ㄷ이 모두 고전적 관리이론입니다. 정답입니다.",
+        "ㄹ 시스템 이론이 포함되어 답이 되지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    }
+  ]
+}
