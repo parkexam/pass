@@ -59,6 +59,16 @@
       "questionCount": 40,
       "dataFile": "data/leet/reasoning/2027.json",
       "external": true
+    },
+    {
+      "id": "paper_civil_korean_2026_national_gah",
+      "subjectId": "sub_civil_0",
+      "title": "2026 국가직 9급 국어 가책형",
+      "year": 2026,
+      "source": "제공된 2026 국가직 가책형 문제지·정답표 기준 · 상세 해설 추후 등록",
+      "questionCount": 20,
+      "dataFile": "data/civil/korean/2026-national-gah.json",
+      "external": true
     }
   ]
 }
