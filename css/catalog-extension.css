@@ -1,0 +1,26 @@
+/* PASS expandable exam/category navigator. Preserve the existing B UI. */
+.catalog-group{margin-bottom:18px}
+.catalog-group .catalog-section-title{margin-top:0}
+.catalog-section-title{font-size:16px;font-weight:850;letter-spacing:-.04em;margin:21px 0 10px;color:#243857}
+.catalog-grid{gap:10px}
+.catalog-cat{min-height:92px;gap:6px;justify-content:center}
+.catalog-cat h3{font-size:15px;line-height:1.4}
+.catalog-cat p{font-size:11px;line-height:1.45}
+.catalog-search{display:flex;align-items:center;gap:10px;background:#fff;border:1px solid #e0e5ef;border-radius:15px;padding:0 13px;min-height:48px;margin:16px 0 20px;box-shadow:var(--shadow)}
+.catalog-search span{font-size:25px;color:#7385a5;line-height:1}
+.catalog-search input{flex:1;min-width:0;min-height:46px;font-size:15px;outline:0;border:0;background:transparent;color:var(--ink)}
+.catalog-search:focus-within{border-color:var(--blue);box-shadow:0 0 0 3px #4167f518}
+.catalog-muted-count{font-weight:700;font-size:12px;color:#91a0b5;margin-left:5px}
+.catalog-list{display:flex;flex-direction:column;gap:7px}
+.catalog-item{width:100%;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:14px 15px;border-radius:15px;background:#fff;border:1px solid var(--line);text-align:left;min-height:62px;box-shadow:0 4px 14px #24385a06}
+.catalog-item-main{display:flex;flex-direction:column;gap:3px;min-width:0;flex:1}
+.catalog-item-main b{font-size:14px;line-height:1.35;letter-spacing:-.025em}
+.catalog-item-main small{font-size:11px;color:var(--muted)}
+.catalog-chevron{font-size:23px;color:#9aa5b9;font-weight:450}
+.catalog-item:focus-visible,.catalog-cat:focus-visible{outline:2px solid var(--blue);outline-offset:2px}
+.catalog-item:active{background:#f7f9ff}
+.catalog-pending{margin:18px 0;padding:25px 20px;text-align:center;background:#fff;border:1px dashed #ccd5e4;border-radius:16px;color:#8897ad;font-size:14px}
+.catalog-footnote{font-size:11px;color:var(--muted);line-height:1.7;margin:22px 1px}
+.catalog-no-result{font-size:13px;color:var(--muted);margin:12px 0}
+.catalog-no-result[hidden],[data-catalog-item][hidden],[data-catalog-section][hidden]{display:none!important}
+@media(max-width:375px){.catalog-cat{padding:13px}.catalog-cat h3{font-size:14px}.catalog-item{padding:13px}.catalog-item-main b{font-size:13px}}

@@ -1,0 +1,3303 @@
+{
+  "version": 1,
+  "description": "PASS 확장 메뉴. 기존 data/catalog.json 및 기출문제 파일 변경 없음. 메뉴는 기출 등록 상태와 별개이며, 연도별 시행/자격·검정 방식은 공식 기관 공고 확인.",
+  "exams": [
+    {
+      "id": "civil",
+      "name": "9급 공무원",
+      "desc": "국가직·지방직·교육청 등",
+      "categoryGroup": "공무원",
+      "order": 10
+    },
+    {
+      "id": "nursing",
+      "name": "간호직",
+      "desc": "간호관리 · 지역사회간호",
+      "categoryGroup": "공무원",
+      "order": 11
+    },
+    {
+      "id": "civil7",
+      "name": "7급 공무원",
+      "desc": "국가직·지방직 직렬별 기출",
+      "categoryGroup": "공무원",
+      "order": 12
+    },
+    {
+      "id": "civil5",
+      "name": "5급 공무원·외교관",
+      "desc": "행정고시 · 기술고시 · 외교관후보자",
+      "categoryGroup": "공무원",
+      "order": 13
+    },
+    {
+      "id": "police",
+      "name": "경찰 공무원",
+      "desc": "순경 · 경찰간부 · 경력채용",
+      "categoryGroup": "공무원",
+      "order": 14
+    },
+    {
+      "id": "fire",
+      "name": "소방 공무원",
+      "desc": "소방사 · 소방간부 · 관련 경력경쟁",
+      "categoryGroup": "공무원",
+      "order": 15
+    },
+    {
+      "id": "military",
+      "name": "군무원",
+      "desc": "행정 · 군수 · 기술 · 전산 등",
+      "categoryGroup": "공무원",
+      "order": 16
+    },
+    {
+      "id": "public",
+      "name": "공기업·공공기관",
+      "desc": "NCS · 직무 전공 필기",
+      "categoryGroup": "공무원",
+      "order": 17
+    },
+    {
+      "id": "leet",
+      "name": "LEET",
+      "desc": "법학적성시험 · 추리논증",
+      "categoryGroup": "적성·입학",
+      "order": 20
+    },
+    {
+      "id": "meet",
+      "name": "MEET · M·DEET",
+      "desc": "과거 의·치의학교육입문검사 기출",
+      "categoryGroup": "적성·입학",
+      "order": 21
+    },
+    {
+      "id": "psat",
+      "name": "PSAT",
+      "desc": "공직적격성평가 · 유형별 대비",
+      "categoryGroup": "적성·입학",
+      "order": 22
+    },
+    {
+      "id": "cert-engineer",
+      "name": "국가기술자격 기사",
+      "desc": "객관식 필기 · 분야별 기사",
+      "categoryGroup": "국가기술자격",
+      "order": 30
+    },
+    {
+      "id": "cert-industrial",
+      "name": "국가기술자격 산업기사",
+      "desc": "객관식 필기 · 산업기사",
+      "categoryGroup": "국가기술자격",
+      "order": 31
+    },
+    {
+      "id": "cert-function",
+      "name": "국가기술자격 기능사",
+      "desc": "객관식 필기 · 기능사",
+      "categoryGroup": "국가기술자격",
+      "order": 32
+    },
+    {
+      "id": "cert-master",
+      "name": "국가기술자격 기능장",
+      "desc": "객관식 필기 · 기능장",
+      "categoryGroup": "국가기술자격",
+      "order": 33
+    },
+    {
+      "id": "cert-professional",
+      "name": "국가전문자격",
+      "desc": "객관식 시행 1차·필기 과목",
+      "categoryGroup": "자격·인증",
+      "order": 40
+    },
+    {
+      "id": "cert-health",
+      "name": "보건의료 국가시험",
+      "desc": "보건의료 직종별 필기",
+      "categoryGroup": "자격·인증",
+      "order": 41
+    },
+    {
+      "id": "cert-data",
+      "name": "IT·데이터·사무",
+      "desc": "컴활 · 정보처리 · SQL 등",
+      "categoryGroup": "자격·인증",
+      "order": 42
+    },
+    {
+      "id": "cert-finance",
+      "name": "금융·회계·경제",
+      "desc": "회계 · 금융 · 경제 지식",
+      "categoryGroup": "자격·인증",
+      "order": 43
+    },
+    {
+      "id": "cert-welfare",
+      "name": "복지·상담·교육",
+      "desc": "상담 · 복지 · 직업 전문 시험",
+      "categoryGroup": "자격·인증",
+      "order": 44
+    },
+    {
+      "id": "cert-history",
+      "name": "한국사·어학",
+      "desc": "한국사 · 어학 · 교양 시험",
+      "categoryGroup": "자격·인증",
+      "order": 45
+    }
+  ],
+  "subjectUpdates": [
+    {
+      "id": "sub_civil_0",
+      "section": "기존 등록 공통 과목"
+    },
+    {
+      "id": "sub_civil_1",
+      "section": "기존 등록 공통 과목"
+    },
+    {
+      "id": "sub_civil_2",
+      "section": "기존 등록 공통 과목"
+    },
+    {
+      "id": "sub_nursing_manage",
+      "section": "기존 등록 과목"
+    },
+    {
+      "id": "sub_nursing_community",
+      "section": "기존 등록 과목"
+    },
+    {
+      "id": "sub_leet_1",
+      "section": "기존 등록 과목"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "ext_1df0109fb54a",
+      "examId": "civil",
+      "name": "일반행정",
+      "section": "공통 기출·행정",
+      "kind": "track"
+    },
+    {
+      "id": "ext_434b383d99af",
+      "examId": "civil",
+      "name": "일반행정(지역구분)",
+      "section": "공통 기출·행정",
+      "kind": "track"
+    },
+    {
+      "id": "ext_7af990ad083a",
+      "examId": "civil",
+      "name": "우정사업본부 행정",
+      "section": "공통 기출·행정",
+      "kind": "track"
+    },
+    {
+      "id": "ext_6a9afea6c636",
+      "examId": "civil",
+      "name": "교육행정",
+      "section": "공통 기출·행정",
+      "kind": "track"
+    },
+    {
+      "id": "ext_9739c8c8c5eb",
+      "examId": "civil",
+      "name": "선거행정",
+      "section": "공통 기출·행정",
+      "kind": "track"
+    },
+    {
+      "id": "ext_10ab663eb7ed",
+      "examId": "civil",
+      "name": "고용노동",
+      "section": "공통 기출·행정",
+      "kind": "track"
+    },
+    {
+      "id": "ext_060fcd8d6740",
+      "examId": "civil",
+      "name": "직업상담",
+      "section": "공통 기출·행정",
+      "kind": "track"
+    },
+    {
+      "id": "ext_610d3b2acfac",
+      "examId": "civil",
+      "name": "사회복지",
+      "section": "공통 기출·행정",
+      "kind": "track"
+    },
+    {
+      "id": "ext_586bf5b28d10",
+      "examId": "civil",
+      "name": "사서",
+      "section": "공통 기출·행정",
+      "kind": "track"
+    },
+    {
+      "id": "ext_e2697c1bdd66",
+      "examId": "civil",
+      "name": "속기",
+      "section": "공통 기출·행정",
+      "kind": "track"
+    },
+    {
+      "id": "ext_e8c36db48d64",
+      "examId": "civil",
+      "name": "운전",
+      "section": "공통 기출·행정",
+      "kind": "track"
+    },
+    {
+      "id": "ext_7f8b962a0931",
+      "examId": "civil",
+      "name": "시설관리",
+      "section": "공통 기출·행정",
+      "kind": "track"
+    },
+    {
+      "id": "ext_c21900e44d44",
+      "examId": "civil",
+      "name": "방호",
+      "section": "공통 기출·행정",
+      "kind": "track"
+    },
+    {
+      "id": "ext_02b115f27274",
+      "examId": "civil",
+      "name": "세무",
+      "section": "조세·사법·치안",
+      "kind": "track"
+    },
+    {
+      "id": "ext_973a736263c6",
+      "examId": "civil",
+      "name": "관세",
+      "section": "조세·사법·치안",
+      "kind": "track"
+    },
+    {
+      "id": "ext_b79a26e6bdec",
+      "examId": "civil",
+      "name": "통계",
+      "section": "조세·사법·치안",
+      "kind": "track"
+    },
+    {
+      "id": "ext_c53407ad9c6f",
+      "examId": "civil",
+      "name": "교정",
+      "section": "조세·사법·치안",
+      "kind": "track"
+    },
+    {
+      "id": "ext_147306b7d91b",
+      "examId": "civil",
+      "name": "보호",
+      "section": "조세·사법·치안",
+      "kind": "track"
+    },
+    {
+      "id": "ext_81a4a997f52c",
+      "examId": "civil",
+      "name": "검찰",
+      "section": "조세·사법·치안",
+      "kind": "track"
+    },
+    {
+      "id": "ext_3012bd9b7df1",
+      "examId": "civil",
+      "name": "마약수사",
+      "section": "조세·사법·치안",
+      "kind": "track"
+    },
+    {
+      "id": "ext_beccee142abe",
+      "examId": "civil",
+      "name": "출입국관리",
+      "section": "조세·사법·치안",
+      "kind": "track"
+    },
+    {
+      "id": "ext_f57dc93a8978",
+      "examId": "civil",
+      "name": "철도관리",
+      "section": "조세·사법·치안",
+      "kind": "track"
+    },
+    {
+      "id": "ext_f4d755ddc233",
+      "examId": "civil",
+      "name": "철도경찰",
+      "section": "조세·사법·치안",
+      "kind": "track"
+    },
+    {
+      "id": "ext_b4945d18b315",
+      "examId": "civil",
+      "name": "일반기계",
+      "section": "과학기술·전산",
+      "kind": "track"
+    },
+    {
+      "id": "ext_7dcfe5d26276",
+      "examId": "civil",
+      "name": "전기",
+      "section": "과학기술·전산",
+      "kind": "track"
+    },
+    {
+      "id": "ext_fc8643562fe4",
+      "examId": "civil",
+      "name": "화공",
+      "section": "과학기술·전산",
+      "kind": "track"
+    },
+    {
+      "id": "ext_aab55847fcbb",
+      "examId": "civil",
+      "name": "전산개발",
+      "section": "과학기술·전산",
+      "kind": "track"
+    },
+    {
+      "id": "ext_456c423526ff",
+      "examId": "civil",
+      "name": "정보보호",
+      "section": "과학기술·전산",
+      "kind": "track"
+    },
+    {
+      "id": "ext_cedeaad65d54",
+      "examId": "civil",
+      "name": "방송통신(전송기술)",
+      "section": "과학기술·전산",
+      "kind": "track"
+    },
+    {
+      "id": "ext_96636c4b0a18",
+      "examId": "civil",
+      "name": "농업(일반농업)",
+      "section": "과학기술·전산",
+      "kind": "track"
+    },
+    {
+      "id": "ext_6cfbf4637b48",
+      "examId": "civil",
+      "name": "임업(산림자원)",
+      "section": "과학기술·전산",
+      "kind": "track"
+    },
+    {
+      "id": "ext_a32225420f46",
+      "examId": "civil",
+      "name": "환경(일반환경)",
+      "section": "과학기술·전산",
+      "kind": "track"
+    },
+    {
+      "id": "ext_99a1d8b508ea",
+      "examId": "civil",
+      "name": "일반토목",
+      "section": "과학기술·전산",
+      "kind": "track"
+    },
+    {
+      "id": "ext_a30a7b6c8c2d",
+      "examId": "civil",
+      "name": "건축",
+      "section": "과학기술·전산",
+      "kind": "track"
+    },
+    {
+      "id": "ext_cf039f6a4aad",
+      "examId": "civil",
+      "name": "지적",
+      "section": "과학기술·전산",
+      "kind": "track"
+    },
+    {
+      "id": "ext_d47c3d8bf944",
+      "examId": "civil",
+      "name": "방재안전",
+      "section": "과학기술·전산",
+      "kind": "track"
+    },
+    {
+      "id": "ext_8dc5b3a97253",
+      "examId": "civil",
+      "name": "보건",
+      "section": "보건·생활·지방직",
+      "kind": "track"
+    },
+    {
+      "id": "ext_437ba2654a4e",
+      "examId": "civil",
+      "name": "간호",
+      "section": "보건·생활·지방직",
+      "kind": "track"
+    },
+    {
+      "id": "ext_e33422f08156",
+      "examId": "civil",
+      "name": "보건진료",
+      "section": "보건·생활·지방직",
+      "kind": "track"
+    },
+    {
+      "id": "ext_8cff171dbf9a",
+      "examId": "civil",
+      "name": "의료기술",
+      "section": "보건·생활·지방직",
+      "kind": "track"
+    },
+    {
+      "id": "ext_da972265f9f9",
+      "examId": "civil",
+      "name": "식품위생",
+      "section": "보건·생활·지방직",
+      "kind": "track"
+    },
+    {
+      "id": "ext_8655097731fe",
+      "examId": "civil",
+      "name": "수의",
+      "section": "보건·생활·지방직",
+      "kind": "track"
+    },
+    {
+      "id": "ext_c6bc714895b2",
+      "examId": "civil",
+      "name": "농촌지도",
+      "section": "보건·생활·지방직",
+      "kind": "track"
+    },
+    {
+      "id": "ext_85f16f850add",
+      "examId": "civil",
+      "name": "녹지",
+      "section": "보건·생활·지방직",
+      "kind": "track"
+    },
+    {
+      "id": "ext_77788f93ad77",
+      "examId": "civil",
+      "name": "조경",
+      "section": "보건·생활·지방직",
+      "kind": "track"
+    },
+    {
+      "id": "ext_2fcf6c7f31c2",
+      "examId": "civil",
+      "name": "기계운영",
+      "section": "보건·생활·지방직",
+      "kind": "track"
+    },
+    {
+      "id": "ext_4469b535d468",
+      "examId": "civil7",
+      "name": "일반행정",
+      "section": "행정·법무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_feb3420f99dc",
+      "examId": "civil7",
+      "name": "인사조직",
+      "section": "행정·법무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_47b210aaeb07",
+      "examId": "civil7",
+      "name": "교육행정",
+      "section": "행정·법무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_1c9b88016acf",
+      "examId": "civil7",
+      "name": "고용노동",
+      "section": "행정·법무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_1c3a8f8ab32c",
+      "examId": "civil7",
+      "name": "재경",
+      "section": "행정·법무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_4f201c0b33a3",
+      "examId": "civil7",
+      "name": "법무행정",
+      "section": "행정·법무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_b9c6cb66b317",
+      "examId": "civil7",
+      "name": "감사",
+      "section": "행정·법무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_d62536fb4afe",
+      "examId": "civil7",
+      "name": "세무",
+      "section": "행정·법무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_e8c279c645fc",
+      "examId": "civil7",
+      "name": "관세",
+      "section": "행정·법무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_7b79054d59e2",
+      "examId": "civil7",
+      "name": "통계",
+      "section": "행정·법무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_d2298121eebc",
+      "examId": "civil7",
+      "name": "검찰",
+      "section": "행정·법무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_f03dfa3cc2b2",
+      "examId": "civil7",
+      "name": "출입국관리",
+      "section": "행정·법무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_f47c8f68308d",
+      "examId": "civil7",
+      "name": "일반기계",
+      "section": "기술·보건",
+      "kind": "track"
+    },
+    {
+      "id": "ext_5a2b46c8fa48",
+      "examId": "civil7",
+      "name": "전기",
+      "section": "기술·보건",
+      "kind": "track"
+    },
+    {
+      "id": "ext_837859877920",
+      "examId": "civil7",
+      "name": "화공",
+      "section": "기술·보건",
+      "kind": "track"
+    },
+    {
+      "id": "ext_990f991c0172",
+      "examId": "civil7",
+      "name": "농업",
+      "section": "기술·보건",
+      "kind": "track"
+    },
+    {
+      "id": "ext_2734929062ff",
+      "examId": "civil7",
+      "name": "임업",
+      "section": "기술·보건",
+      "kind": "track"
+    },
+    {
+      "id": "ext_70893639d9d9",
+      "examId": "civil7",
+      "name": "환경",
+      "section": "기술·보건",
+      "kind": "track"
+    },
+    {
+      "id": "ext_54e69240df56",
+      "examId": "civil7",
+      "name": "일반토목",
+      "section": "기술·보건",
+      "kind": "track"
+    },
+    {
+      "id": "ext_f91339d4d697",
+      "examId": "civil7",
+      "name": "건축",
+      "section": "기술·보건",
+      "kind": "track"
+    },
+    {
+      "id": "ext_e55e17ce7f41",
+      "examId": "civil7",
+      "name": "방재안전",
+      "section": "기술·보건",
+      "kind": "track"
+    },
+    {
+      "id": "ext_cf9dc67ea12c",
+      "examId": "civil7",
+      "name": "전산개발",
+      "section": "기술·보건",
+      "kind": "track"
+    },
+    {
+      "id": "ext_fa30fcaa1c2b",
+      "examId": "civil7",
+      "name": "정보보호",
+      "section": "기술·보건",
+      "kind": "track"
+    },
+    {
+      "id": "ext_bd8d1386a35d",
+      "examId": "civil7",
+      "name": "방송통신",
+      "section": "기술·보건",
+      "kind": "track"
+    },
+    {
+      "id": "ext_83f90b75fccb",
+      "examId": "civil7",
+      "name": "보건",
+      "section": "기술·보건",
+      "kind": "track"
+    },
+    {
+      "id": "ext_7cb510325f2d",
+      "examId": "civil7",
+      "name": "수의",
+      "section": "기술·보건",
+      "kind": "track"
+    },
+    {
+      "id": "ext_d388ce7c00d0",
+      "examId": "civil7",
+      "name": "간호",
+      "section": "기술·보건",
+      "kind": "track"
+    },
+    {
+      "id": "ext_128c77e47b05",
+      "examId": "civil5",
+      "name": "일반행정",
+      "section": "5급 행정직군",
+      "kind": "track"
+    },
+    {
+      "id": "ext_c69856721d82",
+      "examId": "civil5",
+      "name": "재경",
+      "section": "5급 행정직군",
+      "kind": "track"
+    },
+    {
+      "id": "ext_63e847217df4",
+      "examId": "civil5",
+      "name": "법무행정",
+      "section": "5급 행정직군",
+      "kind": "track"
+    },
+    {
+      "id": "ext_b6890d550699",
+      "examId": "civil5",
+      "name": "국제통상",
+      "section": "5급 행정직군",
+      "kind": "track"
+    },
+    {
+      "id": "ext_6c18204aee7a",
+      "examId": "civil5",
+      "name": "사회복지",
+      "section": "5급 행정직군",
+      "kind": "track"
+    },
+    {
+      "id": "ext_bfc8ade2960a",
+      "examId": "civil5",
+      "name": "교육행정",
+      "section": "5급 행정직군",
+      "kind": "track"
+    },
+    {
+      "id": "ext_9c9007e45f6d",
+      "examId": "civil5",
+      "name": "인사조직",
+      "section": "5급 행정직군",
+      "kind": "track"
+    },
+    {
+      "id": "ext_cd3a570a431b",
+      "examId": "civil5",
+      "name": "일반기계",
+      "section": "5급 기술직군",
+      "kind": "track"
+    },
+    {
+      "id": "ext_5251ec72e936",
+      "examId": "civil5",
+      "name": "전기",
+      "section": "5급 기술직군",
+      "kind": "track"
+    },
+    {
+      "id": "ext_b883cab219a3",
+      "examId": "civil5",
+      "name": "화공",
+      "section": "5급 기술직군",
+      "kind": "track"
+    },
+    {
+      "id": "ext_448b777a8559",
+      "examId": "civil5",
+      "name": "농업",
+      "section": "5급 기술직군",
+      "kind": "track"
+    },
+    {
+      "id": "ext_3316b9ed1fa1",
+      "examId": "civil5",
+      "name": "임업",
+      "section": "5급 기술직군",
+      "kind": "track"
+    },
+    {
+      "id": "ext_8f94e1eab0c1",
+      "examId": "civil5",
+      "name": "환경",
+      "section": "5급 기술직군",
+      "kind": "track"
+    },
+    {
+      "id": "ext_1029cb2ca1c8",
+      "examId": "civil5",
+      "name": "일반토목",
+      "section": "5급 기술직군",
+      "kind": "track"
+    },
+    {
+      "id": "ext_3e2c9f5c0a5e",
+      "examId": "civil5",
+      "name": "건축",
+      "section": "5급 기술직군",
+      "kind": "track"
+    },
+    {
+      "id": "ext_bc1941c92733",
+      "examId": "civil5",
+      "name": "전산개발",
+      "section": "5급 기술직군",
+      "kind": "track"
+    },
+    {
+      "id": "ext_28127ac71b65",
+      "examId": "civil5",
+      "name": "통신기술",
+      "section": "5급 기술직군",
+      "kind": "track"
+    },
+    {
+      "id": "ext_68ac0fb58c70",
+      "examId": "civil5",
+      "name": "기상",
+      "section": "5급 기술직군",
+      "kind": "track"
+    },
+    {
+      "id": "ext_683530dead0e",
+      "examId": "civil5",
+      "name": "외교관후보자 일반외교",
+      "section": "외교관후보자",
+      "kind": "track"
+    },
+    {
+      "id": "ext_0021b20ec322",
+      "examId": "civil5",
+      "name": "외교관후보자 지역외교(해당 공고 기준)",
+      "section": "외교관후보자",
+      "kind": "track"
+    },
+    {
+      "id": "ext_bcbc2735dcb9",
+      "examId": "police",
+      "name": "순경 공개채용",
+      "section": "공채·경채",
+      "kind": "track"
+    },
+    {
+      "id": "ext_07bceb895030",
+      "examId": "police",
+      "name": "경찰간부후보생",
+      "section": "공채·경채",
+      "kind": "track"
+    },
+    {
+      "id": "ext_849ac1202b19",
+      "examId": "police",
+      "name": "101경비단",
+      "section": "공채·경채",
+      "kind": "track"
+    },
+    {
+      "id": "ext_d0a82c674b85",
+      "examId": "police",
+      "name": "경찰행정 경력채용",
+      "section": "공채·경채",
+      "kind": "track"
+    },
+    {
+      "id": "ext_72b9391f4f9a",
+      "examId": "police",
+      "name": "사이버수사 경력채용",
+      "section": "공채·경채",
+      "kind": "track"
+    },
+    {
+      "id": "ext_d229ab0b3645",
+      "examId": "police",
+      "name": "과학수사 경력채용",
+      "section": "공채·경채",
+      "kind": "track"
+    },
+    {
+      "id": "ext_891b4402cfc0",
+      "examId": "fire",
+      "name": "소방사 공개채용",
+      "section": "공채·경채",
+      "kind": "track"
+    },
+    {
+      "id": "ext_a9c43da634c1",
+      "examId": "fire",
+      "name": "소방간부후보생",
+      "section": "공채·경채",
+      "kind": "track"
+    },
+    {
+      "id": "ext_add0793787ed",
+      "examId": "fire",
+      "name": "소방 구조",
+      "section": "공채·경채",
+      "kind": "track"
+    },
+    {
+      "id": "ext_1232c60ad301",
+      "examId": "fire",
+      "name": "소방 구급",
+      "section": "공채·경채",
+      "kind": "track"
+    },
+    {
+      "id": "ext_49374d47d76f",
+      "examId": "fire",
+      "name": "소방 관련학과 경력채용",
+      "section": "공채·경채",
+      "kind": "track"
+    },
+    {
+      "id": "ext_58e19c18fabe",
+      "examId": "fire",
+      "name": "소방 정보통신 경력채용",
+      "section": "공채·경채",
+      "kind": "track"
+    },
+    {
+      "id": "ext_ba12a1d030ce",
+      "examId": "military",
+      "name": "행정",
+      "section": "행정·정보",
+      "kind": "track"
+    },
+    {
+      "id": "ext_ffd811494f7d",
+      "examId": "military",
+      "name": "군수",
+      "section": "행정·정보",
+      "kind": "track"
+    },
+    {
+      "id": "ext_1fc802a07e76",
+      "examId": "military",
+      "name": "사서",
+      "section": "행정·정보",
+      "kind": "track"
+    },
+    {
+      "id": "ext_2fd50e7eed03",
+      "examId": "military",
+      "name": "군사정보",
+      "section": "행정·정보",
+      "kind": "track"
+    },
+    {
+      "id": "ext_4305a98596c4",
+      "examId": "military",
+      "name": "기술정보",
+      "section": "행정·정보",
+      "kind": "track"
+    },
+    {
+      "id": "ext_180cb05620d4",
+      "examId": "military",
+      "name": "수사",
+      "section": "행정·정보",
+      "kind": "track"
+    },
+    {
+      "id": "ext_e5d1167a03f0",
+      "examId": "military",
+      "name": "전기",
+      "section": "기술·시설",
+      "kind": "track"
+    },
+    {
+      "id": "ext_73bb8a071173",
+      "examId": "military",
+      "name": "전자",
+      "section": "기술·시설",
+      "kind": "track"
+    },
+    {
+      "id": "ext_13327facd821",
+      "examId": "military",
+      "name": "통신",
+      "section": "기술·시설",
+      "kind": "track"
+    },
+    {
+      "id": "ext_23a87d263208",
+      "examId": "military",
+      "name": "전산",
+      "section": "기술·시설",
+      "kind": "track"
+    },
+    {
+      "id": "ext_6026ba152241",
+      "examId": "military",
+      "name": "사이버",
+      "section": "기술·시설",
+      "kind": "track"
+    },
+    {
+      "id": "ext_aced19ac348a",
+      "examId": "military",
+      "name": "기계",
+      "section": "기술·시설",
+      "kind": "track"
+    },
+    {
+      "id": "ext_a8ae5c7718f2",
+      "examId": "military",
+      "name": "금속",
+      "section": "기술·시설",
+      "kind": "track"
+    },
+    {
+      "id": "ext_8cfdcf6db02f",
+      "examId": "military",
+      "name": "일반차량",
+      "section": "기술·시설",
+      "kind": "track"
+    },
+    {
+      "id": "ext_5a667e7d29cc",
+      "examId": "military",
+      "name": "시설",
+      "section": "기술·시설",
+      "kind": "track"
+    },
+    {
+      "id": "ext_d2e547b2ef51",
+      "examId": "military",
+      "name": "건축",
+      "section": "기술·시설",
+      "kind": "track"
+    },
+    {
+      "id": "ext_de17d2a5617b",
+      "examId": "military",
+      "name": "환경",
+      "section": "기술·시설",
+      "kind": "track"
+    },
+    {
+      "id": "ext_13d632811ce9",
+      "examId": "military",
+      "name": "탄약",
+      "section": "기술·시설",
+      "kind": "track"
+    },
+    {
+      "id": "ext_2f8a7f1cb45d",
+      "examId": "military",
+      "name": "항공기관",
+      "section": "기술·시설",
+      "kind": "track"
+    },
+    {
+      "id": "ext_7d09b2e500bb",
+      "examId": "military",
+      "name": "항공기체",
+      "section": "기술·시설",
+      "kind": "track"
+    },
+    {
+      "id": "ext_6b83c1330c5b",
+      "examId": "military",
+      "name": "항공전자",
+      "section": "기술·시설",
+      "kind": "track"
+    },
+    {
+      "id": "ext_7bef94792d83",
+      "examId": "military",
+      "name": "항공지원",
+      "section": "기술·시설",
+      "kind": "track"
+    },
+    {
+      "id": "ext_ce67fe6e5e1c",
+      "examId": "military",
+      "name": "병리",
+      "section": "기술·시설",
+      "kind": "track"
+    },
+    {
+      "id": "ext_0c2579477a85",
+      "examId": "military",
+      "name": "방사선",
+      "section": "기술·시설",
+      "kind": "track"
+    },
+    {
+      "id": "ext_f6dbdc0059ae",
+      "examId": "military",
+      "name": "간호",
+      "section": "기술·시설",
+      "kind": "track"
+    },
+    {
+      "id": "ext_7a83c67566e3",
+      "examId": "public",
+      "name": "NCS 의사소통",
+      "section": "직업기초·전공",
+      "kind": "track"
+    },
+    {
+      "id": "ext_b811ef548428",
+      "examId": "public",
+      "name": "NCS 수리",
+      "section": "직업기초·전공",
+      "kind": "track"
+    },
+    {
+      "id": "ext_d4dc18a145a1",
+      "examId": "public",
+      "name": "NCS 문제해결",
+      "section": "직업기초·전공",
+      "kind": "track"
+    },
+    {
+      "id": "ext_6eec711bf1cf",
+      "examId": "public",
+      "name": "NCS 자원관리",
+      "section": "직업기초·전공",
+      "kind": "track"
+    },
+    {
+      "id": "ext_657dcc90844c",
+      "examId": "public",
+      "name": "NCS 정보",
+      "section": "직업기초·전공",
+      "kind": "track"
+    },
+    {
+      "id": "ext_9288a7ace32d",
+      "examId": "public",
+      "name": "NCS 조직이해",
+      "section": "직업기초·전공",
+      "kind": "track"
+    },
+    {
+      "id": "ext_7020e7599aee",
+      "examId": "public",
+      "name": "NCS 대인관계",
+      "section": "직업기초·전공",
+      "kind": "track"
+    },
+    {
+      "id": "ext_e0965f427faf",
+      "examId": "public",
+      "name": "NCS 기술",
+      "section": "직업기초·전공",
+      "kind": "track"
+    },
+    {
+      "id": "ext_faf488ce486e",
+      "examId": "public",
+      "name": "NCS 직업윤리",
+      "section": "직업기초·전공",
+      "kind": "track"
+    },
+    {
+      "id": "ext_cd3bca1a591f",
+      "examId": "public",
+      "name": "공공기관 행정 전공",
+      "section": "직업기초·전공",
+      "kind": "track"
+    },
+    {
+      "id": "ext_cd056c68a225",
+      "examId": "public",
+      "name": "공공기관 경영 전공",
+      "section": "직업기초·전공",
+      "kind": "track"
+    },
+    {
+      "id": "ext_9776d8c305d5",
+      "examId": "public",
+      "name": "공공기관 전기 전공",
+      "section": "직업기초·전공",
+      "kind": "track"
+    },
+    {
+      "id": "ext_7a1fe3a21fb7",
+      "examId": "public",
+      "name": "공공기관 기계 전공",
+      "section": "직업기초·전공",
+      "kind": "track"
+    },
+    {
+      "id": "ext_04129dc0ddf4",
+      "examId": "leet",
+      "name": "언어이해",
+      "section": "적성검사",
+      "kind": "track"
+    },
+    {
+      "id": "ext_c3b7018c7ad5",
+      "examId": "leet",
+      "name": "논술",
+      "section": "적성검사",
+      "kind": "track"
+    },
+    {
+      "id": "ext_01e76a3d9e7d",
+      "examId": "meet",
+      "name": "M·DEET 자연과학Ⅰ",
+      "section": "과거 시험(통합·구형)",
+      "kind": "track"
+    },
+    {
+      "id": "ext_4b3439b89ae1",
+      "examId": "meet",
+      "name": "M·DEET 자연과학Ⅱ",
+      "section": "과거 시험(통합·구형)",
+      "kind": "track"
+    },
+    {
+      "id": "ext_e8f9cd6fb1a2",
+      "examId": "meet",
+      "name": "구 MEET 자연과학",
+      "section": "과거 시험(통합·구형)",
+      "kind": "track"
+    },
+    {
+      "id": "ext_d8889fd7c9ae",
+      "examId": "meet",
+      "name": "구 DEET 자연과학",
+      "section": "과거 시험(통합·구형)",
+      "kind": "track"
+    },
+    {
+      "id": "ext_c08a7a181b89",
+      "examId": "psat",
+      "name": "언어논리",
+      "section": "평가영역",
+      "kind": "track"
+    },
+    {
+      "id": "ext_048c703e4bc7",
+      "examId": "psat",
+      "name": "자료해석",
+      "section": "평가영역",
+      "kind": "track"
+    },
+    {
+      "id": "ext_a11eb1d106c2",
+      "examId": "psat",
+      "name": "상황판단",
+      "section": "평가영역",
+      "kind": "track"
+    },
+    {
+      "id": "ext_2954d7217191",
+      "examId": "cert-engineer",
+      "name": "정보처리기사",
+      "section": "정보·통신",
+      "kind": "track"
+    },
+    {
+      "id": "ext_7d8a9db2ad1f",
+      "examId": "cert-engineer",
+      "name": "정보보안기사",
+      "section": "정보·통신",
+      "kind": "track"
+    },
+    {
+      "id": "ext_b453dd720ca1",
+      "examId": "cert-engineer",
+      "name": "정보통신기사",
+      "section": "정보·통신",
+      "kind": "track"
+    },
+    {
+      "id": "ext_4a215741d0cf",
+      "examId": "cert-engineer",
+      "name": "빅데이터분석기사",
+      "section": "정보·통신",
+      "kind": "track"
+    },
+    {
+      "id": "ext_b698465a95bb",
+      "examId": "cert-engineer",
+      "name": "전자계산기기사",
+      "section": "정보·통신",
+      "kind": "track"
+    },
+    {
+      "id": "ext_b8b4bad208da",
+      "examId": "cert-engineer",
+      "name": "전자계산기조직응용기사",
+      "section": "정보·통신",
+      "kind": "track"
+    },
+    {
+      "id": "ext_ed85869f7dab",
+      "examId": "cert-engineer",
+      "name": "전기기사",
+      "section": "전기·전자",
+      "kind": "track"
+    },
+    {
+      "id": "ext_dd40f7e4778d",
+      "examId": "cert-engineer",
+      "name": "전기공사기사",
+      "section": "전기·전자",
+      "kind": "track"
+    },
+    {
+      "id": "ext_062983148797",
+      "examId": "cert-engineer",
+      "name": "전자기사",
+      "section": "전기·전자",
+      "kind": "track"
+    },
+    {
+      "id": "ext_d0d5d10c0926",
+      "examId": "cert-engineer",
+      "name": "무선설비기사",
+      "section": "전기·전자",
+      "kind": "track"
+    },
+    {
+      "id": "ext_89acf061d9a4",
+      "examId": "cert-engineer",
+      "name": "전파전자통신기사",
+      "section": "전기·전자",
+      "kind": "track"
+    },
+    {
+      "id": "ext_57570c7ba4fb",
+      "examId": "cert-engineer",
+      "name": "산업안전기사",
+      "section": "안전·환경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_13d7668ecce0",
+      "examId": "cert-engineer",
+      "name": "건설안전기사",
+      "section": "안전·환경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_aa66df36412d",
+      "examId": "cert-engineer",
+      "name": "소방설비기사(전기분야)",
+      "section": "안전·환경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_4ca8ce06362b",
+      "examId": "cert-engineer",
+      "name": "소방설비기사(기계분야)",
+      "section": "안전·환경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_0dc8f9306d63",
+      "examId": "cert-engineer",
+      "name": "가스기사",
+      "section": "안전·환경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_c5def093e92a",
+      "examId": "cert-engineer",
+      "name": "대기환경기사",
+      "section": "안전·환경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_e00309a0ebbc",
+      "examId": "cert-engineer",
+      "name": "수질환경기사",
+      "section": "안전·환경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_6cd58b318794",
+      "examId": "cert-engineer",
+      "name": "폐기물처리기사",
+      "section": "안전·환경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_3044592dbb2e",
+      "examId": "cert-engineer",
+      "name": "소음진동기사",
+      "section": "안전·환경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_4dd52b7da472",
+      "examId": "cert-engineer",
+      "name": "인간공학기사",
+      "section": "안전·환경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_659968eacaeb",
+      "examId": "cert-engineer",
+      "name": "환경위해관리기사",
+      "section": "안전·환경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_c8ae47256d28",
+      "examId": "cert-engineer",
+      "name": "일반기계기사",
+      "section": "기계·자동차",
+      "kind": "track"
+    },
+    {
+      "id": "ext_1c029dee5c49",
+      "examId": "cert-engineer",
+      "name": "기계설계기사",
+      "section": "기계·자동차",
+      "kind": "track"
+    },
+    {
+      "id": "ext_1d65afeaa891",
+      "examId": "cert-engineer",
+      "name": "공조냉동기계기사",
+      "section": "기계·자동차",
+      "kind": "track"
+    },
+    {
+      "id": "ext_654d5de09481",
+      "examId": "cert-engineer",
+      "name": "설비보전기사",
+      "section": "기계·자동차",
+      "kind": "track"
+    },
+    {
+      "id": "ext_dfd4f1c5bdd0",
+      "examId": "cert-engineer",
+      "name": "건설기계설비기사",
+      "section": "기계·자동차",
+      "kind": "track"
+    },
+    {
+      "id": "ext_34fd6363de2a",
+      "examId": "cert-engineer",
+      "name": "자동차정비기사",
+      "section": "기계·자동차",
+      "kind": "track"
+    },
+    {
+      "id": "ext_de02ab2b82b8",
+      "examId": "cert-engineer",
+      "name": "메카트로닉스기사",
+      "section": "기계·자동차",
+      "kind": "track"
+    },
+    {
+      "id": "ext_21bfc949ddfc",
+      "examId": "cert-engineer",
+      "name": "건축기사",
+      "section": "토목·건축",
+      "kind": "track"
+    },
+    {
+      "id": "ext_12b58a48870f",
+      "examId": "cert-engineer",
+      "name": "건축설비기사",
+      "section": "토목·건축",
+      "kind": "track"
+    },
+    {
+      "id": "ext_10fc2765e1aa",
+      "examId": "cert-engineer",
+      "name": "토목기사",
+      "section": "토목·건축",
+      "kind": "track"
+    },
+    {
+      "id": "ext_2ae80962f9d1",
+      "examId": "cert-engineer",
+      "name": "실내건축기사",
+      "section": "토목·건축",
+      "kind": "track"
+    },
+    {
+      "id": "ext_60b6db7215dd",
+      "examId": "cert-engineer",
+      "name": "조경기사",
+      "section": "토목·건축",
+      "kind": "track"
+    },
+    {
+      "id": "ext_18a0275fa449",
+      "examId": "cert-engineer",
+      "name": "측량및지형공간정보기사",
+      "section": "토목·건축",
+      "kind": "track"
+    },
+    {
+      "id": "ext_b4029d38a9ec",
+      "examId": "cert-engineer",
+      "name": "지적기사",
+      "section": "토목·건축",
+      "kind": "track"
+    },
+    {
+      "id": "ext_e838262bcf17",
+      "examId": "cert-engineer",
+      "name": "도시계획기사",
+      "section": "토목·건축",
+      "kind": "track"
+    },
+    {
+      "id": "ext_de2dbeb011c4",
+      "examId": "cert-engineer",
+      "name": "교통기사",
+      "section": "토목·건축",
+      "kind": "track"
+    },
+    {
+      "id": "ext_ef5c0ba651b1",
+      "examId": "cert-engineer",
+      "name": "콘크리트기사",
+      "section": "토목·건축",
+      "kind": "track"
+    },
+    {
+      "id": "ext_fdda98ce5019",
+      "examId": "cert-engineer",
+      "name": "건설재료시험기사",
+      "section": "토목·건축",
+      "kind": "track"
+    },
+    {
+      "id": "ext_42c2fc0618c6",
+      "examId": "cert-engineer",
+      "name": "화공기사",
+      "section": "화학·바이오",
+      "kind": "track"
+    },
+    {
+      "id": "ext_e26a0a378991",
+      "examId": "cert-engineer",
+      "name": "화학분석기사",
+      "section": "화학·바이오",
+      "kind": "track"
+    },
+    {
+      "id": "ext_a0eba0596abc",
+      "examId": "cert-engineer",
+      "name": "바이오화학제품제조기사",
+      "section": "화학·바이오",
+      "kind": "track"
+    },
+    {
+      "id": "ext_6368429976fb",
+      "examId": "cert-engineer",
+      "name": "식품기사",
+      "section": "화학·바이오",
+      "kind": "track"
+    },
+    {
+      "id": "ext_8091ba692644",
+      "examId": "cert-engineer",
+      "name": "화약류관리기사",
+      "section": "화학·바이오",
+      "kind": "track"
+    },
+    {
+      "id": "ext_399b222c74cb",
+      "examId": "cert-engineer",
+      "name": "산림기사",
+      "section": "농림·자원",
+      "kind": "track"
+    },
+    {
+      "id": "ext_11b64c16c7c6",
+      "examId": "cert-engineer",
+      "name": "식물보호기사",
+      "section": "농림·자원",
+      "kind": "track"
+    },
+    {
+      "id": "ext_867992f2d8be",
+      "examId": "cert-engineer",
+      "name": "종자기사",
+      "section": "농림·자원",
+      "kind": "track"
+    },
+    {
+      "id": "ext_3e8a02e408fc",
+      "examId": "cert-engineer",
+      "name": "축산기사",
+      "section": "농림·자원",
+      "kind": "track"
+    },
+    {
+      "id": "ext_6d7011c60e58",
+      "examId": "cert-engineer",
+      "name": "유기농업기사",
+      "section": "농림·자원",
+      "kind": "track"
+    },
+    {
+      "id": "ext_a6079f7a2b6f",
+      "examId": "cert-engineer",
+      "name": "시설원예기사",
+      "section": "농림·자원",
+      "kind": "track"
+    },
+    {
+      "id": "ext_6d86229683ab",
+      "examId": "cert-engineer",
+      "name": "농화학기사",
+      "section": "농림·자원",
+      "kind": "track"
+    },
+    {
+      "id": "ext_d8c426269fef",
+      "examId": "cert-engineer",
+      "name": "수산양식기사",
+      "section": "농림·자원",
+      "kind": "track"
+    },
+    {
+      "id": "ext_848a9fb042e1",
+      "examId": "cert-engineer",
+      "name": "에너지관리기사",
+      "section": "에너지·기상",
+      "kind": "track"
+    },
+    {
+      "id": "ext_9b1762317ac4",
+      "examId": "cert-engineer",
+      "name": "신재생에너지발전설비기사(태양광)",
+      "section": "에너지·기상",
+      "kind": "track"
+    },
+    {
+      "id": "ext_563fc1f7b269",
+      "examId": "cert-engineer",
+      "name": "기상기사",
+      "section": "에너지·기상",
+      "kind": "track"
+    },
+    {
+      "id": "ext_7caa4bb0775a",
+      "examId": "cert-engineer",
+      "name": "품질경영기사",
+      "section": "산업·경영",
+      "kind": "track"
+    },
+    {
+      "id": "ext_896c675c15dd",
+      "examId": "cert-engineer",
+      "name": "사회조사분석사 1급",
+      "section": "산업·경영",
+      "kind": "track"
+    },
+    {
+      "id": "ext_b39c490b7cf3",
+      "examId": "cert-engineer",
+      "name": "포장기사",
+      "section": "산업·경영",
+      "kind": "track"
+    },
+    {
+      "id": "ext_45d5fb1f2e24",
+      "examId": "cert-industrial",
+      "name": "전기산업기사",
+      "section": "전기·전자·정보",
+      "kind": "track"
+    },
+    {
+      "id": "ext_6ec962f20c4f",
+      "examId": "cert-industrial",
+      "name": "전기공사산업기사",
+      "section": "전기·전자·정보",
+      "kind": "track"
+    },
+    {
+      "id": "ext_b5d27bdd55b4",
+      "examId": "cert-industrial",
+      "name": "전자산업기사",
+      "section": "전기·전자·정보",
+      "kind": "track"
+    },
+    {
+      "id": "ext_5ca84d4c1a1b",
+      "examId": "cert-industrial",
+      "name": "정보처리산업기사",
+      "section": "전기·전자·정보",
+      "kind": "track"
+    },
+    {
+      "id": "ext_f3a5eb9fe339",
+      "examId": "cert-industrial",
+      "name": "정보보안산업기사",
+      "section": "전기·전자·정보",
+      "kind": "track"
+    },
+    {
+      "id": "ext_b76a7615c27b",
+      "examId": "cert-industrial",
+      "name": "정보통신산업기사",
+      "section": "전기·전자·정보",
+      "kind": "track"
+    },
+    {
+      "id": "ext_445c43fc4ec5",
+      "examId": "cert-industrial",
+      "name": "기계설계산업기사",
+      "section": "기계·설비",
+      "kind": "track"
+    },
+    {
+      "id": "ext_20e2cc9265c3",
+      "examId": "cert-industrial",
+      "name": "공조냉동기계산업기사",
+      "section": "기계·설비",
+      "kind": "track"
+    },
+    {
+      "id": "ext_72cab1d5a64a",
+      "examId": "cert-industrial",
+      "name": "설비보전산업기사",
+      "section": "기계·설비",
+      "kind": "track"
+    },
+    {
+      "id": "ext_ed6c85e9e18c",
+      "examId": "cert-industrial",
+      "name": "자동차정비산업기사",
+      "section": "기계·설비",
+      "kind": "track"
+    },
+    {
+      "id": "ext_fdb84f582287",
+      "examId": "cert-industrial",
+      "name": "건설기계정비산업기사",
+      "section": "기계·설비",
+      "kind": "track"
+    },
+    {
+      "id": "ext_4482d3ddd1d6",
+      "examId": "cert-industrial",
+      "name": "건축산업기사",
+      "section": "건설·토목",
+      "kind": "track"
+    },
+    {
+      "id": "ext_27b768c05b1d",
+      "examId": "cert-industrial",
+      "name": "건축설비산업기사",
+      "section": "건설·토목",
+      "kind": "track"
+    },
+    {
+      "id": "ext_db34b5f3d10b",
+      "examId": "cert-industrial",
+      "name": "토목산업기사",
+      "section": "건설·토목",
+      "kind": "track"
+    },
+    {
+      "id": "ext_72666e49257d",
+      "examId": "cert-industrial",
+      "name": "실내건축산업기사",
+      "section": "건설·토목",
+      "kind": "track"
+    },
+    {
+      "id": "ext_688901b65888",
+      "examId": "cert-industrial",
+      "name": "조경산업기사",
+      "section": "건설·토목",
+      "kind": "track"
+    },
+    {
+      "id": "ext_6c01a5633ec5",
+      "examId": "cert-industrial",
+      "name": "측량및지형공간정보산업기사",
+      "section": "건설·토목",
+      "kind": "track"
+    },
+    {
+      "id": "ext_c89591e74413",
+      "examId": "cert-industrial",
+      "name": "산업안전산업기사",
+      "section": "안전·환경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_8e74cf415629",
+      "examId": "cert-industrial",
+      "name": "건설안전산업기사",
+      "section": "안전·환경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_d7e0a8bbd36b",
+      "examId": "cert-industrial",
+      "name": "소방설비산업기사(전기분야)",
+      "section": "안전·환경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_30c2d4369706",
+      "examId": "cert-industrial",
+      "name": "소방설비산업기사(기계분야)",
+      "section": "안전·환경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_bb67e7634342",
+      "examId": "cert-industrial",
+      "name": "가스산업기사",
+      "section": "안전·환경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_80f19c5693ac",
+      "examId": "cert-industrial",
+      "name": "대기환경산업기사",
+      "section": "안전·환경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_28f03af32616",
+      "examId": "cert-industrial",
+      "name": "수질환경산업기사",
+      "section": "안전·환경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_dba63257c656",
+      "examId": "cert-industrial",
+      "name": "폐기물처리산업기사",
+      "section": "안전·환경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_fa770aed80dc",
+      "examId": "cert-industrial",
+      "name": "화공산업기사",
+      "section": "화학·품질·식품",
+      "kind": "track"
+    },
+    {
+      "id": "ext_01ff6e6baab7",
+      "examId": "cert-industrial",
+      "name": "위험물산업기사",
+      "section": "화학·품질·식품",
+      "kind": "track"
+    },
+    {
+      "id": "ext_5618f221be9d",
+      "examId": "cert-industrial",
+      "name": "품질경영산업기사",
+      "section": "화학·품질·식품",
+      "kind": "track"
+    },
+    {
+      "id": "ext_6bbb4c06c420",
+      "examId": "cert-industrial",
+      "name": "식품산업기사",
+      "section": "화학·품질·식품",
+      "kind": "track"
+    },
+    {
+      "id": "ext_33a31fd1cd53",
+      "examId": "cert-industrial",
+      "name": "산림산업기사",
+      "section": "농림·에너지",
+      "kind": "track"
+    },
+    {
+      "id": "ext_6f6c61535a7b",
+      "examId": "cert-industrial",
+      "name": "식물보호산업기사",
+      "section": "농림·에너지",
+      "kind": "track"
+    },
+    {
+      "id": "ext_080ac2db589d",
+      "examId": "cert-industrial",
+      "name": "종자산업기사",
+      "section": "농림·에너지",
+      "kind": "track"
+    },
+    {
+      "id": "ext_a0b65f859595",
+      "examId": "cert-industrial",
+      "name": "축산산업기사",
+      "section": "농림·에너지",
+      "kind": "track"
+    },
+    {
+      "id": "ext_c72e1dea5505",
+      "examId": "cert-industrial",
+      "name": "에너지관리산업기사",
+      "section": "농림·에너지",
+      "kind": "track"
+    },
+    {
+      "id": "ext_c30f616be35a",
+      "examId": "cert-industrial",
+      "name": "신재생에너지발전설비산업기사(태양광)",
+      "section": "농림·에너지",
+      "kind": "track"
+    },
+    {
+      "id": "ext_4cb866bf49a2",
+      "examId": "cert-function",
+      "name": "전기기능사",
+      "section": "전기·전자·정보",
+      "kind": "track"
+    },
+    {
+      "id": "ext_dc72b569edad",
+      "examId": "cert-function",
+      "name": "전자기기기능사",
+      "section": "전기·전자·정보",
+      "kind": "track"
+    },
+    {
+      "id": "ext_9e103e0f84dd",
+      "examId": "cert-function",
+      "name": "전자캐드기능사",
+      "section": "전기·전자·정보",
+      "kind": "track"
+    },
+    {
+      "id": "ext_41fb4ac52ea3",
+      "examId": "cert-function",
+      "name": "정보기기운용기능사",
+      "section": "전기·전자·정보",
+      "kind": "track"
+    },
+    {
+      "id": "ext_c8cbb43d1dbc",
+      "examId": "cert-function",
+      "name": "프로그래밍기능사",
+      "section": "전기·전자·정보",
+      "kind": "track"
+    },
+    {
+      "id": "ext_71926dc3d265",
+      "examId": "cert-function",
+      "name": "3D프린터운용기능사",
+      "section": "전기·전자·정보",
+      "kind": "track"
+    },
+    {
+      "id": "ext_aa1a1dfa37e5",
+      "examId": "cert-function",
+      "name": "공조냉동기계기능사",
+      "section": "기계·설비",
+      "kind": "track"
+    },
+    {
+      "id": "ext_c0f055b49ae3",
+      "examId": "cert-function",
+      "name": "설비보전기능사",
+      "section": "기계·설비",
+      "kind": "track"
+    },
+    {
+      "id": "ext_fc14c68efe4c",
+      "examId": "cert-function",
+      "name": "자동차정비기능사",
+      "section": "기계·설비",
+      "kind": "track"
+    },
+    {
+      "id": "ext_a1f915aa066b",
+      "examId": "cert-function",
+      "name": "기계가공조립기능사",
+      "section": "기계·설비",
+      "kind": "track"
+    },
+    {
+      "id": "ext_bfb0636285f4",
+      "examId": "cert-function",
+      "name": "전산응용기계제도기능사",
+      "section": "기계·설비",
+      "kind": "track"
+    },
+    {
+      "id": "ext_88093649add7",
+      "examId": "cert-function",
+      "name": "컴퓨터응용밀링기능사",
+      "section": "기계·설비",
+      "kind": "track"
+    },
+    {
+      "id": "ext_899409a9ce04",
+      "examId": "cert-function",
+      "name": "컴퓨터응용선반기능사",
+      "section": "기계·설비",
+      "kind": "track"
+    },
+    {
+      "id": "ext_fe3ab07e6683",
+      "examId": "cert-function",
+      "name": "승강기기능사",
+      "section": "기계·설비",
+      "kind": "track"
+    },
+    {
+      "id": "ext_5f5d89134d10",
+      "examId": "cert-function",
+      "name": "실내건축기능사",
+      "section": "건설·조경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_ecee96e363f6",
+      "examId": "cert-function",
+      "name": "전산응용건축제도기능사",
+      "section": "건설·조경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_e1ec33e5f9bc",
+      "examId": "cert-function",
+      "name": "전산응용토목제도기능사",
+      "section": "건설·조경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_e9dbb409c29d",
+      "examId": "cert-function",
+      "name": "조경기능사",
+      "section": "건설·조경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_12bcbbb90852",
+      "examId": "cert-function",
+      "name": "콘크리트기능사",
+      "section": "건설·조경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_40f1930be3ef",
+      "examId": "cert-function",
+      "name": "지적기능사",
+      "section": "건설·조경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_214e71bf9880",
+      "examId": "cert-function",
+      "name": "측량기능사",
+      "section": "건설·조경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_aa6c5136680d",
+      "examId": "cert-function",
+      "name": "위험물기능사",
+      "section": "안전·에너지·환경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_77d58c415b30",
+      "examId": "cert-function",
+      "name": "가스기능사",
+      "section": "안전·에너지·환경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_9c4e855aa6ec",
+      "examId": "cert-function",
+      "name": "환경기능사",
+      "section": "안전·에너지·환경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_5edcc1f55213",
+      "examId": "cert-function",
+      "name": "에너지관리기능사",
+      "section": "안전·에너지·환경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_eff0856321d8",
+      "examId": "cert-function",
+      "name": "신재생에너지발전설비기능사(태양광)",
+      "section": "안전·에너지·환경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_4fad4458d44c",
+      "examId": "cert-function",
+      "name": "화학분석기능사",
+      "section": "안전·에너지·환경",
+      "kind": "track"
+    },
+    {
+      "id": "ext_bdab295f1ecf",
+      "examId": "cert-function",
+      "name": "한식조리기능사",
+      "section": "조리·식품",
+      "kind": "track"
+    },
+    {
+      "id": "ext_f0490f6b99a4",
+      "examId": "cert-function",
+      "name": "양식조리기능사",
+      "section": "조리·식품",
+      "kind": "track"
+    },
+    {
+      "id": "ext_d6a709d4a21d",
+      "examId": "cert-function",
+      "name": "중식조리기능사",
+      "section": "조리·식품",
+      "kind": "track"
+    },
+    {
+      "id": "ext_26ed5f154802",
+      "examId": "cert-function",
+      "name": "일식조리기능사",
+      "section": "조리·식품",
+      "kind": "track"
+    },
+    {
+      "id": "ext_3e5c5114a400",
+      "examId": "cert-function",
+      "name": "복어조리기능사",
+      "section": "조리·식품",
+      "kind": "track"
+    },
+    {
+      "id": "ext_caad0e9aae07",
+      "examId": "cert-function",
+      "name": "제과기능사",
+      "section": "조리·식품",
+      "kind": "track"
+    },
+    {
+      "id": "ext_2aa9edd423e3",
+      "examId": "cert-function",
+      "name": "제빵기능사",
+      "section": "조리·식품",
+      "kind": "track"
+    },
+    {
+      "id": "ext_4dd9f05485e4",
+      "examId": "cert-function",
+      "name": "조주기능사",
+      "section": "조리·식품",
+      "kind": "track"
+    },
+    {
+      "id": "ext_bde4b94a0b35",
+      "examId": "cert-function",
+      "name": "떡제조기능사",
+      "section": "조리·식품",
+      "kind": "track"
+    },
+    {
+      "id": "ext_21ca5783dc14",
+      "examId": "cert-function",
+      "name": "미용사(일반)",
+      "section": "미용·디자인",
+      "kind": "track"
+    },
+    {
+      "id": "ext_2b24998e4b34",
+      "examId": "cert-function",
+      "name": "미용사(피부)",
+      "section": "미용·디자인",
+      "kind": "track"
+    },
+    {
+      "id": "ext_eed3640aec38",
+      "examId": "cert-function",
+      "name": "미용사(네일)",
+      "section": "미용·디자인",
+      "kind": "track"
+    },
+    {
+      "id": "ext_ed03222b1f13",
+      "examId": "cert-function",
+      "name": "미용사(메이크업)",
+      "section": "미용·디자인",
+      "kind": "track"
+    },
+    {
+      "id": "ext_9ee5a8e37b78",
+      "examId": "cert-function",
+      "name": "이용사",
+      "section": "미용·디자인",
+      "kind": "track"
+    },
+    {
+      "id": "ext_39ee03c93bf2",
+      "examId": "cert-function",
+      "name": "컴퓨터그래픽기능사",
+      "section": "미용·디자인",
+      "kind": "track"
+    },
+    {
+      "id": "ext_51541b319a2b",
+      "examId": "cert-function",
+      "name": "웹디자인개발기능사",
+      "section": "미용·디자인",
+      "kind": "track"
+    },
+    {
+      "id": "ext_f71106a037e6",
+      "examId": "cert-function",
+      "name": "원예기능사",
+      "section": "농업·산림·기타",
+      "kind": "track"
+    },
+    {
+      "id": "ext_0be2c46c23ef",
+      "examId": "cert-function",
+      "name": "종자기능사",
+      "section": "농업·산림·기타",
+      "kind": "track"
+    },
+    {
+      "id": "ext_1a8037cb2d02",
+      "examId": "cert-function",
+      "name": "유기농업기능사",
+      "section": "농업·산림·기타",
+      "kind": "track"
+    },
+    {
+      "id": "ext_693f0d5dc890",
+      "examId": "cert-function",
+      "name": "축산기능사",
+      "section": "농업·산림·기타",
+      "kind": "track"
+    },
+    {
+      "id": "ext_fa5928a0429f",
+      "examId": "cert-function",
+      "name": "식육처리기능사",
+      "section": "농업·산림·기타",
+      "kind": "track"
+    },
+    {
+      "id": "ext_a9f719ef5876",
+      "examId": "cert-function",
+      "name": "버섯종균기능사",
+      "section": "농업·산림·기타",
+      "kind": "track"
+    },
+    {
+      "id": "ext_551504525975",
+      "examId": "cert-function",
+      "name": "산림기능사",
+      "section": "농업·산림·기타",
+      "kind": "track"
+    },
+    {
+      "id": "ext_ae667937db9d",
+      "examId": "cert-function",
+      "name": "지게차운전기능사",
+      "section": "농업·산림·기타",
+      "kind": "track"
+    },
+    {
+      "id": "ext_4e53693987e2",
+      "examId": "cert-function",
+      "name": "굴착기운전기능사",
+      "section": "농업·산림·기타",
+      "kind": "track"
+    },
+    {
+      "id": "ext_f6c27fbf3c54",
+      "examId": "cert-master",
+      "name": "전기기능장",
+      "section": "기계·전기·안전",
+      "kind": "track"
+    },
+    {
+      "id": "ext_a1283711c2ca",
+      "examId": "cert-master",
+      "name": "위험물기능장",
+      "section": "기계·전기·안전",
+      "kind": "track"
+    },
+    {
+      "id": "ext_818dd9088675",
+      "examId": "cert-master",
+      "name": "가스기능장",
+      "section": "기계·전기·안전",
+      "kind": "track"
+    },
+    {
+      "id": "ext_b5b2920b6f0e",
+      "examId": "cert-master",
+      "name": "에너지관리기능장",
+      "section": "기계·전기·안전",
+      "kind": "track"
+    },
+    {
+      "id": "ext_3c0c11197a4b",
+      "examId": "cert-master",
+      "name": "배관기능장",
+      "section": "기계·전기·안전",
+      "kind": "track"
+    },
+    {
+      "id": "ext_ab1841ead47f",
+      "examId": "cert-master",
+      "name": "용접기능장",
+      "section": "기계·전기·안전",
+      "kind": "track"
+    },
+    {
+      "id": "ext_3a4c8aa66050",
+      "examId": "cert-master",
+      "name": "기계가공기능장",
+      "section": "기계·전기·안전",
+      "kind": "track"
+    },
+    {
+      "id": "ext_35e085d86376",
+      "examId": "cert-master",
+      "name": "품질관리기능장",
+      "section": "품질·미용·식품",
+      "kind": "track"
+    },
+    {
+      "id": "ext_3152fa1d227b",
+      "examId": "cert-master",
+      "name": "미용장",
+      "section": "품질·미용·식품",
+      "kind": "track"
+    },
+    {
+      "id": "ext_5187a159e8f6",
+      "examId": "cert-master",
+      "name": "이용장",
+      "section": "품질·미용·식품",
+      "kind": "track"
+    },
+    {
+      "id": "ext_66abab709ae3",
+      "examId": "cert-master",
+      "name": "제과기능장",
+      "section": "품질·미용·식품",
+      "kind": "track"
+    },
+    {
+      "id": "ext_3615ba0b7598",
+      "examId": "cert-master",
+      "name": "제빵기능장",
+      "section": "품질·미용·식품",
+      "kind": "track"
+    },
+    {
+      "id": "ext_cb7dbe795b5b",
+      "examId": "cert-master",
+      "name": "조리기능장",
+      "section": "품질·미용·식품",
+      "kind": "track"
+    },
+    {
+      "id": "ext_4ca570822894",
+      "examId": "cert-professional",
+      "name": "공인중개사",
+      "section": "부동산·법률",
+      "kind": "track"
+    },
+    {
+      "id": "ext_c1f05665f7cd",
+      "examId": "cert-professional",
+      "name": "주택관리사보",
+      "section": "부동산·법률",
+      "kind": "track"
+    },
+    {
+      "id": "ext_d0ac1e8e02d2",
+      "examId": "cert-professional",
+      "name": "감정평가사",
+      "section": "부동산·법률",
+      "kind": "track"
+    },
+    {
+      "id": "ext_ec4b4a3998ba",
+      "examId": "cert-professional",
+      "name": "법무사",
+      "section": "부동산·법률",
+      "kind": "track"
+    },
+    {
+      "id": "ext_280cb3c1a114",
+      "examId": "cert-professional",
+      "name": "행정사",
+      "section": "부동산·법률",
+      "kind": "track"
+    },
+    {
+      "id": "ext_9e2cb09b1bc1",
+      "examId": "cert-professional",
+      "name": "변리사",
+      "section": "부동산·법률",
+      "kind": "track"
+    },
+    {
+      "id": "ext_a508de464e64",
+      "examId": "cert-professional",
+      "name": "세무사",
+      "section": "세무·회계·무역",
+      "kind": "track"
+    },
+    {
+      "id": "ext_36367b7eee0d",
+      "examId": "cert-professional",
+      "name": "공인회계사",
+      "section": "세무·회계·무역",
+      "kind": "track"
+    },
+    {
+      "id": "ext_6f14f135dcb9",
+      "examId": "cert-professional",
+      "name": "관세사",
+      "section": "세무·회계·무역",
+      "kind": "track"
+    },
+    {
+      "id": "ext_2c73ed1b1deb",
+      "examId": "cert-professional",
+      "name": "경영지도사",
+      "section": "세무·회계·무역",
+      "kind": "track"
+    },
+    {
+      "id": "ext_111151ee0f58",
+      "examId": "cert-professional",
+      "name": "기술지도사",
+      "section": "세무·회계·무역",
+      "kind": "track"
+    },
+    {
+      "id": "ext_b8af92e7a41f",
+      "examId": "cert-professional",
+      "name": "손해평가사",
+      "section": "세무·회계·무역",
+      "kind": "track"
+    },
+    {
+      "id": "ext_98359d8147f9",
+      "examId": "cert-professional",
+      "name": "원산지관리사",
+      "section": "세무·회계·무역",
+      "kind": "track"
+    },
+    {
+      "id": "ext_1179fa6eb604",
+      "examId": "cert-professional",
+      "name": "공인노무사",
+      "section": "노무·인사·보안",
+      "kind": "track"
+    },
+    {
+      "id": "ext_285fdffec451",
+      "examId": "cert-professional",
+      "name": "경비지도사(일반)",
+      "section": "노무·인사·보안",
+      "kind": "track"
+    },
+    {
+      "id": "ext_c54f4d7e19fc",
+      "examId": "cert-professional",
+      "name": "경비지도사(기계)",
+      "section": "노무·인사·보안",
+      "kind": "track"
+    },
+    {
+      "id": "ext_4aa5e735dec5",
+      "examId": "cert-professional",
+      "name": "직업상담사 1급",
+      "section": "노무·인사·보안",
+      "kind": "track"
+    },
+    {
+      "id": "ext_ceff4d549722",
+      "examId": "cert-professional",
+      "name": "직업상담사 2급",
+      "section": "노무·인사·보안",
+      "kind": "track"
+    },
+    {
+      "id": "ext_2b4710b95e41",
+      "examId": "cert-professional",
+      "name": "사회복지사 1급",
+      "section": "사회·관광·유통",
+      "kind": "track"
+    },
+    {
+      "id": "ext_bf44f9c5238f",
+      "examId": "cert-professional",
+      "name": "청소년상담사 1급",
+      "section": "사회·관광·유통",
+      "kind": "track"
+    },
+    {
+      "id": "ext_d0daa4bf98a8",
+      "examId": "cert-professional",
+      "name": "청소년상담사 2급",
+      "section": "사회·관광·유통",
+      "kind": "track"
+    },
+    {
+      "id": "ext_ac4aa3702b80",
+      "examId": "cert-professional",
+      "name": "청소년상담사 3급",
+      "section": "사회·관광·유통",
+      "kind": "track"
+    },
+    {
+      "id": "ext_33ca568c2980",
+      "examId": "cert-professional",
+      "name": "한국어교육능력검정시험",
+      "section": "사회·관광·유통",
+      "kind": "track"
+    },
+    {
+      "id": "ext_49c856656a40",
+      "examId": "cert-professional",
+      "name": "관광통역안내사",
+      "section": "사회·관광·유통",
+      "kind": "track"
+    },
+    {
+      "id": "ext_b05ff9517a3f",
+      "examId": "cert-professional",
+      "name": "국내여행안내사",
+      "section": "사회·관광·유통",
+      "kind": "track"
+    },
+    {
+      "id": "ext_25e51f9dd1e3",
+      "examId": "cert-professional",
+      "name": "호텔관리사",
+      "section": "사회·관광·유통",
+      "kind": "track"
+    },
+    {
+      "id": "ext_a59c2404dea3",
+      "examId": "cert-professional",
+      "name": "호텔서비스사",
+      "section": "사회·관광·유통",
+      "kind": "track"
+    },
+    {
+      "id": "ext_de317f3d2141",
+      "examId": "cert-professional",
+      "name": "물류관리사",
+      "section": "사회·관광·유통",
+      "kind": "track"
+    },
+    {
+      "id": "ext_26a2b58189b8",
+      "examId": "cert-professional",
+      "name": "유통관리사 1급",
+      "section": "사회·관광·유통",
+      "kind": "track"
+    },
+    {
+      "id": "ext_49f083622d80",
+      "examId": "cert-professional",
+      "name": "유통관리사 2급",
+      "section": "사회·관광·유통",
+      "kind": "track"
+    },
+    {
+      "id": "ext_0e4f8eb0942f",
+      "examId": "cert-professional",
+      "name": "유통관리사 3급",
+      "section": "사회·관광·유통",
+      "kind": "track"
+    },
+    {
+      "id": "ext_2d2a0892e9cd",
+      "examId": "cert-health",
+      "name": "간호사",
+      "section": "간호·의료",
+      "kind": "track"
+    },
+    {
+      "id": "ext_e901290f6486",
+      "examId": "cert-health",
+      "name": "간호조무사",
+      "section": "간호·의료",
+      "kind": "track"
+    },
+    {
+      "id": "ext_c0f3072737a1",
+      "examId": "cert-health",
+      "name": "요양보호사",
+      "section": "간호·의료",
+      "kind": "track"
+    },
+    {
+      "id": "ext_a2f870446793",
+      "examId": "cert-health",
+      "name": "조산사",
+      "section": "간호·의료",
+      "kind": "track"
+    },
+    {
+      "id": "ext_075ae17b802b",
+      "examId": "cert-health",
+      "name": "의사(필기)",
+      "section": "간호·의료",
+      "kind": "track"
+    },
+    {
+      "id": "ext_a0740bb3e68b",
+      "examId": "cert-health",
+      "name": "치과의사(필기)",
+      "section": "간호·의료",
+      "kind": "track"
+    },
+    {
+      "id": "ext_7ee1b404fe4a",
+      "examId": "cert-health",
+      "name": "한의사",
+      "section": "간호·의료",
+      "kind": "track"
+    },
+    {
+      "id": "ext_a2eba6680cc2",
+      "examId": "cert-health",
+      "name": "약사",
+      "section": "간호·의료",
+      "kind": "track"
+    },
+    {
+      "id": "ext_d2d1952bc3d2",
+      "examId": "cert-health",
+      "name": "한약사",
+      "section": "간호·의료",
+      "kind": "track"
+    },
+    {
+      "id": "ext_9afac7c76daf",
+      "examId": "cert-health",
+      "name": "임상병리사",
+      "section": "검사·치료",
+      "kind": "track"
+    },
+    {
+      "id": "ext_e02ea20ba223",
+      "examId": "cert-health",
+      "name": "방사선사",
+      "section": "검사·치료",
+      "kind": "track"
+    },
+    {
+      "id": "ext_e84059cd3672",
+      "examId": "cert-health",
+      "name": "물리치료사",
+      "section": "검사·치료",
+      "kind": "track"
+    },
+    {
+      "id": "ext_68d406cfd76a",
+      "examId": "cert-health",
+      "name": "작업치료사",
+      "section": "검사·치료",
+      "kind": "track"
+    },
+    {
+      "id": "ext_4c5239347087",
+      "examId": "cert-health",
+      "name": "치과위생사",
+      "section": "검사·치료",
+      "kind": "track"
+    },
+    {
+      "id": "ext_cfd11c520a74",
+      "examId": "cert-health",
+      "name": "치과기공사",
+      "section": "검사·치료",
+      "kind": "track"
+    },
+    {
+      "id": "ext_71a2939c3103",
+      "examId": "cert-health",
+      "name": "안경사",
+      "section": "검사·치료",
+      "kind": "track"
+    },
+    {
+      "id": "ext_1eb5a411f9d2",
+      "examId": "cert-health",
+      "name": "보건의료정보관리사",
+      "section": "검사·치료",
+      "kind": "track"
+    },
+    {
+      "id": "ext_c8c84cf00ed7",
+      "examId": "cert-health",
+      "name": "1급 응급구조사(필기)",
+      "section": "응급·재활",
+      "kind": "track"
+    },
+    {
+      "id": "ext_08d79179da37",
+      "examId": "cert-health",
+      "name": "2급 응급구조사(필기)",
+      "section": "응급·재활",
+      "kind": "track"
+    },
+    {
+      "id": "ext_5cb0885acc90",
+      "examId": "cert-health",
+      "name": "의지·보조기기사(필기)",
+      "section": "응급·재활",
+      "kind": "track"
+    },
+    {
+      "id": "ext_bfc37020d5e4",
+      "examId": "cert-health",
+      "name": "1급 언어재활사",
+      "section": "응급·재활",
+      "kind": "track"
+    },
+    {
+      "id": "ext_d18a4b62d74e",
+      "examId": "cert-health",
+      "name": "2급 언어재활사",
+      "section": "응급·재활",
+      "kind": "track"
+    },
+    {
+      "id": "ext_7dd6b191d977",
+      "examId": "cert-health",
+      "name": "1급 장애인재활상담사",
+      "section": "응급·재활",
+      "kind": "track"
+    },
+    {
+      "id": "ext_9078be17f8e7",
+      "examId": "cert-health",
+      "name": "2급 장애인재활상담사",
+      "section": "응급·재활",
+      "kind": "track"
+    },
+    {
+      "id": "ext_d5ba500951b7",
+      "examId": "cert-health",
+      "name": "보조공학사",
+      "section": "응급·재활",
+      "kind": "track"
+    },
+    {
+      "id": "ext_225a14ce7c20",
+      "examId": "cert-health",
+      "name": "영양사",
+      "section": "영양·보건",
+      "kind": "track"
+    },
+    {
+      "id": "ext_6be5c7faa71d",
+      "examId": "cert-health",
+      "name": "위생사",
+      "section": "영양·보건",
+      "kind": "track"
+    },
+    {
+      "id": "ext_e045e70d34f4",
+      "examId": "cert-health",
+      "name": "보건교육사 1급",
+      "section": "영양·보건",
+      "kind": "track"
+    },
+    {
+      "id": "ext_8c6af899d4ed",
+      "examId": "cert-health",
+      "name": "보건교육사 2급",
+      "section": "영양·보건",
+      "kind": "track"
+    },
+    {
+      "id": "ext_9d602ccaea0f",
+      "examId": "cert-health",
+      "name": "보건교육사 3급",
+      "section": "영양·보건",
+      "kind": "track"
+    },
+    {
+      "id": "ext_875305268f00",
+      "examId": "cert-data",
+      "name": "ADsP 데이터분석준전문가",
+      "section": "데이터·개발",
+      "kind": "track"
+    },
+    {
+      "id": "ext_f05944d3839a",
+      "examId": "cert-data",
+      "name": "ADP 데이터분석전문가(필기)",
+      "section": "데이터·개발",
+      "kind": "track"
+    },
+    {
+      "id": "ext_6994ca493c28",
+      "examId": "cert-data",
+      "name": "SQLD SQL개발자",
+      "section": "데이터·개발",
+      "kind": "track"
+    },
+    {
+      "id": "ext_4ec7330422b8",
+      "examId": "cert-data",
+      "name": "SQLP SQL전문가(필기)",
+      "section": "데이터·개발",
+      "kind": "track"
+    },
+    {
+      "id": "ext_3c2f6d370a59",
+      "examId": "cert-data",
+      "name": "DAsP 데이터아키텍처준전문가",
+      "section": "데이터·개발",
+      "kind": "track"
+    },
+    {
+      "id": "ext_f1abda3be247",
+      "examId": "cert-data",
+      "name": "DAP 데이터아키텍처전문가",
+      "section": "데이터·개발",
+      "kind": "track"
+    },
+    {
+      "id": "ext_3494ec4c7f5c",
+      "examId": "cert-data",
+      "name": "빅데이터분석기사(필기)",
+      "section": "데이터·개발",
+      "kind": "track"
+    },
+    {
+      "id": "ext_7ac912ef4adb",
+      "examId": "cert-data",
+      "name": "컴퓨터활용능력 1급(필기)",
+      "section": "컴퓨터·사무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_6415e34a9064",
+      "examId": "cert-data",
+      "name": "컴퓨터활용능력 2급(필기)",
+      "section": "컴퓨터·사무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_0fb765dcd0e6",
+      "examId": "cert-data",
+      "name": "워드프로세서(필기)",
+      "section": "컴퓨터·사무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_a123f5d7b8f1",
+      "examId": "cert-data",
+      "name": "전산회계운용사 1급(필기)",
+      "section": "컴퓨터·사무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_862c68dba958",
+      "examId": "cert-data",
+      "name": "전산회계운용사 2급(필기)",
+      "section": "컴퓨터·사무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_d50c2cb7b882",
+      "examId": "cert-data",
+      "name": "전산회계운용사 3급(필기)",
+      "section": "컴퓨터·사무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_e827fcfd9df1",
+      "examId": "cert-data",
+      "name": "정보처리기사(필기)",
+      "section": "컴퓨터·사무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_efa483b2bb04",
+      "examId": "cert-data",
+      "name": "정보보안기사(필기)",
+      "section": "컴퓨터·사무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_f6934bc6139f",
+      "examId": "cert-data",
+      "name": "리눅스마스터 1급",
+      "section": "전산·보안",
+      "kind": "track"
+    },
+    {
+      "id": "ext_6be338aa02cd",
+      "examId": "cert-data",
+      "name": "리눅스마스터 2급",
+      "section": "전산·보안",
+      "kind": "track"
+    },
+    {
+      "id": "ext_b07101991a1c",
+      "examId": "cert-data",
+      "name": "네트워크관리사 2급",
+      "section": "전산·보안",
+      "kind": "track"
+    },
+    {
+      "id": "ext_e42edf63e82f",
+      "examId": "cert-finance",
+      "name": "전산회계 1급",
+      "section": "회계·세무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_c48ccd686e9e",
+      "examId": "cert-finance",
+      "name": "전산회계 2급",
+      "section": "회계·세무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_ebfe3428427b",
+      "examId": "cert-finance",
+      "name": "전산세무 1급",
+      "section": "회계·세무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_89151a61c7ad",
+      "examId": "cert-finance",
+      "name": "전산세무 2급",
+      "section": "회계·세무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_fe1288aa853e",
+      "examId": "cert-finance",
+      "name": "FAT 1급",
+      "section": "회계·세무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_e03ca473d5b2",
+      "examId": "cert-finance",
+      "name": "FAT 2급",
+      "section": "회계·세무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_f1ea7a054543",
+      "examId": "cert-finance",
+      "name": "TAT 1급",
+      "section": "회계·세무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_f420fa4ea415",
+      "examId": "cert-finance",
+      "name": "TAT 2급",
+      "section": "회계·세무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_e1f0d2771f36",
+      "examId": "cert-finance",
+      "name": "재경관리사",
+      "section": "회계·세무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_f1a7d5c8f18e",
+      "examId": "cert-finance",
+      "name": "회계관리 1급",
+      "section": "회계·세무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_b50fc88dfca3",
+      "examId": "cert-finance",
+      "name": "회계관리 2급",
+      "section": "회계·세무",
+      "kind": "track"
+    },
+    {
+      "id": "ext_bd9797f29766",
+      "examId": "cert-finance",
+      "name": "은행FP",
+      "section": "금융·은행",
+      "kind": "track"
+    },
+    {
+      "id": "ext_a463e2d185c2",
+      "examId": "cert-finance",
+      "name": "AFPK",
+      "section": "금융·은행",
+      "kind": "track"
+    },
+    {
+      "id": "ext_cd51c15337ab",
+      "examId": "cert-finance",
+      "name": "CFP(필기)",
+      "section": "금융·은행",
+      "kind": "track"
+    },
+    {
+      "id": "ext_a5c9bf12cda9",
+      "examId": "cert-finance",
+      "name": "투자자산운용사",
+      "section": "금융·은행",
+      "kind": "track"
+    },
+    {
+      "id": "ext_29284e9ded17",
+      "examId": "cert-finance",
+      "name": "펀드투자권유자문인력",
+      "section": "금융·은행",
+      "kind": "track"
+    },
+    {
+      "id": "ext_5382e108928b",
+      "examId": "cert-finance",
+      "name": "증권투자권유자문인력",
+      "section": "금융·은행",
+      "kind": "track"
+    },
+    {
+      "id": "ext_2c28b977a01f",
+      "examId": "cert-finance",
+      "name": "파생상품투자권유자문인력",
+      "section": "금융·은행",
+      "kind": "track"
+    },
+    {
+      "id": "ext_7ec68b1cb1c2",
+      "examId": "cert-finance",
+      "name": "신용분석사",
+      "section": "금융·은행",
+      "kind": "track"
+    },
+    {
+      "id": "ext_d9e02486f04b",
+      "examId": "cert-finance",
+      "name": "신용관리사",
+      "section": "금융·은행",
+      "kind": "track"
+    },
+    {
+      "id": "ext_0ed4a1b03206",
+      "examId": "cert-finance",
+      "name": "외환전문역 1종",
+      "section": "금융·은행",
+      "kind": "track"
+    },
+    {
+      "id": "ext_16a8419434bb",
+      "examId": "cert-finance",
+      "name": "외환전문역 2종",
+      "section": "금융·은행",
+      "kind": "track"
+    },
+    {
+      "id": "ext_febc0bb899a7",
+      "examId": "cert-finance",
+      "name": "자산관리사(FP)",
+      "section": "금융·은행",
+      "kind": "track"
+    },
+    {
+      "id": "ext_e93520e9e0f1",
+      "examId": "cert-finance",
+      "name": "TESAT",
+      "section": "경제·경영",
+      "kind": "track"
+    },
+    {
+      "id": "ext_7d48a72e5725",
+      "examId": "cert-finance",
+      "name": "매경TEST",
+      "section": "경제·경영",
+      "kind": "track"
+    },
+    {
+      "id": "ext_c50289d3c0fa",
+      "examId": "cert-finance",
+      "name": "국제무역사 1급",
+      "section": "경제·경영",
+      "kind": "track"
+    },
+    {
+      "id": "ext_29b3edd83a2c",
+      "examId": "cert-finance",
+      "name": "무역영어 1급",
+      "section": "경제·경영",
+      "kind": "track"
+    },
+    {
+      "id": "ext_b339a7baee62",
+      "examId": "cert-finance",
+      "name": "무역영어 2급",
+      "section": "경제·경영",
+      "kind": "track"
+    },
+    {
+      "id": "ext_e7ad4b304433",
+      "examId": "cert-finance",
+      "name": "무역영어 3급",
+      "section": "경제·경영",
+      "kind": "track"
+    },
+    {
+      "id": "ext_3986acb0a8bf",
+      "examId": "cert-welfare",
+      "name": "사회복지사 1급",
+      "section": "복지·심리",
+      "kind": "track"
+    },
+    {
+      "id": "ext_0eb61dd9f7d1",
+      "examId": "cert-welfare",
+      "name": "청소년상담사 1급",
+      "section": "복지·심리",
+      "kind": "track"
+    },
+    {
+      "id": "ext_60ba180c4703",
+      "examId": "cert-welfare",
+      "name": "청소년상담사 2급",
+      "section": "복지·심리",
+      "kind": "track"
+    },
+    {
+      "id": "ext_441ba2d3951e",
+      "examId": "cert-welfare",
+      "name": "청소년상담사 3급",
+      "section": "복지·심리",
+      "kind": "track"
+    },
+    {
+      "id": "ext_951ec048999a",
+      "examId": "cert-welfare",
+      "name": "임상심리사 1급(필기)",
+      "section": "복지·심리",
+      "kind": "track"
+    },
+    {
+      "id": "ext_873fd2834e5b",
+      "examId": "cert-welfare",
+      "name": "임상심리사 2급(필기)",
+      "section": "복지·심리",
+      "kind": "track"
+    },
+    {
+      "id": "ext_1a4a0aa3cd38",
+      "examId": "cert-welfare",
+      "name": "한국어교육능력검정시험",
+      "section": "보육·교육",
+      "kind": "track"
+    },
+    {
+      "id": "ext_884ae8d9ded2",
+      "examId": "cert-welfare",
+      "name": "직업상담사 1급(필기)",
+      "section": "보육·교육",
+      "kind": "track"
+    },
+    {
+      "id": "ext_ff6187147a0c",
+      "examId": "cert-welfare",
+      "name": "직업상담사 2급(필기)",
+      "section": "보육·교육",
+      "kind": "track"
+    },
+    {
+      "id": "ext_e638ec9da505",
+      "examId": "cert-history",
+      "name": "한국사능력검정시험 심화",
+      "section": "한국사·한국어",
+      "kind": "track"
+    },
+    {
+      "id": "ext_d2d6a4100d7f",
+      "examId": "cert-history",
+      "name": "한국사능력검정시험 기본",
+      "section": "한국사·한국어",
+      "kind": "track"
+    },
+    {
+      "id": "ext_403f075e4e0f",
+      "examId": "cert-history",
+      "name": "KBS한국어능력시험",
+      "section": "한국사·한국어",
+      "kind": "track"
+    },
+    {
+      "id": "ext_fc616d8970bd",
+      "examId": "cert-history",
+      "name": "국어능력인증시험(ToKL)",
+      "section": "한국사·한국어",
+      "kind": "track"
+    },
+    {
+      "id": "ext_16612f77cae2",
+      "examId": "cert-history",
+      "name": "한국실용글쓰기검정",
+      "section": "한국사·한국어",
+      "kind": "track"
+    },
+    {
+      "id": "ext_2ca83e33f615",
+      "examId": "cert-history",
+      "name": "TOEIC",
+      "section": "영어·제2외국어",
+      "kind": "track"
+    },
+    {
+      "id": "ext_bc401af1038f",
+      "examId": "cert-history",
+      "name": "TOEFL iBT(객관식 영역)",
+      "section": "영어·제2외국어",
+      "kind": "track"
+    },
+    {
+      "id": "ext_31ab86191550",
+      "examId": "cert-history",
+      "name": "G-TELP Level 2",
+      "section": "영어·제2외국어",
+      "kind": "track"
+    },
+    {
+      "id": "ext_eb6774e02d08",
+      "examId": "cert-history",
+      "name": "TEPS",
+      "section": "영어·제2외국어",
+      "kind": "track"
+    },
+    {
+      "id": "ext_2f4f63c7f27b",
+      "examId": "cert-history",
+      "name": "JLPT N1",
+      "section": "영어·제2외국어",
+      "kind": "track"
+    },
+    {
+      "id": "ext_bc9a31796776",
+      "examId": "cert-history",
+      "name": "JLPT N2",
+      "section": "영어·제2외국어",
+      "kind": "track"
+    },
+    {
+      "id": "ext_7a06f15f4d22",
+      "examId": "cert-history",
+      "name": "JLPT N3",
+      "section": "영어·제2외국어",
+      "kind": "track"
+    },
+    {
+      "id": "ext_557c56e1e6b5",
+      "examId": "cert-history",
+      "name": "HSK 4급",
+      "section": "영어·제2외국어",
+      "kind": "track"
+    },
+    {
+      "id": "ext_c81b8f9e5094",
+      "examId": "cert-history",
+      "name": "HSK 5급",
+      "section": "영어·제2외국어",
+      "kind": "track"
+    },
+    {
+      "id": "ext_318993520856",
+      "examId": "cert-history",
+      "name": "HSK 6급",
+      "section": "영어·제2외국어",
+      "kind": "track"
+    },
+    {
+      "id": "ext_03bc908e0d88",
+      "examId": "cert-history",
+      "name": "한자능력검정시험",
+      "section": "한자·교양",
+      "kind": "track"
+    },
+    {
+      "id": "ext_990792419480",
+      "examId": "cert-history",
+      "name": "상공회의소 한자",
+      "section": "한자·교양",
+      "kind": "track"
+    },
+    {
+      "id": "ext_3ef60b587c0c",
+      "examId": "cert-history",
+      "name": "한국어문회 한자능력검정",
+      "section": "한자·교양",
+      "kind": "track"
+    }
+  ]
+}
