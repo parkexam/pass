@@ -1,0 +1,769 @@
+{
+  "id": "paper_leet_2026_reasoning",
+  "title": "2026학년도 LEET 추리논증 (홀수형)",
+  "year": 2026,
+  "source": "2026학년도 법학적성시험 추리논증 홀수형 문제지 및 공개 정답표 기준 · 해설 미제공",
+  "subjectId": "sub_leet_1",
+  "questions": [
+    {
+      "id": "leet2026-q01",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/leet/2026/q01.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 1
+    },
+    {
+      "id": "leet2026-q02",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/leet/2026/q02.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 1
+    },
+    {
+      "id": "leet2026-q03",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/leet/2026/q03.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 2
+    },
+    {
+      "id": "leet2026-q04",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 4,
+      "imageUrl": "assets/questions/leet/2026/q04.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 2
+    },
+    {
+      "id": "leet2026-q05",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/leet/2026/q05.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 3
+    },
+    {
+      "id": "leet2026-q06",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/leet/2026/q06.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 3
+    },
+    {
+      "id": "leet2026-q07",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/leet/2026/q07.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 4
+    },
+    {
+      "id": "leet2026-q08",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/leet/2026/q08.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 4
+    },
+    {
+      "id": "leet2026-q09",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 4,
+      "imageUrl": "assets/questions/leet/2026/q09.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 5
+    },
+    {
+      "id": "leet2026-q10",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/leet/2026/q10.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 5
+    },
+    {
+      "id": "leet2026-q11",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/leet/2026/q11.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 6
+    },
+    {
+      "id": "leet2026-q12",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/leet/2026/q12.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 6
+    },
+    {
+      "id": "leet2026-q13",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/leet/2026/q13.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 7
+    },
+    {
+      "id": "leet2026-q14",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 4,
+      "imageUrl": "assets/questions/leet/2026/q14.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 7
+    },
+    {
+      "id": "leet2026-q15",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/leet/2026/q15.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 8
+    },
+    {
+      "id": "leet2026-q16",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/leet/2026/q16.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 8
+    },
+    {
+      "id": "leet2026-q17",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 4,
+      "imageUrl": "assets/questions/leet/2026/q17.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 9
+    },
+    {
+      "id": "leet2026-q18",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/leet/2026/q18.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 9
+    },
+    {
+      "id": "leet2026-q19",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/leet/2026/q19.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 10
+    },
+    {
+      "id": "leet2026-q20",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/leet/2026/q20.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 10
+    },
+    {
+      "id": "leet2026-q21",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 21,
+      "kind": "scan",
+      "body": "21번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/leet/2026/q21.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 11
+    },
+    {
+      "id": "leet2026-q22",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 22,
+      "kind": "scan",
+      "body": "22번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/leet/2026/q22.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 11
+    },
+    {
+      "id": "leet2026-q23",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 23,
+      "kind": "scan",
+      "body": "23번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 4,
+      "imageUrl": "assets/questions/leet/2026/q23.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 12
+    },
+    {
+      "id": "leet2026-q24",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 24,
+      "kind": "scan",
+      "body": "24번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/leet/2026/q24.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 12
+    },
+    {
+      "id": "leet2026-q25",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 25,
+      "kind": "scan",
+      "body": "25번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/leet/2026/q25.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 13
+    },
+    {
+      "id": "leet2026-q26",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 26,
+      "kind": "scan",
+      "body": "26번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/leet/2026/q26.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 13
+    },
+    {
+      "id": "leet2026-q27",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 27,
+      "kind": "scan",
+      "body": "27번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/leet/2026/q27.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 14
+    },
+    {
+      "id": "leet2026-q28",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 28,
+      "kind": "scan",
+      "body": "28번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/leet/2026/q28.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 14
+    },
+    {
+      "id": "leet2026-q29",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 29,
+      "kind": "scan",
+      "body": "29번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/leet/2026/q29.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 15
+    },
+    {
+      "id": "leet2026-q30",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 30,
+      "kind": "scan",
+      "body": "30번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/leet/2026/q30.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 15
+    },
+    {
+      "id": "leet2026-q31",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 31,
+      "kind": "scan",
+      "body": "31번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/leet/2026/q31.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 16
+    },
+    {
+      "id": "leet2026-q32",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 32,
+      "kind": "scan",
+      "body": "32번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/leet/2026/q32.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 16
+    },
+    {
+      "id": "leet2026-q33",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 33,
+      "kind": "scan",
+      "body": "33번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/leet/2026/q33.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 17
+    },
+    {
+      "id": "leet2026-q34",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 34,
+      "kind": "scan",
+      "body": "34번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/leet/2026/q34.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 17
+    },
+    {
+      "id": "leet2026-q35",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 35,
+      "kind": "scan",
+      "body": "35번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/leet/2026/q35.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 18
+    },
+    {
+      "id": "leet2026-q36",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 36,
+      "kind": "scan",
+      "body": "36번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 4,
+      "imageUrl": "assets/questions/leet/2026/q36.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 18
+    },
+    {
+      "id": "leet2026-q37",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 37,
+      "kind": "scan",
+      "body": "37번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 4,
+      "imageUrl": "assets/questions/leet/2026/q37.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 19
+    },
+    {
+      "id": "leet2026-q38",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 38,
+      "kind": "scan",
+      "body": "38번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/leet/2026/q38.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 19
+    },
+    {
+      "id": "leet2026-q39",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 39,
+      "kind": "scan",
+      "body": "39번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 4,
+      "imageUrl": "assets/questions/leet/2026/q39.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 20
+    },
+    {
+      "id": "leet2026-q40",
+      "paperId": "paper_leet_2026_reasoning",
+      "number": 40,
+      "kind": "scan",
+      "body": "40번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/leet/2026/q40.webp",
+      "explanation": "",
+      "explanationStatus": "not_provided",
+      "sourcePage": 20
+    }
+  ]
+}

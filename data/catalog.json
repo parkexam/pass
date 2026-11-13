@@ -159,6 +159,36 @@
       "questionCount": 20,
       "dataFile": "data/nursing/community/2025-local-B.json",
       "external": true
+    },
+    {
+      "id": "paper_civil_korean_2025_national_nah",
+      "subjectId": "sub_civil_0",
+      "title": "2025 국가직 9급 국어 나책형",
+      "year": 2025,
+      "source": "2025 국가직 9급 국어 나책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/korean/2025-national-nah.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_english_2025_national_nah",
+      "subjectId": "sub_civil_1",
+      "title": "2025 국가직 9급 영어 나책형",
+      "year": 2025,
+      "source": "2025 국가직 9급 영어 나책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/english/2025-national-nah.json",
+      "external": true
+    },
+    {
+      "id": "paper_leet_2026_reasoning",
+      "subjectId": "sub_leet_1",
+      "title": "2026학년도 LEET 추리논증 (홀수형)",
+      "year": 2026,
+      "source": "2026학년도 법학적성시험 추리논증 홀수형 문제지 및 공개 정답표 기준 · 해설 미제공",
+      "questionCount": 40,
+      "dataFile": "data/leet/reasoning/2026.json",
+      "external": true
     }
   ]
 }
