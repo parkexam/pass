@@ -12,20 +12,22 @@ document.addEventListener('click',e=>{const b=e.target.closest('[data-act]');if(
  else if(a==='backPapers'){S.subjectId=paperBy(S.paperId)?.subjectId||S.subjectId;S.view='subject'}
  else if(a==='startPaper'){const p=paperBy(v);if(p){
    const mode=$('input[name="mode"]:checked')?.value||'batch';
-   if(db.draft?.paperId===p.id&&confirm('저장된 풀이를 이어서 진행할까요?\n[취소] 새로 시작')){S.attempt=db.draft;S.view='quiz';}
+   if(db.draft?.paperId===p.id&&confirm('저장된 풀이를 이어서 진행할까요?\n[취소] 새로 시작')){S.attempt=db.draft;S.view='quiz';resumeClock(S.attempt);}
    else {
     loadExternal(p).then(()=>{startQuiz(questionsIn(p.id),p.title,p.id,mode);}).catch(err=>alert('문제 파일을 불러오지 못했습니다.\n'+err.message));
     return;
    }
   }}
- else if(a==='quick'){if(db.draft){S.attempt=db.draft;S.view='quiz'}else{S.examId=null;S.view='library'}}
- else if(a==='answer'){let z=getAttempt();if(z&&!(z.mode==='instant'&&z.checked[z.index])){z.answers[z.index]=Number(v);if(z.mode==='instant')z.checked[z.index]=true;db.draft=z;persist();keep=true}}
- else if(a==='next'||a==='prev'){let z=getAttempt();if(z){z.index=Math.max(0,Math.min(z.items.length-1,z.index+(a==='next'?1:-1)));db.draft=z;persist()}}
+ else if(a==='quick'){if(db.draft){S.attempt=db.draft;S.view='quiz';resumeClock(S.attempt)}else{S.examId=null;S.view='library'}}
+ else if(a==='answer'){let z=getAttempt();if(z&&!(z.mode==='instant'&&z.checked[z.index])){if(z.mode==='instant')checkpointClock();z.answers[z.index]=Number(v);if(z.mode==='instant')z.checked[z.index]=true;db.draft=z;persist();keep=true}}
+ else if(a==='next'||a==='prev'){let z=getAttempt();if(z)moveClockQuestion(z.index+(a==='next'?1:-1))}
  else if(a==='palette'){S.showPalette=!S.showPalette;keep=true}
- else if(a==='jump'){let z=getAttempt();if(z){z.index=Number(v);db.draft=z;persist();keep=true}}
- else if(a==='quit'){if(confirm('현재 풀이를 저장하고 나갈까요?')){S.attempt=null;S.view='home'}else return}
+ else if(a==='toggleClock'){const z=getAttempt();if(z){if(!z.timerPaused)checkpointClock();z.timerPaused=!z.timerPaused;if(!z.timerPaused)armClock();db.draft=z;persist();keep=true}}
+ else if(a==='jump'){if(getAttempt()){moveClockQuestion(v);keep=true}}
+ else if(a==='quit'){if(confirm('현재 풀이를 저장하고 나갈까요?')){checkpointClock();if(db.draft)persist();S.attempt=null;S.view='home'}else return}
  else if(a==='submit'){grade();return}
  else if(a==='review'){S.reviewId=S.reviewId===Number(v)?null:Number(v);keep=true}
+ else if(a==='reviewJump'){S.reviewId=Number(v);render();document.getElementById('result-row-'+v)?.scrollIntoView({behavior:'smooth',block:'start'});return;}
  else if(a==='wrongReview'){S.reviewId=S.reviewId===v?null:v;keep=true}
  else if(a==='wrongFilter'){S.wrongFilter=v;keep=true}
  else if(a==='retry'){const list=importedQuestions().filter(q=>db.wrongIds.includes(q.id)&&(S.wrongFilter==='전체'||paperBy(q.paperId)?.subjectId===S.wrongFilter));startQuiz(list,'오답 복습',null,'batch','wrong');return}
@@ -44,3 +46,14 @@ document.addEventListener('click',e=>{const b=e.target.closest('[data-act]');if(
 document.addEventListener('submit',e=>{if(e.target.id==='adminEditor'){e.preventDefault();try{saveEditor(e.target)}catch(err){toast(err.message||'입력 내용을 확인해 주세요.')}}});
 document.addEventListener('change',async e=>{if(e.target.id==='adminFilter'){S.adminFilter=e.target.value;render(true)}else if(['jsonImport','csvImport'].includes(e.target.id)){const file=e.target.files?.[0];if(!file)return;try{if(e.target.id==='jsonImport')await importJson(file);else await importCsv(file);}catch(err){alert(err.message||'파일 처리 중 오류가 발생했습니다.')}finally{e.target.value=''}}});
 initCatalog().then(()=>render()).catch(err=>{console.error(err);render()});
+
+/* 타이머 숫자만 갱신하므로 화면 전체가 다시 렌더링되지 않습니다. */
+setInterval(refreshClockView,250);
+document.addEventListener('visibilitychange',()=>{
+ const z=getAttempt();if(!z||S.view!=='quiz')return;
+ if(document.hidden)checkpointClock();else armClock();
+ db.draft=z;persist();refreshClockView();
+});
+window.addEventListener('pagehide',()=>{
+ if(S.view==='quiz'&&getAttempt()){checkpointClock();db.draft=getAttempt();persist();}
+});

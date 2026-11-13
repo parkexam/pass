@@ -30,3 +30,24 @@
 .scanchoices .option.correct .number{color:#078973}
 .scanchoices .option.wrongpick .number{color:#c04752}
 @media(max-width:370px){.question{padding:14px 11px}.scanchoices{gap:5px}}
+
+/* 문항별 타이머 · 번호형 ○/× 정오표: B UI 컬러와 카드 스타일 유지 */
+.clockbar{display:flex;align-items:center;gap:10px;background:#fff;border:1px solid var(--line);border-radius:15px;padding:10px 11px;box-shadow:var(--shadow);margin:2px 0 8px}
+.clock-info{display:flex;flex-direction:column;gap:2px;min-width:0;flex:1}
+.clock-info.total{border-left:1px solid var(--line);padding-left:10px}
+.clock-kicker{font-size:10px;font-weight:800;color:#7c8ba6;letter-spacing:-.02em;white-space:nowrap}
+.clock-readout{font-size:19px;font-weight:900;letter-spacing:.02em;color:var(--blue);font-variant-numeric:tabular-nums;line-height:1.3}
+.clock-toggle{border:1px solid #dfe5f6;border-radius:11px;background:#f3f6ff;color:#3c57b7;padding:10px 8px;font-size:11px;font-weight:800;white-space:nowrap}
+.result-total-time{margin-top:14px;padding-top:12px;border-top:1px solid #ffffff45;font-size:13px;font-weight:750}
+.result-overview{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:8px}
+.result-number{border-radius:12px;min-height:55px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:1px;border:1px solid transparent}
+.result-number span{font-size:11px;font-weight:800;color:#66748a}
+.result-number b{font-size:23px;font-weight:900;line-height:1}
+.result-number.graded-ok,.overview button.graded-ok{background:#e5f8f2;color:#087d73;border-color:#b9e9d9}
+.result-number.graded-no,.overview button.graded-no{background:#ffeded;color:#c74b57;border-color:#f4cbd0}
+.overview button.graded-ok,.overview button.graded-no{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:0;border:1px solid}
+.overview button.graded-ok span,.overview button.graded-no span{font-size:11px}
+.overview button.graded-ok b,.overview button.graded-no b{font-size:18px;line-height:1.1}
+.result-item{scroll-margin-top:14px}
+.result-time{display:block;font-size:11px;font-weight:800;color:#5068c2;margin-bottom:3px;text-align:right}
+@media(max-width:370px){.clockbar{gap:5px;padding:10px 7px}.clock-readout{font-size:17px}.clock-toggle{font-size:10px;padding:9px 5px}.result-overview{gap:5px}}
