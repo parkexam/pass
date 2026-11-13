@@ -249,6 +249,16 @@
       "questionCount": 20,
       "dataFile": "data/civil/english/2024-national-gah.json",
       "external": true
+    },
+    {
+      "id": "paper_leet_2025_reasoning",
+      "subjectId": "sub_leet_1",
+      "title": "2025학년도 LEET 추리논증 (홀수형)",
+      "year": 2025,
+      "source": "2025학년도 법학적성시험 추리논증 홀수형 문제지 및 공개 정답표 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 40,
+      "dataFile": "data/leet/reasoning/2025.json",
+      "external": true
     }
   ]
 }
