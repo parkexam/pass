@@ -89,6 +89,16 @@
       "questionCount": 20,
       "dataFile": "data/nursing/management/2026-local-D.json",
       "external": true
+    },
+    {
+      "id": "paper_nursing_community_2026_local_D",
+      "subjectId": "sub_nursing_community",
+      "title": "2026 지방직 9급 지역사회간호 D책형",
+      "year": 2026,
+      "source": "2026 지방공무원 지역사회간호 D책형 PDF 및 사용자 제공 정답표 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/nursing/community/2026-local-D.json",
+      "external": true
     }
   ]
 }
