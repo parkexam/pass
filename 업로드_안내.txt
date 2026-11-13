@@ -1,0 +1,15 @@
+EXAM BANK — 2026 국가직 9급 영어 가책형 복구 패치
+
+이 ZIP은 국어/지방직 영어/LEET/간호관리 파일이나 JS/CSS/index.html을 건드리지 않습니다.
+
+1. 압축을 풉니다.
+2. GitHub 저장소 https://github.com/parkexam/pass/upload/main 에서
+   data 폴더와 assets 폴더를 같이 드래그해서 업로드합니다.
+3. 경로를 확인하세요:
+   data/civil/english/2026-national-gah.json
+   assets/questions/civil/english/2026/national-gah/q01.webp ... q20.webp
+4. Commit changes 후 아래 URL에서 JSON이 나오는지 확인합니다.
+   https://parkexam.github.io/pass/data/civil/english/2026-national-gah.json
+5. 앱에서 2026 국가직 9급 영어 가책형을 열어 봅니다.
+
+주의: 기존 같은 경로에 파일이 있다면 같은 이름으로 덮어쓰십시오.
