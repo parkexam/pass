@@ -109,6 +109,16 @@
       "questionCount": 20,
       "dataFile": "data/civil/korean/2026-local-D.json",
       "external": true
+    },
+    {
+      "id": "paper_civil_english_2026_local_D",
+      "subjectId": "sub_civil_1",
+      "title": "2026 지방직 9급 영어 D책형",
+      "year": 2026,
+      "source": "사용자 제공 2026 지방공무원 9급 영어 D책형 문제지와 정답표 (선택지별 자체 해설 초안)",
+      "questionCount": 20,
+      "dataFile": "data/civil/english/2026-local-D.json",
+      "external": true
     }
   ]
 }
