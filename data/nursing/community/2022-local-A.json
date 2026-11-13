@@ -1,0 +1,489 @@
+{
+  "id": "paper_nursing_community_2022_local_A",
+  "title": "2022 지방직 9급 지역사회간호 A책형",
+  "year": 2022,
+  "source": "2022 지방직 9급 지역사회간호 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+  "subjectId": "sub_nursing_community",
+  "questions": [
+    {
+      "id": "nursing2022-local-community-A-q01",
+      "paperId": "paper_nursing_community_2022_local_A",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2022/local-A/q01.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n가족 사정의 기본 원칙을 묻는 문항입니다. 가족 사정은 문제점만이 아니라 가족이 지닌 강점과 자원을 함께 파악해 중재의 근거로 삼아야 합니다.",
+      "optionExplanations": [
+        "가족의 문제점과 함께 강점도 사정한다는 것은 가족 사정의 기본 원칙에 맞습니다. 정답입니다.",
+        "'정상 가족'이라는 고정적 관점은 가족마다 다른 기능 수준과 맥락을 놓치게 합니다.",
+        "한 구성원의 진술만으로 자료를 모으면 가족 전체의 상호작용을 파악하기 어렵습니다.",
+        "사정 단계부터 간호사가 중재 방법을 주도적으로 제시하기보다 가족과 함께 문제를 규명해야 합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2022-local-community-A-q02",
+      "paperId": "paper_nursing_community_2022_local_A",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2022/local-A/q02.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n오타와 헌장의 건강증진 활동 영역을 구분하는 문항입니다. 개인의 기술 개발은 건강에 유익한 생활 기술을 익히도록 교육·훈련하는 활동으로, 청소년에게 흡연 권유를 거절하는 방법을 가르치는 것이 그 예입니다.",
+      "optionExplanations": [
+        "다중이용시설을 금연구역으로 지정하고 단속하는 것은 건강한 공공정책 개발에 해당합니다.",
+        "금연 의지가 있는 사람들을 모아 동아리로 지지하는 것은 지역사회 활동 강화에 해당합니다.",
+        "청소년에게 흡연 권유를 거절하는 방법을 교육하는 것은 개인의 기술 개발의 예입니다. 정답입니다.",
+        "담배판매금지법을 만들어 시행하는 것은 건강한 공공정책 개발에 해당합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2022-local-community-A-q03",
+      "paperId": "paper_nursing_community_2022_local_A",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2022/local-A/q03.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n간호과정의 사정단계에 해당하는 내용을 고르는 문항입니다. 사정은 대상자의 상태와 관련 요인을 자료로 확인하는 단계이므로, 과체중 중년 여성이 다른 지역에 비해 얼마나 많은지 비교하는 것은 지역 진단을 위한 자료 수집입니다.",
+      "optionExplanations": [
+        "체중감소율을 4주·6주·8주에 평가하기로 한 것은 평가 계획입니다.",
+        "다른 지역과 비교해 대상자 규모를 파악하는 것은 사정단계의 자료 수집에 해당합니다. 정답입니다.",
+        "간호사가 프로그램을 실시한 것은 수행(중재) 단계입니다.",
+        "참여자의 20%가 체중이 감소한다는 목표 설정은 계획 단계입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2022-local-community-A-q04",
+      "paperId": "paper_nursing_community_2022_local_A",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2022/local-A/q04.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n감염병의 예방 및 관리에 관한 법률상 감염병 등급을 구분하는 문항입니다. 전파 가능성을 고려해 발생·유행 시 24시간 이내에 신고해야 하고 격리가 필요한 감염병은 제2급감염병이며, 결핵·수두·홍역·콜레라·장티푸스 등이 여기에 속합니다.",
+      "optionExplanations": [
+        "제1급감염병은 생물테러 감염병이나 치명률이 높아 즉시 신고해야 하는 감염병으로, 에볼라·페스트 등이 해당합니다.",
+        "24시간 이내 신고와 격리가 필요한 감염병으로 결핵·수두·홍역·콜레라·장티푸스를 포함하는 것은 제2급감염병입니다. 정답입니다.",
+        "제3급감염병은 24시간 이내 신고 대상이지만 격리 필요성으로 규정되지는 않으며, 결핵 등이 여기 포함되지 않습니다.",
+        "제4급감염병은 표본감시 등으로 관리하는 감염병입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2022-local-community-A-q05",
+      "paperId": "paper_nursing_community_2022_local_A",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2022/local-A/q05.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n식중독의 원인균을 감별하는 문항입니다. 회식 2~4시간 후 짧은 잠복기로 구토·복통이 집단 발생하고 고열이나 신경계 증상이 없으며, 조리사의 손가락 화농성 상처가 확인된 점은 포도상구균 식중독의 전형적인 특징입니다.",
+      "optionExplanations": [
+        "살모넬라 식중독은 잠복기가 6~48시간으로 길고 발열과 설사가 두드러집니다.",
+        "보툴리누스 식중독은 신경계 증상(복시, 연하곤란)이 특징인데 사례에서는 신경계 증상이 없습니다.",
+        "장염 비브리오 식중독은 어패류 등 수산물이 원인인데, 사례에서는 수산물이 확인되지 않았습니다.",
+        "짧은 잠복기, 구토 중심의 증상, 조리사 손가락의 화농성 상처는 포도상구균 식중독을 가리킵니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2022-local-community-A-q06",
+      "paperId": "paper_nursing_community_2022_local_A",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2022/local-A/q06.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n가이거와 다비드하이저의 횡문화 사정 모형을 적용하는 문항입니다. 억양과 발음, 침묵의 사용, 터치에 대한 반응은 모두 언어와 비언어적 상호작용에 관한 것으로 의사소통 영역에 해당합니다.",
+      "optionExplanations": [
+        "환경통제는 질병에 대한 통제감, 시간·공간·사회적 환경에 대한 태도를 사정하는 영역입니다.",
+        "사회조직은 가족 구조, 역할, 의사결정 방식 등 집단의 조직 양식을 사정하는 영역입니다.",
+        "억양·발음, 침묵, 터치에 대한 반응은 의사소통 양식을 사정한 것입니다. 정답입니다.",
+        "생물학적 차이는 인종, 체질, 유전적 특성 등 신체적 차이를 사정하는 영역입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2022-local-community-A-q07",
+      "paperId": "paper_nursing_community_2022_local_A",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2022/local-A/q07.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사망 관련 지표를 구분하는 문항입니다. 지역 간 인구학적 특성의 차이를 통제해 같은 조건으로 비교할 수 있도록 만든 지표는 표준화사망률입니다.",
+      "optionExplanations": [
+        "조사망률은 인구 1,000명당 총 사망자 수로, 연령 구성의 차이를 보정하지 못합니다.",
+        "연령별사망률은 연령집단별 사망 수준을 보여 줄 뿐 지역 간 종합 비교 지표는 아닙니다.",
+        "비례사망지수는 전체 사망 중 특정 원인 사망이 차지하는 비중으로, 인구 구조 보정과는 다릅니다.",
+        "인구학적 특성 차이를 통제해 산출한 비교 지표는 표준화사망률입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2022-local-community-A-q08",
+      "paperId": "paper_nursing_community_2022_local_A",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2022/local-A/q08.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n진료비 지불제도의 장단점을 구분하는 문항입니다. 행위별수가제는 제공한 서비스마다 수가를 지불하므로 양질의 서비스 제공 유인이 있으나, 불필요한 서비스까지 제공하는 과잉진료로 의료비가 늘 수 있습니다.",
+      "optionExplanations": [
+        "총액계약제는 보험자와 의사단체의 계약이 쉽지 않고, 진료비 총액이 정해져 과소진료의 우려가 있습니다.",
+        "포괄수가제는 청구 방법이 단순하지만, 질병군별 정액 지불로 서비스가 줄어들 우려가 있습니다.",
+        "인두제는 예방 중심의 서비스가 이루어지는 대신 환자를 선별하는 경향이 나타납니다.",
+        "행위별수가제는 양질의 서비스 유인이 있으나 과잉진료로 의료비 증가가 우려된다는 설명이 옳습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2022-local-community-A-q09",
+      "paperId": "paper_nursing_community_2022_local_A",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2022/local-A/q09.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nPATCH 모형의 단계 순서를 묻는 문항입니다. 지역사회 조직화(동원)로 시작해 자료수집과 분석, 우선순위 선정, 포괄적 중재안 개발, 평가 순으로 진행됩니다.",
+      "optionExplanations": [
+        "자료수집이 먼저 오면 지역사회를 조직해 참여를 이끌어 내는 PATCH의 첫 단계가 빠집니다.",
+        "우선순위 선정이 지역사회 조직화보다 앞서면 주민 참여 없이 우선순위를 정하게 됩니다.",
+        "지역사회 조직화 → 자료수집과 분석 → 우선순위 선정 → 중재안 개발 → 평가 순서가 옳습니다. 정답입니다.",
+        "중재안 개발이 우선순위 선정보다 앞서는 것은 자료에 근거해 우선순위를 정하는 절차에 어긋납니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2022-local-community-A-q10",
+      "paperId": "paper_nursing_community_2022_local_A",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2022/local-A/q10.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n건강생활지원센터에 대한 설명 중 옳지 않은 것을 고르는 문항입니다. 건강생활지원센터는 지역보건법을 근거로 설치·운영되는 시설이지 보건의료기본법에 근거한 시설이 아닙니다.",
+      "optionExplanations": [
+        "건강생활지원센터는 지역보건법에 근거해 설치되므로, 보건의료기본법에 근거한다는 설명은 옳지 않습니다. 정답입니다.",
+        "읍·면·동마다(보건소가 설치된 곳은 제외) 1개씩 설치할 수 있다는 설명은 옳습니다.",
+        "센터장이 보건소장의 지휘·감독을 받아 업무를 관장한다는 설명은 옳습니다.",
+        "지역주민의 만성질환 예방과 건강한 생활습관 형성을 지원한다는 설명은 옳습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2022-local-community-A-q11",
+      "paperId": "paper_nursing_community_2022_local_A",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2022/local-A/q11.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지역보건법상 보건소의 기능과 업무를 모두 고르는 문항입니다. 정신건강증진 및 생명존중, 감염병의 예방 및 관리, 모성과 영유아의 건강 유지·증진, 난임의 예방 및 관리는 모두 보건소의 업무로 규정되어 있습니다.",
+      "optionExplanations": [
+        "ㄱ만 고르면 감염병 관리, 모성·영유아 건강, 난임 관리가 빠집니다.",
+        "ㄴ, ㄷ만 고르면 정신건강증진과 난임 관리가 빠집니다.",
+        "ㄱ, ㄴ, ㄷ만 고르면 난임의 예방 및 관리가 빠집니다.",
+        "ㄱ, ㄴ, ㄷ, ㄹ 모두 지역보건법상 보건소의 업무에 해당합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2022-local-community-A-q12",
+      "paperId": "paper_nursing_community_2022_local_A",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2022/local-A/q12.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n도수율(빈도율)을 계산하는 문항입니다. 도수율은 연근로시간 100만 시간당 재해 건수로, (재해 건수 ÷ 연근로시간 수) × 1,000,000으로 계산합니다. (4 ÷ 100,000) × 1,000,000 = 40입니다.",
+      "optionExplanations": [
+        "0.4는 재해 건수를 근로손실일수로 나눈 값에 가까워 도수율 계산과 다릅니다.",
+        "10은 재해자 수를 그대로 쓴 값으로 도수율 공식이 아닙니다.",
+        "재해 건수 4를 연근로시간 10만 시간으로 나누어 100만을 곱하면 40이 됩니다. 정답입니다.",
+        "100은 재해자 수와 근로시간을 잘못 조합한 값입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2022-local-community-A-q13",
+      "paperId": "paper_nursing_community_2022_local_A",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2022/local-A/q13.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nNIBP(Needs Impact Based Planning)의 우선순위 결정 기준을 묻는 문항입니다. NIBP는 건강문제의 크기(규모)와 그 문제를 해결하는 방법의 효과(효율성)를 함께 고려해 우선순위를 정합니다.",
+      "optionExplanations": [
+        "문제의 크기와 심각성만으로는 해결 가능성이나 효과를 함께 보지 못합니다.",
+        "건강문제의 크기와 해결방법의 효과를 기준으로 우선순위를 정하는 것이 NIBP의 특징입니다. 정답입니다.",
+        "문제의 중요성과 자원이용 가능성은 다른 기획 모형에서 쓰는 기준입니다.",
+        "중요성과 주민의 관심도 역시 NIBP의 두 축과 다릅니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2022-local-community-A-q14",
+      "paperId": "paper_nursing_community_2022_local_A",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2022/local-A/q14.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n영아사망 관련 지표를 계산하는 문항입니다. 신생아 사망자 수 10명과 생후 28일부터 1년 미만 사망자 수 20명을 합한 영아 사망자 수 30명을, 신생아 사망자 수 10명과 비교해 지수로 나타낸 값입니다.",
+      "optionExplanations": [
+        "10/20은 신생아 사망자 수를 후기 영아 사망자 수로 나눈 값으로 지수의 정의와 다릅니다.",
+        "20/10은 분자와 분모가 뒤바뀐 값입니다.",
+        "10/30은 신생아 사망자 수를 전체 영아 사망자 수로 나눈 비율입니다.",
+        "전체 영아 사망자 수 30명을 신생아 사망자 수 10명으로 나눈 30/10이 해당 지수입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2022-local-community-A-q15",
+      "paperId": "paper_nursing_community_2022_local_A",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2022/local-A/q15.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nPRECEDE-PROCEED 모형의 진단 단계를 구분하는 문항입니다. 건강행위에 영향을 주는 소인요인, 가능요인, 강화요인을 사정하는 단계는 행위와 환경에 대한 교육적·생태학적 진단입니다.",
+      "optionExplanations": [
+        "사회적 진단은 지역사회의 삶의 질과 건강문제에 대한 주민의 인식을 사정합니다.",
+        "역학적 진단은 건강문제의 규모와 분포, 관련 요인을 역학적으로 규명합니다.",
+        "소인·가능·강화요인을 사정하는 것은 교육 및 생태학적 진단입니다. 정답입니다.",
+        "행정적·정책적 진단은 사업 수행에 필요한 자원과 조직, 정책을 사정합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2022-local-community-A-q16",
+      "paperId": "paper_nursing_community_2022_local_A",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2022/local-A/q16.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nSWOT 분석의 전략 유형을 구분하는 문항입니다. ST 전략은 내부의 강점을 활용해 외부의 위협을 극복하는 전략으로, 불리한 환경을 강점으로 돌파하기 위한 신사업 개발이 그 예입니다.",
+      "optionExplanations": [
+        "강점을 활용해 불리한 환경(위협)을 극복하려는 신사업 개발은 ST 전략에 해당합니다. 정답입니다.",
+        "위협을 피하기 위해 사업을 축소하는 것은 약점과 위협을 함께 다루는 WT 전략에 가깝습니다.",
+        "내부 역량 강화를 위한 혁신과 구조조정은 약점을 보완하는 WO·WT 전략의 성격입니다.",
+        "공격적인 사업영역 확대는 강점과 기회를 결합한 SO 전략입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2022-local-community-A-q17",
+      "paperId": "paper_nursing_community_2022_local_A",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2022/local-A/q17.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지역사회간호의 역사적 사건을 시간 순으로 배열하는 문항입니다. 학교보건법 제정(1960년대 후반), 농어촌 등 보건의료를 위한 특별조치법 제정(1980년), 전 국민 의료보험 시행(1989년), 노인장기요양보험제도 시행(2008년) 순입니다.",
+      "optionExplanations": [
+        "학교보건법 → 농특법 → 전 국민 의료보험 → 노인장기요양보험 순서가 옳습니다. 정답입니다.",
+        "노인장기요양보험이 전 국민 의료보험보다 먼저 시행되었다는 것은 사실과 다릅니다.",
+        "농특법이 학교보건법보다 먼저 제정되었다는 것도 사실과 다릅니다.",
+        "농특법을 맨 앞에 두고 노인장기요양보험을 의료보험보다 앞세운 순서라 옳지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2022-local-community-A-q18",
+      "paperId": "paper_nursing_community_2022_local_A",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2022/local-A/q18.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n산재보험 사업을 수행하는 기관을 묻는 문항입니다. 업무상 재해에 대한 보상과 재해근로자의 재활·사회복귀 촉진을 위한 보험시설 운영을 주된 목적으로 하는 기관은 근로복지공단입니다.",
+      "optionExplanations": [
+        "근로자건강센터는 소규모 사업장 근로자의 건강관리 서비스를 제공하는 기관입니다.",
+        "대한산업보건협회는 산업보건 사업을 지원하는 민간 단체입니다.",
+        "산재보험의 보상과 재활, 사회복귀 지원을 담당하는 기관은 근로복지공단입니다. 정답입니다.",
+        "한국산업안전보건공단은 산업재해 예방과 안전보건 기술 지원을 담당합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2022-local-community-A-q19",
+      "paperId": "paper_nursing_community_2022_local_A",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2022/local-A/q19.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n블룸의 교육목표 분류 중 변화영역을 구분하는 문항입니다. '정상혈압의 범위를 말할 수 있다'는 지식을 기억해 언어로 표현하는 능력을 목표로 하므로 인지적 영역에 해당합니다.",
+      "optionExplanations": [
+        "지식을 말로 표현하는 목표는 인지적 영역에 해당합니다. 정답입니다.",
+        "정의적 영역은 흥미·태도·가치관의 변화를 다룹니다.",
+        "심동적 영역은 실제 동작이나 기술의 습득을 다룹니다.",
+        "생리적 영역은 블룸의 분류에 포함되지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2022-local-community-A-q20",
+      "paperId": "paper_nursing_community_2022_local_A",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2022/local-A/q20.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n범이론 모형의 변화과정을 구분하는 문항입니다. 스스로 결심을 선언하고 그 결심에 따라 행동할 수 있는 힘을 갖는 것은 자기 해방(self liberation)에 해당합니다.",
+      "optionExplanations": [
+        "공개적으로 의지를 선언하고 스스로 변화를 선택하는 것은 자기 해방입니다. 정답입니다.",
+        "의식 고취는 문제 행동에 대한 정보를 얻고 인식을 높이는 과정입니다.",
+        "자기 재평가는 변화 후의 자신에 대해 정서적으로 평가하는 과정입니다.",
+        "사회적 해방은 사회적 기회와 자원이 늘어나는 환경적 변화를 말합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    }
+  ]
+}
