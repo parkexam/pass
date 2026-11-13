@@ -8,7 +8,7 @@ function paper(){
  return `${appHeader()}<button class="back" data-act="backPapers">← 시험지 목록</button><div class="eyebrow" style="margin-top:10px">EXAM PAPER</div>
  <h1 class="titleline">${esc(p.title)}</h1><p class="description">${esc(s?.name||'')} · ${p.year?esc(p.year)+'년 · ':''}${count}문항</p>
  <div class="panel"><div class="row between"><b>시험지 안내</b><span class="tag green">${count}문항</span></div>
- <p style="margin-top:12px">${esc(p.source||'등록된 시험지')}</p>${p.dataFile?`<p style="margin-top:9px">PDF 원본을 문항별 이미지로 보여줍니다. 그림을 누르면 확대할 수 있어요. 해설은 문항별 등록 상태에 따라 제공되며, 자체 작성 해설은 공식 해설이 아니므로 검수가 필요합니다.</p>`:''}
+ <p style="margin-top:12px">${esc(p.source||'등록된 시험지')}</p>${p.dataFile?`<p style="margin-top:9px">PDF 원본을 문항별 이미지로 보여줍니다. 그림을 누르면 확대할 수 있어요. 정답은 확인되었지만 상세 해설은 제공되지 않았습니다.</p>`:''}
  ${p.isSample?`<p style="margin-top:7px;color:#ad612d">이 문항은 체험용 예시이며 기출문제가 아닙니다.</p>`:''}</div>
  ${count?`<div class="panel"><b>채점 방식 선택</b><div class="radio-row" style="margin-top:12px"><label><input type="radio" name="mode" value="batch" checked> 일괄 채점</label><label><input type="radio" name="mode" value="instant"> 문제별 즉시 확인</label></div><p style="margin-top:9px">일괄 채점은 모든 문제를 제출한 후 정답을 공개합니다.</p></div><button class="btn full" data-act="startPaper" data-val="${esc(p.id)}">${db.draft?.paperId===p.id?'이어 풀기':'문제풀이 시작하기'} →</button>`:`<div class="notice">시험지에 문항이 아직 등록되지 않았습니다.</div>`}`;
 }
