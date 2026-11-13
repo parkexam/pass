@@ -1,0 +1,489 @@
+{
+  "id": "paper_civil_korean_2021_national_nah",
+  "title": "2021 국가직 9급 국어 나책형",
+  "year": 2021,
+  "source": "2021 국가직 9급 국어 나책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+  "subjectId": "sub_civil_0",
+  "questions": [
+    {
+      "id": "civil2021-national-korean-nah-q01",
+      "paperId": "paper_civil_korean_2021_national_nah",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2021/national-nah/q01.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n맞춤법에 맞는 낱말만으로 묶인 것을 고르는 문항입니다. '량(量)'과 '란(欄)'은 한자어 뒤에서는 본음대로 적지만, 고유어나 외래어 뒤에서는 두음법칙이 적용되어 '양'과 '난'으로 적습니다.",
+      "optionExplanations": [
+        "'꼭지점'은 '꼭짓점'으로 적어야 하므로 이 묶음에는 틀린 표기가 있습니다.",
+        "한자어 '흡입' 뒤의 '량'과 '정답' 뒤의 '란'은 본음대로, 고유어 '구름' 뒤의 '양'과 외래어 '칼럼' 뒤의 '난'은 두음법칙을 적용해 적은 것이므로 네 낱말 모두 맞습니다. 정답입니다.",
+        "'딱다구리'는 같은 음절이 겹칠 때 된소리로 적는 규정에 따라 '딱따구리'로 적어야 합니다.",
+        "'홧병'은 한자어와 한자어가 결합한 경우로 사이시옷을 적지 않는 '화병'이 맞습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2021-national-korean-nah-q02",
+      "paperId": "paper_civil_korean_2021_national_nah",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2021/national-nah/q02.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n㉠ '싼다'는 물건을 포장지로 감싼다는 뜻입니다. 같은 의미로 쓰인 예를 찾는 문항입니다.",
+      "optionExplanations": [
+        "'안채를 겹겹이 싸고 있다'는 건물을 둘러 에워싸고 있다는 뜻으로 ㉠과 의미가 다릅니다.",
+        "'봇짐을 싸고'는 짐을 꾸린다는 뜻으로 ㉠과 다릅니다.",
+        "'몇 권의 책을 싼 보퉁이'는 책을 보에 감싼 것을 가리키므로, 포장지로 감싼다는 ㉠과 의미가 같습니다. 정답입니다.",
+        "'책가방을 미리 싸 두어라'는 짐을 꾸린다는 뜻으로 ㉠과 다릅니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2021-national-korean-nah-q03",
+      "paperId": "paper_civil_korean_2021_national_nah",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2021/national-nah/q03.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n가장 자연스러운 문장을 고르는 문항입니다. '책이 잘 읽힌다'는 읽는 사람의 상태를 자연스럽게 나타낸 표현입니다.",
+      "optionExplanations": [
+        "날씨가 선선해지니 책이 잘 읽힌다는 서술이 주어와 호응이 자연스럽고 어색한 표현이 없습니다. 정답입니다.",
+        "'하늘의 별 따기'는 몹시 어렵다는 뜻인데, 속독으로 읽는 것을 어려운 일로 비유한 것은 문맥에 맞지 않습니다.",
+        "'책임자가 되기보다는'의 주체와 '의견을 모았다'의 주체가 뒤섞여 문장이 어색합니다.",
+        "'일과 진행에 열성적이다'는 조사 호응이 자연스럽지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2021-national-korean-nah-q04",
+      "paperId": "paper_civil_korean_2021_national_nah",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2021/national-nah/q04.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n설명 방식의 적절성을 판별하는 문항입니다. 글은 빛 공해의 정의와 악영향, 인용 자료를 제시했을 뿐 인공조명이 누출되는 원인은 설명하지 않았습니다.",
+      "optionExplanations": [
+        "첫 문장에서 빛 공해의 정의를 제시하고 있습니다.",
+        "글에는 인공조명이 왜 누출되는지에 대한 원인 설명이 없으므로 적절하지 않습니다. 정답입니다.",
+        "'사이언스 어드밴스'의 빛 공해 지도를 인용해 우리나라가 심각한 국가임을 제시하고 있습니다.",
+        "수면 부족, 면역력 저하, 농작물 생산량 저하 등 구체적 사례를 들어 악영향을 제시하고 있습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2021-national-korean-nah-q05",
+      "paperId": "paper_civil_korean_2021_national_nah",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2021/national-nah/q05.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n용언의 불규칙 활용 가운데 어간만 바뀌는 경우와 어미만 바뀌는 경우를 구별하는 문항입니다.",
+      "optionExplanations": [
+        "'빠름'은 '빠르'가 어미 앞에서 '빨라'로 바뀌는 어간의 불규칙이고, '노람'은 '노라'에 '-ㅁ'이 붙은 형태로 어미가 불규칙한 예가 아닙니다.",
+        "'치름'은 '치르' 뒤에 어미가 붙은 형태이고, '함'은 규칙적인 결합입니다.",
+        "'불음'은 '부르'가 '불어'로 바뀌는 어간 불규칙이고, '바람'은 '바라'에 '-ㅁ'이 붙은 것으로 어미가 불규칙하지 않습니다.",
+        "'품'은 '푸다'의 어간이 'ㅂ' 불규칙으로 바뀌는 경우이고, '이름'은 '이르다'의 어간이 '러' 불규칙으로 바뀌는 경우로 어간 변화를 보여 줍니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2021-national-korean-nah-q06",
+      "paperId": "paper_civil_korean_2021_national_nah",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2021/national-nah/q06.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n고려 가요 '동동'의 시어를 이해하는 문항입니다. '므슴다'는 '무슨 일로, 어찌하여'의 뜻으로 쓰였으므로 '무심하구나'라는 풀이는 적절하지 않습니다.",
+      "optionExplanations": [
+        "㉠ '현 燈ㅅ블'은 밝혀 켠 등불을 뜻하므로 '켠'이라는 풀이가 옳습니다.",
+        "㉡ '즈므디녀'는 '모습을 띠고'의 뜻으로 문맥에 맞는 풀이입니다.",
+        "㉢ '니저'는 '잊어'의 뜻으로 옳은 풀이입니다.",
+        "㉣ '므슴다'는 '무슨 일로, 어찌하여'의 뜻으로, '무심하구나'로 풀이하는 것은 적절하지 않습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2021-national-korean-nah-q07",
+      "paperId": "paper_civil_korean_2021_national_nah",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2021/national-nah/q07.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n한자 표기가 옳은 것을 고르는 문항입니다. '야박하다'의 한자는 '野薄'으로 적습니다.",
+      "optionExplanations": [
+        "'현실'은 '現實'으로 적어야 합니다.",
+        "첫 손님을 박하게 대한다는 뜻의 '야박'은 '野薄'으로 적는 것이 옳습니다. 정답입니다.",
+        "'근성'은 '根性'으로 적어야 합니다.",
+        "'채용'은 '採用'으로 적어야 합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2021-national-korean-nah-q08",
+      "paperId": "paper_civil_korean_2021_national_nah",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2021/national-nah/q08.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n토의의 진행 방식과 특성을 파악하는 문항입니다. 사회자는 발표를 소개하고 질의응답으로 넘길 뿐 발표자 간 이견을 조정해 의사결정을 이끌지 않았습니다.",
+      "optionExplanations": [
+        "주제를 담은 두 사람의 발표와 질의응답으로 진행되었으므로 발표 형식의 학술적 주제 토의로 볼 수 있습니다.",
+        "사회자는 두 발표자를 소개하고 질의응답을 진행했을 뿐, 이견을 조정해 의사결정을 유도하지 않았습니다. 정답입니다.",
+        "발표자들은 각각 주제에 대한 견해와 방안을 밝혀 청중에게 정보를 제공하고 있습니다.",
+        "청중 A는 두 사람의 발표 내용을 확인하고 통일 시대 언어 정책에 대한 질문을 던지고 있습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2021-national-korean-nah-q09",
+      "paperId": "paper_civil_korean_2021_national_nah",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2021/national-nah/q09.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공손하게 말하기의 전략을 적용한 대답을 판단하는 문항입니다. ③의 B는 목소리가 작아서 못 들었다며 상대에게 원인을 돌려 말해 문제를 자신의 탓으로 돌리라는 ㉢에 어긋납니다.",
+      "optionExplanations": [
+        "'아직도 부족하다'며 자신을 낮추어 답했으므로 ㉠에 맞습니다.",
+        "기다리는 동안 괜찮다고 말해 상대가 부담을 갖지 않도록 배려했으므로 ㉡에 맞습니다.",
+        "상대의 목소리가 작아서 잘 못 들었다고 원인을 상대에게 돌려 말했습니다. 문제를 자신의 탓으로 돌려 관용을 구하는 ㉢에는 어긋납니다. 정답입니다.",
+        "상대의 제안을 인정한 다음 자신의 의견을 덧붙였으므로 ㉣에 맞습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2021-national-korean-nah-q10",
+      "paperId": "paper_civil_korean_2021_national_nah",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2021/national-nah/q10.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n하버마스의 공공 영역 논의에 부합하는 사례를 고르는 문항입니다. 상업화된 미디어가 수익성 위주의 콘텐츠를 늘리면서 공적 토론의 장이 줄었다는 진술이 글과 일치합니다.",
+      "optionExplanations": [
+        "글은 살롱에서 특정 계층에 대한 비판적 토론이 허용되지 않았다고 말하지 않습니다.",
+        "인터넷 발달이 공익 광고를 늘렸다는 내용은 글에 없습니다.",
+        "글은 미디어의 상업화로 공공 영역이 축소된다고 보았으므로, 국제 사회의 공공 영역이 공허해지지 않는다는 진술과 어긋납니다.",
+        "수익성 위주의 미디어 플랫폼과 콘텐츠가 늘면서 민주적 토론이 줄었다는 진술이 글의 논지와 일치합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2021-national-korean-nah-q11",
+      "paperId": "paper_civil_korean_2021_national_nah",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2021/national-nah/q11.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n설명문의 문장 전개 순서를 정하는 문항입니다. 대설의 정의에 이어 기준(주의보·경보·산지 기준)을 제시하고, 눈이 순식간에 도심 교통을 마비시키는 위력을 설명한 뒤 다른 산업에 미치는 영향으로 나아가는 흐름이 자연스럽습니다.",
+      "optionExplanations": [
+        "기준 설명 전에 영향과 경보가 뒤섞여 흐름이 어색합니다.",
+        "주의보·경보 기준이 흩어져 설명의 순서가 자연스럽지 않습니다.",
+        "㉣ 주의보 기준에 이어 ㉡ 경보, ㉢ 산지 기준으로 이어지고, ㉠ 눈의 위력에서 ㉤ 사회 전반의 영향으로 확장되는 흐름이 가장 자연스럽습니다. 정답입니다.",
+        "㉠ 뒤에 ㉤를 놓고 다시 ㉢과 ㉡로 돌아오는 구성은 기준 설명이 뒤엉켜 어색합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2021-national-korean-nah-q12",
+      "paperId": "paper_civil_korean_2021_national_nah",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2021/national-nah/q12.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n언어와 사고의 관계를 보여 주는 사례로 적절하지 않은 것을 고르는 문항입니다. 명칭을 떠올리지 못하는 것은 기억 인출의 문제로 언어와 사고의 상호작용을 보여 주는 사례가 아닙니다.",
+      "optionExplanations": [
+        "우리말에 쌀을 가리키는 말이 세분화되어 있다는 것은 언어가 문화를 반영한다는 사례로 적절합니다.",
+        "산, 물, 신호등을 모두 '파랗다'고 하는 것은 언어가 색채 인식을 반영한다는 사례로 적절합니다.",
+        "개념은 떠오르는데 명칭이 떠오르지 않는 것은 일시적인 기억 인출의 실패로, 언어와 사고의 관계를 보여 주는 사례로 보기 어렵습니다. 정답입니다.",
+        "수박을 '박'의 일종으로 보는지 '멜론'에 가깝게 보는지는 언어가 세계 인식을 반영한다는 사례로 적절합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2021-national-korean-nah-q13",
+      "paperId": "paper_civil_korean_2021_national_nah",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2021/national-nah/q13.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글의 주된 서술 방식을 판별하는 문항입니다. 글을 쓰는 일을 나무에 꽃이 피는 것에 견주어 설명하고 있으므로 비유가 주된 방식입니다.",
+      "optionExplanations": [
+        "서사는 사건을 시간의 흐름에 따라 이야기하는 방식으로 이 글의 주된 방식이 아닙니다.",
+        "분류는 대상을 종류별로 나누는 방식입니다.",
+        "나무를 심고 가꾸는 일에 글쓰기를 견주어 설명하는 비유가 글 전체를 이끌고 있습니다. 정답입니다.",
+        "대조는 서로 다른 두 대상을 맞세우는 방식으로 이 글의 중심 방식이 아닙니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2021-national-korean-nah-q14",
+      "paperId": "paper_civil_korean_2021_national_nah",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2021/national-nah/q14.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n표기 체계와 읽기 과정의 관계를 설명한 글을 이해하는 문항입니다. 글은 글자와 소리의 대응이 규칙적인지를 명료성의 기준으로 삼았을 뿐, 각 소리가 지닌 특성을 기준으로 들지는 않았습니다.",
+      "optionExplanations": [
+        "철자 읽기의 명료성을 소리와 표기의 대응, 곧 규칙성으로 판단한다는 설명은 글의 내용과 어긋납니다. 정답입니다.",
+        "영어 사용자는 좌반구 읽기 네트워크를 쓰면서 암기된 단어 인출과 연관된 부위에 더 의존한다는 내용과 일치합니다.",
+        "이탈리아어는 소리와 글자의 대응이 규칙적이어서 낯선 단어도 바로 발음할 수 있다는 내용과 일치합니다.",
+        "영어는 묵음 같은 예외가 많고 글자에 대응하는 소리가 다양해 스페인어보다 대응이 덜 규칙적이라는 내용과 일치합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2021-national-korean-nah-q15",
+      "paperId": "paper_civil_korean_2021_national_nah",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2021/national-nah/q15.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n고전 시가의 표현과 주제를 이해하는 문항입니다. (라)는 변함없는 자연과 변하는 인사를 대조해 자연의 영원함을 노래한 작품으로, 허약해진 노년의 무력함을 표현한 것이 아닙니다.",
+      "optionExplanations": [
+        "(가)는 조홍감과 유자를 매개로 돌아가신 부모님을 그리는 마음을 노래한 작품으로 적절합니다.",
+        "(나)는 '서리서리', '구뷔구뷔' 같은 의태적 표현으로 임을 기다리는 마음을 드러내므로 적절합니다.",
+        "(다)는 대구와 반복을 통해 자연에 귀의하려는 의지를 드러내므로 적절합니다.",
+        "(라)는 노안이 오히려 밝다며 자연은 변함이 없다고 노래한 작품입니다. 자연과의 대조로 노년의 무력함을 표현했다는 설명은 적절하지 않습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2021-national-korean-nah-q16",
+      "paperId": "paper_civil_korean_2021_national_nah",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2021/national-nah/q16.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n수필에 드러난 글쓴이의 심리를 파악하는 문항입니다. 소의 모습과 행동을 매개로 글쓴이의 고독과 사색을 드러내고 있으므로 심리가 투사된 것으로 볼 수 있습니다.",
+      "optionExplanations": [
+        "소가 글쓴이를 심리하고 반추하는 모습을 통해 글쓴이의 고독과 권태가 투사되고 있습니다. 정답입니다.",
+        "과거의 삶을 회상하며 후회하는 내용은 글에 나타나지 않습니다.",
+        "공간의 이동보다 소를 바라보는 정적인 상황이 중심입니다.",
+        "현실에 대한 불만이 반성적 어조로 표출된다고 보기 어렵습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2021-national-korean-nah-q17",
+      "paperId": "paper_civil_korean_2021_national_nah",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2021/national-nah/q17.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n인물이 처한 상황에 어울리는 한자 성어를 고르는 문항입니다. 황거칠은 죄를 뒤집어쓰고도 속수무책으로 각서에 도장을 찍어 산수도를 포기하게 되었습니다.",
+      "optionExplanations": [
+        "'동병상련'은 같은 처지의 사람끼리 서로 불쌍히 여긴다는 뜻으로 상황과 맞지 않습니다.",
+        "'속수무책'은 손을 묶인 듯 어찌할 도리가 없음을 뜻합니다. 억울하게 연행되어 속수무책으로 포기해야 했던 황거칠의 상황에 알맞습니다. 정답입니다.",
+        "'자가당착'은 앞뒤가 맞지 않는다는 뜻으로 문맥과 다릅니다.",
+        "'전전반측'은 걱정으로 잠을 이루지 못함을 뜻합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2021-national-korean-nah-q18",
+      "paperId": "paper_civil_korean_2021_national_nah",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2021/national-nah/q18.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n시의 표현 기법을 파악하는 문항입니다. '가슴 아픈 일 한두 가지겠는가'처럼 반문의 형식으로 의미를 강조하는 설의적 표현이 쓰였습니다.",
+      "optionExplanations": [
+        "문답법으로 과거의 삶을 반추하는 방식이 아닙니다.",
+        "반어적 표현으로 슬픔을 나타낸 것이 아닙니다.",
+        "나무를 사람에 빗대는 의인화가 부분적으로 보이지만 현실을 목가적으로 보여 주는 것이 이 시의 중심 특징은 아닙니다.",
+        "'가슴 아픈 일 한두 가지겠는가', '가슴 상하는 일 한두 가지겠는가'의 반문을 통해 삶의 깨달음을 강조하는 설의적 표현이 쓰였습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4
+    },
+    {
+      "id": "civil2021-national-korean-nah-q19",
+      "paperId": "paper_civil_korean_2021_national_nah",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2021/national-nah/q19.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글의 문맥에 맞는 속담을 고르는 문항입니다. 국보 문화재의 가치가 무엇과도 바꿀 수 없을 만큼 크다는 내용이 이어지므로, 셰익스피어와 바꾸지 않겠다는 말이 알맞습니다.",
+      "optionExplanations": [
+        "'구르는 돌에는 이끼가 끼지 않는다'는 부지런히 움직여야 발전한다는 뜻으로 문맥과 다릅니다.",
+        "'지식은 나눌 수 있지만 지혜는 나눌 수 없다'는 나눔에 관한 말로 문맥과 무관합니다.",
+        "'사람은 겪어 보아야 안다'는 경험의 중요성을 말하는 속담입니다.",
+        "무엇을 내놓아도 셰익스피어와는 바꾸지 않겠다는 말은 국보 문화재의 힘과 가치를 강조하는 예로 문맥에 가장 알맞습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4
+    },
+    {
+      "id": "civil2021-national-korean-nah-q20",
+      "paperId": "paper_civil_korean_2021_national_nah",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2021/national-nah/q20.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n분류 개념·비교 개념·정량 개념을 설명한 글에서 추론하는 문항입니다. 글은 하위 개념으로 분류할수록 정보가 더 많이 전달된다고 했으므로, '호랑나비'가 '나비'보다 정보량이 적다는 추론은 성립하지 않습니다.",
+      "optionExplanations": [
+        "'호랑나비'는 '나비'보다 하위 개념이므로 정보량이 더 많습니다. 정보량이 적다는 추론은 글의 진술과 반대입니다. 정답입니다.",
+        "현실 세계에 적용 대상이 없어도 분명한 정의가 있으면 분류 개념으로 인정된다고 했으므로, 용이 분류 개념이라는 추론은 타당합니다.",
+        "'꽃'과 '고양이'는 분류 개념으로, 논리적 관계를 따라야 하는 비교 개념과 구별된다는 추론은 타당합니다.",
+        "정량 개념은 측정 단위를 정하는 규칙을 통해 만들어진다는 내용과 일치하는 추론입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4
+    }
+  ]
+}

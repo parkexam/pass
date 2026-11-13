@@ -1,0 +1,489 @@
+{
+  "id": "paper_nursing_management_2021_local_A",
+  "title": "2021 지방직 9급 간호관리 A책형",
+  "year": 2021,
+  "source": "2021 지방직 9급 간호관리 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+  "subjectId": "sub_nursing_manage",
+  "questions": [
+    {
+      "id": "nursing2021-local-management-A-q01",
+      "paperId": "paper_nursing_management_2021_local_A",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2021/local-A/q01.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n과학적관리론과 인간관계론의 관점 차이를 비교하는 문항입니다. 인간관계론은 조직의 심리적·사회적 측면과 인간의 정서에 주목한 이론입니다.",
+      "optionExplanations": [
+        "공식 조직 구조를 강조한 것은 오히려 과학적관리론입니다.",
+        "노동 효율성은 과학적관리론이 더 강조한 측면입니다.",
+        "두 이론 모두 조직 외부 환경보다는 내부의 작업 방식이나 인간 관계에 관심을 두었습니다.",
+        "인간관계론은 비공식 조직과 인간의 심리·사회적 측면을 강조한 이론으로, 과학적관리론보다 이 측면을 중시했습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2021-local-management-A-q02",
+      "paperId": "paper_nursing_management_2021_local_A",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/management/2021/local-A/q02.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n분권화는 의사결정 권한을 하위 조직과 구성원에게 나누어 주는 것입니다. 권한이 나뉘면 구성원이 스스로 판단할 여지가 커집니다.",
+      "optionExplanations": [
+        "분권화되면 구성원이 자신의 판단으로 업무를 처리할 수 있어 창의성과 능동성이 높아집니다. 정답입니다.",
+        "통합적 업무 조정은 오히려 집권화된 체계에서 용이합니다.",
+        "업무 중복과 비용 낭비를 줄이는 것은 집권화의 장점으로 제시됩니다.",
+        "최고관리자의 리더십 발휘는 집권화에서 더 직접적으로 이루어집니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2021-local-management-A-q03",
+      "paperId": "paper_nursing_management_2021_local_A",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/management/2021/local-A/q03.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n환자의 자율성 존중을 바탕으로 하며, 위반할 경우 환자의 동의 없는 진료라는 의미의 전단적 의료가 되는 의무는 설명 및 동의의 의무입니다.",
+      "optionExplanations": [
+        "기록의 의무는 진료 내용을 기록하고 보존할 의무입니다.",
+        "설명 및 동의의 의무는 환자에게 충분히 설명하고 동의를 받아야 하는 의무로, 이를 어기면 전단적 의료가 됩니다. 정답입니다.",
+        "확인의 의무는 환자와 검사·투약 대상을 확인하는 의무입니다.",
+        "비밀 유지 의무는 환자의 정보를 누설하지 않을 의무입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2021-local-management-A-q04",
+      "paperId": "paper_nursing_management_2021_local_A",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/management/2021/local-A/q04.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n과정 지표는 간호서비스가 제공되는 절차와 수행 수준을 평가합니다. 환자 확인 절차의 준수율은 서비스가 제공되는 과정을 보여 주는 지표입니다.",
+      "optionExplanations": [
+        "환자 확인 절차 준수율은 간호가 제공되는 과정에서 절차를 지켰는지를 보여 주는 과정 지표입니다. 정답입니다.",
+        "수술 후 합병증 발생률은 결과 지표입니다.",
+        "자가간호 실천율은 대상자의 건강 결과와 관련된 지표입니다.",
+        "질병군별 재원일수는 결과 지표로 분류됩니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2021-local-management-A-q05",
+      "paperId": "paper_nursing_management_2021_local_A",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2021/local-A/q05.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n페이욜의 행정관리론이 제시한 14원칙에는 분업, 권한, 규율, 명령통일, 지휘통일, 조직이익 우선, 공정한 보수, 집권화, 질서, 공평, 고용안정, 주도력, 단결 등이 포함됩니다. 통솔범위의 원칙은 페이욜의 원칙으로 제시되지 않았습니다.",
+      "optionExplanations": [
+        "통솔범위의 원칙이 포함되어 있어 페이욜의 원칙만을 고른 것이 아닙니다.",
+        "지휘통일은 페이욜의 원칙이지만 통솔범위가 포함되어 있습니다.",
+        "질서, 고용안정, 지휘통일, 조직이익 우선은 모두 페이욜이 제시한 원칙입니다. 정답입니다.",
+        "질서의 원칙이 빠져 있고 통솔범위가 포함되어 있습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2021-local-management-A-q06",
+      "paperId": "paper_nursing_management_2021_local_A",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/management/2021/local-A/q06.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nPDCA 사이클에서 계획한 변화를 소규모로 시범 적용해 검증하는 단계는 Do입니다.",
+      "optionExplanations": [
+        "Plan은 문제를 파악하고 개선 계획을 세우는 단계입니다.",
+        "Do는 계획한 변화를 소규모로 시험 적용해 검증하는 단계입니다. 정답입니다.",
+        "Check는 시범 적용의 결과를 확인하고 평가하는 단계입니다.",
+        "Act는 검증된 결과를 바탕으로 확산하거나 다시 계획하는 단계입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2021-local-management-A-q07",
+      "paperId": "paper_nursing_management_2021_local_A",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2021/local-A/q07.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nMaslow의 욕구단계와 McClelland의 성취동기이론, McGregor의 XY이론을 유사한 관점끼리 연결하는 문항입니다. 자아실현 욕구는 성취욕구에, 존경 욕구는 권력욕구에 대응하며, Y이론은 상위 욕구, X이론은 생리·안전 같은 하위 욕구에 대응합니다.",
+      "optionExplanations": [
+        "자아실현 욕구에 권력욕구를 연결한 것이 잘못입니다.",
+        "존경 욕구에 성취욕구를 연결한 것이 잘못입니다.",
+        "자아실현에 성장욕구를 연결한 것은 다른 이론의 개념이며, Y이론과 X이론의 위치도 뒤바뀌었습니다.",
+        "자아실현 욕구는 성취욕구, 존경 욕구는 권력욕구, Y이론은 상위 욕구, X이론은 하위 욕구에 대응하므로 연결이 바릅니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2021-local-management-A-q08",
+      "paperId": "paper_nursing_management_2021_local_A",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2021/local-A/q08.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n직무분석 정보 수집 방법의 개념을 구분하는 문항입니다. 작업표본방법은 직무분석자가 전체 직무 활동 가운데 일부를 표본으로 골라 관찰하는 방법입니다.",
+      "optionExplanations": [
+        "관찰법은 직무분석자가 직접 관찰하는 방법으로, 수행자가 스스로 기록하는 것은 일지법에 가깝습니다.",
+        "면접법은 설문지가 아니라 면담으로 정보를 얻는 방법입니다.",
+        "중요사건법은 업무 중 결정적인 사건을 기록하는 방법으로, 매일 작업일지를 쓰는 것과 다릅니다.",
+        "작업표본방법은 전체 직무 활동 중 일부 작업을 표본으로 선정해 관찰하는 방법입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2021-local-management-A-q09",
+      "paperId": "paper_nursing_management_2021_local_A",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2021/local-A/q09.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n마케팅믹스의 4P(제품, 가격, 유통, 촉진)에 해당하지 않는 사례를 고르는 문항입니다. 구매 고객에게 사은품을 주는 것은 판매 촉진에 해당하므로 가격 전략으로 분류할 수 없습니다.",
+      "optionExplanations": [
+        "건강검진 패키지 개발은 제품·서비스 전략의 예입니다.",
+        "대면 교육을 비대면으로 전환한 것은 서비스 전달 경로를 바꾼 유통 전략의 예입니다.",
+        "지하철 광고는 촉진 전략의 예입니다.",
+        "사은품 지급은 판매 촉진(촉진 전략)에 해당합니다. 이를 가격 전략으로 분류한 것이 옳지 않습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2021-local-management-A-q10",
+      "paperId": "paper_nursing_management_2021_local_A",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/management/2021/local-A/q10.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n의료법상 간호인력취업교육센터의 업무 범위를 묻는 문항입니다. 우수한 간호사의 확보와 적절한 공급을 위한 기본 시책의 수립은 국가와 지방자치단체의 책무로, 센터의 명시된 업무가 아닙니다.",
+      "optionExplanations": [
+        "유휴 및 이직 간호인력의 취업 교육 지원은 센터의 주요 업무입니다.",
+        "기본 시책의 수립은 보건복지부장관 등의 책무에 해당하며 센터 업무로 명시되어 있지 않습니다. 정답입니다.",
+        "지역별·의료기관별 간호인력 확보 현황 조사는 센터의 업무입니다.",
+        "간호인력의 지속적인 근무를 위한 경력 개발 지원도 센터의 업무입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2021-local-management-A-q11",
+      "paperId": "paper_nursing_management_2021_local_A",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2021/local-A/q11.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n간호전달체계 유형에 대한 설명 중 옳지 않은 것을 고르는 문항입니다. 한 명의 간호사가 환자 1~2명을 전담해 모든 간호를 제공하는 것은 일차간호방법의 설명입니다.",
+      "optionExplanations": [
+        "팀간호방법은 전문직과 비전문직 인력을 포함한 팀으로 구성되며 팀 내 의사소통이 중요하다는 설명이 맞습니다.",
+        "기능적분담방법은 총체적 간호가 이루어지지 않아 환자와 간호사의 만족도가 낮다는 설명이 맞습니다.",
+        "일차간호방법은 입원부터 퇴원까지 한 간호사가 담당해 책임 소재가 분명하다는 설명이 맞습니다.",
+        "1명의 간호사가 1~2명의 환자를 담당해 모든 간호를 제공하는 것은 일차간호방법입니다. 사례관리에 대한 설명으로 옳지 않습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2021-local-management-A-q12",
+      "paperId": "paper_nursing_management_2021_local_A",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2021/local-A/q12.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n권력의 원천을 구분하는 문항입니다. 공정한 업무 처리와 배려하는 인간관계로 존경을 받아 생기는 권력은 준거적 권력입니다.",
+      "optionExplanations": [
+        "강압적 권력은 처벌과 위협에 근거합니다.",
+        "합법적 권력은 조직이 부여한 공식적 지위에서 나옵니다.",
+        "준거적 권력은 개인의 인격과 행동을 존경하고 따르고 싶은 마음에서 생기는 권력입니다. 정답입니다.",
+        "전문적 권력은 전문 지식과 기술에 대한 신뢰에서 나옵니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2021-local-management-A-q13",
+      "paperId": "paper_nursing_management_2021_local_A",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2021/local-A/q13.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n전파 경로에 따른 격리 방법을 판단하는 문항입니다. 수술용 마스크 착용, 코호트 격리 시 병상 간 거리 유지, 병실 밖 이동 전 손 위생은 비말주의와 접촉주의에서 요구되는 조치이며, 백일해는 비말주의 대상 질병입니다.",
+      "optionExplanations": [
+        "수두는 공기주의와 접촉주의가 함께 요구되는 질병입니다.",
+        "홍역은 공기주의 대상 질병입니다.",
+        "백일해는 비말주의 대상 질병으로, 마스크 착용과 병상 간 거리 유지, 이동 전 손 위생이 요구됩니다. 정답입니다.",
+        "B형 간염은 혈액·체액 접촉으로 전파되어 표준주의가 적용됩니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2021-local-management-A-q14",
+      "paperId": "paper_nursing_management_2021_local_A",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/management/2021/local-A/q14.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n재무상태표의 차변과 대변 항목을 구분하는 문항입니다. 차변에는 자산, 대변에는 부채와 자본이 놓입니다.",
+      "optionExplanations": [
+        "차변에 자본, 대변에 부채가 오는 구조는 재무상태표의 기본 틀과 다릅니다.",
+        "차변은 자산, 대변은 부채와 자본으로 구성되므로 (가) 자산, (나) 부채, (다) 자본이 바릅니다. 정답입니다.",
+        "차변의 (가)가 자본이 될 수 없습니다.",
+        "차변에 자본이 오는 것은 재무상태표의 구조와 맞지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2021-local-management-A-q15",
+      "paperId": "paper_nursing_management_2021_local_A",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2021/local-A/q15.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n한국간호사 윤리강령의 '전문가로서의 간호사 의무'에 해당하는 항목을 고르는 문항입니다. 안전한 간호 제공은 전문가로서 갖추어야 할 의무입니다.",
+      "optionExplanations": [
+        "대상자 보호는 '대상자와의 관계' 영역에 해당합니다.",
+        "건강 환경 구현은 '보건의료 전문가 및 협력자와의 관계' 영역에 해당합니다.",
+        "안전한 간호 제공은 전문가로서의 간호사 의무 영역에 해당합니다. 정답입니다.",
+        "관계 윤리 준수는 '전문가로서의 간호사와 대상자' 관계 영역에서 다루어집니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2021-local-management-A-q16",
+      "paperId": "paper_nursing_management_2021_local_A",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/management/2021/local-A/q16.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n브룸의 기대이론에서 기대감은 노력하면 성과를 낼 수 있다는 믿음, 수단성은 성과가 원하는 보상으로 이어질 것이라는 믿음입니다. 성과를 낼 자신은 있으나 승진 평가에 영향이 없을 것으로 보므로 기대감은 높고 수단성은 낮습니다.",
+      "optionExplanations": [
+        "수단성까지 높다면 보상에 대한 믿음이 있어야 하는데, 승진 평가에 영향이 없을 것으로 판단하고 있습니다.",
+        "성과를 거둘 자신이 있어 기대감은 높고, 보상으로 이어지지 않을 것으로 보아 수단성은 낮습니다. 정답입니다.",
+        "기대감이 낮다는 판단은 '최고의 성과를 거둘 자신이 있다'는 서술과 어긋납니다.",
+        "기대감과 수단성이 모두 낮다면 리더 역할을 맡을 자신이 없다는 내용이어야 합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2021-local-management-A-q17",
+      "paperId": "paper_nursing_management_2021_local_A",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2021/local-A/q17.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n환자안전법상 환자안전사고 보고에 관한 설명 중 옳지 않은 것을 고르는 문항입니다. 행정처분의 감경은 자율보고를 활성화하기 위한 제도로, 의무보고 대상 사고를 보고하면 당연히 감경되는 것은 아닙니다.",
+      "optionExplanations": [
+        "의무보고 대상 환자안전사고가 발생하면 의료기관의 장이 보고해야 한다는 설명은 옳습니다.",
+        "진료기록과 다른 의약품이 투여되어 경미한 신체적 손상이 발생한 경우는 자율보고할 수 있다는 설명이 옳습니다.",
+        "의무보고를 수행한 경우에는 행정처분 감경·면제가 적용되지 않습니다. 감경·면제는 사고를 발생시킨 사람이 자율보고를 한 경우에 인정되는 제도이므로, 의무보고를 지체 없이 했다는 이유로 감경된다는 설명은 옳지 않습니다. 정답입니다.",
+        "다른 부위의 수술로 환자안전사고가 발생한 경우 손상의 경중과 관계없이 의무보고 대상이라는 설명은 옳습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2021-local-management-A-q18",
+      "paperId": "paper_nursing_management_2021_local_A",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2021/local-A/q18.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n만츠와 심스의 셀프리더십 훈련 전략 중 인지 전략은 건설적 사고 습관을 들이는 것입니다.",
+      "optionExplanations": [
+        "스스로 목표를 세우고 우선순위를 정하는 것은 행동 중심 전략입니다.",
+        "업무 환경에 단서를 배치하는 것은 환경 단서 전략입니다.",
+        "어려운 상황을 장애물이 아닌 기회로 인식하는 건설적 사고 습관은 인지 전략에 해당합니다. 정답입니다.",
+        "스스로 보상을 제공하는 것은 자연적 보상 전략입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2021-local-management-A-q19",
+      "paperId": "paper_nursing_management_2021_local_A",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/management/2021/local-A/q19.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n터크만의 팀 발전 과정은 형성기, 갈등기, 규범기, 성취기, 해체기의 순서로 진행됩니다.",
+      "optionExplanations": [
+        "형성기-갈등기-규범기-성취기-해체기의 순서가 터크만이 제시한 팀 발전 과정입니다. 정답입니다.",
+        "성취기가 규범기보다 앞서는 순서는 팀 발전 과정과 다릅니다.",
+        "규범기가 갈등기보다 앞서는 순서는 팀 발전 과정과 다릅니다.",
+        "성취기가 규범기보다 앞선 순서는 팀 발전 과정과 다릅니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2021-local-management-A-q20",
+      "paperId": "paper_nursing_management_2021_local_A",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2021/local-A/q20.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n의료기관의 개인정보보호 기준 중 진료·검사 예약 시의 개인정보 처리에 대한 설명으로 옳지 않은 것을 고르는 문항입니다. 전화로 개인정보를 수집할 때 통화 내용은 필요한 범위에서 녹취할 수 있습니다.",
+      "optionExplanations": [
+        "인터넷으로 수집한 주민등록번호는 암호화해 보관해야 한다는 설명은 옳습니다.",
+        "단순 예약을 위한 주민등록번호 수집은 원칙적으로 허용되지 않는다는 설명은 옳습니다.",
+        "전화로 필요한 개인정보를 수집할 때 통화 내용은 고지와 동의 절차를 거쳐 녹취할 수 있으므로 '녹취할 수 없다'는 설명은 옳지 않습니다. 정답입니다.",
+        "진료 목적일 경우 만 14세 미만 아동의 개인정보를 법정대리인 동의 없이 수집할 수 있다는 설명은 옳습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    }
+  ]
+}

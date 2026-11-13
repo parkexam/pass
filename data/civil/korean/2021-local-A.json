@@ -1,0 +1,489 @@
+{
+  "id": "paper_civil_korean_2021_local_A",
+  "title": "2021 지방직 9급 국어 A책형",
+  "year": 2021,
+  "source": "2021 지방직 9급 국어 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+  "subjectId": "sub_civil_0",
+  "questions": [
+    {
+      "id": "civil2021-local-korean-A-q01",
+      "paperId": "paper_civil_korean_2021_local_A",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2021/local-A/q01.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n맞춤법에 맞게 쓰인 표기만을 가려내는 문항입니다. 소리 나는 대로 '몇일'로 적기 쉬운 말은 '며칠'로 적는 것이 원칙이므로, ②에는 틀린 표기가 들어 있습니다.",
+      "optionExplanations": [
+        "'웬일'이 바른 표기입니다. '왠지'의 '왠'에 이끌려 '왠일'로 적는 경우가 많지만, '어찌 된 일'을 뜻하는 이 말은 '웬일'로 적습니다.",
+        "'며칠'이 바른 표기입니다. '몇 월'은 소리 나는 대로 적지만, 날짜를 세는 말은 '며칠'로 적으므로 '몇일'은 틀린 표기입니다. 정답입니다.",
+        "'굳은살'과 '박인'은 모두 사전에 올라 있는 표기와 활용입니다. '굳은살이 박이다'는 살이 눌려 딱딱해진 상태를 이르는 말로 쓸 수 있습니다.",
+        "'으레'가 바른 표기입니다. '예사로 항상'을 뜻하는 부사로, '의레'나 '으례'로 적지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2021-local-korean-A-q02",
+      "paperId": "paper_civil_korean_2021_local_A",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2021/local-A/q02.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n조사 '로서'와 '로써'를 구별하는 문항입니다. '로서'는 자격이나 신분을, '로써'는 수단·도구나 시간의 한계를 나타냅니다.",
+      "optionExplanations": [
+        "아버지의 딸이라는 자격을 나타내므로 '로서'를 써야 합니다. '딸로써'는 잘못입니다.",
+        "갈등을 푸는 수단을 나타내므로 '로써'를 써야 합니다. '대화로서'는 조사가 잘못 짝지어진 경우입니다.",
+        "'오늘'을 기한으로 삼아 일을 마무리한다는 뜻이므로 '로써'를 쓰는 것이 맞습니다. 정답입니다.",
+        "'이것'을 근거로 세 번째가 된다는 뜻이므로 '이로써'로 적어야 합니다. '이로서'는 잘못입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2021-local-korean-A-q03",
+      "paperId": "paper_civil_korean_2021_local_A",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2021/local-A/q03.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n'반나절'의 사전적 의미를 확인하는 문항입니다. 표준국어대사전은 '반나절'을 ①한나절의 반 ②하룻낮의 반(한나절)의 두 가지로 풀이하는데, ②의 '하루 낮의 반'을 두 번째 뜻으로 보면 ①도 옳은 풀이가 됩니다. 이 때문에 인사혁신처는 이 문항을 정답 확정 회의 끝에 '정답 없음(전원 정답)'으로 최종 처리했습니다. ※ 공식 최종정답은 '정답 없음'이며, 앱 표시를 위해 ①을 정답 자리에 두었습니다.",
+      "optionExplanations": [
+        "'반나절: 하루 낮의 반'은 표준국어대사전의 두 번째 뜻('하룻낮의 반')과 통하는 풀이입니다. 이의제기를 받아들인 인사혁신처는 이 문항을 '정답 없음'으로 처리해 모든 응시자를 정답으로 인정했습니다.",
+        "'달포'는 한 달이 조금 넘는 기간을 이르는 말로, 풀이가 옳습니다.",
+        "'그끄저께'는 오늘로부터 사흘 전의 날을 이르는 말로, 풀이가 옳습니다.",
+        "'해거리'는 한 해를 거른 간격을 이르는 말로, 풀이가 옳습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2021-local-korean-A-q04",
+      "paperId": "paper_civil_korean_2021_local_A",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2021/local-A/q04.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n문장의 뜻을 관용 표현으로 바꿔 쓸 수 있는지를 묻는 문항입니다. ②의 '중간에서 연결해 주다'에 해당하는 관용 표현은 '다리를 놓다'입니다.",
+      "optionExplanations": [
+        "'가랑이가 찢어지다'는 몹시 가난한 형편을 이르는 관용 표현으로, 바꿔 쓰기에 알맞습니다.",
+        "'호흡을 맞추다'는 여럿이 함께 짜임새 있게 일을 해 나간다는 뜻입니다. 중간에서 서로를 연결해 준 상황에는 '다리를 놓다'를 써야 하므로 적절하지 않습니다. 정답입니다.",
+        "'코웃음을 치다'는 깔보며 비웃는 태도를 이르는 관용 표현으로, 바꿔 쓰기에 알맞습니다.",
+        "'바가지를 쓰다'는 실제보다 비싼 값을 치르고 물건을 사는 것을 이르는 관용 표현으로, 바꿔 쓰기에 알맞습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2021-local-korean-A-q05",
+      "paperId": "paper_civil_korean_2021_local_A",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2021/local-A/q05.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n판소리 사설에 쓰인 표현의 효과를 파악하는 문항입니다. ㉣은 그네 타는 춘향의 모습에서 느낀 서술자의 감탄으로, 인물의 내면이 아니라 겉모습에 대한 평가입니다.",
+      "optionExplanations": [
+        "㉠ '천중절을 모를 쏘냐'는 반문의 형식으로, 춘향이 절기를 모를 리 없다는 뜻을 강조하는 설의적 표현입니다.",
+        "㉡은 '녹음방초'와 '금잔디' 같은 시어로 봄날의 정경을 아름답게 그려 내고 있으며 비유의 방식이 쓰였습니다.",
+        "㉢ '펄펄', '흔들흔들' 같은 음성 상징어가 그네 타는 장면을 생생하게 전달하고 있습니다.",
+        "㉣은 그네 타는 춘향의 모습에 대한 감탄이며 내면의 아름다움을 서술한 것이 아닙니다. 또 서술자가 작품 밖에서 독자에게 말을 거는 편집자적 논평도 아닙니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2021-local-korean-A-q06",
+      "paperId": "paper_civil_korean_2021_local_A",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2021/local-A/q06.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n대화 참여자가 같은 발화를 서로 다르게 해석하는 양상을 파악하는 문항입니다. B는 고객이 제안서 내용에 의문을 제기한 말을 근거로 완곡한 거절로 판단합니다.",
+      "optionExplanations": [
+        "A는 승낙으로, B는 완곡한 거절로 이해하므로 두 사람의 이해가 같지 않습니다.",
+        "A는 '궁금하다'는 말이 사업을 수용하지 않는다는 뜻은 아니라고 반박할 뿐, 부정적 평가로 단정하지 않습니다.",
+        "B는 고객이 제안서 내용은 정리가 잘 되었으나 사업적 효과가 있을지 궁금하다고 한 점을 근거로 완곡한 거절로 판단하고 있습니다. 정답입니다.",
+        "A는 표정·박수·목소리 같은 비언어적 표현을 들어 승낙으로 해석하고 있으므로, 완곡한 거절로 해석했다는 설명은 반대입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2021-local-korean-A-q07",
+      "paperId": "paper_civil_korean_2021_local_A",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2021/local-A/q07.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n소설 속 인물의 처지와 심리를 정확히 읽어 내는 문항입니다. '나'가 무슈리를 아버지로 부르기 어려운 까닭은 그 말을 해 본 적이 없는 '습관' 때문이며, 현규에 대한 감정 때문이라고 볼 근거가 없습니다.",
+      "optionExplanations": [
+        "'나'는 현규도 자신과 같은 괴로움을 생각하고 있기를 바란다고 서술하고 있으므로 적절합니다.",
+        "'나'와 현규는 혈족이 아니어서 '순전한 타인'이고, 부모의 재혼으로 맺어진 형식상의 오누이일 뿐이라는 내용과 부합합니다.",
+        "'나'가 '아버지'라는 말을 어려워하는 것은 발음해 본 적이 없는 습관 때문이라는 서술이 분명합니다. 이를 현규에 대한 감정 탓으로 돌리는 것은 글의 내용과 다릅니다. 정답입니다.",
+        "'나'는 '오누이'라는 형식이어서는 안 된다고 여기며 자신의 감정에 충실하고 싶어 하므로 적절합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2021-local-korean-A-q08",
+      "paperId": "paper_civil_korean_2021_local_A",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2021/local-A/q08.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n단호한 반응과 수동적·공격적 반응을 구별하는 문항입니다. 단호한 반응은 상대의 권리를 침해하지 않으면서 자신의 권리를 분명히 지키는 태도입니다.",
+      "optionExplanations": [
+        "싫으면서도 창문을 열어 주는 것은 자신의 권리를 포기하는 수동적 반응입니다.",
+        "'좀 참아 보시겠어요'는 상대를 나무라는 공격적 어조에 가깝습니다.",
+        "담배 연기가 싫고 건강에 해롭다는 자신의 입장을 분명히 밝히면서, 원하면 차를 세워 주겠다고 대안을 제시해 상대를 배려하고 있습니다. 단호한 반응의 예로 가장 적절합니다. 정답입니다.",
+        "결정을 상대에게 미루어 자신의 의사를 표현하지 않았으므로 수동적 반응입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2021-local-korean-A-q09",
+      "paperId": "paper_civil_korean_2021_local_A",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2021/local-A/q09.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n인물의 처지에 어울리는 한자 성어를 고르는 문항입니다. 할머니가 손자를 잊지 못하고 눈물로 세월을 보냈다는 대목에 맞는 말은 '오매불망'입니다.",
+      "optionExplanations": [
+        "'오매불망(寤寐不忘)'은 자나 깨나 잊지 못함을 뜻합니다. 손자를 그리워하며 세월을 보낸 할머니의 처지에 알맞습니다. 정답입니다.",
+        "'망운지정(望雲之情)'은 구름을 바라보며 부모를 그리는 효심을 이르는 말로, 손자를 그리는 마음과는 어긋납니다.",
+        "'염화미소(拈華微笑)'는 말없이 마음이 통함을 이르는 불교 용어로 문맥과 관계가 없습니다.",
+        "'백아절현(伯牙絶絃)'은 참된 친구를 잃은 슬픔을 이르는 말로, 손자를 잃을까 걱정하는 상황과 맞지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2021-local-korean-A-q10",
+      "paperId": "paper_civil_korean_2021_local_A",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2021/local-A/q10.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n시조와 자유시의 형식적 특징을 비교하는 문항입니다. (나)는 정해진 율격 없이 행을 나눈 자유시이므로, 두 작품 모두 정해진 율격과 음보에 맞춰 전개된다는 설명은 옳지 않습니다.",
+      "optionExplanations": [
+        "(가)는 변함없는 산천과 사라진 인걸을 대비해 인생의 무상함을 드러내고 있으므로 적절합니다.",
+        "(나)는 옥좌의 쌍룡 대신 봉황을 올린 처지를 통해 사대주의적 역사를 비판하는 시각을 드러내므로 적절합니다.",
+        "(가)는 경치를 먼저 제시하고 정서를 뒤에 드러내는 선경후정의 방식이며, (나)도 폐허의 풍경 뒤에 슬픔을 드러내므로 적절합니다.",
+        "(가)는 3장 6구의 정해진 율격을 따르는 시조이지만, (나)는 율격의 제약 없이 행을 나눈 자유시입니다. 두 작품 모두 정해진 율격에 맞춰 전개된다는 설명은 옳지 않습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2021-local-korean-A-q11",
+      "paperId": "paper_civil_korean_2021_local_A",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2021/local-A/q11.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n미국과 일본의 양육 방식 차이를 비교한 글의 내용을 확인하는 문항입니다. 미국의 어머니는 독립적 행동을, 일본의 어머니는 타인의 감정 예측을 가르친다는 진술이 글과 일치합니다.",
+      "optionExplanations": [
+        "미국은 말하는 사람의 입장을, 일본은 듣는 사람의 입장을 강조하므로 서로 뒤바뀐 설명입니다.",
+        "일본의 어머니는 사물의 속성보다 다른 사람과의 관계, 특히 감정에 초점을 맞춰 가르칩니다.",
+        "'이면에 있는 감정을 읽어야 한다'는 일본의 양육 방식에 해당하는 설명입니다.",
+        "미국의 어머니는 자녀가 독립적인 행동을 하도록, 일본의 어머니는 다른 사람의 감정을 미리 예측하도록 교육한다는 내용이 글과 정확히 일치합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2021-local-korean-A-q12",
+      "paperId": "paper_civil_korean_2021_local_A",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2021/local-A/q12.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n인공지능의 편의가 인간의 사고력에 미치는 영향을 다룬 글의 결론을 찾는 문항입니다. 글은 기계에 의존하면서 기억력과 창조력이 퇴보한다고 경고합니다.",
+      "optionExplanations": [
+        "글은 인공지능에 대한 독립성이 커진다고 보지 않고, 오히려 의존이 깊어진다고 봅니다.",
+        "편의를 제공하는 도구가 기억력과 창조력을 퇴보시켜 두뇌를 게으르게 만든다는 것이 글의 결론입니다. 정답입니다.",
+        "인공지능이 인간을 능가하는 사고력을 갖게 될지는 '차치하고' 논의에서 제외한 내용입니다.",
+        "상상력을 활용하지 못하게 되는 쪽은 인간이며, 인공지능이 상상력을 갖게 된다는 내용은 없습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2021-local-korean-A-q13",
+      "paperId": "paper_civil_korean_2021_local_A",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2021/local-A/q13.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공용어의 개념을 설명한 글의 내용을 이해하는 문항입니다. 유럽연합은 여러 공용어 가운데 하나만 알아도 공식 업무에 불편이 없도록 해 공무상 편의를 도모했습니다.",
+      "optionExplanations": [
+        "유엔에서 근무하는 모든 외교관이 공용어를 다 잘해야 하는 것은 아니라고 글은 밝히고 있습니다.",
+        "유럽연합은 여러 공용어 중 하나만 알아도 공식 업무에 불편이 없게 함으로써 공무상 편의를 도모했다는 내용이 글과 일치합니다. 정답입니다.",
+        "영어를 공용어로 지정해도 모든 한국인이 영어를 잘하게 되지는 않는다고 글은 말합니다.",
+        "영어가 머지않아 공용어로 지정될 것이라는 내용은 글에 없습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2021-local-korean-A-q14",
+      "paperId": "paper_civil_korean_2021_local_A",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2021/local-A/q14.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n악플이 생겨나는 심리와 사회적 조건을 분석한 글을 읽는 문항입니다. 글은 자신의 삶을 통제하지 못하는 사람일수록 악플로 자기효능감을 느낀다고 서술합니다.",
+      "optionExplanations": [
+        "자신이 올린 글 한 줄에 다른 사람이 동요하는 모습을 보며 자기효능감을 맛본다는 내용과 일치합니다.",
+        "개인주의 사회에서는 비판을 '그건 너의 생각'이라 넘기거나 법적 조치를 취해 악플러가 자괴감에 빠질 수 있다는 내용과 일치합니다.",
+        "글은 자신의 삶과 환경을 통제하지 못해 무력감에 시달리는 사람일수록 공격적으로 발설한다고 했으므로, 잘 통제하는 사람일수록 엄격하게 비판한다는 설명은 반대입니다. 정답입니다.",
+        "한국인들이 타인에게 신경을 많이 쓰는 두 가지 특성이 맞물려 악플이 양산된다는 내용과 일치합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2021-local-korean-A-q15",
+      "paperId": "paper_civil_korean_2021_local_A",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2021/local-A/q15.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지시 표현이 가리키는 대상을 가려내는 문항입니다. ㉠은 아직 자르지 않은 수박 한 통 전체를, 나머지 셋은 갈라진 뒤 드러난 붉은 속을 가리킵니다.",
+      "optionExplanations": [
+        "㉠ '구형의 과일'은 칼이 닿기 전 검푸른 껍질을 두른 수박 자체를 가리킵니다. ㉡㉢㉣은 모두 쪼갠 뒤 드러난 속을 가리키므로 ㉠만 대상이 다릅니다. 정답입니다.",
+        "㉡ '빨강'은 '초록이 빨강으로 바뀐다'에서 갈라진 뒤 드러난 속살의 색을 가리킵니다.",
+        "㉢은 '초록의 껍질 속에서' 펼쳐지는 선홍색의 바다, 곧 수박의 속을 가리킵니다.",
+        "㉣ '아름다움의 세계'는 '칼 지나간 자리에서' 나타난 것이므로 역시 갈라진 뒤의 속을 가리킵니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2021-local-korean-A-q16",
+      "paperId": "paper_civil_korean_2021_local_A",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2021/local-A/q16.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글의 흐름에 맞는 접속어를 고르는 문항입니다. 앞뒤 문장의 관계를 보아 (가)는 화제 전환, (나)는 내용 추가, (다)와 (라)는 앞말을 제한하거나 뒤집는 접속어가 와야 합니다.",
+      "optionExplanations": [
+        "(가)는 앞의 진술에서 화제를 돌리는 '그런데', (나)는 앞 내용에 덧붙이는 '게다가', (다)는 앞의 판단을 제한하는 '그렇지만', (라)는 앞의 논의를 뒤집어 결론으로 가는 '그러나'가 모두 자연스럽습니다. 정답입니다.",
+        "(가)에 '그런데'를 쓰는 것은 적절하나, (다)에 놓인 '그래서'는 앞의 가정과 뒤의 결론을 인과로 잘못 연결합니다.",
+        "(가)의 '그리고'는 앞 문장에 내용을 덧붙이는 자리라 화제 전환에는 어울리지 않습니다.",
+        "(가)의 '그래서'는 앞의 사례와 뒤의 판단을 인과로 묶어 버려 글의 흐름이 어긋납니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2021-local-korean-A-q17",
+      "paperId": "paper_civil_korean_2021_local_A",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2021/local-A/q17.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n문장을 고쳐 쓰는 방안의 적절성을 따지는 문항입니다. (라)는 공과금을 내는 쪽이 주체이므로 '납부'가 맞고, 돈을 받아들이는 기관의 입장에서 쓰는 '수납'으로 고칠 이유가 없습니다.",
+      "optionExplanations": [
+        "(가)는 현재의 조직도를 설명하는 자리이므로 '있었다'를 '있다'로 고치는 것이 적절합니다.",
+        "(나)는 버려야 할 것을 뜻하는 '지양'이 쓰였으나 문맥상 목표로 삼는다는 '지향'이 맞으므로 적절한 지적입니다.",
+        "(다)의 '지난달 수해로 인한'은 '준비 기간'을 수식할 수 없으므로 '인하여'로 고치는 것이 적절합니다.",
+        "(라)는 공과금을 내는 사람의 입장을 서술하므로 '납부'가 옳습니다. '수납'은 돈을 받아 거두어들이는 쪽의 행위이므로 고칠 필요가 없습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2021-local-korean-A-q18",
+      "paperId": "paper_civil_korean_2021_local_A",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2021/local-A/q18.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n희곡의 대화를 통해 두 인물의 입장 차이를 파악하는 문항입니다. 동연은 이미 있는 형상을 그대로 본뜨려는 인물이므로, 독창적으로 제작하는 인물이라는 설명은 글을 잘못 이해한 것입니다.",
+      "optionExplanations": [
+        "서연은 형상을 의심하지만 동연은 의심 없이 본뜨려 하므로 두 사람의 입장은 다릅니다.",
+        "서연은 흔히 있는 형상을 또 베끼는 것을 의심하며 진짜 부처님이 아니라고 말하므로 적절합니다.",
+        "동연은 남이 그린 형상을 다시 베껴 만들려는 인물입니다. 독창적으로 제작하는 인물이라는 설명은 대화의 내용과 다릅니다. 정답입니다.",
+        "형식(형상)을 중시하는 동연과 그 속의 마음(내용)을 묻는 서연의 대화는 예술에서 형식과 내용의 논쟁을 연상시키므로 적절합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4
+    },
+    {
+      "id": "civil2021-local-korean-A-q19",
+      "paperId": "paper_civil_korean_2021_local_A",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2021/local-A/q19.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n온돌과 벽난로의 난방 방식 차이를 설명하는 글에서 결론에 들어갈 진술을 고르는 문항입니다. 벽난로는 복사열로 위쪽 공기를 데우므로 바닥 가까운 공기가 따뜻해지지 않습니다.",
+      "optionExplanations": [
+        "벽난로는 복사열로 위쪽 공기만 데우고, 데워진 공기는 아래로 내려오지 않아 바닥 부근이 차갑게 남는다는 설명이 앞 문장에 이어지기에 적절하지 않습니다.",
+        "벽난로 난방이 복사열에서 대류로 이어졌다는 설명은 글의 내용과 반대입니다.",
+        "대류 현상을 통한 난방이 위쪽만 데운다는 설명은 온돌의 방식과 어긋납니다.",
+        "위쪽의 따뜻한 공기는 아래로 내려오지 않으므로 바닥 바로 위 공기까지 데워지지 않는다는 진술이 글의 흐름에 가장 알맞습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4
+    },
+    {
+      "id": "civil2021-local-korean-A-q20",
+      "paperId": "paper_civil_korean_2021_local_A",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2021/local-A/q20.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n포도주의 생산과 소비에 관한 글에서 추론할 수 있는 내용을 고르는 문항입니다. 백포도주와 중급 이하 적포도주는 시간이 지날수록 품질이 떨어지므로, 보관 기간에 비례해 품질이 좋아진다고 볼 수 없습니다.",
+      "optionExplanations": [
+        "글은 고급 포도주 생산지가 대체로 덥지도 춥지도 않은 곳이라고 했을 뿐, 모두 그런 곳에서만 만들어졌다고 단정하지 않았습니다.",
+        "루아르강 하구에서 크림반도·조지아를 잇는 선은 포도 재배의 북방 한계선이므로 이탈리아보다 북쪽입니다.",
+        "식사용 포도주는 저렴한 포도주이며, 술이 약한 사람이 여기에 물을 섞어 마시는 경우가 있다고 했을 뿐 일반적인 방식은 아닙니다.",
+        "백포도주와 중급 이하 적포도주는 시간이 지날수록 품질이 떨어지며, 품질이 개선되는 것은 일부 고급 적포도주에 한정된 이야기입니다. 따라서 고급 백포도주가 보관 기간에 비례해 좋아진다고 추론할 수 없습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4
+    }
+  ]
+}
