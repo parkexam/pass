@@ -1,0 +1,489 @@
+{
+  "id": "paper_civil_korean_2024_national_gah",
+  "title": "2024 국가직 9급 국어 가책형",
+  "year": 2024,
+  "source": "2024 국가직 9급 국어 가책형 PDF 및 인사혁신처 최종정답 기준 · 자체 해설 초안(검수 필요)",
+  "subjectId": "sub_civil_0",
+  "questions": [
+    {
+      "id": "civil2024-national-korean-gah-q01",
+      "paperId": "paper_civil_korean_2024_national_gah",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2024/national-gah/q01.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글은 약물 오남용의 뜻을 먼저 밝히고((나)), 그 피해((라))와 내성으로 피해가 커지는 점((가))을 이어 설명한 뒤, 그러므로 적정량을 사용해야 한다((다))는 결론으로 맺는 순서가 자연스럽습니다.",
+      "optionExplanations": [
+        "(다)의 결론이 앞에 오면 무엇에 대한 결론인지 드러나지 않습니다.",
+        "(나)에서 개념을 정의하고 (라)에서 피해를, (가)에서 피해가 커지는 이유를 설명한 뒤 (다)에서 실천 방안을 제시하는 순서가 자연스럽습니다. 정답입니다.",
+        "정의 없이 (라)가 먼저 오면 오남용이 무엇인지 알 수 없습니다.",
+        "(다)가 (라) 뒤에 바로 오면 내성으로 피해가 커진다는 (가)의 내용이 뒷부분에 남아 흐름이 끊깁니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2024-national-korean-gah-q02",
+      "paperId": "paper_civil_korean_2024_national_gah",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2024/national-gah/q02.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n을은 현대 사회에도 귀속지위가 성취지위를 결정하는 면이 있고 계급에 따른 불평등이 존재한다고 주장해 갑의 문제의식과 방향을 같이합니다. 따라서 을의 주장은 갑의 주장과 대립하지 않습니다.",
+      "optionExplanations": [
+        "갑은 을의 주장을 반박하지 않고 오히려 을의 문제의식에 이어 자신의 주장을 펼칩니다.",
+        "을은 갑이 제기한 문제에 동의하는 방향으로 말하고 있으므로 두 사람의 주장은 대립하지 않습니다. 정답입니다.",
+        "갑은 현대 사회가 계급사회라고 보고, 병은 그렇지 않다고 보므로 두 사람은 결론이 다릅니다.",
+        "병은 갑의 주장에 반대하고 을의 주장에도 반대하므로, 을과 대립하지 않는다는 설명은 적절하지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2024-national-korean-gah-q03",
+      "paperId": "paper_civil_korean_2024_national_gah",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2024/national-gah/q03.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n'통째로'는 쪼개지 않은 하나의 덩어리로라는 뜻의 표준어입니다. '허구한 날', '하마터면', '잘록하게'가 표준어이므로 나머지는 잘못된 표기입니다.",
+      "optionExplanations": [
+        "'허구한 날'이 표준어이므로 허구헌 날은 잘못된 표기입니다.",
+        "'통째로'는 표준어이므로 바르게 쓰였습니다. 정답입니다.",
+        "'하마터면'이 표준어이므로 하마트면은 잘못된 표기입니다.",
+        "'잘록하게'가 표준어이므로 잘룩하게는 잘못된 표기입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2024-national-korean-gah-q04",
+      "paperId": "paper_civil_korean_2024_national_gah",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2024/national-gah/q04.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n㉣은 어떤 일을 어떻게 할지 스스로 정하거나 판단한다는 뜻입니다. '질 줄 알았다'의 알다는 예상하거나 짐작했다는 뜻이어서 ㉣의 예로 적절하지 않습니다.",
+      "optionExplanations": [
+        "7개 국어를 할 줄 안다의 알다는 능력이 있다는 뜻이므로 ㉠의 예로 적절합니다.",
+        "알고 지낸 지 오래다의 알다는 인연이 있다는 뜻이므로 ㉡의 예로 적절합니다.",
+        "알 바 아니다의 알다는 관여하거나 관심을 가진다는 뜻이므로 ㉢의 예로 적절합니다.",
+        "질 줄 알았다의 알다는 예상했다는 뜻이므로 스스로 정하거나 판단한다는 ㉣의 예로 적절하지 않습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2024-national-korean-gah-q05",
+      "paperId": "paper_civil_korean_2024_national_gah",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2024/national-gah/q05.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n진행자는 전문가의 주장에 대한 반대 의견을 소개하고 그에 대한 설명을 요청하며, 제시된 통계의 의미를 자기 말로 풀어 확인하고, 마지막에 내용을 요약해 이해가 맞는지 되묻습니다. 자신의 경험을 예시한 부분은 없습니다.",
+      "optionExplanations": [
+        "2분 증가, 26.2% 감소라는 수치의 의미를 '감수할 만한 시간'으로 풀어 설명하고 있습니다.",
+        "마지막에 세 가지 논점을 요약하며 맞는지 확인하고 있습니다.",
+        "교통체증과 대기오염을 우려하는 반대 의견을 소개하고 이에 대한 견해를 요청하고 있습니다.",
+        "진행자가 자신의 경험을 예로 든 부분은 없습니다. 적절하지 않습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2024-national-korean-gah-q06",
+      "paperId": "paper_civil_korean_2024_national_gah",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2024/national-gah/q06.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n'지우개'는 어근 '지우-'에 접사 '-개'가 붙은 파생어이고, '새파랗다'는 '새-'와 '파랗다'가 결합한 파생어입니다. 두 단어 모두 파생어이므로 종류가 같습니다.",
+      "optionExplanations": [
+        "지우개(파생어)와 새파랗다(파생어)는 모두 파생어입니다. 정답입니다.",
+        "조각배는 합성어이지만 드높이다는 파생어여서 종류가 다릅니다.",
+        "짓밟다는 파생어이지만 저녁노을은 합성어여서 종류가 다릅니다.",
+        "풋사과는 파생어이지만 돌아가다는 합성어여서 종류가 다릅니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2024-national-korean-gah-q07",
+      "paperId": "paper_civil_korean_2024_national_gah",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2024/national-gah/q07.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n이 시는 고향의 소녀·소년·들길·마을을 향토적 소재로 그려 내며 '그렇게 그렇게', '마을이 있다' 같은 표현을 반복합니다. 그러나 화자 자신을 표면에 드러내어 상실감을 토로하는 부분은 없습니다.",
+      "optionExplanations": [
+        "마늘쪽 같은 머리, 아지랑이, 울타리 밖 화초 등 향토적 소재로 고향 풍경을 그립니다.",
+        "그렇게 그렇게, 마을이 있다를 되풀이해 리듬감을 만듭니다.",
+        "화자는 표면에 드러나지 않고 상실감을 직접 토로하지도 않습니다. 적절하지 않습니다. 정답입니다.",
+        "'그렇게'를 한 줄로 독립시켜 주제 의식을 강조하고 있습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2024-national-korean-gah-q08",
+      "paperId": "paper_civil_korean_2024_national_gah",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2024/national-gah/q08.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글은 인간의 행동이 유전적 적응 성향과 환경으로부터의 입력이 상호작용한 결과라고 설명합니다. 따라서 같은 조상에서 이어졌더라도 환경에서 얻는 정보가 다르면 행동이 달라질 수 있다고 추론할 수 있습니다.",
+      "optionExplanations": [
+        "행동은 유전과 환경의 상호작용으로 결정되므로 마음만 유전으로 결정된다는 설명은 글과 다릅니다.",
+        "복잡한 상황에서는 원시시대의 적응 방식이 부적절할 수 있다고 했으므로 최적화된다는 추론은 어긋납니다.",
+        "유전적 성향과 환경 입력의 상호작용이라는 설명에서 환경 정보가 다르면 행동도 달라질 수 있음을 추론할 수 있습니다. 정답입니다.",
+        "유전적 성향과 환경을 어느 하나가 우선한다고 보지 않았으므로 적절하지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2024-national-korean-gah-q09",
+      "paperId": "paper_civil_korean_2024_national_gah",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2024/national-gah/q09.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n현실을 '도외시(度外視)'한 정책, '식언(食言)'이 잦은 사람, 구조적 '모순(矛盾)'이 각 문맥에 맞습니다. 첨언(添言)은 덧붙여 말함, 복안(腹案)은 마음속으로 세운 계획을 뜻해 문맥과 맞지 않습니다.",
+      "optionExplanations": [
+        "도외시·식언·모순이 모두 문맥에 맞습니다. 정답입니다.",
+        "첨언과 복안은 문맥에 맞지 않습니다.",
+        "백안시는 흘겨봄을 뜻해 현실을 백안시한 정책이라는 표현은 어색합니다.",
+        "백안시·첨언·복안 모두 문맥에 맞지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2024-national-korean-gah-q10",
+      "paperId": "paper_civil_korean_2024_national_gah",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2024/national-gah/q10.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글은 오히려 온라인 비대면 상호작용에서 만난 사람들에게 더 끈끈한 유대감을 느끼기도 한다고 말합니다. 따라서 비대면으로는 깊은 유대를 형성할 수 없다는 추론은 글의 내용과 어긋납니다.",
+      "optionExplanations": [
+        "이분법적 범주가 교차하는 현상을 이해하는 데 한계가 있다는 내용은 글에서 확인됩니다.",
+        "비대면 상호작용에서 더 끈끈한 유대감을 느낄 수 있다고 했으므로 깊은 유대를 형성할 수 없다는 추론은 적절하지 않습니다. 정답입니다.",
+        "온라인과 오프라인이 온전히 분리되지 않는다는 내용은 글에 그대로 제시됩니다.",
+        "대화 중 문자를 주고받는 예에서 대면 중에도 디지털 상호작용이 가능함을 알 수 있습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2024-national-korean-gah-q11",
+      "paperId": "paper_civil_korean_2024_national_gah",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2024/national-gah/q11.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n장화와 홍련이 꿈에 나타나 계모가 바친 증거는 실제 낙태한 것이 아니라 죽은 쥐의 가죽을 넣어 둔 것이라고 밝히고, 배를 갈라 확인해 보라고 부사에게 알려 줍니다. 부사가 그대로 확인하자 쥐가 나왔습니다.",
+      "optionExplanations": [
+        "부사는 증거를 보고 미심쩍어했을 뿐 거짓이라고 확신하지 않았습니다.",
+        "후처는 장화가 음행을 저질렀다고 거짓말했고, 홍련이 스스로 목숨을 끊었다고 했습니다. 홍련이 물에 빠져 죽었다는 설명은 틀렸습니다.",
+        "장화가 증거가 거짓임을 확인할 방법을 알려 주었습니다. 정답입니다.",
+        "부사의 질문은 딸들이 무슨 병으로 죽었느냐는 것이었고, 스스로 목숨을 끊은 이유를 물은 것이 아닙니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2024-national-korean-gah-q12",
+      "paperId": "paper_civil_korean_2024_national_gah",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2024/national-gah/q12.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n주어진 문장은 이름 없이 나라를 지킨 이들이 일기에 기록되었다는 내용이므로, 가족과 장수·병졸·백성의 이름까지 언급했다는 (다) 뒤에 와서 '난중일기의 위대함은 바로 여기에 있다'로 이어져야 합니다.",
+      "optionExplanations": [
+        "(가) 앞에는 일기의 진면목을 제시하는 문장이 와야 합니다.",
+        "(나) 앞에는 인간적 고뇌가 드러난다는 설명이 이어져야 합니다.",
+        "(다) 앞에는 원균과의 갈등이 드러났다는 내용이 오는 것이 자연스럽습니다.",
+        "이름까지 언급한 내용 뒤에 주어진 문장이 오고, 이어서 위대함을 강조하는 문장이 오므로 (라)가 적절합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2024-national-korean-gah-q13",
+      "paperId": "paper_civil_korean_2024_national_gah",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2024/national-gah/q13.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n이 대목은 전보를 보고 감동하고 싶은 충동에서 벗어와 연하장, 엽서 쓰기, 단편소설의 결말까지 생각이 이어지는 흐름을 보여 줍니다. 연상 작용으로 인물의 생각이 연속되는 것이 특징입니다.",
+      "optionExplanations": [
+        "벗들과의 추억을 시간순으로 회상하는 구성이 아닙니다.",
+        "주변 거리를 재현하기보다 인물의 내면 의식이 이어집니다.",
+        "전보에서 감동, 엽서 쓰기, 소설의 결말로 생각이 연상 작용을 따라 이어집니다. 정답입니다.",
+        "전보가 이동한 경로를 따라 사건이 전개되는 구성이 아닙니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2024-national-korean-gah-q14",
+      "paperId": "paper_civil_korean_2024_national_gah",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2024/national-gah/q14.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n무진장(無盡藏)은 다함이 없이 아주 많다는 뜻입니다. '여러 가지가 있다'는 종류가 많다는 뜻이어서 무진장의 의미를 제대로 살리지 못합니다.",
+      "optionExplanations": [
+        "배회는 돌아다님이라는 뜻이므로 바꾸어 쓰기에 적절합니다.",
+        "무진장은 다함없이 많음이라는 뜻이어서 여러 가지가 있다로 바꾸면 의미가 약해집니다. 적절하지 않습니다. 정답입니다.",
+        "경청은 귀를 기울여 들음이라는 뜻이므로 적절합니다.",
+        "명기는 밝혀 적음이라는 뜻이므로 적절합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2024-national-korean-gah-q15",
+      "paperId": "paper_civil_korean_2024_national_gah",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2024/national-gah/q15.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n이 노래는 산의 접동새, 잔월효성 같은 자연물과 천상의 존재를 통해 화자의 정서를 드러내고 설의적 표현으로 결백을 강조합니다. 큰 숫자를 활용해 그리움을 강조한 표현은 없습니다.",
+      "optionExplanations": [
+        "접동새와 잔월효성 등 자연물을 통해 화자의 처지와 정서를 드러냅니다.",
+        "잔월효성과 하느님으로 볼 수 있는 존재를 통해 결백을 나타냅니다.",
+        "'뉘러시니잇가'와 같은 설의적 표현으로 정서를 부각합니다.",
+        "'천만 업소이다'의 천만은 '전혀'의 뜻으로 쓰였을 뿐 큰 숫자로 그리움을 강조한 표현이 아닙니다. 적절하지 않습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2024-national-korean-gah-q16",
+      "paperId": "paper_civil_korean_2024_national_gah",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2024/national-gah/q16.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글에 따르면 노래참새 수컷의 테스토스테론 수치는 수정이 이루어지면 떨어져 새끼를 돌보는 동안 낮게 유지되고, 새끼가 둥지를 떠나면 더 떨어집니다. 따라서 양육이 끝난 후에 더 높다는 설명은 글과 반대입니다.",
+      "optionExplanations": [
+        "양육이 끝난 후 수치가 더 떨어지므로, 양육이 끝난 후에 더 높다는 설명은 적절하지 않습니다. 정답입니다.",
+        "수정이 이루어진 후 수치가 떨어진다고 했으므로 적절한 추론입니다.",
+        "검정깃찌르레기는 수정 후 번식기가 끝날 때까지 수치가 떨어지지 않는다고 했습니다.",
+        "두 종 모두 번식기에 수치가 올라간다고 했으므로 적절한 추론입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2024-national-korean-gah-q17",
+      "paperId": "paper_civil_korean_2024_national_gah",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2024/national-gah/q17.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n비판적인 연구자들은 다중지능이론이 설정한 새로운 지능을 정확하게 측정할 도구를 만들기 어려울 것이라고 주장합니다. 대인 관계 능력에 관한 지능도 그 대상이므로, 측정 도구 개발 가능성에 회의적인 사람들이 있다는 설명이 적절합니다.",
+      "optionExplanations": [
+        "논리수학지능은 기존 지능이론의 지능으로, 다중지능이론에서도 지능의 하나로 다룹니다.",
+        "측정 도구 개발 가능성에 회의적인 연구자들이 있다는 내용이 글에서 확인됩니다. 정답입니다.",
+        "다중지능이론은 좌뇌 능력만 보는 검사를 반쪽짜리라고 비판하므로 우뇌 관련 지능을 더 중시합니다.",
+        "비판자들은 새로운 지능이 기존 지능과 독립적일 수 없다고 주장합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4
+    },
+    {
+      "id": "civil2024-national-korean-gah-q18",
+      "paperId": "paper_civil_korean_2024_national_gah",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2024/national-gah/q18.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n㉢은 '국가 정책 수립과 국제 협약을 체결하기 위해'로 되어 있어 '수립'의 목적어가 빠지고 서술어 호응이 어긋납니다. '국가 정책을 수립하고 국제 협약을 체결하기 위해'로 고쳐야 합니다.",
+      "optionExplanations": [
+        "기후 위기가 심각해지고 있다는 서술은 어법상 문제가 없습니다.",
+        "기상 재해 앞에서 자괴감이 든다는 서술도 어법상 문제가 없습니다.",
+        "정책 수립의 목적어가 빠져 서술어와 호응하지 않습니다. 수정이 필요합니다. 정답입니다.",
+        "지구가 파국으로 치닫는 것을 막을 기회라는 표현은 어법상 문제가 없습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4
+    },
+    {
+      "id": "civil2024-national-korean-gah-q19",
+      "paperId": "paper_civil_korean_2024_national_gah",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2024/national-gah/q19.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nA 집단은 고정 빈도가 B 집단의 약 2배였으므로 난해하다고 느끼는 단어가 더 많습니다. 그러나 평균 고정 시간은 B 집단이 더 높았으므로, 단어 하나를 이해하는 데 드는 평균 시간은 A 집단이 더 적다고 정리할 수 있습니다.",
+      "optionExplanations": [
+        "난해한 단어는 더 많지만 각 단어를 이해하는 평균 시간은 더 적다는 설명이 자료와 맞습니다. 정답입니다.",
+        "평균 고정 시간이 A 집단에서 더 낮았으므로 평균 시간도 더 많다는 설명은 어긋납니다.",
+        "고정 빈도가 A 집단에서 약 2배였으므로 난해한 단어가 더 적다는 설명은 틀립니다.",
+        "고정 빈도가 더 많으므로 단어가 더 적다는 설명은 자료와 맞지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4
+    },
+    {
+      "id": "civil2024-national-korean-gah-q20",
+      "paperId": "paper_civil_korean_2024_national_gah",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2024/national-gah/q20.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n락토 채식주의자는 유제품은 먹지만 고기·생선·달걀은 먹지 않고, 오보 채식주의자는 달걀은 먹지만 고기·생선·유제품은 먹지 않습니다. 명칭에 없는 재료를 먹지 않는 셈입니다.",
+      "optionExplanations": [
+        "락토는 달걀을 먹지 않고, 오보는 유제품을 먹지 않으므로 반대로 서술되었습니다.",
+        "오보 채식주의자는 달걀을 먹으므로 달걀을 먹지 않는다는 설명이 틀립니다.",
+        "락토의 설명은 맞지만 오보가 유제품을 먹는다고 한 부분이 틀립니다.",
+        "락토는 유제품을 먹고 나머지를 먹지 않으며, 오보는 달걀을 먹고 나머지를 먹지 않는다는 설명이 맞습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4
+    }
+  ]
+}

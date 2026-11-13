@@ -229,6 +229,26 @@
       "questionCount": 20,
       "dataFile": "data/nursing/community/2024-local-C.json",
       "external": true
+    },
+    {
+      "id": "paper_civil_korean_2024_national_gah",
+      "subjectId": "sub_civil_0",
+      "title": "2024 국가직 9급 국어 가책형",
+      "year": 2024,
+      "source": "2024 국가직 9급 국어 가책형 PDF 및 인사혁신처 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/korean/2024-national-gah.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_english_2024_national_gah",
+      "subjectId": "sub_civil_1",
+      "title": "2024 국가직 9급 영어 가책형",
+      "year": 2024,
+      "source": "2024 국가직 9급 영어 가책형 PDF 및 인사혁신처 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/english/2024-national-gah.json",
+      "external": true
     }
   ]
 }
