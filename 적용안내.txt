@@ -1,0 +1,13 @@
+EXAM BANK 오답 재풀이 개선
+
+수정 파일 6개를 기존 동일 경로에 덮어쓰세요.
+js/core.js
+js/quiz.js
+js/views.js
+js/app.js
+js/admin.js
+css/style.css
+
+기존 index.html, data/, assets/ 는 변경하지 않습니다.
+기존 풀이기록 및 오답 데이터는 유지됩니다.
+기존 버전에서 이미 자동삭제된 오답은 자동 복구하지 못합니다.

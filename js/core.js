@@ -11,7 +11,7 @@ const today = () => { const d = new Date(); return [d.getFullYear(),String(d.get
 const formatDay = ts => new Date(ts).toLocaleDateString('ko-KR',{year:'numeric',month:'short',day:'numeric'});
 const errText = '이 브라우저에서 저장이 제한되어 있어요. 데이터 내보내기로 백업해 주세요.';
 function freshDb(){
- return {version:3,exams:[],subjects:[],papers:[],questions:[],history:[],wrongIds:[],wrongSnapshots:{},draft:null,dailyGoal:20};
+ return {version:3,exams:[],subjects:[],papers:[],questions:[],history:[],wrongIds:[],wrongCompletedIds:[],wrongSnapshots:{},draft:null,dailyGoal:20};
 }
 
 let db;
@@ -19,6 +19,9 @@ let storageOK=true;
 try {let saved=localStorage.getItem(STORE_KEY);db=saved?JSON.parse(saved):freshDb();if(!saved)localStorage.setItem(STORE_KEY,JSON.stringify(db));} catch(e){db=freshDb();storageOK=false;}
 if(!db||!Array.isArray(db.exams)||!Array.isArray(db.subjects)||!Array.isArray(db.papers)||!Array.isArray(db.questions)||!Array.isArray(db.history)||!Array.isArray(db.wrongIds))db=freshDb();
 if(!db.wrongSnapshots||typeof db.wrongSnapshots!=='object')db.wrongSnapshots={};
+// Backward-compatible migration: previously saved wrong answers remain pending.
+if(!Array.isArray(db.wrongCompletedIds))db.wrongCompletedIds=[];
+db.wrongCompletedIds=[...new Set(db.wrongCompletedIds.filter(id=>db.wrongIds.includes(id)))];
 function persist(){try{localStorage.setItem(STORE_KEY,JSON.stringify(db));storageOK=true;return true;}catch(e){storageOK=false;toast(errText);return false}}
 const S={view:'home',examId:null,subjectId:null,paperId:null,attempt:null,result:null,reviewId:null,showPalette:false,adminTab:'시험',editId:null,showCsv:false,adminFilter:'',wrongFilter:'전체'};
 const navs=[['home','홈','<path d="m3 10 9-7 9 7v10h-6v-7H9v7H3z"/>'],['library','문제은행','<path d="M4 5h16M4 12h16M4 19h16"/>'],['wrong','오답','<path d="M5 4h14v17l-7-4-7 4z"/>'],['my','마이','<circle cx="12" cy="8" r="4"/><path d="M4 21c0-5 16-5 16 0"/>']];
@@ -62,6 +65,8 @@ async function loadExternal(p){
  if(p.questionCount&&list.length!==p.questionCount)throw Error('문항 수가 예상과 다릅니다.');
  externalLoaded.set(p.id,list);
 }
+const pendingWrongCount=()=>db.wrongIds.filter(id=>!db.wrongCompletedIds.includes(id)).length;
+const completedWrongCount=()=>db.wrongIds.filter(id=>db.wrongCompletedIds.includes(id)).length;
 const allSolved = ()=>db.history.reduce((n,h)=>n+h.total,0);
 const allCorrect=()=>db.history.reduce((n,h)=>n+h.correct,0);
 const accuracy=()=>allSolved()?Math.round(allCorrect()/allSolved()*100):null;
@@ -70,4 +75,4 @@ function nav(){return `<nav class="bottomnav" aria-label="하단 메뉴">${navs.
 function appHeader(){return `<div class="header row between"><div class="brand"><div class="logo"><img src="assets/brand/exam-bank-icon.png" alt="EXAM BANK 로고"></div><div><div class="brandname">EXAM BANK</div><div class="eyebrow" style="font-size:9px;letter-spacing:.1em">Your next achievement</div></div></div><button class="avatar" data-act="view" data-val="my" aria-label="마이 페이지">나</button></div>`}
 function catCards(){return `<div class="cards">${db.exams.map((e,i)=>`<button class="cat" data-act="exam" data-val="${esc(e.id)}"><h3>${esc(e.name)}</h3><p>${esc(e.desc||'')}</p></button>`).join('')}</div>${db.exams.length?'':`<div class="empty">관리자 페이지에서 시험 분야를 등록해 주세요.</div>`}`}
 function paperCard(p){let cnt=questionCount(p),sub=subjectBy(p.subjectId);return `<button class="paper" data-act="paper" data-val="${esc(p.id)}"><span class="paperico">📘</span><span class="grow"><b>${esc(p.title)}</b><p>${esc(sub?.name||'')}${p.year?' · '+esc(p.year)+'년':''} · ${cnt}문항${p.isSample?' · 예시':''}</p></span><span class="arrow">›</span></button>`}
-function statCards(){return `<div class="metrics"><div class="metric"><b>${allSolved()}</b><span>누적 풀이</span></div><div class="metric"><b>${accuracy()===null?'—':accuracy()+'%'}</b><span>평균 정답률</span></div><div class="metric"><b>${db.wrongIds.length}</b><span>복습할 오답</span></div></div>`}
+function statCards(){return `<div class="metrics"><div class="metric"><b>${allSolved()}</b><span>누적 풀이</span></div><div class="metric"><b>${accuracy()===null?'—':accuracy()+'%'}</b><span>평균 정답률</span></div><div class="metric"><b>${pendingWrongCount()}</b><span>복습할 오답</span></div></div>`}

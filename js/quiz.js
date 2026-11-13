@@ -43,4 +43,25 @@ function refreshClockView(){
  const total=document.getElementById('exam-total-time');if(total)total.textContent=formatClock(totalClockMs(z));
 }
 function startQuiz(items,title,paperId=null,mode='batch',source='paper'){if(!items.length){toast('등록된 문항이 없습니다.');return}let z={id:uid('attempt'),title,paperId,mode,source,items:items.map(snapshot),answers:items.map(()=>null),checked:items.map(()=>false),index:0,started:Date.now(),timeSpentMs:items.map(()=>0),activeSince:Date.now(),timerPaused:false};S.attempt=z;db.draft=z;persist();S.reviewId=null;S.showPalette=false;S.view='quiz';render()}
-function grade(){const z=getAttempt();if(!z)return;const missing=z.answers.filter(x=>x===null).length;if(missing&&!confirm(`미응답 ${missing}문항이 있습니다. 그대로 채점할까요?`))return;checkpointClock();const correct=z.items.reduce((n,q,i)=>n+(z.answers[i]===q.answer?1:0),0);const h={id:uid('history'),title:z.title,paperId:z.paperId,source:z.source,day:today(),time:Date.now(),total:z.items.length,correct,items:z.items,answers:[...z.answers],timeSpentMs:[...z.timeSpentMs],totalSpentMs:totalClockMs(z)};for(let i=0;i<z.items.length;i++){let id=z.items[i].id,wi=db.wrongIds.indexOf(id);if(z.answers[i]===z.items[i].answer){if(wi>=0)db.wrongIds.splice(wi,1);delete db.wrongSnapshots[id];}else {if(wi<0)db.wrongIds.push(id);db.wrongSnapshots[id]=z.items[i];}}db.history.push(h);db.draft=null;S.attempt=null;S.result=h;S.reviewId=null;S.view='result';persist();render()}
+function grade(){
+ const z=getAttempt();if(!z)return;
+ const missing=z.answers.filter(x=>x===null).length;
+ if(missing&&!confirm(`미응답 ${missing}문항이 있습니다. 그대로 채점할까요?`))return;
+ checkpointClock();
+ const correct=z.items.reduce((n,q,i)=>n+(z.answers[i]===q.answer?1:0),0);
+ const h={id:uid('history'),title:z.title,paperId:z.paperId,source:z.source,day:today(),time:Date.now(),total:z.items.length,correct,items:z.items,answers:[...z.answers],timeSpentMs:[...z.timeSpentMs],totalSpentMs:totalClockMs(z)};
+ // Never auto-delete a wrong-note entry. A correct retake marks it completed;
+ // only explicit user actions in the wrong-note screen remove the entry.
+ for(let i=0;i<z.items.length;i++){
+  const q=z.items[i],id=q.id,correctAnswer=z.answers[i]===q.answer;
+  const inWrong=db.wrongIds.includes(id);
+  if(correctAnswer){
+   if(inWrong&&!db.wrongCompletedIds.includes(id))db.wrongCompletedIds.push(id);
+  }else{
+   if(!inWrong)db.wrongIds.push(id);
+   db.wrongCompletedIds=db.wrongCompletedIds.filter(x=>x!==id);
+   db.wrongSnapshots[id]=q;
+  }
+ }
+ db.history.push(h);db.draft=null;S.attempt=null;S.result=h;S.reviewId=null;S.view='result';persist();render();
+}

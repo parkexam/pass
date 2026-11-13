@@ -63,38 +63,48 @@ function quiz(){
 
 function result(){
  const h=S.result;if(!h)return emptyGo('채점 결과가 없습니다.');
- const ok=h.correct,n=h.total,hasClock=Array.isArray(h.timeSpentMs);
+ const ok=h.correct,n=h.total,reviewMode=h.source==='wrong',hasClock=Array.isArray(h.timeSpentMs);
  const totalTime=hasClock?formatClock(h.totalSpentMs??h.timeSpentMs.reduce((s,v)=>s+(Number(v)||0),0)):null;
  const timeLabel=i=>hasClock?`<span class="result-time">⏱ ${formatClock(h.timeSpentMs[i]||0)}</span>`:'';
- return `<button class="back" data-act="view" data-val="home">← 홈으로</button>
- <div class="eyebrow" style="margin-top:16px">RESULT SUMMARY</div><h1 class="titleline">시험이 끝났어요!</h1>
+ return `<button class="back" data-act="view" data-val="${reviewMode?'wrong':'home'}">← ${reviewMode?'오답노트로':'홈으로'}</button>
+ <div class="eyebrow" style="margin-top:16px">${reviewMode?'REVIEW RESULT':'RESULT SUMMARY'}</div><h1 class="titleline">${reviewMode?'오답 복습을 마쳤어요!':'시험이 끝났어요!'}</h1>
  <p class="description">문항번호의 ○·×를 누르면 정답과 해설을 확인할 수 있어요.</p>
- <div class="scorecard"><span class="small">나의 점수</span>
+ ${reviewMode?`<div class="scorecard review-scorecard"><span class="small">오답 복습 결과</span>
+ <div class="review-scoreline">오답 ${n}문항 중<br><strong>정답 ${ok}문항</strong></div>
+ <div class="row between" style="opacity:.9"><span>복습완료 ${ok}문항</span><span>다시 학습 ${n-ok}문항</span></div>
+ ${hasClock?`<div class="result-total-time">⏱ 총 풀이 시간 ${totalTime}</div>`:''}</div>`:
+ `<div class="scorecard"><span class="small">나의 점수</span>
  <div class="big">${Math.round(ok/n*100)}<small> / 100점</small></div>
  <div class="row between" style="opacity:.9"><span>정답 ${ok}문항 · 오답 ${n-ok}문항</span><span>${n}문항 응시</span></div>
- ${hasClock?`<div class="result-total-time">⏱ 총 풀이 시간 ${totalTime}</div>`:''}</div>
+ ${hasClock?`<div class="result-total-time">⏱ 총 풀이 시간 ${totalTime}</div>`:''}</div>`}
  <div class="sectionbar"><h2>문항별 정오표</h2></div>
  <div class="panel"><div class="result-overview" aria-label="문항별 정오표">${h.items.map((q,i)=>{const isOk=h.answers[i]===q.answer;return `<button class="result-number ${isOk?'graded-ok':'graded-no'}" data-act="reviewJump" data-val="${i}" aria-label="${i+1}번 ${isOk?'정답':'오답'}"><span>${i+1}</span><b>${isOk?'○':'×'}</b></button>`}).join('')}</div></div>
  <div class="sectionbar"><h2>문항별 상세 결과</h2></div><p class="result-hint">문항을 누르면 원문과 해설이 펼쳐집니다.</p>
  <div class="panel">${h.items.map((q,i)=>{const isOk=h.answers[i]===q.answer;return `<div id="result-row-${i}" class="result-item"><button class="resultrow" style="width:100%;text-align:left" data-act="review" data-val="${i}"><span class="row"><span class="circle ${isOk?'ok':'no'}">${isOk?'○':'×'}</span><b>${i+1}번 · ${esc(q.subjectName||'문제')}</b></span><span class="muted small">${timeLabel(i)} ${h.answers[i]===null?'미응답':'선택 '+(h.answers[i]+1)+'번'}<span class="result-expand-hint"> · 원문 보기 ›</span></span></button>${S.reviewId===i?`<div class="explain"><b style="white-space:pre-line">${esc(q.body)}</b>${safeImg(q.imageUrl)?scanImage(q):''}<div style="margin-top:9px">${q.kind==='scan'?'':q.options.map((o,j)=>`<div style="margin:3px 0;${j===q.answer?'font-weight:800;color:#087d73':''}">${j+1}. ${esc(o)}</div>`).join('')}</div><p style="margin-top:8px">내 답안: ${h.answers[i]===null?'미응답':(h.answers[i]+1)+'번'} · 정답: ${q.answer+1}번</p><div style="margin-top:8px;white-space:pre-line">${showExplanation(q)}</div>${optionExplanationList(q)}</div>`:''}</div>`}).join('')}</div>
- <button class="btn full" data-act="view" data-val="wrong">오답노트 확인하기</button>
+ <button class="btn full" data-act="view" data-val="wrong">${reviewMode?'오답노트로 돌아가기':'오답노트 확인하기'}</button>
  <button class="btn ghost full" data-act="view" data-val="history" style="margin-top:10px">전체 풀이 기록</button>`;
 }
 function wrong(){
  const all=importedQuestions().filter(q=>db.wrongIds.includes(q.id));
  const subs=[...new Set(all.map(q=>paperBy(q.paperId)?.subjectId).filter(Boolean))];
  const filter=all.filter(q=>S.wrongFilter==='전체'||paperBy(q.paperId)?.subjectId===S.wrongFilter);
+ const pending=filter.filter(q=>!db.wrongCompletedIds.includes(q.id));
+ const completed=filter.filter(q=>db.wrongCompletedIds.includes(q.id));
  return `${appHeader()}<div class="eyebrow">REVIEW NOTE</div><h1 class="titleline">오답노트</h1>
- <p class="description">틀린 문제를 다시 풀어보며 실력을 쌓아보세요.</p><div class="panel row between"><div><span class="muted small">현재 복습할 문제</span><div style="font-weight:900;font-size:28px">${all.length}<span style="font-size:13px;color:var(--muted)"> 문항</span></div></div></div>
+ <p class="description">맞힌 오답도 복습완료 상태로 남아요. 삭제는 직접 선택할 수 있어요.</p>
+ <div class="panel wrong-summary"><div><span class="muted small">복습할 오답</span><strong>${pendingWrongCount()}<small> 문항</small></strong></div><div><span class="muted small">복습완료</span><strong>${completedWrongCount()}<small> 문항</small></strong></div></div>
  ${subs.length>1?`<div class="filterchips"><button data-act="wrongFilter" data-val="전체" class="${S.wrongFilter==='전체'?'on':''}">전체</button>${subs.map(id=>`<button class="${S.wrongFilter===id?'on':''}" data-act="wrongFilter" data-val="${esc(id)}">${esc(subjectBy(id)?.name||'과목')}</button>`).join('')}</div>`:''}
- ${filter.map((q,i)=>`<div class="panel"><div class="row between"><span class="tag">${esc(subjectBy(paperBy(q.paperId)?.subjectId)?.name||'과목')}</span><span class="muted small">${q.number||i+1}번 문제</span></div>
+ ${filter.map((q,i)=>{const done=db.wrongCompletedIds.includes(q.id);return `<div class="panel wrong-entry ${done?'review-done':''}"><div class="row between"><span class="tag">${esc(subjectBy(paperBy(q.paperId)?.subjectId)?.name||'과목')}</span><span class="wrong-status ${done?'is-done':''}">${done?'✓ 복습완료':'복습 필요'}</span></div>
+ <div class="row between" style="margin-top:8px"><span class="muted small">${q.number||i+1}번 문제</span></div>
  <h3 style="margin:12px 0;white-space:pre-line">${esc(q.kind==='scan'?'원문 문제':q.body)}</h3>
  <button class="link" data-act="wrongReview" data-val="${esc(q.id)}">${S.reviewId===q.id?'해설 접기':'정답 및 해설 확인 →'}</button>
- ${S.reviewId===q.id?`<div class="explain">${q.kind==='scan'?scanImage(q):q.options.map((t,j)=>`<div style="${j===q.answer?'color:#087d73;font-weight:800':''}">${j+1}. ${esc(t)}</div>`).join('')}<div style="margin-top:8px"><b>정답: ${q.answer+1}번</b></div><div style="white-space:pre-line;margin-top:7px">${showExplanation(q)}</div>${optionExplanationList(q)}</div>`:''}</div>`).join('')||'<div class="empty"><b>복습할 오답이 없어요</b><p>틀린 문제를 풀면 여기에 자동 저장됩니다.</p></div>'}
- ${filter.length?`<button class="btn full" data-act="retry">오답 ${filter.length}문항 다시 풀기</button>`:''}`;
+ ${S.reviewId===q.id?`<div class="explain">${q.kind==='scan'?scanImage(q):q.options.map((t,j)=>`<div style="${j===q.answer?'color:#087d73;font-weight:800':''}">${j+1}. ${esc(t)}</div>`).join('')}<div style="margin-top:8px"><b>정답: ${q.answer+1}번</b></div><div style="white-space:pre-line;margin-top:7px">${showExplanation(q)}</div>${optionExplanationList(q)}</div>`:''}
+ <div class="wrong-actions"><button class="wrong-remove" data-act="wrongRemove" data-val="${esc(q.id)}">오답노트에서 삭제</button></div></div>`;}).join('')||'<div class="empty"><b>오답노트가 비어 있어요</b><p>틀린 문제를 풀면 여기에 자동 저장됩니다.</p></div>'}
+ ${pending.length?`<button class="btn full" data-act="retry">복습 필요 ${pending.length}문항 다시 풀기</button>`:''}
+ ${completed.length?`<button class="btn ghost full" style="margin-top:10px" data-act="clearCompleted">복습완료 ${completed.length}문항 일괄 삭제</button>`:''}
+ ${filter.length&&completed.length?`<button class="link full wrong-retry-all" data-act="retryAll">복습완료 포함 전체 ${filter.length}문항 다시 풀기</button>`:''}`;
 }
-
-function history(){return `${appHeader()}<button class="back" data-act="view" data-val="my">← 마이 페이지</button><h1 class="titleline">풀이 기록</h1><p class="description">응시 결과를 다시 확인할 수 있어요.</p>${db.history.slice().reverse().map(h=>`<button class="paper" data-act="historyDetail" data-val="${esc(h.id)}"><span class="grow"><b>${esc(h.title)}</b><p>${formatDay(h.time)} · ${h.correct}/${h.total} 정답 · ${Math.round(h.correct/h.total*100)}점</p></span><span class="arrow">›</span></button>`).join('')||'<div class="empty">아직 풀이 기록이 없습니다.</div>'}`}
+function history(){return `${appHeader()}<button class="back" data-act="view" data-val="my">← 마이 페이지</button><h1 class="titleline">풀이 기록</h1><p class="description">응시 결과를 다시 확인할 수 있어요.</p>${db.history.slice().reverse().map(h=>`<button class="paper" data-act="historyDetail" data-val="${esc(h.id)}"><span class="grow"><b>${esc(h.title)}</b><p>${formatDay(h.time)} · ${h.source==='wrong'?`오답 ${h.total}문항 중 정답 ${h.correct}문항`:`${h.correct}/${h.total} 정답 · ${Math.round(h.correct/h.total*100)}점`}</p></span><span class="arrow">›</span></button>`).join('')||'<div class="empty">아직 풀이 기록이 없습니다.</div>'}`}
 function pass(){return `${appHeader()}<button class="back" data-act="view" data-val="my">← 마이 페이지</button><div class="eyebrow" style="margin-top:16px">MEMBERSHIP PLANS</div><h1 class="titleline">나에게 맞는 이용권</h1><p class="description">과목별 선택 구매부터 전체 프리패스까지.</p>${prices.map((p,i)=>`<div class="passcard ${i===2?'featured':''}"><div class="row between"><b>${p[0]}</b>${i===2?'<span class="tag green">추천</span>':'<span class="tag">예시 요금</span>'}</div><div class="price">${p[1]}<small> / ${p[2]}</small></div><p class="muted small" style="margin-bottom:15px">${p[3]}</p><button class="btn ${i===0?'soft':''} full" data-act="buy">이용권 살펴보기</button></div>`).join('')}<p class="notice">※ 가격은 구조 검토용 예시입니다. 실제 결제·접근 제한은 없으며, 정식 출시 때 인증 서버와 인앱결제를 연결해야 합니다.</p>`}
 function my(){return `${appHeader()}<div class="eyebrow">MY LEARNING</div><h1 class="titleline">마이 페이지</h1><div class="panel profile" style="margin-top:18px"><div class="grow"><b>체험 사용자</b><div class="muted small">이 기기의 브라우저에 학습 데이터 저장</div></div><span class="tag green">개발판</span></div>${statCards()}<div class="sectionbar"><h2>일일 학습 목표</h2></div><div class="panel goal-panel"><label for="dailyGoalInput">하루 목표 문항 수</label><div class="goal-controls"><input id="dailyGoalInput" type="number" inputmode="numeric" min="1" max="1000" value="${Math.max(1,Number(db.dailyGoal)||20)}" aria-label="하루 목표 문항 수"><button class="btn" data-act="saveDailyGoal">저장</button></div><p>오늘 푼 문항 수 ${todaySolved()}문항 · 하루 목표 ${Math.max(1,Number(db.dailyGoal)||20)}문항</p><p>달성률은 현재 홈에 표시하지 않습니다.</p></div><div class="sectionbar"><h2>학습 관리</h2></div><button class="paper" data-act="view" data-val="history"><span class="grow"><b>전체 풀이 기록</b><p>${db.history.length}회 응시 · 정답 해설 다시 보기</p></span><span class="arrow">›</span></button><button class="paper" data-act="view" data-val="pass"><span class="grow"><b>이용권 · 프리패스</b><p>과목별 이용권, 전체 프리패스 (출시 예정)</p></span><span class="arrow">›</span></button><button class="paper" data-act="view" data-val="admin"><span class="grow"><b>관리자 · 문제은행 편집</b><p>시험·과목·시험지·문항 등록 및 수정</p></span><span class="arrow">›</span></button><div class="panel"><h3>데이터 백업</h3><p style="margin-bottom:14px">저장 내용은 현재 브라우저에만 남습니다. 기기 변경 전에 파일로 백업해 주세요.</p><div class="row" style="align-items:stretch"><button class="btn soft grow" data-act="export">⬇ 내보내기</button><button class="btn ghost grow" data-act="importStart">⬆ 복원하기</button></div><input id="jsonImport" type="file" accept=".json,application/json" hidden></div><div class="notice">${storageOK?'Firebase 로그인과 사용자 간 동기화는 아직 연결되지 않았습니다.':'⚠️ '+errText} 관리자 화면은 개발용으로 누구나 열 수 있습니다. 정식 서비스 이전에는 서버 인증과 접근권한을 추가해야 합니다.</div>`}
 function optionsFor(type,selected){let list=type==='exam'?db.exams:type==='subject'?db.subjects:type==='paper'?db.papers:[];return list.map(x=>`<option value="${esc(x.id)}" ${x.id===selected?'selected':''}>${type==='exam'?esc(x.name):type==='subject'?esc(subLabel(x.id)):esc(x.title+' · '+(subjectBy(x.subjectId)?.name||''))}</option>`).join('')}

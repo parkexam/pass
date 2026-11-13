@@ -30,7 +30,28 @@ document.addEventListener('click',e=>{const b=e.target.closest('[data-act]');if(
  else if(a==='reviewJump'){S.reviewId=Number(v);render();document.getElementById('result-row-'+v)?.scrollIntoView({behavior:'smooth',block:'start'});return;}
  else if(a==='wrongReview'){S.reviewId=S.reviewId===v?null:v;keep=true}
  else if(a==='wrongFilter'){S.wrongFilter=v;keep=true}
- else if(a==='retry'){const list=importedQuestions().filter(q=>db.wrongIds.includes(q.id)&&(S.wrongFilter==='전체'||paperBy(q.paperId)?.subjectId===S.wrongFilter));startQuiz(list,'오답 복습',null,'batch','wrong');return}
+ else if(a==='retry'||a==='retryAll'){
+  const list=importedQuestions().filter(q=>db.wrongIds.includes(q.id)&&(S.wrongFilter==='전체'||paperBy(q.paperId)?.subjectId===S.wrongFilter)&&(a==='retryAll'||!db.wrongCompletedIds.includes(q.id)));
+  if(!list.length){toast('다시 풀 문제가 없습니다.');return}
+  startQuiz(list,'오답 복습',null,'batch','wrong');return;
+ }
+ else if(a==='wrongRemove'){
+  if(!db.wrongIds.includes(v))return;
+  if(!confirm('이 문제를 오답노트에서 삭제할까요?\n기존 시험 응시 기록은 유지됩니다.'))return;
+  db.wrongIds=db.wrongIds.filter(id=>id!==v);
+  db.wrongCompletedIds=db.wrongCompletedIds.filter(id=>id!==v);
+  delete db.wrongSnapshots[v];S.reviewId=null;persist();keep=true;
+ }
+ else if(a==='clearCompleted'){
+  const inFilter=id=>S.wrongFilter==='전체'||paperBy(db.wrongSnapshots[id]?.paperId||questionBy(id)?.paperId)?.subjectId===S.wrongFilter;
+  const ids=db.wrongCompletedIds.filter(id=>db.wrongIds.includes(id)&&inFilter(id));
+  if(!ids.length){toast('정리할 복습완료 문제가 없습니다.');return}
+  if(!confirm(`복습완료 ${ids.length}문항을 오답노트에서 삭제할까요?\n기존 풀이 기록은 유지됩니다.`))return;
+  const removing=new Set(ids);
+  db.wrongIds=db.wrongIds.filter(id=>!removing.has(id));
+  db.wrongCompletedIds=db.wrongCompletedIds.filter(id=>!removing.has(id));
+  ids.forEach(id=>delete db.wrongSnapshots[id]);S.reviewId=null;persist();keep=true;
+ }
  else if(a==='historyDetail'){const item=db.history.find(h=>h.id===v);if(item){S.result=item;S.reviewId=null;S.view='result'}}
  else if(a==='adminTab'){S.adminTab=v;S.editId=null;S.adminFilter='';keep=true}
  else if(a==='adminCancel'){S.editId=null;keep=true}
