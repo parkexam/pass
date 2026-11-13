@@ -51,3 +51,146 @@
 .result-item{scroll-margin-top:14px}
 .result-time{display:block;font-size:11px;font-weight:800;color:#5068c2;margin-bottom:3px;text-align:right}
 @media(max-width:370px){.clockbar{gap:5px;padding:10px 7px}.clock-readout{font-size:17px}.clock-toggle{font-size:10px;padding:9px 5px}.result-overview{gap:5px}}
+
+
+/* ===========================================================
+   EXAM BANK — Premium Answer Selection v1 (B UI Design System)
+   Fancy only where it matters: 5-column answers and the palette.
+   Existing JS state classes remain unchanged.
+   =========================================================== */
+:root{
+  --choice-ink:#203252;
+  --choice-edge:#e0e6f2;
+  --choice-glow:0 5px 13px rgba(44,66,115,.055);
+}
+/* Common answers: balanced typography, comfortable touch area */
+.question .option{
+  position:relative;
+  display:flex;
+  align-items:center;
+  min-height:62px;
+  gap:12px;
+  margin:10px 0;
+  padding:12px 14px;
+  border:1px solid var(--choice-edge);
+  border-radius:16px;
+  background:linear-gradient(180deg,#fff 0%,#fbfcff 100%);
+  box-shadow:var(--choice-glow);
+  color:var(--choice-ink);
+  transition:background-color .16s ease,border-color .16s ease,box-shadow .16s ease,transform .12s ease;
+  touch-action:manipulation;
+}
+.question .option .number{
+  width:34px;height:34px;flex:0 0 34px;
+  display:grid;place-items:center;
+  border-radius:11px;
+  background:#f3f5fb;
+  border:1px solid #e2e8f4;
+  color:#42536f;
+  font-size:14px;font-weight:850;line-height:1;
+  font-variant-numeric:tabular-nums;
+}
+.question .option .choice-copy{min-width:0;flex:1;font-size:13.5px;line-height:1.7;word-break:keep-all;overflow-wrap:anywhere}
+.question .option .choice-status{
+  flex:none;display:grid;place-items:center;
+  width:19px;height:19px;border-radius:50%;
+  background:#dbe4ff;color:#3c61e9;font-size:12px;font-weight:900;
+}
+.question .option:focus-visible{outline:3px solid #9dafef;outline-offset:3px}
+@media(hover:hover){.question .option:not(:disabled):hover{border-color:#b9c9f3;background:#f8faff;box-shadow:0 7px 18px rgba(44,66,115,.095)}}
+.question .option:active:not(:disabled){transform:scale(.985)}
+.question .option.selected:not(.correct):not(.wrongpick){
+  background:linear-gradient(165deg,#f5f7ff 0%,#edf2ff 100%);
+  border-color:#6280f3;
+  box-shadow:0 0 0 1px rgba(71,104,242,.18),0 7px 19px rgba(60,86,201,.12);
+}
+.question .option.selected:not(.correct):not(.wrongpick) .number{
+  background:linear-gradient(145deg,#5374fd,#3e5fe2);
+  border-color:transparent;color:#fff;
+  box-shadow:0 3px 9px rgba(59,95,225,.23);
+}
+.question .option.correct{
+  background:linear-gradient(160deg,#f4fffc,#e6f9f1);
+  border-color:#32b79b;
+  box-shadow:0 0 0 1px rgba(18,164,143,.12),0 6px 15px rgba(17,137,118,.07);
+}
+.question .option.correct .number,.question .option.correct .choice-status{
+  background:#0d9f86;color:white;border-color:#0d9f86;
+}
+.question .option.wrongpick{
+  background:linear-gradient(155deg,#fff8f9,#ffecee);
+  border-color:#eb8690;
+  box-shadow:0 0 0 1px rgba(205,86,103,.10),0 6px 15px rgba(178,62,82,.07);
+}
+.question .option.wrongpick .number,.question .option.wrongpick .choice-status{
+  background:#df596b;color:white;border-color:#df596b;
+}
+/* Scanned paper: select one of five compact, native-looking answer tiles */
+.question .scanchoices{
+  display:grid;
+  grid-template-columns:repeat(5,minmax(0,1fr));
+  gap:8px;margin:16px 0 3px;
+}
+.question .scanchoices .option{
+  position:relative;
+  min-width:0;min-height:86px;
+  margin:0;padding:11px 3px 9px;
+  display:flex;flex-direction:column;
+  align-items:center;justify-content:center;
+  gap:7px;border-radius:16px;
+  text-align:center;
+}
+.question .scanchoices .option .number{
+  width:35px;height:35px;flex:0 0 35px;
+  border-radius:12px;
+  font-size:17px;
+  border:1px solid #e4e9f4;
+  background:#f4f6fc;color:#344769;
+  box-shadow:inset 0 1px 0 #fff9;
+}
+.question .scanchoices .option .choice-caption{
+  font-size:10px;font-weight:700;color:#8a96ad;
+  line-height:1.1;letter-spacing:-.02em;white-space:nowrap;
+}
+.question .scanchoices .option .choice-status{
+  position:absolute;right:5px;top:5px;
+  width:14px;height:14px;font-size:10px;
+  box-shadow:0 1px 3px #2b44841c;
+}
+.question .scanchoices .option.selected:not(.correct):not(.wrongpick) .number{
+  background:linear-gradient(145deg,#5c7aff,#3b5bdf);
+  color:#fff;border-color:transparent;
+  box-shadow:0 3px 9px #4167f53d;
+}
+.question .scanchoices .option.selected:not(.correct):not(.wrongpick) .choice-caption{color:#405fdf}
+.question .scanchoices .option.correct .number{background:#0d9f86;color:#fff;border-color:#0d9f86}
+.question .scanchoices .option.correct .choice-caption{color:#078973}
+.question .scanchoices .option.wrongpick .number{background:#df596b;color:#fff;border-color:#df596b}
+.question .scanchoices .option.wrongpick .choice-caption{color:#c04752}
+@media(max-width:370px){
+ .question .scanchoices{gap:5px}
+ .question .scanchoices .option{min-height:79px;padding:9px 2px 8px;border-radius:13px}
+ .question .scanchoices .option .number{width:31px;height:31px;flex-basis:31px;font-size:15px;border-radius:10px}
+ .question .scanchoices .option .choice-caption{font-size:9px}
+}
+/* Question picker: coordinated tiles, crisp blue active border */
+.overview{gap:9px}
+.overview button{
+  position:relative;min-width:0;min-height:52px;
+  border:1px solid #e0e6f2;border-radius:13px;
+  background:#fff;box-shadow:0 4px 12px rgba(26,48,97,.045);
+  color:#55637e;font-weight:850;
+}
+.overview button.answered:not(.graded-ok):not(.graded-no){
+  background:#edf2ff;color:#4766e9;border-color:#c7d3ff;
+}
+.overview button.current{
+  outline:0;border:2px solid #4567ef;
+  box-shadow:0 0 0 3px rgba(69,103,239,.13),0 4px 12px rgba(26,48,97,.05);
+}
+.overview button.graded-ok{border-color:#a3ddcb;background:#e9f8f2;color:#087d73}
+.overview button.graded-no{border-color:#f3bec6;background:#fff0f1;color:#c74b57}
+.result-overview{gap:8px}
+.result-number{border-radius:14px;box-shadow:0 3px 10px rgba(26,48,97,.04)}
+.result-number:focus-visible,.overview button:focus-visible{outline:3px solid #a1b3f8;outline-offset:2px}
+@media(prefers-reduced-motion:reduce){.question .option{transition:none}}
