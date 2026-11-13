@@ -119,6 +119,46 @@
       "questionCount": 20,
       "dataFile": "data/civil/english/2026-local-D.json",
       "external": true
+    },
+    {
+      "id": "paper_civil_korean_2025_local_B",
+      "subjectId": "sub_civil_0",
+      "title": "2025 지방직 9급 국어 B책형",
+      "year": 2025,
+      "source": "2025 지방직 9급 국어 B책형 PDF 및 공개 정답표 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/korean/2025-local-B.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_english_2025_local_B",
+      "subjectId": "sub_civil_1",
+      "title": "2025 지방직 9급 영어 B책형",
+      "year": 2025,
+      "source": "2025 지방직 9급 영어 B책형 PDF 및 공개 정답표 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/english/2025-local-B.json",
+      "external": true
+    },
+    {
+      "id": "paper_nursing_management_2025_local_B",
+      "subjectId": "sub_nursing_manage",
+      "title": "2025 지방직 9급 간호관리 B책형",
+      "year": 2025,
+      "source": "2025 지방직 9급 간호관리 B책형 PDF 및 공개 정답표 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/nursing/management/2025-local-B.json",
+      "external": true
+    },
+    {
+      "id": "paper_nursing_community_2025_local_B",
+      "subjectId": "sub_nursing_community",
+      "title": "2025 지방직 9급 지역사회간호 B책형",
+      "year": 2025,
+      "source": "2025 지방직 9급 지역사회간호 B책형 PDF 및 공개 정답표 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/nursing/community/2025-local-B.json",
+      "external": true
     }
   ]
 }
