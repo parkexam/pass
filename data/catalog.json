@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "exams": [
+    {
+      "id": "leet",
+      "name": "LEET",
+      "desc": "법학적성시험 · 추리논증"
+    },
+    {
+      "id": "nursing",
+      "name": "간호직",
+      "desc": "간호관리 · 지역사회간호"
+    },
+    {
+      "id": "civil",
+      "name": "9급 공무원",
+      "desc": "국어 · 영어 · 한국사"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "sub_leet_1",
+      "examId": "leet",
+      "name": "추리논증"
+    },
+    {
+      "id": "sub_nursing_manage",
+      "examId": "nursing",
+      "name": "간호관리"
+    },
+    {
+      "id": "sub_civil_0",
+      "examId": "civil",
+      "name": "국어"
+    },
+    {
+      "id": "sub_civil_1",
+      "examId": "civil",
+      "name": "영어"
+    },
+    {
+      "id": "sub_nursing_community",
+      "examId": "nursing",
+      "name": "지역사회간호"
+    },
+    {
+      "id": "sub_civil_2",
+      "examId": "civil",
+      "name": "한국사"
+    }
+  ],
+  "papers": [
+    {
+      "id": "paper_leet_2027_reasoning",
+      "subjectId": "sub_leet_1",
+      "title": "2027학년도 LEET 추리논증 (제2교시)",
+      "year": 2027,
+      "source": "제공된 문제지·정답표 기준 · 해설 미제공",
+      "questionCount": 40,
+      "dataFile": "data/leet/reasoning/2027.json",
+      "external": true
+    }
+  ]
+}
