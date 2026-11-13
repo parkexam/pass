@@ -36,17 +36,47 @@ document.addEventListener('click',e=>{const b=e.target.closest('[data-act]');if(
  else if(a==='adminCancel'){S.editId=null;keep=true}
  else if(a==='edit'){S.editId=v;keep=false}
  else if(a==='delete'){deleteRecord(v);return}
+ else if(a==='imageZoom'){openImageZoom(b.dataset.src,b.dataset.title);return}
+ else if(a==='saveDailyGoal'){
+  const input=document.getElementById('dailyGoalInput');const number=Number(input?.value);
+  if(!Number.isInteger(number)||number<1||number>1000){toast('목표는 1~1000문항으로 입력해 주세요.');return}
+  db.dailyGoal=number;persist();toast('하루 목표를 저장했습니다.');keep=true;
+ }
  else if(a==='buy'){toast('결제는 정식 출시 단계에서 연결할 예정입니다.');return}
  else if(a==='export'){exportDb();toast('백업 파일을 저장했습니다.');return}
  else if(a==='importStart'){$('#jsonImport')?.click();return}
  else if(a==='csvStart'){$('#csvImport')?.click();return}
- else if(a==='csvTemplate'){const header=['question','option1','option2','option3','option4','option5','answer','explanation','imageUrl'];const example=['예시 문제: 2 + 2는?', '3','4','5','','','2','정답은 4입니다.',''];downloadBlob('EXAM_BANK_CSV_문항등록_양식.csv','\uFEFF'+[header,example].map(r=>r.map(csvEncodeCell).join(',')).join('\r\n'),'text/csv;charset=utf-8');return}
+ else if(a==='csvTemplate'){const header=['question','option1','option2','option3','option4','option5','answer','explanation','choice1Explanation','choice2Explanation','choice3Explanation','choice4Explanation','choice5Explanation','imageUrl'];const example=['예시 문제: 2 + 2는?','3','4','5','','','2','정답은 4입니다.','3은 4가 아닙니다.','4가 정답입니다.','5는 4가 아닙니다.','','',''];downloadBlob('EXAM_BANK_CSV_문항등록_양식.csv','\uFEFF'+[header,example].map(r=>r.map(csvEncodeCell).join(',')).join('\r\n'),'text/csv;charset=utf-8');return}
  render(keep);
 });
 document.addEventListener('submit',e=>{if(e.target.id==='adminEditor'){e.preventDefault();try{saveEditor(e.target)}catch(err){toast(err.message||'입력 내용을 확인해 주세요.')}}});
 document.addEventListener('change',async e=>{if(e.target.id==='adminFilter'){S.adminFilter=e.target.value;render(true)}else if(['jsonImport','csvImport'].includes(e.target.id)){const file=e.target.files?.[0];if(!file)return;try{if(e.target.id==='jsonImport')await importJson(file);else await importCsv(file);}catch(err){alert(err.message||'파일 처리 중 오류가 발생했습니다.')}finally{e.target.value=''}}});
 initCatalog().then(()=>render()).catch(err=>{console.error(err);render()});
 
+/* 원문은 새 탭을 열지 않고 앱 내부에서 확대. 닫기/ESC/배경 터치 지원 */
+function openImageZoom(src,title){
+ const clean=safeImg(src);if(!clean){toast('원문 이미지 경로를 확인해 주세요.');return}
+ let dialog=document.getElementById('examImageZoom');
+ if(!dialog){
+  dialog=document.createElement('dialog');dialog.id='examImageZoom';dialog.className='exam-image-dialog';
+  dialog.innerHTML=`<div class="image-dialog-head"><strong id="zoomTitle">원문 보기</strong><button type="button" id="imageZoomClose" aria-label="원문 닫고 문제로 돌아가기">× 닫기</button></div><div class="image-scroll"><img id="zoomImage" alt="문제 원문 확대"></div><div class="image-dialog-tools"><button type="button" data-zoom="minus" aria-label="축소">－</button><button type="button" data-zoom="reset">원래 크기</button><button type="button" data-zoom="plus" aria-label="확대">＋</button><button type="button" id="zoomReturn">문제로 돌아가기</button></div>`;
+  document.body.appendChild(dialog);
+  dialog.querySelector('#imageZoomClose').addEventListener('click',()=>dialog.close());
+  dialog.querySelector('#zoomReturn').addEventListener('click',()=>dialog.close());
+  dialog.addEventListener('click',e=>{if(e.target===dialog)dialog.close()});
+  dialog.querySelectorAll('[data-zoom]').forEach(btn=>btn.addEventListener('click',()=>{
+   let zoom=Number(dialog.dataset.scale||1);
+   if(btn.dataset.zoom==='reset')zoom=1;
+   else zoom=Math.min(3,Math.max(1,zoom+(btn.dataset.zoom==='plus'?.35:-.35)));
+   dialog.dataset.scale=String(zoom);
+   dialog.querySelector('#zoomImage').style.width=(zoom*100)+'%';
+  }));
+ }
+ dialog.querySelector('#zoomTitle').textContent=title||'문제 원문';
+ const img=dialog.querySelector('#zoomImage');img.src=clean;img.style.width='100%';
+ dialog.dataset.scale='1';
+ dialog.showModal();
+}
 /* 타이머 숫자만 갱신하므로 화면 전체가 다시 렌더링되지 않습니다. */
 setInterval(refreshClockView,250);
 document.addEventListener('visibilitychange',()=>{

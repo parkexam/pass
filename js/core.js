@@ -11,7 +11,7 @@ const today = () => { const d = new Date(); return [d.getFullYear(),String(d.get
 const formatDay = ts => new Date(ts).toLocaleDateString('ko-KR',{year:'numeric',month:'short',day:'numeric'});
 const errText = '이 브라우저에서 저장이 제한되어 있어요. 데이터 내보내기로 백업해 주세요.';
 function freshDb(){
- return {version:3,exams:[],subjects:[],papers:[],questions:[],history:[],wrongIds:[],wrongSnapshots:{},draft:null};
+ return {version:3,exams:[],subjects:[],papers:[],questions:[],history:[],wrongIds:[],wrongSnapshots:{},draft:null,dailyGoal:20};
 }
 
 let db;

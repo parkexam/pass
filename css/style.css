@@ -220,3 +220,38 @@
   letter-spacing:-.035em;
 }
 .back.back-exams:focus-visible{outline:2px solid #4765ee;outline-offset:4px;border-radius:6px}
+
+/* 2026-11-14 · 9 requested UX refinements (B UI preserved) */
+/* Compact scanned-paper answer tiles: number only, no redundant ‘보기’ copy. */
+.question .scanchoices .option{min-height:62px;padding:10px 3px;gap:0}
+.question .scanchoices .option .choice-caption{display:none!important}
+.question .scanchoices .option .number{width:38px;height:38px;flex-basis:38px;font-size:18px}
+.question .scanchoices .option .choice-status{right:4px;top:4px}
+.scan-source{display:none}
+/* Image stays within app; full screen dialog offers obvious return buttons. */
+button.scan-link{display:block;width:100%;padding:0;text-align:inherit;cursor:zoom-in;color:inherit;font:inherit}
+button.scan-link small{font-size:12px;text-decoration:none}
+.exam-image-dialog{position:fixed;inset:0;width:100%;max-width:100%;height:100%;max-height:100dvh;margin:0;padding:0;border:0;background:#eef1fa;color:var(--ink);overscroll-behavior:contain}
+.exam-image-dialog::backdrop{background:#172745b8}
+.image-dialog-head{height:58px;background:#fff;border-bottom:1px solid #dfe5f1;display:flex;align-items:center;justify-content:space-between;gap:14px;padding:8px max(16px,env(safe-area-inset-right));position:sticky;top:0;z-index:2}
+.image-dialog-head strong{font-size:15px}.image-dialog-head button{font-size:15px;font-weight:900;color:var(--blue);padding:9px 13px;border:1px solid #dce2f4;background:#f2f5ff;border-radius:12px}
+.image-scroll{height:calc(100dvh - 138px - env(safe-area-inset-bottom));overflow:auto;overscroll-behavior:contain;touch-action:pan-x pan-y pinch-zoom;text-align:center;padding:12px}
+.image-scroll img{width:100%;max-width:none;height:auto;display:block;margin:0 auto;object-fit:contain;background:white;box-shadow:0 8px 25px #18244717}
+.image-dialog-tools{min-height:80px;padding:10px max(12px,env(safe-area-inset-left)) calc(10px + env(safe-area-inset-bottom));display:flex;gap:6px;align-items:center;justify-content:center;background:#fff;border-top:1px solid #dfe5f1;position:sticky;bottom:0;z-index:2}
+.image-dialog-tools button{flex:1;border-radius:12px;min-height:43px;background:#eef2ff;border:1px solid #d7dff9;color:#2446a7;font-size:12px;font-weight:850}
+.image-dialog-tools #zoomReturn{flex:1.5;background:#4167f5;border-color:#4167f5;color:white}
+.result-hint{color:var(--muted);font-size:12px;margin:-2px 0 12px}
+.result-expand-hint{color:#4968cc;font-weight:800}
+.option-explain{margin-top:14px;padding-top:10px;border-top:1px solid #d8deed}
+.option-explain>b{display:block;margin-bottom:8px;font-size:13px}
+.option-explain-row{display:flex;align-items:flex-start;gap:9px;margin-top:9px;line-height:1.65}
+.option-explain-num{flex:none;display:grid;place-items:center;border-radius:9px;background:#e8ecf7;width:25px;height:25px;font-weight:850;color:#66748c}
+.option-explain-num.good{color:#0a856f;background:#e1f7f1}
+.goal-panel label{display:block;font-size:12px;font-weight:800;color:#52637d;margin-bottom:9px}
+.goal-controls{display:flex;gap:10px;align-items:stretch;margin-bottom:12px}
+.goal-controls input{width:100%;min-width:0;flex:1;border:1px solid #dbe2f0;background:#f8faff;padding:11px 13px;border-radius:12px;font-size:16px;font-weight:800;color:#22375b}
+.goal-controls .btn{flex:none;padding:11px 18px}
+.goal-panel p+p{margin-top:7px;color:#94a0b3}
+.hero{min-height:190px}.hero h2{margin-bottom:13px}
+.hero-progress{display:none!important}
+@media(max-width:370px){.question .scanchoices .option{min-height:59px}.question .scanchoices .option .number{width:34px;height:34px;flex-basis:34px}}

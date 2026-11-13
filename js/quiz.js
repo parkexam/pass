@@ -1,5 +1,5 @@
 
-function snapshot(q){const paper=paperBy(q.paperId);const subj=subjectBy(paper?.subjectId);return {id:q.id,paperId:q.paperId,subjectId:subj?.id||'',subjectName:subj?.name||'과목',body:q.body,options:[...q.options],answer:q.answer,explanation:q.explanation||'',imageUrl:q.imageUrl||'',kind:q.kind||'text',number:q.number||null}}
+function snapshot(q){const paper=paperBy(q.paperId);const subj=subjectBy(paper?.subjectId);return {id:q.id,paperId:q.paperId,subjectId:subj?.id||'',subjectName:subj?.name||'과목',body:q.body,options:[...q.options],answer:q.answer,explanation:q.explanation||'',optionExplanations:Array.isArray(q.optionExplanations)?[...q.optionExplanations]:[],imageUrl:q.imageUrl||'',kind:q.kind||'text',number:q.number||null}}
 /* 문항별 풀이 시간: 문항 이동·앱 전환 시 누적 시간을 저장합니다. */
 function initClock(z){
  if(!z||!Array.isArray(z.items))return;
