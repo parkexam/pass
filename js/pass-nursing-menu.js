@@ -1,5 +1,5 @@
-/* PASS | 8급 간호직 메뉴 통합 (2026-11-14 8·9급 개편)
- * 8·9급 공무원 > 8급 (간호·보건진료) > 간호 를 누르면 기존 4과목(국어·영어·간호관리·지역사회간호)을 연결합니다.
+/* PASS | 8급 간호직 메뉴 통합 (2026-11-14 표기 간소화)
+ * 9급 공무원 > 8급 간호·보건진료 > 간호 를 누르면 기존 4과목(국어·영어·간호관리·지역사회간호)을 연결합니다.
  * 중복되던 첫 화면의 '간호직' 시험 분야(examId: nursing)는 data/extended-catalog.json 에서 hidden 처리되어
  * 홈·전체보기 메뉴에 나오지 않습니다. 원본 기출 JSON, catalog.json, 문제/응시 ID, Firebase 데이터는 변경하지 않습니다.
  * catalog-extension.js 다음, app.js 이전에 로드하세요.
@@ -7,7 +7,7 @@
 (function () {
   'use strict';
 
-  /* 8급 (간호·보건진료) 섹션의 '간호' 직렬. 과목 연결은 기존 subjectId를 그대로 씁니다. */
+  /* 8급 간호·보건진료 섹션의 '간호' 직렬. 과목 연결은 기존 subjectId를 그대로 씁니다. */
   const TRACK_ID = 'ext_437ba2654a4e';
   const COMPONENTS = [
     { id: 'sub_civil_0', name: '국어', from: 'civil' },
@@ -42,10 +42,10 @@
   function nursingSubjects() {
     const track = nursingTrack();
     return `${appHeader()}
-      <button class="back back-exams" data-act="nursingReturn">← ${esc(examBy('civil')?.name || '8·9급 공무원')}</button>
-      <div class="eyebrow">CIVIL SERVICE / 8급 간호</div>
-      <h1 class="titleline">${esc(track?.name || '간호')}</h1>
-      <p class="description">8급 (간호·보건진료) 직렬입니다. 공통과목과 간호 전공과목을 한곳에서 풀어보세요.</p>
+      <button class="back back-exams" data-act="nursingReturn">← ${esc(examBy('civil')?.name || '9급 공무원')}</button>
+      <div class="eyebrow">CIVIL SERVICE</div>
+      <h1 class="titleline">8급 · ${esc(track?.name || '간호')}</h1>
+      <p class="description">8급 간호직입니다. 공통과목과 간호 전공과목을 한곳에서 풀어보세요.</p>
       <section class="catalog-list-section"><h2 class="catalog-section-title">공통과목</h2>
         <div class="catalog-list">${COMPONENTS.slice(0, 2).map(courseRow).join('') || '<div class="empty">공통과목 준비 중</div>'}</div></section>
       <section class="catalog-list-section"><h2 class="catalog-section-title">전공과목</h2>

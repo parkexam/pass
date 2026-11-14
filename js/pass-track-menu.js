@@ -1,7 +1,7 @@
-/* PASS | 8·9급 공무원 직렬별 과목 연결 (2026-11-14 8·9급 개편)
- * 공무원 > 8·9급 공무원 의 직렬 카드를 누르면 공통과목(국어·영어)과 그 직렬의 전공과목을
+/* PASS | 9급 공무원 직렬별 과목 연결 (2026-11-14 표기 간소화)
+ * 공무원 > 9급 공무원 의 직렬 카드를 누르면 공통과목(국어·영어)과 그 직렬의 전공과목을
  * 간호직 메뉴(pass-nursing-menu.js)와 같은 화면 구성으로 열어 줍니다.
- * 하위 섹션은 9급 행정·공통 / 8급 (간호·보건진료) / 9급 보건·의료 / 9급 조세·사법·치안 /
+ * 하위 섹션은 9급 행정 / 8급 간호·보건진료 / 9급 보건·의료 / 9급 조세·사법·치안 /
  * 9급 과학기술·전산 / 9급 농림·환경·현장 순으로 보여 줍니다.
  * 기존 data/catalog.json, 시험지 JSON, subjectId, Firebase 오답/학습 기록은 그대로 두고
  * 화면(메뉴) 구성만 담당합니다.
@@ -12,8 +12,8 @@
 
   const CIVIL = 'civil';
   const DEFAULT_COMMON = ['국어', '영어'];
-  /* 8·9급 공무원 하위 섹션 표시 순서. 저장된 기기 데이터의 과목 순서와 상관없이 같은 순서로 보입니다. */
-  const SECTION_ORDER = ['9급 행정·공통', '8급 (간호·보건진료)', '9급 보건·의료',
+  /* 9급 공무원 하위 섹션 표시 순서. 저장된 기기 데이터의 과목 순서와 상관없이 같은 순서로 보입니다. */
+  const SECTION_ORDER = ['9급 행정', '8급 간호·보건진료', '9급 보건·의료',
     '9급 조세·사법·치안', '9급 과학기술·전산', '9급 농림·환경·현장'];
   const sectionRank = name => {
     const i = SECTION_ORDER.indexOf(name);
@@ -91,6 +91,11 @@
     document.head.appendChild(style);
   }
 
+  /* 직렬의 급수는 섹션 이름('9급 행정', '8급 간호·보건진료')의 앞머리에서 읽습니다. */
+  function gradeOf(track) {
+    const m = /^([89])급/.exec(String(track && track.section || ''));
+    return m ? m[1] + '급' : '9급';
+  }
   function civilExam() { return examBy(CIVIL); }
   function isCivilTrack(id) {
     const s = subjectBy(id);
@@ -142,7 +147,7 @@
       `<span class="catalog-chevron">›</span></button>`;
   }
 
-  /* 8·9급 공무원 첫 화면: 직렬 카드만 보여 주고, 낱개 과목 타일은 직렬 안으로 옮깁니다. */
+  /* 9급 공무원 첫 화면: 직렬 카드만 보여 주고(직렬명만 표시), 낱개 과목 타일은 직렬 안으로 옮깁니다. */
   function civilLibrary() {
     const e = civilExam();
     const tracks = db.subjects.filter(s => s.examId === CIVIL && s.kind === 'track');
@@ -155,7 +160,7 @@
     const sections = Array.from(bySection).sort((a, b) => sectionRank(a[0]) - sectionRank(b[0]));
     const sectionHtml = sections.map(([name, rows]) =>
       `<section class="catalog-list-section" data-catalog-section><h2 class="catalog-section-title">${esc(name)} <span class="catalog-muted-count">${rows.length}</span></h2><div class="catalog-list">${rows.map(trackTile).join('')}</div></section>`).join('');
-    return `${appHeader()}<button class="back back-exams" data-act="backExams">← 시험 분야</button><h1 class="titleline">${esc(e ? e.name : '8·9급 공무원')}</h1><p class="description">직렬을 선택하면 공통과목과 전공과목이 함께 열립니다.</p>
+    return `${appHeader()}<button class="back back-exams" data-act="backExams">← 시험 분야</button><h1 class="titleline">${esc(e ? e.name : '9급 공무원')}</h1><p class="description">직렬을 선택하면 공통과목과 전공과목이 함께 열립니다.</p>
  ${catalogSearchBox('직렬·전공과목 검색')}${sectionHtml || '<div class="empty">등록된 직렬이 없습니다.</div>'}
  <p class="catalog-footnote">8급은 간호·보건진료를, 9급은 보건·의료와 농림·환경·현장까지 직렬별로 모았습니다. 아직 기출이 없는 과목은 '기출 준비 중'으로 표시됩니다. 2027년부터 9급 한국사 필기는 한국사능력검정시험 성적으로 대체됩니다. 직렬·직류·연도에 따라 시험과목이 다를 수 있으니 해당 연도 공고를 확인해 주세요.</p>`;
   }
@@ -175,7 +180,7 @@
   function trackPage(track) {
     const common = commonNames(track);
     const majors = majorNames(track);
-    const grade = /^8급/.test(String(track.section || '')) ? '8급' : '9급';
+    const grade = gradeOf(track);
     const commonSection = common.length
       ? `<section class="catalog-list-section"><h2 class="catalog-section-title">공통과목</h2><div class="catalog-list">${common.map(subjectRow).join('')}</div></section>`
       : '';
@@ -183,9 +188,9 @@
       ? `<section class="catalog-list-section"><h2 class="catalog-section-title">전공과목</h2><div class="catalog-list">${majors.map(subjectRow).join('')}</div></section>`
       : `<section class="catalog-list-section"><h2 class="catalog-section-title">전공과목</h2><div class="catalog-pending">전공과목 안내·기출 준비 중</div></section>`;
     return `${appHeader()}
-      <button class="back back-exams" data-act="trackReturn">← ${esc(civilExam() ? civilExam().name : '8·9급 공무원')}</button>
-      <div class="eyebrow">CIVIL SERVICE / ${esc(grade)}</div>
-      <h1 class="titleline">${esc(track.name)}</h1>
+      <button class="back back-exams" data-act="trackReturn">← ${esc(civilExam() ? civilExam().name : '9급 공무원')}</button>
+      <div class="eyebrow">CIVIL SERVICE</div>
+      <h1 class="titleline">${esc(grade)} · ${esc(track.name)}</h1>
       <p class="description">공통과목과 ${esc(track.name)} 전공과목을 한곳에서 풀어보세요.</p>
       ${commonSection}${majorSection}
       <p class="catalog-footnote">과목 안내는 메뉴 구성용입니다. 직렬·직류·연도에 따라 시험과목과 배점이 다를 수 있으니 해당 연도 공고를 확인해 주세요. 기출이 준비된 과목은 문제 수와 함께 바로 열립니다.</p>`;

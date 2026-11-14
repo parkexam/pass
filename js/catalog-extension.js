@@ -4,7 +4,7 @@
 (function(){
 'use strict';
 const categoryGroups=['공무원','적성·입학','국가기술자격','자격·인증'];
-/* 홈에 먼저 보여 줄 시험 분야. 간호직은 8·9급 공무원 > 8급 (간호·보건진료) > 간호 로 통합되어 뺐습니다. */
+/* 홈에 먼저 보여 줄 시험 분야. 간호직은 9급 공무원 > 8급 간호·보건진료 > 간호 로 통합되어 뺐습니다. */
 const featuredIds=['civil','leet','meet','cert-engineer','cert-health'];
 const baseInit=initCatalog;
 initCatalog=async function(){

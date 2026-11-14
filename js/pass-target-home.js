@@ -31,6 +31,22 @@
   }
   function goalById(id) { return goals().find(s => s.id === id); }
   function examLabel(s) { return db.exams.find(ex => ex.id === s.examId)?.name || '시험 분야'; }
+  /* 공무원(9급·8급) 트랙은 시험 분야 이름 대신 급수만 붙여 '9급 · 일반행정'처럼 짧게 표시합니다. */
+  function shortExamExamId(s) { return s.examId === 'civil' || s.examId === 'nursing'; }
+  function gradeOf(s) {
+    if (s.examId === 'nursing') return '8급';
+    const m = /^([89])급/.exec(String(s.section || ''));
+    return m ? m[1] + '급' : '';
+  }
+  function goalLabel(s) {
+    const grade = gradeOf(s);
+    if (shortExamExamId(s)) return grade ? `${grade} · ${s.name}` : s.name;
+    return `${examLabel(s)} · ${s.name}`;
+  }
+  function trackOptionLabel(s) {
+    if (shortExamExamId(s)) return goalLabel(s);
+    return `${s.section ? s.section + ' · ' : ''}${s.name}`;
+  }
   function optionsForExams(preferred) {
     const tracks = goals();
     const ids = new Set(tracks.map(s => s.examId));
@@ -39,7 +55,7 @@
   }
   function optionsForTracks(examId, preferred) {
     return goals().filter(s => s.examId === examId).map(s =>
-      `<option value="${safe(s.id)}" ${s.id === preferred ? 'selected' : ''}>${safe(s.section ? s.section + ' · ' : '')}${safe(s.name)}</option>`).join('');
+      `<option value="${safe(s.id)}" ${s.id === preferred ? 'selected' : ''}>${safe(trackOptionLabel(s))}</option>`).join('');
   }
   function draftsListInto(card) {
     // v7이 만든 이어풀기 목록의 실제 버튼 노드를 이동만 합니다.
@@ -75,7 +91,7 @@
     hero.innerHTML = `
       <div class="pass-target-head"><span>MY STUDY</span><span>오늘 <b>${completed}</b> / ${daily}문항</span></div>
       <div class="pass-target-goal-row">
-        <div class="pass-target-goal-label"><small>내 목표 시험</small><strong>${chosen ? safe(examLabel(chosen)) + ' · ' + safe(chosen.name) : '목표 직렬을 설정해 주세요'}</strong></div>
+        <div class="pass-target-goal-label"><small>내 목표 시험</small><strong>${chosen ? safe(goalLabel(chosen)) : '목표 직렬을 설정해 주세요'}</strong></div>
         <button type="button" data-pass-target="change" class="pass-target-change">변경</button>
       </div>
       <div class="pass-target-bar" role="progressbar" aria-label="오늘의 문제풀이 목표" aria-valuemin="0" aria-valuemax="100" aria-valuenow="${pct}"><span style="width:${pct}%"></span></div>

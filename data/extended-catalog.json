@@ -4,8 +4,8 @@
   "exams": [
     {
       "id": "civil",
-      "name": "8·9급 공무원",
-      "desc": "8급 간호·보건진료 · 9급 국가직·지방직 공채",
+      "name": "9급 공무원",
+      "desc": "9급 국가직·지방직 공채 · 8급 간호·보건진료",
       "categoryGroup": "공무원",
       "order": 10
     },
@@ -17,7 +17,7 @@
       "order": 11,
       "hidden": true,
       "mergedInto": "civil",
-      "note": "8·9급 공무원 > 8급 (간호·보건진료) > 간호 메뉴로 통합. 기존 간호관리·지역사회간호 기출의 subjectId 유지를 위한 레거시 시험 분야이며 메뉴에는 표시하지 않습니다."
+      "note": "9급 공무원 > 8급 간호·보건진료 > 간호 메뉴로 통합. 기존 간호관리·지역사회간호 기출의 subjectId 유지를 위한 레거시 시험 분야이며 메뉴에는 표시하지 않습니다."
     },
     {
       "id": "civil7",
@@ -184,105 +184,105 @@
       "id": "ext_1df0109fb54a",
       "examId": "civil",
       "name": "일반행정",
-      "section": "9급 행정·공통",
+      "section": "9급 행정",
       "kind": "track"
     },
     {
       "id": "ext_434b383d99af",
       "examId": "civil",
       "name": "일반행정(지역구분)",
-      "section": "9급 행정·공통",
+      "section": "9급 행정",
       "kind": "track"
     },
     {
       "id": "ext_7af990ad083a",
       "examId": "civil",
       "name": "우정사업본부 행정",
-      "section": "9급 행정·공통",
+      "section": "9급 행정",
       "kind": "track"
     },
     {
       "id": "ext_6a9afea6c636",
       "examId": "civil",
       "name": "교육행정",
-      "section": "9급 행정·공통",
+      "section": "9급 행정",
       "kind": "track"
     },
     {
       "id": "ext_9739c8c8c5eb",
       "examId": "civil",
       "name": "선거행정",
-      "section": "9급 행정·공통",
+      "section": "9급 행정",
       "kind": "track"
     },
     {
       "id": "ext_10ab663eb7ed",
       "examId": "civil",
       "name": "고용노동",
-      "section": "9급 행정·공통",
+      "section": "9급 행정",
       "kind": "track"
     },
     {
       "id": "ext_060fcd8d6740",
       "examId": "civil",
       "name": "직업상담",
-      "section": "9급 행정·공통",
+      "section": "9급 행정",
       "kind": "track"
     },
     {
       "id": "ext_610d3b2acfac",
       "examId": "civil",
       "name": "사회복지",
-      "section": "9급 행정·공통",
+      "section": "9급 행정",
       "kind": "track"
     },
     {
       "id": "ext_586bf5b28d10",
       "examId": "civil",
       "name": "사서",
-      "section": "9급 행정·공통",
+      "section": "9급 행정",
       "kind": "track"
     },
     {
       "id": "ext_e2697c1bdd66",
       "examId": "civil",
       "name": "속기",
-      "section": "9급 행정·공통",
+      "section": "9급 행정",
       "kind": "track"
     },
     {
       "id": "ext_e8c36db48d64",
       "examId": "civil",
       "name": "운전",
-      "section": "9급 행정·공통",
+      "section": "9급 행정",
       "kind": "track"
     },
     {
       "id": "ext_7f8b962a0931",
       "examId": "civil",
       "name": "시설관리",
-      "section": "9급 행정·공통",
+      "section": "9급 행정",
       "kind": "track"
     },
     {
       "id": "ext_c21900e44d44",
       "examId": "civil",
       "name": "방호",
-      "section": "9급 행정·공통",
+      "section": "9급 행정",
       "kind": "track"
     },
     {
       "id": "ext_437ba2654a4e",
       "examId": "civil",
       "name": "간호",
-      "section": "8급 (간호·보건진료)",
+      "section": "8급 간호·보건진료",
       "kind": "track"
     },
     {
       "id": "ext_e33422f08156",
       "examId": "civil",
       "name": "보건진료",
-      "section": "8급 (간호·보건진료)",
+      "section": "8급 간호·보건진료",
       "kind": "track"
     },
     {
