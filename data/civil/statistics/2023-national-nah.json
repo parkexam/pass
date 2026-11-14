@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_statistics_2023_national_nah",
+ "title": "2023 국가직 9급 통계학개론 나책형",
+ "year": 2023,
+ "source": "2023년도 국가공무원 9급 공개경쟁채용 필기시험 통계학개론 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_24",
+ "questions": [
+  {
+   "id": "civil2023-national-statistics-nah-q01",
+   "paperId": "paper_civil_statistics_2023_national_nah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/statistics/2023/national-nah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n두 줄기-잎 그림은 줄기의 위치만 다르고 잎의 배열이 같아, B는 A를 일정하게 이동시킨 자료이다. 따라서 범위·사분위수범위·표준편차는 같지만 평균이 달라 변동계수(표준편차/평균)는 서로 다르다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "평균이 달라 변동계수는 서로 같지 않다. 정답입니다.",
+    "잎의 배열이 같아 두 자료의 범위는 같다.",
+    "사분위수범위는 자료의 모양에만 의존하므로 두 자료가 같다.",
+    "평행이동은 산포를 바꾸지 않으므로 표준편차는 같다."
+   ]
+  },
+  {
+   "id": "civil2023-national-statistics-nah-q02",
+   "paperId": "paper_civil_statistics_2023_national_nah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/statistics/2023/national-nah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n결합확률분포에서 X의 주변확률은 P(X=0)=1/2, P(X=2)=1/2이므로 E(X)=1, E(X²)=2, Var(X)=1이다. X+Y=2가 되는 경우는 (X,Y)=(0,2)일 때 3/8, (2,0)일 때 1/8로 합이 1/2이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "E(X)는 1이므로 3/4이라는 설명은 옳지 않다.",
+    "Var(X)는 2-1=1이므로 1/2이라는 설명은 옳지 않다.",
+    "E(Y)=3/2이므로 E(X+Y)=5/2이다.",
+    "P(X+Y=2)=3/8+1/8=1/2이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-national-statistics-nah-q03",
+   "paperId": "paper_civil_statistics_2023_national_nah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/statistics/2023/national-nah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n정규분포는 평균에 대해 대칭이므로 P(X≤2)=0.2, P(X≤12)=0.8이면 2와 12의 중점인 7이 평균이다. 따라서 P(2≤X≤7)=P(X≤7)-P(X≤2)=0.5-0.2=0.3이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "0.35는 누적확률 차이를 잘못 계산한 값이다.",
+    "0.5에서 0.2를 뺀 0.3이 정답이다. 정답입니다.",
+    "0.25는 평균의 누적확률을 0.45로 본 값이다.",
+    "0.2는 P(X≤2)의 값으로 구간확률이 아니다."
+   ]
+  },
+  {
+   "id": "civil2023-national-statistics-nah-q04",
+   "paperId": "paper_civil_statistics_2023_national_nah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/statistics/2023/national-nah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nX와 Y가 독립인 베르누이 분포를 따르므로 P(X≠Y)=P(X=1,Y=0)+P(X=0,Y=1)=0.3×0.3+0.7×0.7=0.09+0.49=0.58이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "0.09는 두 확률의 곱 한 항만 계산한 값이다.",
+    "0.21은 P(X=1)P(Y=1)로 같을 확률의 일부이다.",
+    "0.49는 다른 한 항만 계산한 값이다.",
+    "0.09+0.49=0.58이 P(X≠Y)이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-national-statistics-nah-q05",
+   "paperId": "paper_civil_statistics_2023_national_nah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/statistics/2023/national-nah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n각 행의 합이 100명이고 열의 합은 60, 90, 90, 60명이다. 기대도수는 (행의 합×열의 합)/전체 300으로 20, 30, 30, 20이므로 최솟값은 20, 최댓값은 30이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "관측도수와 기대도수가 같은 칸(1년 이상 3년 미만, 3,000~4,000만 원)이 있어 최솟값은 0이다.",
+    "3년 이상·5,000만 원 이상 칸에서 차가 30으로 최대이다.",
+    "기대도수의 최솟값은 20이므로 10이라는 설명은 옳지 않다. 정답입니다.",
+    "기대도수의 최댓값은 30이다."
+   ]
+  },
+  {
+   "id": "civil2023-national-statistics-nah-q06",
+   "paperId": "paper_civil_statistics_2023_national_nah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/statistics/2023/national-nah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n검정통계량은 σX²/σY²의 추정값인 표본분산 비 sX²/sY²=24/9=8/3이고, 이는 자유도 (4, 5)인 F분포를 따른다. 대립가설이 σX²/σY²>1이므로 유의확률은 P(W≥8/3)이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "3/8은 분산비를 거꾸로 계산한 값이다.",
+    "표본분산 비 24/9=8/3 이상일 확률이 유의확률이다. 정답입니다.",
+    "15/32는 자유도 보정을 잘못 적용한 값이다.",
+    "32/15는 분산비를 뒤집고 보정한 값이다."
+   ]
+  },
+  {
+   "id": "civil2023-national-statistics-nah-q07",
+   "paperId": "paper_civil_statistics_2023_national_nah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/statistics/2023/national-nah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n두 집단의 표본크기가 각각 10이므로 공통분산 추정량의 자유도는 (10-1)+(10-1)=18이다. 신뢰구간 폭 8.4=2×2.1×Sp×√(2/10)에서 Sp≈4.47이므로 Sp²≈20이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "자유도 9는 두 집단의 자유도를 합하지 않은 값이다.",
+    "자유도 9에 Sp² 20은 자유도 계산이 옳지 않다.",
+    "Sp²=10은 신뢰구간 폭과 맞지 않는다.",
+    "자유도 18, Sp²=20이 계산 결과와 일치한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-national-statistics-nah-q08",
+   "paperId": "paper_civil_statistics_2023_national_nah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/statistics/2023/national-nah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n결정계수는 1-150/270=4/9이므로 상관계수의 절댓값은 2/3이다. 표준편차는 √(270/5)=√54, √(30/5)=√6이므로 β1의 추정값은 r×√54/√6=3r이고, 상관계수가 음수이므로 -2이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "2는 상관계수가 양수일 때의 값이다.",
+    "상관계수가 음수이므로 기울기 추정값은 -2이다. 정답입니다.",
+    "5는 표준편차 비를 잘못 계산한 값이다.",
+    "-5는 표준편차 비를 잘못 계산한 값이다."
+   ]
+  },
+  {
+   "id": "civil2023-national-statistics-nah-q09",
+   "paperId": "paper_civil_statistics_2023_national_nah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/statistics/2023/national-nah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n집단 A와 B를 하나로 묶으면 처리의 자유도와 제곱합, 오차의 제곱합이 달라진다. 총제곱합(다)과 총자유도(라)는 자료가 그대로이므로 변하지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "(가) 처리제곱합은 집단 묶음에 따라 달라진다.",
+    "(가)와 (다) 중 (다)는 변하지 않지만 (가)는 변한다.",
+    "(나) 오차제곱합은 처리제곱합이 바뀌면 함께 바뀐다.",
+    "총제곱합 (다)와 총자유도 (라)는 변하지 않는다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-national-statistics-nah-q10",
+   "paperId": "paper_civil_statistics_2023_national_nah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/statistics/2023/national-nah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n단위시간당 평균 6건인 포아송 과정에서 20분(1/3시간) 동안 전화가 한 건도 오지 않을 확률은 e^(-6×1/3)=e^(-2)이다. 이는 평균 2인 포아송변수 U가 0일 확률 P(U=0)과 같다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "20분 동안 한 건도 오지 않을 확률이 P(U=0)=e^(-2)이다. 정답입니다.",
+    "P(U=1)은 2e^(-2)로 구하는 확률과 다르다.",
+    "P(V=0)은 e^(-6)으로 20분 기준과 맞지 않다.",
+    "P(V=1)은 6e^(-6)으로 구하는 확률과 다르다."
+   ]
+  },
+  {
+   "id": "civil2023-national-statistics-nah-q11",
+   "paperId": "paper_civil_statistics_2023_national_nah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/statistics/2023/national-nah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n산포도 중 표준편차와 사분위수범위는 원자료와 같은 측정 단위를 갖는다. 분산은 단위가 제곱되고, 변동계수는 단위가 없는 상대적 산포 지표이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "표준편차는 원자료와 같은 단위를 갖는다. 정답입니다.",
+    "사분위수범위도 원자료와 같은 단위를 갖는다.",
+    "분산은 단위가 제곱되어 원자료와 다르다.",
+    "변동계수는 단위가 없는 무차원 지표이다."
+   ]
+  },
+  {
+   "id": "civil2023-national-statistics-nah-q12",
+   "paperId": "paper_civil_statistics_2023_national_nah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/statistics/2023/national-nah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n처음 6번에서 뒷면이 2번 나올 확률은 6C2/2^6=15/64이고, 나머지 4번에서 앞면이 2번 나올 확률은 4C2/2^4=6/16이다. 두 시행은 독립이므로 곱하면 90/1024=45/512=45/2^9이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "15/2^9는 한쪽 확률만 계산한 값이다.",
+    "15/2^10은 조합 수를 잘못 계산한 값이다.",
+    "90/1024를 약분하면 45/2^9이다. 정답입니다.",
+    "45/2^10은 확률의 곱을 잘못 계산한 값이다."
+   ]
+  },
+  {
+   "id": "civil2023-national-statistics-nah-q13",
+   "paperId": "paper_civil_statistics_2023_national_nah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/statistics/2023/national-nah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n잔차제곱합 120, 잔차 자유도 24이므로 잔차평균제곱은 5이고, F값이 5이므로 회귀평균제곱은 25, 회귀제곱합도 25이다. 총제곱합은 145이므로 결정계수는 25/145=5/29이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "4/29는 회귀제곱합을 20으로 본 값이다.",
+    "25/145를 약분하면 5/29이다. 정답입니다.",
+    "6/29는 총제곱합을 잘못 계산한 값이다.",
+    "7/29는 잔차제곱합을 잘못 적용한 값이다."
+   ]
+  },
+  {
+   "id": "civil2023-national-statistics-nah-q14",
+   "paperId": "paper_civil_statistics_2023_national_nah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/statistics/2023/national-nah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n검정통계량은 T=r√((n-2)/(1-r²))=0.6×√(9/0.64)=0.6×3.75=2.25이다. 대립가설이 ρ>0인 단측검정이므로 t0.05(9)=1.83과 비교하며, 2.25>1.83이므로 귀무가설을 기각한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "단측검정이므로 t0.025(9)와 비교하는 것은 옳지 않다.",
+    "T가 t0.025(9)보다 작지 않고, 비교 기준도 단측검정과 다르다.",
+    "T=2.25가 t0.05(9)=1.83보다 커서 귀무가설을 기각한다. 정답입니다.",
+    "T가 t0.05(9)보다 작지 않으므로 기각하지 못한다는 설명은 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2023-national-statistics-nah-q15",
+   "paperId": "paper_civil_statistics_2023_national_nah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/statistics/2023/national-nah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n반복이 3회인 4×3 실험에서 교호작용을 오차에 풀링하면 오차 자유도는 24+6=30이다. 오차제곱합은 396-54-72=270, 오차평균제곱은 9이며, F_A=(54/3)/9=2.0, F_B=(72/2)/9=4.0이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "F_A=2.0은 2.92보다 작아 인자 A는 유의하지 않다.",
+    "인자 A가 유의하지 않으므로 이 설명은 옳지 않다.",
+    "A는 유의하지 않고 B의 F값 4.0이 3.32보다 커서 유의하다. 정답입니다.",
+    "인자 B의 F값이 3.32보다 크므로 둘 다 유의하지 않다는 설명은 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2023-national-statistics-nah-q16",
+   "paperId": "paper_civil_statistics_2023_national_nah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/statistics/2023/national-nah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n평균이 같을 때 분산이 클수록 정규분포의 확률밀도는 낮고 넓게 퍼지므로 누적분포함수는 완만하게 증가한다. ④가 가장 완만하게 0.5를 향해 증가하므로 분산이 가장 크다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "①은 매우 가파르게 증가해 분산이 가장 작다.",
+    "②는 ①보다 완만하지만 ③·④보다 가파르다.",
+    "③은 ④보다 가파르게 증가한다.",
+    "④가 가장 완만하게 증가해 분산이 가장 크다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-national-statistics-nah-q17",
+   "paperId": "paper_civil_statistics_2023_national_nah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/statistics/2023/national-nah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n회귀계수는 β1=r×Sy/Sx이고 Sy=√(36/9)=2, Sx=√(1/9)=1/3이므로 β1=(1/3)×6=2이다. 절편은 β0=ȳ-β1x̄=3-2×2=-1이므로 회귀식은 ŷ=-1+2x이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "기울기 2, 절편 -1이므로 회귀식은 ŷ=-1+2x이다. 정답입니다.",
+    "기울기가 1이 되는 계산은 표준편차 비를 잘못 적용한 것이다.",
+    "절편 -4는 x̄, ȳ를 바꾸어 대입한 결과이다.",
+    "기울기와 절편이 모두 맞지 않는 식이다."
+   ]
+  },
+  {
+   "id": "civil2023-national-statistics-nah-q18",
+   "paperId": "paper_civil_statistics_2023_national_nah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/statistics/2023/national-nah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n95% 신뢰구간이 (349, 361)로 귀무가설의 값 350을 포함하므로 유의수준 5%에서는 기각할 수 없고, 더 넓은 99% 신뢰구간도 350을 포함하므로 2%에서도 기각할 수 없다. 검정통계량은 약 1.63으로 유의확률은 0.10을 넘는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "신뢰구간에 350이 포함되어 유의수준 5%에서 기각할 수 없다.",
+    "99% 신뢰구간도 350을 포함하므로 2%에서도 기각할 수 없다.",
+    "유의확률은 약 0.10으로 0.01보다 크다.",
+    "유의확률은 약 0.10으로 0.03보다 작지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-national-statistics-nah-q19",
+   "paperId": "paper_civil_statistics_2023_national_nah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/statistics/2023/national-nah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n층화추출로 중독자 76명과 비중독자 109명을 각각 고정해 표본을 뽑았으므로 중독자 비율이나 질병 유병률 자체는 추정할 수 없다. 각 층 안에서의 비율은 추정할 수 있어 중독자 중 질병 A 유병률 53/76은 추정이 가능하다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "중독자 수를 설계에서 고정했으므로 76/185로 모집단 비율을 추정할 수 없다.",
+    "질병 유병자 수도 설계로 고정되어 81/185로 유병률을 추정할 수 없다.",
+    "중독자 중 유병률 53/76은 층 내 비율로 추정이 가능하다. 정답입니다.",
+    "유병자 중 중독자 비율은 두 집단의 크기를 임의로 정한 표집 때문에 추정할 수 없다."
+   ]
+  },
+  {
+   "id": "civil2023-national-statistics-nah-q20",
+   "paperId": "paper_civil_statistics_2023_national_nah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/statistics/2023/national-nah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n표본비율의 표준오차는 √(p(1-p)/n)이고 모든 p에 대해 오차한계 0.098을 만족하려면 1.96√(0.25/n)≤0.098이어야 한다. √n≥1.96×0.5/0.098=10이므로 n≥100이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "64는 1.645를 적용하거나 p(1-p)를 작게 본 값이다.",
+    "1.96×0.5/0.098=10이므로 n의 최솟값은 100이다. 정답입니다.",
+    "400은 p(1-p)=0.25가 아닌 1을 적용한 값이다.",
+    "625는 오차한계를 잘못 나눈 값이다."
+   ]
+  }
+ ]
+}

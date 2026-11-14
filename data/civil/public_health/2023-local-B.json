@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_public_health_2023_local_B",
+ "title": "2023 지방직 9급 공중보건 B책형",
+ "year": 2023,
+ "source": "2023년도 지방공무원 9급 공개경쟁임용 필기시험 공중보건 B책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_22",
+ "questions": [
+  {
+   "id": "civil2023-local-public_health-B-q01",
+   "paperId": "paper_civil_public_health_2023_local_B",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/public_health/2023/local-B/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n식품 보존법은 물리적·화학적·생물학적 방법으로 나뉜다. 절임법은 소금·설탕·식초 등으로 삼투압이나 pH를 바꿔 미생물 증식을 억제하는 화학적 보존법이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "냉장법은 온도를 낮추는 물리적 보존법이다.",
+    "절임법은 소금·설탕·산으로 미생물을 억제하는 화학적 보존법이다. 정답입니다.",
+    "밀봉법은 공기 접촉을 차단하는 물리적 보존법이다.",
+    "가열법은 열로 미생물을 사멸하는 물리적 보존법이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-public_health-B-q02",
+   "paperId": "paper_civil_public_health_2023_local_B",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/public_health/2023/local-B/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n산화력이 매우 강한 2차 오염물질로, 질소산화물이 자외선과 광화학 반응을 일으켜 생성되며 대기오염경보 대상 물질인 것은 오존이다. 스모그는 오염물질이 아니라 현상이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "오존은 광화학 반응으로 생성되는 강한 산화력의 2차 오염물질이다. 정답입니다.",
+    "스모그는 오염물질 자체가 아니라 대기오염 현상을 가리키는 용어이다.",
+    "라돈은 건축자재·토양에서 나오는 자연방사성 기체이다.",
+    "폼알데하이드는 실내 건축자재에서 주로 나오는 발암물질이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-public_health-B-q03",
+   "paperId": "paper_civil_public_health_2023_local_B",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/public_health/2023/local-B/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n조직 구성원의 활동을 공동목적 달성을 위해 통일·조화롭게 배열하는 집단적 노력은 조정의 원리이다. 계층제는 권한의 수직적 배분, 명령통일은 한 사람에게 한 상관의 명령, 통솔범위는 효과적으로 관리할 수 있는 부하의 수를 말한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "공동목적을 위한 활동의 통일·조화는 조정의 원리이다. 정답입니다.",
+    "계층제의 원리는 권한과 책임의 수직적 계층 구조를 말한다.",
+    "명령통일의 원리는 한 구성원이 한 상관에게만 보고하도록 하는 원리이다.",
+    "통솔범위의 원리는 한 관리자가 통솔할 수 있는 부하 수의 한계를 말한다."
+   ]
+  },
+  {
+   "id": "civil2023-local-public_health-B-q04",
+   "paperId": "paper_civil_public_health_2023_local_B",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/public_health/2023/local-B/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n환자가 의료전문가보다 전문지식이 적어 공급자가 정보를 독점하고 수요를 창출하는 것은 정보의 비대칭성이다. 가치재는 사회가 소비를 권장하는 재화, 노동집약적은 인력 투입 비중이 큰 특성이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "가치재는 개인의 선호와 관계없이 소비가 권장되는 재화의 성질이다.",
+    "전문지식의 격차와 공급자 유발수요는 정보의 비대칭성에 해당한다. 정답입니다.",
+    "노동집약적이란 서비스 생산에 인력이 많이 투입되는 특성이다.",
+    "소비재이면서 투자재라는 것은 건강의 인적자본 성격을 설명하는 특성이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-public_health-B-q05",
+   "paperId": "paper_civil_public_health_2023_local_B",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/public_health/2023/local-B/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n먹는물 수질기준 중 질산성 질소는 10 mg/L 이하로 정해져 있다. 암모니아성 질소는 0.5 mg/L, 납은 0.01 mg/L, 비소는 0.01 mg/L가 기준이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "암모니아성 질소 기준은 0.5 mg/L이다.",
+    "납 기준은 0.01 mg/L로, 0.1 mg/L는 기준보다 높다.",
+    "비소 기준은 0.01 mg/L로, 0.001 mg/L는 기준보다 낮다.",
+    "질산성 질소는 10 mg/L를 넘지 않아야 한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-public_health-B-q06",
+   "paperId": "paper_civil_public_health_2023_local_B",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/public_health/2023/local-B/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n1차 침전을 거친 폐수를 자갈·쇄석 등 여재 위에 뿌려 미생물과 접촉시키며 분해하는 방식은 살수여상법이다. 활성오니법은 포기조에서 부유 미생물로 처리하는 방식이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "살수여상법은 여재에 폐수를 살수해 미생물막으로 분해하는 방식이다. 정답입니다.",
+    "활성오니법은 포기조에서 활성슬러지를 부유시켜 처리하는 방식이다.",
+    "산화지법은 얕은 연못에서 자연 정화를 이용하는 방식이다.",
+    "임호프조는 침전과 소화를 한 탱크에서 처리하는 정화조 방식이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-public_health-B-q07",
+   "paperId": "paper_civil_public_health_2023_local_B",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/public_health/2023/local-B/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n새집증후군의 원인인 휘발성유기화합물(VOCs)에는 벤젠, 톨루엔, 스티렌, 자일렌 등이 있다. 일산화탄소는 연소 과정에서 발생하는 기체로 VOCs에 속하지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "일산화탄소는 연소가스로 휘발성유기화합물이 아니다. 정답입니다.",
+    "벤젠은 대표적인 휘발성유기화합물이다.",
+    "톨루엔은 접착제·도료에서 나오는 휘발성유기화합물이다.",
+    "스티렌은 합성수지 공정에서 나오는 휘발성유기화합물이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-public_health-B-q08",
+   "paperId": "paper_civil_public_health_2023_local_B",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/public_health/2023/local-B/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n표준편차를 산술평균으로 나눈 값으로, 단위가 다르거나 측정치 규모 차이가 큰 여러 집단의 산포를 비교할 때 쓰는 것은 변이계수(변동계수)이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "조화평균은 역수의 평균으로 속도·비율의 평균에 쓰인다.",
+    "평균편차는 각 값과 평균의 차이를 평균한 산포도이다.",
+    "분산은 편차 제곱의 평균으로 단위가 달라 집단 간 비교에 불리하다.",
+    "표준편차를 평균으로 나눈 상대적 산포 지표는 변이계수이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-public_health-B-q09",
+   "paperId": "paper_civil_public_health_2023_local_B",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/public_health/2023/local-B/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n감염병 위기경보는 관심→주의→경계→심각의 4단계로 운영되며, 국내에 유입된 해외 신종감염병이 제한적으로 전파되거나 원인불명·재출현 감염병이 지역사회에 전파되는 단계는 경계이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "관심은 해외에서 신종감염병이 발생하나 국내 유입은 없는 단계이다.",
+    "주의는 해외 신종감염병이 국내에 유입된 단계이다.",
+    "국내 제한적 전파와 지역사회 전파가 나타나는 단계는 경계이다. 정답입니다.",
+    "심각은 지역사회에서 널리 확산되어 대규모 대응이 필요한 단계이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-public_health-B-q10",
+   "paperId": "paper_civil_public_health_2023_local_B",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/public_health/2023/local-B/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n특정 시점에서 유병률과 질병-요인 간 연관성을 함께 측정하는 연구설계는 단면연구이다. 노출과 질병을 동시에 조사하므로 시간적 선후를 알 수 없어 인과관계 규명이 어렵다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "환자대조군연구는 질병군과 대조군을 과거 노출로 비교하는 설계이다.",
+    "한 시점에서 유병률과 요인을 함께 조사하는 설계는 단면연구이다. 정답입니다.",
+    "사례연구는 소수의 개별 사례를 기술하는 연구이다.",
+    "코호트연구는 노출군을 추적해 질병 발생을 관찰하는 설계이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-public_health-B-q11",
+   "paperId": "paper_civil_public_health_2023_local_B",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/public_health/2023/local-B/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n모체로부터 태반이나 모유를 통해 항체를 직접 받아 획득하는 면역은 자연수동면역이다. 인공수동면역은 면역혈청·면역글로불린 주사로 항체를 투여받는 경우이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "자연능동면역은 감염을 겪으며 스스로 항체를 만드는 면역이다.",
+    "인공능동면역은 백신 접종으로 항체를 형성하는 면역이다.",
+    "태반·모유를 통한 모체 항체 획득은 자연수동면역이다. 정답입니다.",
+    "인공수동면역은 면역혈청 등으로 항체를 주입받아 얻는 면역이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-public_health-B-q12",
+   "paperId": "paper_civil_public_health_2023_local_B",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/public_health/2023/local-B/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률상 정신건강증진시설은 정신의료기관, 정신요양시설, 정신재활시설을 말한다. 정신건강복지센터는 이와 별도로 규정된 시설이므로 포함되지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "정신건강복지센터는 법상 별도 규정된 시설로 정신건강증진시설에 포함되지 않는다.",
+    "정신요양시설은 정신건강증진시설에 해당한다.",
+    "정신재활시설은 정신건강증진시설에 해당한다. 정답입니다.",
+    "정신의료기관은 정신건강증진시설에 해당한다."
+   ]
+  },
+  {
+   "id": "civil2023-local-public_health-B-q13",
+   "paperId": "paper_civil_public_health_2023_local_B",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/public_health/2023/local-B/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n도수율은 연 근로시간 100만 시간당 재해 발생 건수로 재해 발생 빈도를 나타낸다. 강도율은 1,000 근로시간당 근로손실일수, 사망만인율은 근로자 1만 명당 사망자 수를 나타낸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "건수율은 재해 건수를 근로자 수로 나눈 값으로 도수율과 다르다.",
+    "사망만인율은 근로자 1만 명당 사망자 수를 나타내는 지표이다.",
+    "강도율은 근로손실일수를 근로시간으로 환산한 지표이다.",
+    "연 근로시간 100만 시간당 재해 건수를 나타내는 지표는 도수율이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-public_health-B-q14",
+   "paperId": "paper_civil_public_health_2023_local_B",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/public_health/2023/local-B/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지역보건법상 시·도지사와 시장·군수·구청장은 지역보건의료계획을 4년마다 수립하고, 그 계획에 따라 연도별 시행계획을 수립한다. 시행계획을 4년마다 수립한다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "보건진료소는 농어촌 등 보건의료를 위한 특별조치법에 근거해 설치된다.",
+    "의료법상 병원 요건을 갖춘 보건소는 보건의료원 명칭을 쓸 수 있다.",
+    "보건지소장은 지방의무직공무원 또는 임기제공무원으로 임용한다.",
+    "4년마다 수립하는 것은 지역보건의료계획이고, 시행계획은 연도별로 수립한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-public_health-B-q15",
+   "paperId": "paper_civil_public_health_2023_local_B",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/public_health/2023/local-B/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n학교보건법 시행령상 보건교사는 학교보건계획 수립, 보건교육자료 수집·관리, 질병 예방처치와 보건지도, 건강상담 등을 담당한다. 학생·교직원의 건강진단과 건강평가는 학교의 장이 실시하는 사항이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "학교보건계획의 수립은 보건교사의 직무이다.",
+    "보건교육자료의 수집·관리는 보건교사의 직무이다.",
+    "각종 질병의 예방처치와 보건지도는 보건교사의 직무이다.",
+    "학생·교직원의 건강진단과 건강평가는 보건교사의 직무로 규정되어 있지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-public_health-B-q16",
+   "paperId": "paper_civil_public_health_2023_local_B",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/public_health/2023/local-B/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국민건강증진법령상 주류의 경고문구 표기는 알코올분 1도 이상인 주류의 판매용 용기 등에 하도록 규정되어 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "알코올분 1도 이상 주류가 경고문구 표기 대상이다. 정답입니다.",
+    "5도 이상은 경고문구 표기 기준이 아니다.",
+    "10도 이상은 경고문구 표기 기준이 아니다.",
+    "17도 이상은 경고문구 표기 기준이 아니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-public_health-B-q17",
+   "paperId": "paper_civil_public_health_2023_local_B",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/public_health/2023/local-B/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n제5차 국민건강증진종합계획(HP 2030)은 건강생활 실천, 정신건강, 비감염성질환, 감염질환 관리 등에 더해 건강친화적 환경 구축 분야를 신설했다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "건강생활 실천 확산은 HP 2020에도 있던 분야이다.",
+    "감염질환 관리는 HP 2020에도 포함되어 있던 분야이다.",
+    "인구집단 건강관리는 HP 2020에도 있던 분야이다.",
+    "건강친화적 환경 구축은 HP 2030에서 신설된 분야이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-public_health-B-q18",
+   "paperId": "paper_civil_public_health_2023_local_B",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/public_health/2023/local-B/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n검역법 시행규칙상 검역감염병 접촉자의 격리기간은 황열 6일, 콜레라 5일, 동물인플루엔자 인체감염증 10일, 에볼라바이러스병 21일 등이다. 에볼라바이러스병을 14일로 본 것은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "황열의 최대 격리기간 6일은 규정과 맞다.",
+    "동물인플루엔자 인체감염증의 10일은 규정과 맞다.",
+    "에볼라바이러스병의 최대 격리기간은 21일이므로 14일은 옳지 않다. 정답입니다.",
+    "콜레라의 5일은 규정과 맞다."
+   ]
+  },
+  {
+   "id": "civil2023-local-public_health-B-q19",
+   "paperId": "paper_civil_public_health_2023_local_B",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/public_health/2023/local-B/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n요양급여의 적정성 평가는 건강보험심사평가원의 업무이다. 국민건강보험공단은 보험료 부과·징수, 자격관리, 보험급여 비용 지급, 건강검진 실시 등의 업무를 맡는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "보험료의 부과·징수는 공단의 업무이다.",
+    "보험급여 비용의 지급은 공단의 업무이다.",
+    "가입자 및 피부양자의 자격관리는 공단의 업무이다.",
+    "요양급여의 적정성 평가는 심사평가원의 업무로 공단의 업무가 아니다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-public_health-B-q20",
+   "paperId": "paper_civil_public_health_2023_local_B",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/public_health/2023/local-B/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n힐의 인과관계 판정 기준 중 노출이 질병 발생보다 앞서야 한다는 것은 시간적 선후관계(선행성)이다. 연관성의 강도, 양-반응 관계, 생물학적 설명 가능성은 각각 다른 기준이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "노출이 질병 발생에 앞선다는 기준은 시간적 선후관계이다. 정답입니다.",
+    "연관성의 강도는 상대위험도 등으로 측정하는 기준이다.",
+    "양-반응 관계는 노출량이 늘수록 발생이 늘어나는지를 보는 기준이다.",
+    "생물학적 설명 가능성은 알려진 기전으로 설명되는지를 보는 기준이다."
+   ]
+  }
+ ]
+}

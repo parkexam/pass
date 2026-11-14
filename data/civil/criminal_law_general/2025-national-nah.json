@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_criminal_law_general_2025_national_nah",
+ "title": "2025 국가직 9급 형법총론 나책형",
+ "year": 2025,
+ "source": "2025년도 국가공무원 9급 공개경쟁채용 필기시험 형법총론 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_27",
+ "questions": [
+  {
+   "id": "civil2025-national-criminal_law_general-nah-q01",
+   "paperId": "paper_civil_criminal_law_general_2025_national_nah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2025/national-nah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n위법성 인식에 필요한 노력의 정도는 구체적 행위정황, 행위자의 인식능력, 속한 사회집단 등에 따라 달리 평가될 수 있다. 달리 평가되어서는 안 된다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "담당 공무원의 잘못된 안내를 믿은 경우 정당한 이유가 인정될 수 있다.",
+    "노력의 정도는 행위정황과 인식능력, 사회집단에 따라 달리 평가된다. 정답입니다.",
+    "판례가 처벌대상이 아니라고 해석된 적이 있어도 정당한 이유가 인정되지는 않는다.",
+    "위법성 인식은 사회정의·조리에 어긋난다는 인식으로 충분하다."
+   ]
+  },
+  {
+   "id": "civil2025-national-criminal_law_general-nah-q02",
+   "paperId": "paper_civil_criminal_law_general_2025_national_nah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2025/national-nah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공사대금을 받을 목적으로 쌓아 둔 건축자재를 치우지 않은 행위는 적극적 방해행위와 같은 형법적 가치가 없어 업무방해죄가 성립하지 않는다. 동등한 가치가 있다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "부작위는 결과 발생 위험이 있는 상황에서 물리적으로 행할 수 있었음에도 하지 않은 경우에 의미를 갖는다.",
+    "범인도피죄가 성립하면 직무유기죄는 따로 성립하지 않는다.",
+    "건축자재를 치우지 않은 행위는 업무방해의 실행행위로 볼 수 없다. 정답입니다.",
+    "부작위범 사이의 공동정범은 공통된 의무를 공통으로 이행할 수 있을 때 성립한다."
+   ]
+  },
+  {
+   "id": "civil2025-national-criminal_law_general-nah-q03",
+   "paperId": "paper_civil_criminal_law_general_2025_national_nah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2025/national-nah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공모관계에서 이탈하려면 공모자가 담당한 기능적 행위지배를 해소해야 하며, 주도적으로 참여한 경우에는 실행에 미친 영향력을 제거해야 한다. 단순 용인만으로 공동가공의 의사가 인정된다는 설명 등은 판례와 다르다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "단순히 제지하지 않고 용인한 것만으로 공동가공의 의사가 인정되지 않는다.",
+    "포괄일죄 도중 가담자는 종전 범행을 알았어도 전체에 대한 공동정범이 되지 않는다.",
+    "주도적으로 참여한 공모자는 영향력을 제거해야 이탈이 인정된다. 정답입니다.",
+    "현장에 없는 자도 기능적 지배가 인정되면 합동범 공동정범이 된다."
+   ]
+  },
+  {
+   "id": "civil2025-national-criminal_law_general-nah-q04",
+   "paperId": "paper_civil_criminal_law_general_2025_national_nah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2025/national-nah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n좌회전 금지구역에서의 좌회전과 50여 미터 후방 차량의 중앙선 침범으로 인한 사고 사이에는 상당인과관계를 인정할 수 없다. 나머지 설명은 판례와 맞다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "급정거에 놀라 넘어진 경우에도 상당인과관계가 인정될 수 있다.",
+    "후방 차량의 일방적 중앙선 침범 사고와 좌회전 사이에는 인과관계가 인정되지 않는다. 정답입니다.",
+    "교통방해치사상죄는 제3자 과실이 개재되어도 예견 가능하면 인과관계가 인정된다.",
+    "강간미수 중 창문 탈출 추락사는 상당인과관계가 인정된다."
+   ]
+  },
+  {
+   "id": "civil2025-national-criminal_law_general-nah-q05",
+   "paperId": "paper_civil_criminal_law_general_2025_national_nah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2025/national-nah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n문서명의인이 생존해 있다는 점이 문서의 중요한 내용이거나 그 점을 전제로 작성된 경우에는 사망자의 승낙을 추정할 수 없어 사문서위조죄가 성립한다. 성립이 부정된다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "피해자의 승낙은 언제든지 철회할 수 있고 방법에 제한이 없다.",
+    "부정확·불충분한 설명에 기한 승낙은 유효한 승낙이 아니다.",
+    "묵시적 동의가 있었다면 권리 주장이 허위로 밝혀져도 절취행위가 아니다.",
+    "명의인 생존이 문서의 중요 내용이면 승낙을 추정할 수 없어 위조죄가 성립한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-criminal_law_general-nah-q06",
+   "paperId": "paper_civil_criminal_law_general_2025_national_nah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2025/national-nah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n직무유기죄는 작위의무 불이행으로 범죄가 완성된 뒤에도 위법상태가 계속되는 계속범이다. 즉시범이라는 설명은 판례와 다르다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "성착취물소지죄는 소지 개시부터 지배관계 종료까지 계속범이다.",
+    "범인도피죄는 도피행위가 계속되는 동안 범죄행위도 계속된다.",
+    "일반교통방해죄는 계속범으로 위법상태를 지속시킨 경우 성립한다.",
+    "직무유기죄는 계속범이므로 즉시범이라는 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-criminal_law_general-nah-q07",
+   "paperId": "paper_civil_criminal_law_general_2025_national_nah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2025/national-nah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n정범배후의 정범 긍정설은 제34조 제1항이 피이용자의 범위를 제한하고 있다는 점을 부정하고, 이용자의 의사지배 가능성을 논거로 한다. 제34조가 범위를 명시적으로 제한한다는 것을 논거로 한다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "도구로 이용된 타인에 대한 사기죄가 별도로 성립하지 않는다.",
+    "허위 조서로 영장을 받아 구금하면 직권남용감금죄가 성립한다.",
+    "인식 없는 제3자를 이용한 소송사기는 간접정범의 소송사기죄가 된다.",
+    "정범배후의 정범 긍정설의 논거에 관한 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-criminal_law_general-nah-q08",
+   "paperId": "paper_civil_criminal_law_general_2025_national_nah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2025/national-nah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n행정상 단속을 주된 목적으로 하는 법규라도 명문규정이 있거나 해석상 과실범도 처벌할 뜻이 명확한 경우가 아니면 고의가 있어야 처벌할 수 있다. 나머지 설명은 판례와 다르다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "단속법규도 원칙적으로 고의가 필요하다는 설명이 옳다. 정답입니다.",
+    "도급인에게 구체적 관리·감독의무가 부여되지 않았더라도 안전조치 의무가 인정될 수 있다.",
+    "법령에 근거가 명시되지 않아도 예견·회피 가능성을 기준으로 주의의무를 인정할 수 있다.",
+    "대등한 지위에서 분담한 경우 전적인 과실이 있는 다른 의사의 책임만 인정된다."
+   ]
+  },
+  {
+   "id": "civil2025-national-criminal_law_general-nah-q09",
+   "paperId": "paper_civil_criminal_law_general_2025_national_nah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2025/national-nah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n긴급피난의 상당성 요건 중 하나로 피난행위가 위난에 처한 법익을 보호하기 위한 유일한 수단이어야 한다. 과잉피난은 감경 또는 면제가 가능하고, 과잉피난에도 피난의사가 필요하며, 집회장소 변경은 긴급피난이 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "과잉피난에도 피난의사가 필요하다.",
+    "신고 없이 장소를 옮긴 집회는 긴급피난에 해당하지 않는다.",
+    "유일한 수단이어야 한다는 것은 상당성의 조건 중 하나이다. 정답입니다.",
+    "과잉피난에 대해서는 형을 감경하거나 면제할 수 있다."
+   ]
+  },
+  {
+   "id": "civil2025-national-criminal_law_general-nah-q10",
+   "paperId": "paper_civil_criminal_law_general_2025_national_nah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2025/national-nah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n위증 후 신문 종료 전 철회는 중지미수로 보기 어렵고, 자수로 공범의 범행을 중지시킨 경우에도 중지미수의 감면이 인정되지 않으며, 강간 공범 중 1인이 나중에 실행하지 않은 것은 중지미수가 아니다. 반면 동일한 범의의 살인 공격과 가압류 후 본안소송 미제기는 ㄱ, ㄹ의 설명이 판례와 맞다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "위증 후 철회·시정은 중지미수가 아니어서 ㄱ은 옳지 않다.",
+    "ㄴ은 중지미수의 감면 요건에 관한 설명이 판례와 다르다.",
+    "ㄷ은 중지미수에 해당하지 않는 사례로 설명이 옳지 않다.",
+    "동일 범의의 수차 공격은 포괄일죄이고, 가압류만으로는 사기죄 미수가 되지 않는다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-criminal_law_general-nah-q11",
+   "paperId": "paper_civil_criminal_law_general_2025_national_nah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2025/national-nah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n하나의 운전행위로 사람의 상해와 재물손괴가 함께 발생하면 두 죄는 상상적 경합관계이다. 실체적 경합이라고 한 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "두 죄는 하나의 행위로 발생해 상상적 경합이 된다. 정답입니다.",
+    "같은 기일의 허위진술은 포괄하여 1개의 위증죄가 된다.",
+    "절취한 수표를 사용한 행위는 불가벌적 사후행위이다.",
+    "피해자별로 독립한 사기죄가 성립한다."
+   ]
+  },
+  {
+   "id": "civil2025-national-criminal_law_general-nah-q12",
+   "paperId": "paper_civil_criminal_law_general_2025_national_nah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2025/national-nah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n몰수·추징은 공소사실과 관련이 있으면 공소시효가 완성되어 유죄 선고를 할 수 없는 경우에도 가능하다. 할 수 없다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "절취품 운반에 사용한 승용차는 범죄 제공 물건으로 몰수할 수 있다.",
+    "공모 뇌물의 추징은 개별적·평등하게 하며 공동 추징은 할 수 없다.",
+    "웹사이트 매각대가는 추징 대상이 아니다.",
+    "공소시효가 완성되어도 몰수·추징은 할 수 있다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-criminal_law_general-nah-q13",
+   "paperId": "paper_civil_criminal_law_general_2025_national_nah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2025/national-nah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n자신의 범행을 부인하는 증언이라도 기대가능성이 없다고 단정할 수 없어 위증죄가 성립한다. 기대가능성이 없어 성립하지 않는다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "기대불가능 사정을 오인한 경우 금지착오 규정을 유추 적용할 수 있다.",
+    "유죄가 확정된 자신의 범행을 부인하는 증언도 위증죄가 성립한다. 정답입니다.",
+    "시험문제를 미리 안 수험생에게 답을 기재하지 않기를 기대하기 어렵다.",
+    "비서라는 신분만으로 반대행위를 기대할 수 없다고 볼 수 없다."
+   ]
+  },
+  {
+   "id": "civil2025-national-criminal_law_general-nah-q14",
+   "paperId": "paper_civil_criminal_law_general_2025_national_nah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2025/national-nah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n유효기간을 스스로 특정해 효력 상실을 예정한 법령이 기간 경과로 효력을 잃은 것은 형법 제1조 제2항의 법령 변경에 해당하지 않는다. 나머지 설명은 판례와 다르다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "헌법불합치 결정 후 효력 상실은 형 폐지에 해당해 면소판결을 한다.",
+    "유효기간 경과는 법령의 변경에 해당하지 않는다는 설명이 옳다. 정답입니다.",
+    "외국에서의 미결구금일수는 임의적 산입 대상이다.",
+    "제6조의 죄는 법익이 직접 침해되는 경우를 말한다."
+   ]
+  },
+  {
+   "id": "civil2025-national-criminal_law_general-nah-q15",
+   "paperId": "paper_civil_criminal_law_general_2025_national_nah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2025/national-nah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n모해할 목적으로 모해 목적이 없는 자에게 위증을 교사한 경우, 교사자는 모해위증교사죄로 처벌되고 제33조 단서에 의해 위증교사죄로 처단되지 않는다. 단서에 의해 처단된다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "모해위증교사는 모해위증교사죄로 처단된다. 정답입니다.",
+    "병가 중인 자도 공범관계가 인정되면 직무유기죄의 공동정범이 될 수 있다.",
+    "신분 없는 자에게는 제33조 단서에 따라 단순배임죄로 처단한다.",
+    "의료인도 무면허의료행위의 공동정범이 될 수 있다."
+   ]
+  },
+  {
+   "id": "civil2025-national-criminal_law_general-nah-q16",
+   "paperId": "paper_civil_criminal_law_general_2025_national_nah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2025/national-nah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n병역법상 '정당한 사유'는 위법성조각사유가 아니라 입영의무의 면제·유예 등 구성요건적·책임적 사유로 이해된다. 위법성조각사유라는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "도로에 구덩이를 판 행위는 자구행위가 아니다.",
+    "자신이 야기한 위난을 피하기 위한 행위는 긴급피난이 아니다.",
+    "병역법의 정당한 사유는 위법성조각사유가 아니다. 정답입니다.",
+    "진실하다고 믿을 상당한 이유가 있으면 명예훼손의 위법성이 조각된다."
+   ]
+  },
+  {
+   "id": "civil2025-national-criminal_law_general-nah-q17",
+   "paperId": "paper_civil_criminal_law_general_2025_national_nah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2025/national-nah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n판례는 사전자기록위작에 무형위조를 포함하는 해석이 죄형법정주의에 반하지 않는다고 보았다. 반한다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "사전자기록위작에 무형위조를 포함하는 해석은 죄형법정주의에 반하지 않는다. 정답입니다.",
+    "공무를 대행하는 공단 임직원을 공무원으로 보는 것은 확장해석이다.",
+    "통신매체를 이용하지 않은 행위까지 처벌하는 것은 문언의 범위를 벗어난다.",
+    "위임 범위를 벗어난 시행령은 무효이다."
+   ]
+  },
+  {
+   "id": "civil2025-national-criminal_law_general-nah-q18",
+   "paperId": "paper_civil_criminal_law_general_2025_national_nah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2025/national-nah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n포괄일죄의 일부 범행이 누범기간 내에 있으면 전체가 누범에 해당한다. 누범에 해당하지 않는다고 본 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "퇴원을 허용한 의사에게 살인방조죄가 성립한다.",
+    "스토킹범죄와 잠정조치 위반은 상상적 경합이다.",
+    "목적의 정당성만으로 업무방해죄의 위법성이 조각되지 않는다.",
+    "포괄일죄의 일부가 누범기간 내이면 전체가 누범에 해당한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-criminal_law_general-nah-q19",
+   "paperId": "paper_civil_criminal_law_general_2025_national_nah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2025/national-nah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n동일한 범의로 수차 살해 공격을 한 경우 포괄하여 1개의 살인기수죄가 되고(ㄱ), 허위 채권으로 가압류만 하고 본안소송을 제기하지 않았다면 사기죄의 미수로 처벌할 수 없다(ㄹ). 과실치사죄에 미수는 없고, 실행행위 종료 후 결과 미발생 시에는 감경할 수 있을 뿐이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "ㄱ(동일 범의의 수차 공격은 포괄일죄)과 ㄹ(가압류 후 본안소송 미제기)이 판례와 맞다.",
+    "과실치사죄에 미수죄가 성립한다는 ㄴ은 옳지 않다. 정답입니다.",
+    "ㄴ이 옳지 않으므로 이 조합은 옳지 않다.",
+    "ㄷ은 미수범의 감면 규정을 잘못 설명하였다."
+   ]
+  },
+  {
+   "id": "civil2025-national-criminal_law_general-nah-q20",
+   "paperId": "paper_civil_criminal_law_general_2025_national_nah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2025/national-nah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n형법 제32조 제2항의 감경은 법정형을 감경한다는 의미이고 선고형을 정범보다 감경한다는 뜻이 아니다. 따라서 이 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "직무상 비밀을 누설받은 자는 종범으로 처벌할 수 없다.",
+    "종범의 감경은 법정형의 감경을 뜻한다. 정답입니다.",
+    "종범에는 방조의 고의와 정범의 고의가 필요하다.",
+    "종범이 성립하려면 원칙적으로 정범의 실행착수가 있어야 한다."
+   ]
+  }
+ ]
+}

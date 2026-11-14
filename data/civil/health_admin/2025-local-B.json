@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_health_admin_2025_local_B",
+ "title": "2025 지방직 9급 보건행정 B책형",
+ "year": 2025,
+ "source": "2025년도 지방공무원 9급 공개경쟁임용 필기시험 보건행정 B책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_23",
+ "questions": [
+  {
+   "id": "civil2025-local-health_admin-B-q01",
+   "paperId": "paper_civil_health_admin_2025_local_B",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/health_admin/2025/local-B/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n제한된 합리성을 전제로 결정자의 심리적 차원을 중시하고, 모든 대안 대신 대표적인 몇 개의 대안만 탐색하는 모형은 만족모형이다. 점증모형은 기존 정책의 소폭 수정을 강조한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "만족모형은 제한된 합리성과 대표 대안 탐색을 특징으로 한다. 정답입니다.",
+    "점증모형은 기존 정책을 조금씩 수정해 나가는 모형이다.",
+    "혼합모형은 합리모형과 점증모형을 상황에 따라 결합한 모형이다.",
+    "최적모형은 합리성과 초합리적 요인을 함께 고려하는 모형이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-health_admin-B-q02",
+   "paperId": "paper_civil_health_admin_2025_local_B",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/health_admin/2025/local-B/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nSWOT 전략에서 강점(S)과 기회(O)를 결합해 사업 영역을 공격적으로 확대하는 것은 SO전략이다. WO는 약점 보완, ST는 위협 대응, WT는 방어 전략이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "WO전략은 약점을 보완해 기회를 활용하는 전략이다.",
+    "WT전략은 약점과 위협을 동시에 줄이는 방어 전략이다.",
+    "강점과 기회를 결합해 확대하는 것은 SO전략이다. 정답입니다.",
+    "ST전략은 강점으로 위협을 회피·대응하는 전략이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-health_admin-B-q03",
+   "paperId": "paper_civil_health_admin_2025_local_B",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/health_admin/2025/local-B/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n의료법 시행규칙상 요양병원에는 노인성 질환자, 노인성 치매환자, 만성질환자 등 주로 요양이 필요한 사람이 입원할 수 있다. 감염병환자나 망상환자는 요양병원 입원 대상이 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "망상환자는 요양병원의 주된 입원 대상이 아니다.",
+    "감염병환자는 격리·치료를 위한 의료기관에서 진료받아야 한다.",
+    "감염병의사환자도 요양병원 입원 대상이 아니다.",
+    "노인성 치매환자는 요양이 필요한 자로서 요양병원 입원이 가능하다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-local-health_admin-B-q04",
+   "paperId": "paper_civil_health_admin_2025_local_B",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/health_admin/2025/local-B/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n권한과 책임의 정도에 따라 직무를 등급화해 상위 등급자가 하위 등급자에게 명령하는 피라미드 구조는 계층제의 원리이다. 전문화는 업무를 분화해 전문성을 높이는 원리이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "전문화의 원리는 업무를 기능별로 나누어 전문성을 높이는 원리이다.",
+    "직무를 수직적으로 등급화해 명령 계통을 만드는 것은 계층제의 원리이다. 정답입니다.",
+    "부서편성의 원리는 유사한 업무를 묶어 부서를 만드는 원리이다.",
+    "조정·통합의 원리는 부서 간 활동을 조화시키는 원리이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-health_admin-B-q05",
+   "paperId": "paper_civil_health_admin_2025_local_B",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/health_admin/2025/local-B/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n건강보험심사평가원은 요양급여비용을 심사하고 요양급여의 적정성을 평가하는 업무를 맡는다. 보험료 부과·징수는 공단, 의료기관 인증은 의료기관인증위원회의 업무이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "의료시설의 운영은 심사평가원의 업무가 아니다.",
+    "의료기관 인증 및 평가는 의료기관인증위원회가 담당한다.",
+    "보험료와 징수금의 부과·징수는 국민건강보험공단의 업무이다.",
+    "요양급여비용의 심사와 요양급여 적정성 평가는 심사평가원의 업무이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-local-health_admin-B-q06",
+   "paperId": "paper_civil_health_admin_2025_local_B",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/health_admin/2025/local-B/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공직 임용에서 기회균등과 정치적 중립을 확보하고 개인의 자격과 능력을 기준으로 임용하는 인사제도는 실적주의이다. 엽관주의는 정파나 정치적 충성에 따라 임용하는 제도이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "실적주의는 자격과 능력에 따른 임용과 정치적 중립을 지향한다. 정답입니다.",
+    "엽관주의는 정당에 대한 충성으로 공직을 배분하는 제도이다.",
+    "정실주의는 개인적 친분에 따라 인사를 하는 관행이다.",
+    "대표관료제는 사회 각 집단을 공직에 대표시키는 제도이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-health_admin-B-q07",
+   "paperId": "paper_civil_health_admin_2025_local_B",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/health_admin/2025/local-B/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n의사의 자율성이 보장되고 신의료기술·신약 개발을 유도하지만 과잉진료로 의료비가 상승하는 지불제도는 행위별수가제이다. 인두제와 총액계약제는 사전 지불 방식으로 비용 억제에 유리하다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "인두제는 등록환자 수에 따라 진료비를 지급하는 방식이다.",
+    "포괄수가제는 질병군별로 정액을 지급하는 방식이다.",
+    "총액계약제는 진료비 총액을 사전에 정하는 방식이다.",
+    "행위별수가제는 서비스량에 따라 지급해 과잉진료 우려가 있다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-local-health_admin-B-q08",
+   "paperId": "paper_civil_health_admin_2025_local_B",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/health_admin/2025/local-B/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공공부조는 국가·지방자치단체가 생활이 어려운 국민에게 최저생활을 보장하는 제도로 국민기초생활보장이 대표적이다. 국민연금·고용보험·산재보험은 사회보험이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "국민연금은 사회보험에 해당한다.",
+    "고용보험은 사회보험에 해당한다.",
+    "산재보험은 사회보험에 해당한다.",
+    "국민기초생활보장은 공공부조에 해당한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-local-health_admin-B-q09",
+   "paperId": "paper_civil_health_admin_2025_local_B",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/health_admin/2025/local-B/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n본예산이 성립한 뒤 예산 변경 사유가 생겨 국회 심의를 거쳐 변경된 예산은 추가경정예산이다. 준예산은 예산 불성립 시 임시 집행 제도이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "추가경정예산은 예산 성립 후 변경 사유가 있을 때 편성한다. 정답입니다.",
+    "잠정예산은 회계연도 개시 전 임시로 편성하는 예산이다.",
+    "가예산은 법정 용어로 사용되지 않는 개념이다.",
+    "준예산은 예산 미의결 시 전년도 예산에 준해 집행하는 제도이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-health_admin-B-q10",
+   "paperId": "paper_civil_health_admin_2025_local_B",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/health_admin/2025/local-B/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n형평성은 비슷한 상황의 사람에게 비슷하게 부담·혜택을 배분하는 것을 뜻한다. 소득수준이 비슷한 사람에게 비슷한 보험료를 부담하게 하는 것은 수평적 형평성에 해당한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "국민 참여와 여론 반영은 민주성의 가치에 해당한다.",
+    "최소 비용으로 최대 성과를 얻는 것은 능률성(효율성)의 가치이다.",
+    "환경변화에 융통성 있게 대처하는 것은 탄력성의 가치이다.",
+    "비슷한 소득에 비슷한 부담을 지우는 것은 형평성에 해당한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-local-health_admin-B-q11",
+   "paperId": "paper_civil_health_admin_2025_local_B",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/health_admin/2025/local-B/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n허즈버그의 2요인 이론에서 성취감, 인정, 책임, 성장 가능성은 동기요인이고, 임금·지위·작업조건·정책은 위생요인이다. 동기요인이 충족되어야 적극적 태도가 형성된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "지위는 위생요인에 해당한다.",
+    "임금은 대표적인 위생요인이다.",
+    "성취감은 일에 대한 적극적 태도를 유도하는 동기요인이다. 정답입니다.",
+    "작업조건은 불만을 줄이는 위생요인이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-health_admin-B-q12",
+   "paperId": "paper_civil_health_admin_2025_local_B",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/health_admin/2025/local-B/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n노력에 대한 보상을 제공하고 리더와 구성원의 교환관계를 기반으로 하는 리더십은 거래적 리더십이다. 서번트 리더십은 구성원을 섬기는 리더십이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "서번트 리더십은 구성원의 성장과 봉사를 강조한다.",
+    "권위형 리더십은 리더가 일방적으로 결정하고 지시하는 유형이다.",
+    "보상을 대가로 노력을 얻는 교환관계는 거래적 리더십이다. 정답입니다.",
+    "카리스마적 리더십은 리더의 매력과 비전으로 구성원을 이끄는 유형이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-health_admin-B-q13",
+   "paperId": "paper_civil_health_admin_2025_local_B",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/health_admin/2025/local-B/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n보험자가 건당 일정액만 부담하고 나머지를 이용자가 전액 부담하는 방식은 정액수혜제이다. 정률부담제는 진료비의 일정 비율을 이용자가 부담하는 방식이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "급여제한제는 급여 항목이나 범위를 제한하는 제도이다.",
+    "정률부담제는 진료비의 일정 비율을 본인이 부담하는 방식이다.",
+    "건당 일정액만 보험자가 부담하는 방식은 정액수혜제이다. 정답입니다.",
+    "급여상한제는 급여의 상한을 정하는 제도이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-health_admin-B-q14",
+   "paperId": "paper_civil_health_admin_2025_local_B",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/health_admin/2025/local-B/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n의료비 억제를 위해서는 사전 지불 방식(총액계약제, 포괄수가제, 인두제)이 유리하다. 사후보상인 행위별수가제로 전환하면 진료량이 늘어 의료비가 증가하므로 억제 방안이 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "본인부담률을 높이면 의료이용이 줄어 비용 억제 효과가 있다.",
+    "건강증진사업 확대는 질병 발생을 줄여 의료비를 억제한다.",
+    "고가장비의 과도한 도입 억제는 의료비 증가를 막는 방안이다.",
+    "사후보상으로의 전환은 의료비를 오히려 늘리는 방향이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-local-health_admin-B-q15",
+   "paperId": "paper_civil_health_admin_2025_local_B",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/health_admin/2025/local-B/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n의료법상 인증기준에 포함되어야 하는 사항은 의료서비스의 제공과정 및 성과, 조직·인력관리 및 운영, 의료서비스 질 향상 활동, 환자의 권리와 안전 등이다. 의료인의 권리와 안전은 명시된 항목이 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "인증기준에 명시된 것은 의료인의 권리가 아니라 환자의 권리와 안전이다. 정답입니다.",
+    "의료서비스의 제공과정 및 성과는 인증기준 포함 사항이다.",
+    "조직·인력관리 및 운영은 인증기준 포함 사항이다.",
+    "의료서비스 질 향상 활동은 인증기준 포함 사항이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-health_admin-B-q16",
+   "paperId": "paper_civil_health_admin_2025_local_B",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/health_admin/2025/local-B/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n질병 발생의 결정요인을 숙주요인, 외부환경요인, 개인행태요인으로 설명하는 모형은 사회생태학적 모형이다. 생의학적 모형은 병원체와 신체 기전에 초점을 둔다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "총체적 모형은 건강을 신체·정신·사회적 안녕의 총체로 보는 관점이다.",
+    "생태학적 모형은 환경과 유기체의 상호작용에 주목한다.",
+    "생의학적 모형은 병원체·생리적 기전 중심으로 질병을 설명한다.",
+    "숙주·환경·행태 요인을 함께 보는 것은 사회생태학적 모형이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-local-health_admin-B-q17",
+   "paperId": "paper_civil_health_admin_2025_local_B",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/health_admin/2025/local-B/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n도나베디안의 질 평가는 구조·과정·결과로 구분된다. 총괄적 평가라는 구분은 사용되지 않으므로 의료장비 조사와의 연결은 옳지 않다. 의료장비 조사는 구조적 평가 항목이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "총괄적 평가는 도나베디안의 평가 구분이 아니며 장비 조사는 구조 평가에 해당한다. 정답입니다.",
+    "의료인 면허 조사는 구조적 평가 항목이다.",
+    "의료이용도 조사는 과정적 평가 항목으로 연결이 옳다.",
+    "환자만족도 조사는 결과적 평가 항목으로 연결이 옳다."
+   ]
+  },
+  {
+   "id": "civil2025-local-health_admin-B-q18",
+   "paperId": "paper_civil_health_admin_2025_local_B",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/health_admin/2025/local-B/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n두 치료방법의 비용과 혈압 감소치(자연단위)를 비교하는 것은 비용-효과분석이다. 비용-편익분석은 결과를 화폐로, 비용-효용분석은 QALY 등 효용으로 측정한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "비용최소화분석은 효과가 동일한 대안의 비용만 비교한다.",
+    "자연단위 결과(혈압 감소)와 비용을 비교하는 것은 비용-효과분석이다. 정답입니다.",
+    "비용-편익분석은 편익을 화폐 단위로 환산해 비교한다.",
+    "비용-효용분석은 결과를 QALY 등 효용 지표로 측정한다."
+   ]
+  },
+  {
+   "id": "civil2025-local-health_admin-B-q19",
+   "paperId": "paper_civil_health_admin_2025_local_B",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/health_admin/2025/local-B/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공급이 수요를 창출한다는 세이의 법칙에 따라 의료인이 환자의 대리인으로 수요를 유발하는 것은 정보의 비대칭성에서 비롯되는 특성이다. 외부효과는 제3자에게 미치는 영향이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "외부효과는 타인에게 이익·비용이 발생하는 성질이다.",
+    "공급자에 의한 수요 창출은 정보의 비대칭성과 관련된 특성이다. 정답입니다.",
+    "노동집약적 특성은 인력 투입 비중이 큰 성질을 말한다.",
+    "치료의 불확실성은 치료 결과의 예측 곤란성을 말한다."
+   ]
+  },
+  {
+   "id": "civil2025-local-health_admin-B-q20",
+   "paperId": "paper_civil_health_admin_2025_local_B",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/health_admin/2025/local-B/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n보건의료원은 의료법상 병원의 요건을 갖춘 보건소에 붙이는 명칭이다. 보건소·보건지소는 지역보건법에 근거해 설치되고, 보건진료소는 농어촌 등 보건의료를 위한 특별조치법에 근거한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "보건진료소는 지역보건법이 아니라 농어촌 등 보건의료를 위한 특별조치법에 근거한다.",
+    "보건소·보건지소는 정부조직법이 아니라 지역보건법에 근거해 설치·운영된다.",
+    "보건의료원은 의료법상 병원 요건을 갖춘 보건소에 사용하는 명칭이다. 정답입니다.",
+    "보건소는 시·군·구별로 1개소 설치하는 것이 원칙이다."
+   ]
+  }
+ ]
+}

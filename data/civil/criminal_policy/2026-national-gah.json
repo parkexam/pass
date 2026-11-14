@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_criminal_policy_2026_national_gah",
+ "title": "2026 국가직 9급 형사정책개론 가책형",
+ "year": 2026,
+ "source": "2026년도 국가공무원 9급 공개경쟁채용 필기시험 형사정책개론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_26",
+ "questions": [
+  {
+   "id": "civil2026-national-criminal_policy-gah-q01",
+   "paperId": "paper_civil_criminal_policy_2026_national_gah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/criminal_policy/2026/national-gah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사례연구는 특정 사례를 심층적으로 조사하는 데 강점이 있지만 사례 수가 적어 연구결과를 일반화하기 어렵다. 일반화에 장점이 있다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "사례연구는 심층 조사가 가능하지만 일반화에 한계가 있다. 정답입니다.",
+    "추적조사는 시간에 따른 대상자의 변화를 관찰하는 종단연구이다.",
+    "참여관찰은 주관적 편견 개입과 일반화의 어려움이 있다.",
+    "현장실험은 고전실험보다 내적 타당도 통제에 불리하다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_policy-gah-q02",
+   "paperId": "paper_civil_criminal_policy_2026_national_gah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/criminal_policy/2026/national-gah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n일탈은 사회적 규범에서 벗어난 행위 전체를 가리키고 비행은 그중 청소년의 문제행위를 지칭하므로, 비행이 일탈을 포괄하는 것이 아니라 일탈이 비행을 포함한다. 따라서 이 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "형식적 의미의 범죄는 법률이 처벌 대상으로 규정한 행위이다.",
+    "일탈이 비행을 포괄하므로 비행이 일탈을 포괄한다는 설명은 옳지 않다. 정답입니다.",
+    "비행은 청소년 문제행위로 교정·교육적 접근이 강조된다.",
+    "실질적 의미의 범죄는 형사정책적 기준을 제시한다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_policy-gah-q03",
+   "paperId": "paper_civil_criminal_policy_2026_national_gah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/criminal_policy/2026/national-gah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사회과정이론은 학습·통제·낙인 등 사회적 상호작용 과정에서 범죄가 발생한다고 본다. 상호작용 속에서 범죄행위를 규범으로 습득하고 정당화 기술을 학습한다는 설명이 여기에 해당한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "사회해체·통제력 약화에 관한 설명은 사회구조이론에 가깝다.",
+    "목표와 수단의 괴리에 관한 설명은 긴장이론(아노미)이다.",
+    "상호작용을 통한 범죄행위 학습과 정당화 기술 습득이 사회과정이론의 설명이다. 정답입니다.",
+    "계층 간 갈등에 관한 설명은 갈등이론이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_policy-gah-q04",
+   "paperId": "paper_civil_criminal_policy_2026_national_gah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/criminal_policy/2026/national-gah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n베카리아는 처벌의 확실성을 약화시키는 사면제도를 비판했다. 사형과 고문에 비판적이었던 것은 맞지만 사면제도를 지지했다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "사형·고문 비판은 맞지만 사면제도를 지지했다는 부분이 옳지 않다. 정답입니다.",
+    "베카리아는 처벌보다 예방을 강조했다.",
+    "범죄는 의도가 아니라 사회에 미친 해악으로 판단해야 한다고 보았다.",
+    "법률은 누구나 이해할 수 있는 말로 입법되어야 한다고 보았다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_policy-gah-q05",
+   "paperId": "paper_civil_criminal_policy_2026_national_gah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/criminal_policy/2026/national-gah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n보호자나 학교·사회복리시설·보호관찰소의 장은 보호사건 대상 소년을 발견하면 관할 소년부에 통고할 수 있다. 촉법소년은 경찰서장이 아닌 검사 송치 대상이고, 법원의 송치는 판결이 아니라 결정으로 한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "10세 이상 14세 미만 소년은 검사를 거쳐 소년부로 송치되며 경찰서장이 직접 검사에게 송치하는 구조가 아니다.",
+    "보호자·학교·사회복리시설·보호관찰소의 장은 소년부에 통고할 수 있다. 정답입니다.",
+    "법원은 판결이 아니라 결정으로 사건을 소년부에 송치한다.",
+    "소년부가 있는 시·군에서의 인도 기간은 48시간이 아니라 24시간이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_policy-gah-q06",
+   "paperId": "paper_civil_criminal_policy_2026_national_gah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/criminal_policy/2026/national-gah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n치료감호가 가종료된 후 보호관찰 기간이 끝나면 치료감호도 종료된다. 재범 위험성만으로 치료감호가 계속되는 것은 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "치료감호와 형이 병과되면 치료감호를 먼저 집행하고 그 기간은 형기에 포함된다.",
+    "치료감호심의위원회는 6개월마다 종료·가종료 여부를 심사한다.",
+    "가종료되면 보호관찰이 시작된다.",
+    "보호관찰 기간이 끝나면 치료감호도 종료되므로 이 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_policy-gah-q07",
+   "paperId": "paper_civil_criminal_policy_2026_national_gah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/criminal_policy/2026/national-gah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n보호관찰소의 장은 전자파 수신자료를 보존하되 법령이 정한 경우에는 열람·조회·제공할 수 있으므로 어떠한 경우에도 할 수 없다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "신체적·정신적 장애가 있는 성폭력범죄자에 대해서도 부착명령을 청구할 수 있다.",
+    "부착명령 청구사건의 관할과 제1심 재판 관할에 관한 설명은 법과 맞다.",
+    "자료의 열람·제공이 허용되는 경우가 있으므로 이 설명은 옳지 않다. 정답입니다.",
+    "부착명령 판결은 특정범죄사건 판결과 동시에 선고한다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_policy-gah-q08",
+   "paperId": "paper_civil_criminal_policy_2026_national_gah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/criminal_policy/2026/national-gah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n일상활동이론은 동기화된 가해자, 적절한 목표물, 보호의 부재라는 세 조건이 갖추어질 때 범죄 기회가 커진다고 보는 기회이론으로, 조건이 충족되면 필연적으로 범죄가 발생한다는 결정론적 관점이 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "동기화된 가해자의 존재를 주어진 조건으로 가정한다.",
+    "일상활동이론은 결정론적 관점을 배경으로 하지 않으므로 이 설명은 옳지 않다. 정답입니다.",
+    "범죄자와 피해자의 시공간적 분포와 일상활동에 관심을 갖는다.",
+    "세 조건의 충족을 제지해 범죄를 예방할 수 있다고 본다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_policy-gah-q09",
+   "paperId": "paper_civil_criminal_policy_2026_national_gah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/criminal_policy/2026/national-gah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n제도적 아노미이론은 경제제도가 다른 사회제도를 지배하는 방식을 평가절하, 적응, 침투로 설명한다. 보편주의는 오히려 아노미를 심화시키는 요인으로 논의된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "경제적 성공 열망에 따른 아노미는 머튼의 긴장이론 설명에 가깝다.",
+    "경제제도의 지배가 평가절하·적응·침투로 이루어진다는 설명이 옳다. 정답입니다.",
+    "보편주의는 제도적 아노미를 경감하는 요인으로 보기 어렵다.",
+    "제도적 아노미이론은 머튼의 이론을 거시적으로 확장한 것이지만 일반긴장이론과는 구별된다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_policy-gah-q10",
+   "paperId": "paper_civil_criminal_policy_2026_national_gah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/criminal_policy/2026/national-gah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n밀러의 중점적 관심사항에서 자율성은 외부의 간섭을 싫어하는 개인적 독립성·자유 지향을 뜻한다. 내부 단결과 집단적 독립성을 뜻한다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "하위계층 청소년은 중점적 관심사항에 순응하며 비행에 이르게 된다.",
+    "하위계층은 중류계층과 다른 가치체계를 가져 비행과 친화적일 수 있다.",
+    "운명주의는 자신의 미래를 통제할 수 없다는 인식이다.",
+    "자율성은 집단적 독립성이 아니라 개인의 독립성·자유 지향을 뜻한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_policy-gah-q11",
+   "paperId": "paper_civil_criminal_policy_2026_national_gah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/criminal_policy/2026/national-gah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n베커는 범죄를 지배계급의 가치가 반영된 사회적 가공물로 보았다. 객관적 실체로 간주했다는 설명은 낙인이론과 반대이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "탄넨바움은 부정적 반응이 자기 인식을 부정적으로 만든다고 보았다.",
+    "레머트는 일탈에 대한 사회적 반응을 사회구성원과 사법기관으로 구분했다.",
+    "베커는 범죄를 사회적 가공물로 보았으므로 이 설명은 옳지 않다. 정답입니다.",
+    "낙인이론은 범죄자 지위가 형성되는 낙인 과정에 주목한다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_policy-gah-q12",
+   "paperId": "paper_civil_criminal_policy_2026_national_gah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/criminal_policy/2026/national-gah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n소년원장은 중환자, 보호기간 연장 필요, 심신장애·임신 등 특별한 보호 필요의 경우에 보호처분 변경을 신청할 수 있다. 개별적 특성에 맞는 처우가 필요한 경우는 법정 신청 사유가 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "중환자로 수용이 위험한 경우는 신청 사유이다.",
+    "보호기간 연장이 필요한 경우도 신청 사유이다.",
+    "개별적 특성에 맞는 처우가 필요한 경우는 법정 사유가 아니어서 옳지 않다. 정답입니다.",
+    "심신장애·임신 등 특별한 보호가 필요한 경우는 신청 사유이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_policy-gah-q13",
+   "paperId": "paper_civil_criminal_policy_2026_national_gah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/criminal_policy/2026/national-gah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n보호소년등을 소년원·소년분류심사원에 수용할 때에는 법원소년부의 결정서, 법무부장관의 이송허가서 또는 지방법원 판사의 유치허가장에 의한다. 소년원은 법무부장관이 관장하고 신설 소년원의 수용정원 기준도 100명이 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "소년원·소년분류심사원은 법무부장관이 관장한다.",
+    "수용은 결정서·이송허가서·유치허가장에 의한다는 설명이 옳다. 정답입니다.",
+    "신설 소년원의 수용정원 기준이 100명 이내라는 설명은 법령과 다르다.",
+    "처우 불복 시에는 소년원장이 아니라 법무부장관에게 청원한다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_policy-gah-q14",
+   "paperId": "paper_civil_criminal_policy_2026_national_gah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/criminal_policy/2026/national-gah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n재통합적 수치심 이론은 1980년대 말 브레이스웨이트가 제시한 이론으로, 1970년대 중반 회복적 사법 등장 당시의 이론적 근거가 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "회복적 사법은 범죄의 책임을 개인과 사회 모두에 있다고 본다.",
+    "재통합적 수치심 이론은 1970년대 중반의 이론적 근거가 아니어서 이 설명은 옳지 않다. 정답입니다.",
+    "가해자에게 해악의 이해와 책임 수용을 요구한다.",
+    "화해·피해회복·재통합을 목표로 한다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_policy-gah-q15",
+   "paperId": "paper_civil_criminal_policy_2026_national_gah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/criminal_policy/2026/national-gah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n소년법상 소년에 대한 형사사건의 심리를 다른 사건과 분리해야 하는지에 관한 서술이 조문과 다르다. 관할, 보조인의 기록 열람, 보조인 허가 취소에 관한 설명은 조문과 맞다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "보호사건 관할은 행위지·거주지·현재지이고 심리는 소년부 단독판사가 한다.",
+    "보조인의 열람에는 소년부 판사의 허가가 필요하다. 정답입니다.",
+    "형사사건 심리의 분리에 관한 서술이 조문과 다르다.",
+    "보조인이 심리를 방해하면 선임 허가를 취소할 수 있다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_policy-gah-q16",
+   "paperId": "paper_civil_criminal_policy_2026_national_gah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/criminal_policy/2026/national-gah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n법원의 신상공개 청구에 관한 결정에 대해서는 즉시항고를 할 수 있다. 즉시항고를 할 수 없다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "심의위원회 위원은 심의 과정에서 알게 된 비밀을 누설해서는 안 된다.",
+    "심의위원회는 위원장을 포함해 10인 이내로 구성한다.",
+    "법원 결정에 대하여 즉시항고를 할 수 있으므로 이 설명은 옳지 않다. 정답입니다.",
+    "공개하는 얼굴은 특별한 사정이 없으면 결정일 전후 30일 이내의 모습으로 한다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_policy-gah-q17",
+   "paperId": "paper_civil_criminal_policy_2026_national_gah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/criminal_policy/2026/national-gah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n구조금 신청의 관할 기관과 기간에 관한 서술이 법 조문과 다르다. 비밀유지 의무, 다른 법령에 따른 급여와의 조정, 수사협조로 피해자가 된 경우의 지급에 관한 설명은 법과 맞다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "구조금 신청 기관·기간에 관한 서술이 조문과 다르다. 정답입니다.",
+    "업무상 알게 된 사생활 비밀을 누설해서는 안 된다.",
+    "국가배상법 등에 따라 급여를 받을 수 있으면 구조금을 지급하지 않는다.",
+    "수사·재판에 협조하다 피해자가 되면 구조금을 지급한다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_policy-gah-q18",
+   "paperId": "paper_civil_criminal_policy_2026_national_gah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/criminal_policy/2026/national-gah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n노역장 유치는 실질적으로 자유형과 같지만 그 집행에는 벌금형의 집행에 관한 규정이 준용되지 않는다. 준용된다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "사형은 극히 예외적인 경우에만 선고할 수 있다는 판례이다.",
+    "징역은 노역의무와 기간에서 금고·구류와 구별된다.",
+    "노역장 유치 집행에 벌금형 집행 규정이 준용된다는 설명은 옳지 않다. 정답입니다.",
+    "무기징역이 과중하면 작량감경한 형기 범위에서 선고해야 한다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_policy-gah-q19",
+   "paperId": "paper_civil_criminal_policy_2026_national_gah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/criminal_policy/2026/national-gah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n신상정보 등록은 국가기관이 내부적으로 보존·관리하는 제도로, 일반에게 공개하는 공개·고지제도보다 법익침해의 정도가 크지 않다는 설명이 판례의 입장이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "등록제도는 내부 보존·관리로 공개·고지보다 법익침해가 작다. 정답입니다.",
+    "등록기간 산정 시 여러 징역형이 있으면 가장 중한 형을 기준으로 하고 1/2을 가중하지 않는다.",
+    "공개명령은 형벌이 아니어서 형벌불소급 원칙이 적용되지 않는다.",
+    "등록정보 배포와 관리에 관한 사항은 법무부령이 아니라 대통령령으로 정한다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_policy-gah-q20",
+   "paperId": "paper_civil_criminal_policy_2026_national_gah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/criminal_policy/2026/national-gah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n선임된 변호사는 검사나 사법경찰관의 피해자 조사에 참여해 의견을 진술할 수 있지만, 승인 없이 진술할 수 있다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "검사는 법령 위반이나 중대한 사실 오인이 있으면 긴급응급조치 결정에 항고할 수 있다.",
+    "주거 부근의 물건을 훼손해 불안감을 일으키는 것도 스토킹행위에 해당한다.",
+    "상대방이나 법정대리인은 긴급응급조치가 필요하지 않으면 취소를 신청할 수 있다.",
+    "변호사의 의견 진술에는 승인이 필요하므로 승인 없이 진술할 수 있다는 설명은 옳지 않다. 정답입니다."
+   ]
+  }
+ ]
+}

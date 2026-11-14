@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_economics_2023_national_nah",
+ "title": "2023 국가직 9급 경제학개론 나책형",
+ "year": 2023,
+ "source": "2023년도 국가공무원 9급 공개경쟁채용 필기시험 경제학개론 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_25",
+ "questions": [
+  {
+   "id": "civil2023-national-economics-nah-q01",
+   "paperId": "paper_civil_economics_2023_national_nah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/economics/2023/national-nah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n생산량을 일정하게 유지하려면 자본 증가로 늘어난 생산 4단위를 노동 감소로 상쇄해야 한다. 노동의 한계생산이 2이므로 4/2=2단위만큼 노동을 줄여야 한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "0.5단위는 한계생산의 비를 뒤집은 값이다.",
+    "1단위는 한계생산의 차이를 적용한 값이다.",
+    "자본 1단위 증가분 4를 노동 한계생산 2로 나누면 2단위이다. 정답입니다.",
+    "4단위는 자본의 한계생산을 그대로 쓴 값이다."
+   ]
+  },
+  {
+   "id": "civil2023-national-economics-nah-q02",
+   "paperId": "paper_civil_economics_2023_national_nah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/economics/2023/national-nah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n대외의존도 30%는 수출입 총액 300억 원을 GDP로 나눈 값이므로 GDP는 1,000억 원이다. GNP는 GDP에 국외순수취요소소득 50억 원을 더한 1,050억 원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "350억 원은 GDP를 잘못 계산한 값이다.",
+    "950억 원은 요소소득을 차감한 값이다.",
+    "1,000억 원은 GDP로 GNP가 아니다.",
+    "1,000억 원에 요소소득 50억 원을 더한 1,050억 원이 GNP이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-national-economics-nah-q03",
+   "paperId": "paper_civil_economics_2023_national_nah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/economics/2023/national-nah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n수입재의 국제가격이 하락하면 국내가격이 하락해 소비자잉여가 늘고 생산자잉여가 줄지만, 소비자잉여 증가분이 더 커 사회 전체의 총잉여는 증가한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "국제가격 하락은 국내가격 하락으로 이어진다.",
+    "가격 하락으로 생산자잉여는 감소한다.",
+    "가격 하락으로 소비자잉여는 증가한다.",
+    "총잉여는 증가하므로 감소한다는 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-national-economics-nah-q04",
+   "paperId": "paper_civil_economics_2023_national_nah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/economics/2023/national-nah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n균형은 10P=80-10P에서 P=4, Q=40이다. 가격을 5로 고정하면 수요량이 30으로 줄어 거래량이 10 감소하고, 자중손실은 (5-3)×(40-30)/2=10이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "거래량 10 감소, 자중손실 10이 계산과 일치한다. 정답입니다.",
+    "자중손실은 10이므로 5라는 설명은 옳지 않다.",
+    "가격 하한이 균형가격보다 높아 거래량은 감소한다.",
+    "가격 고정으로 거래량이 증가한다는 설명은 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2023-national-economics-nah-q05",
+   "paperId": "paper_civil_economics_2023_national_nah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/economics/2023/national-nah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n갑국은 옷 1단위에 쌀 0.5단위, 을국은 옷 1단위에 쌀 0.33단위의 기회비용이 든다. 따라서 을국이 쌀에, 갑국이 옷에 비교우위가 있고 절대우위는 갑국이 모두 가진다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "절대우위는 두 재화 모두 갑국이 가진다.",
+    "갑국은 옷, 을국은 쌀에 비교우위가 있다. 정답입니다.",
+    "쌀 1단위의 기회비용은 옷 0.5단위이다.",
+    "을국이 10시간으로 옷 2단위를 만들면 12시간이 필요해 불가능하다."
+   ]
+  },
+  {
+   "id": "civil2023-national-economics-nah-q06",
+   "paperId": "paper_civil_economics_2023_national_nah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/economics/2023/national-nah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n전통적 화폐수량설은 화폐수요가 소득에 비례하고 이자율에는 민감하지 않다고 가정한다. 유통속도 일정, 통화량과 명목소득의 비례, 인플레이션율 계산은 이 이론의 내용이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "화폐의 유통속도가 일정하다고 가정한다.",
+    "명목국민소득은 통화량에 비례한다.",
+    "전통적 수량설은 화폐수요가 이자율에 민감하다고 보지 않으므로 이 설명은 옳지 않다. 정답입니다.",
+    "4%-3%=1%로 인플레이션율이 1%이다."
+   ]
+  },
+  {
+   "id": "civil2023-national-economics-nah-q07",
+   "paperId": "paper_civil_economics_2023_national_nah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/economics/2023/national-nah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nTC=Q³-6Q²+12Q에서 MC=3Q²-12Q+12이고 평균가변비용의 최솟값은 Q=3에서 3이다. 가격이 2이면 최소 평균가변비용보다 낮아 생산을 중단해야 한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "Q=0일 때 TC=0이므로 고정비용이 없다.",
+    "가격 5에서 이윤극대화 생산량의 이윤은 양수이다.",
+    "가격 3에서 Q=3일 때 TR=TC=9로 이윤은 0이다.",
+    "가격 2는 최소 평균가변비용 3보다 낮아 조업을 중단하므로 이 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-national-economics-nah-q08",
+   "paperId": "paper_civil_economics_2023_national_nah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/economics/2023/national-nah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n보완재 가격 하락은 수요를 늘려 가격과 거래량을 모두 높이고, 공급자 수 증가는 공급을 늘려 가격을 낮추고 거래량을 늘린다. 두 효과가 겹치면 거래량은 늘지만 가격 방향은 불분명하다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "보완재 가격 하락과 원재료 가격 상승을 함께 보면 가격은 불분명하다.",
+    "보완재 가격 하락과 공급자 수 증가로 거래량은 증가하고 가격은 불분명하다. 정답입니다.",
+    "대체재 가격 하락은 수요를 줄이고 원재료 상승은 공급을 줄여 거래량이 감소한다.",
+    "대체재 가격 하락과 공급자 수 증가는 가격과 거래량의 방향이 엇갈린다."
+   ]
+  },
+  {
+   "id": "civil2023-national-economics-nah-q09",
+   "paperId": "paper_civil_economics_2023_national_nah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/economics/2023/national-nah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n한계비용이 150원으로 일정하므로 평균가변비용도 150원으로 일정하고, 고정비용은 100×50=5,000원이다. 생산량이 늘면 평균고정비용과 평균비용은 하락한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "총비용은 가변비용 15,000원과 고정비용 5,000원의 합 20,000원이다.",
+    "평균고정비용이 줄어 평균비용은 생산량이 늘수록 하락한다.",
+    "한계비용이 일정해 평균가변비용도 일정하다.",
+    "평균고정비용은 생산량이 늘수록 감소하므로 일정하다는 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-national-economics-nah-q10",
+   "paperId": "paper_civil_economics_2023_national_nah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/economics/2023/national-nah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n할인율이 낮을수록 현재가치가 커지므로 이자율 i를 적용한 PV가 양수이면 투자한다. 내부수익률 r*가 i보다 높으면 투자하므로 ㄴ은 옳지 않고, r*보다 높은 할인율에서는 PV가 음수가 된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "이자율을 적용한 PV가 0보다 크면 투자한다.",
+    "r*가 i보다 높으면 수익성이 있으므로 투자하지 않는다는 설명은 옳지 않다.",
+    "r*보다 높은 할인율에서는 PV가 음(-)의 값을 갖는다. 정답입니다.",
+    "ㄴ이 옳지 않으므로 ㄴ, ㄷ 전체가 옳지는 않다."
+   ]
+  },
+  {
+   "id": "civil2023-national-economics-nah-q11",
+   "paperId": "paper_civil_economics_2023_national_nah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/economics/2023/national-nah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n필립스곡선에 π=3, πe=5를 넣으면 3=5-0.5(u-3)에서 u=7%이다. 오쿤의 법칙에 7-3=-0.5(y-2)를 넣으면 y=-6%이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "실업률과 성장률이 각각 5%, -2%가 되려면 계산이 맞지 않는다.",
+    "6%와 -4%는 계수를 잘못 적용한 값이다.",
+    "실업률 7%, 성장률 -6%가 두 식을 모두 만족한다. 정답입니다.",
+    "8%와 -8%는 필립스곡선의 계산이 맞지 않는다."
+   ]
+  },
+  {
+   "id": "civil2023-national-economics-nah-q12",
+   "paperId": "paper_civil_economics_2023_national_nah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/economics/2023/national-nah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n민간저축은 1,000-100-500=400, 정부저축은 100-120=-20이므로 국민저축은 380이다. 투자 480-25r이 380과 같아지는 균형 이자율은 4이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "투자지출은 380이므로 450이라는 설명은 옳지 않다.",
+    "정부저축은 -20이므로 20이라는 설명은 옳지 않다.",
+    "민간저축은 400이므로 350이라는 설명은 옳지 않다.",
+    "480-25r=380에서 균형 이자율은 4이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-national-economics-nah-q13",
+   "paperId": "paper_civil_economics_2023_national_nah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/economics/2023/national-nah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사적 한계비용은 Q/2이고 사회적 한계비용은 Q/2+3이다. 사적 균형은 12-Q=Q/2에서 Q=8, 사회적 최적은 12-Q=Q/2+3에서 Q=6이므로 2만큼 감축해야 한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "2만큼 감축하는 것이 사회적 최적이다. 정답입니다.",
+    "4는 외부비용을 두 배로 적용한 값이다.",
+    "6은 사회적 최적 생산량으로 감축분이 아니다.",
+    "8은 사적 균형 생산량으로 감축분이 아니다."
+   ]
+  },
+  {
+   "id": "civil2023-national-economics-nah-q14",
+   "paperId": "paper_civil_economics_2023_national_nah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/economics/2023/national-nah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n실제 인플레이션율이 기대보다 낮으면 채권자(대여자)가 유리하고 채무자(차입자)가 불리하므로 소득은 차입자에서 대여자로 이전된다. 따라서 반대 방향으로 이전된다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "기대인플레이션이 높아지면 화폐보유의 기회비용이 커진다.",
+    "인플레이션은 민간에서 정부로의 부 이전을 낳는다.",
+    "가격조정이 드물면 인플레이션율이 높을수록 상대가격 변화가 커진다.",
+    "실제 인플레이션이 기대보다 낮으면 차입자에서 대여자로 이전되므로 이 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-national-economics-nah-q15",
+   "paperId": "paper_civil_economics_2023_national_nah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/economics/2023/national-nah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n두 재화 중 하나가 비재화이면 덜어 주고 더 받아야 효용이 같아지므로 무차별곡선의 기울기는 양(+)이 된다. 따라서 음(-)이라는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "비재화가 포함되면 무차별곡선 기울기는 양(+)이므로 이 설명은 옳지 않다. 정답입니다.",
+    "한계대체율 체감 때문에 무차별곡선이 원점에 볼록하다.",
+    "완전 대체재의 무차별곡선은 직선이다.",
+    "완전 보완재의 무차별곡선은 L자형으로 한계대체율 체감이 성립하지 않는다."
+   ]
+  },
+  {
+   "id": "civil2023-national-economics-nah-q16",
+   "paperId": "paper_civil_economics_2023_national_nah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/economics/2023/national-nah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n수요독점 기업은 한계지출과 한계수입생산이 같아지는 고용량을 선택하고, 임금은 그 고용량에서 노동공급곡선이 주는 수준으로 지불한다. 임금이 한계지출과 같아지는 수준이라는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "수요독점은 고용을 줄여 자중손실을 만든다.",
+    "한계생산체감으로 노동수요곡선이 우하향한다.",
+    "임금은 선택한 고용량에서 노동공급곡선에 의해 결정된다. 정답입니다.",
+    "후방굴절 노동공급곡선은 소득효과가 대체효과를 압도할 때 나타난다."
+   ]
+  },
+  {
+   "id": "civil2023-national-economics-nah-q17",
+   "paperId": "paper_civil_economics_2023_national_nah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/economics/2023/national-nah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n경상수지 = 민간저축 + 정부저축 - 투자이므로 민간저축이 늘어도 투자가 함께 늘면 경상수지가 개선되지 않을 수 있다. 따라서 항상 개선된다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "민간저축 증가가 항상 경상수지를 개선하지는 않는다. 정답입니다.",
+    "국민저축이 투자보다 크면 경상수지는 흑자이다.",
+    "경상수지는 GDP에서 소비·투자·정부지출을 뺀 값이다.",
+    "국내총생산이 총사용액보다 크면 경상수지는 흑자이다."
+   ]
+  },
+  {
+   "id": "civil2023-national-economics-nah-q18",
+   "paperId": "paper_civil_economics_2023_national_nah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/economics/2023/national-nah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n자연독점은 규모의 경제로 한 기업이 산업 전체를 생산하는 현상이고, 한계비용 가격규제는 독점력을 억제하는 정책이다. 독점은 상품차별화와 무관하고 이윤극대화에서는 한계수입과 한계비용이 같아진다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "상품차별화는 독점적 경쟁의 특징이다.",
+    "ㄱ은 옳지 않으므로 ㄱ, ㄴ 전체가 옳지는 않는다.",
+    "자연독점의 정의와 한계비용 가격규제에 대한 설명이 옳다. 정답입니다.",
+    "독점기업도 한계수입과 한계비용이 같은 수준에서 생산량을 정한다."
+   ]
+  },
+  {
+   "id": "civil2023-national-economics-nah-q19",
+   "paperId": "paper_civil_economics_2023_national_nah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/economics/2023/national-nah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n불가능성 정리는 환율 안정, 독자적 통화정책, 자유로운 자본이동 세 가지를 동시에 달성할 수 없다는 것이다. 경상수지 흑자는 이 세 요소에 포함되지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "환율 안정은 불가능성 정리의 세 요소 중 하나이다.",
+    "경상수지 흑자는 불가능성 정리의 세 요소가 아니다. 정답입니다.",
+    "독자적 통화정책은 세 요소 중 하나이다.",
+    "자유로운 자본이동은 세 요소 중 하나이다."
+   ]
+  },
+  {
+   "id": "civil2023-national-economics-nah-q20",
+   "paperId": "paper_civil_economics_2023_national_nah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/economics/2023/national-nah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n노동 증대형 기술진보가 있는 솔로우 모형에서 균제상태 조건은 s f(k)=(n+g+δ)k이다. 기술진보율 g가 상승하면 유효노동력당 자본 k는 감소하므로 증가한다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "1인당 산출은 균제상태에서 기술진보율로 성장한다.",
+    "황금률에서 자본의 몫 α가 저축률과 같아진다.",
+    "저축률이 변해도 균제상태의 1인당 산출 성장률은 기술진보율로 같다.",
+    "기술진보율이 높아지면 균제상태의 유효노동력당 자본은 감소한다. 정답입니다."
+   ]
+  }
+ ]
+}

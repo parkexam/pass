@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_economics_2024_national_gah",
+ "title": "2024 국가직 9급 경제학개론 가책형",
+ "year": 2024,
+ "source": "2024년도 국가공무원 9급 공개경쟁채용 필기시험 경제학개론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_25",
+ "questions": [
+  {
+   "id": "civil2024-national-economics-gah-q01",
+   "paperId": "paper_civil_economics_2024_national_gah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/economics/2024/national-gah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n시장실패는 외부성, 공공재, 비대칭정보, 시장지배력 등으로 자원배분이 효율적이지 못한 상태이다. 완전경쟁은 오히려 효율적 자원배분을 달성하는 조건이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "외부성은 대표적인 시장실패 요인이다.",
+    "완전경쟁은 시장실패의 요인이 아니라 효율배분의 조건이다. 정답입니다.",
+    "공공재의 무임승차 문제는 시장실패를 낳는다.",
+    "비대칭정보는 역선택·도덕적 해이로 시장실패를 일으킨다."
+   ]
+  },
+  {
+   "id": "civil2024-national-economics-gah-q02",
+   "paperId": "paper_civil_economics_2024_national_gah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/economics/2024/national-gah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n세후 명목이자율은 6%×(1-0.2)=4.8%이다. 피셔방정식에 따라 여기서 기대물가상승률 3%를 빼면 실질이자율은 1.8%이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "4.8%-3%=1.8%가 세후 실질이자율이다. 정답입니다.",
+    "3.0%는 물가상승률로 실질이자율이 아니다.",
+    "4.8%는 세후 명목이자율이다.",
+    "6.0%는 세금과 물가를 반영하지 않은 명목이자율이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-economics-gah-q03",
+   "paperId": "paper_civil_economics_2024_national_gah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/economics/2024/national-gah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n장기평균비용곡선은 단기평균비용곡선들의 포락선이지만, 장기한계비용곡선은 단기한계비용곡선들의 포락선이 아니다. 나머지 설명은 장기비용곡선의 성질로 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "장기평균비용 최저점의 시설규모가 최적시설규모이다.",
+    "포락선인 것은 장기한계비용이 아니라 장기평균비용곡선이다. 정답입니다.",
+    "장기평균비용 최저점에서 장기한계비용이 평균비용과 교차한다.",
+    "장기평균비용이 우하향하는 구간에 규모의 경제가 존재한다."
+   ]
+  },
+  {
+   "id": "civil2024-national-economics-gah-q04",
+   "paperId": "paper_civil_economics_2024_national_gah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/economics/2024/national-gah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공유지의 비극은 사적 한계비용이 사회적 한계비용보다 작아 과잉생산이 발생하는 문제이다. 사적 비용이 더 크다는 설명은 반대이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "사적 소유권 설정은 공유지의 비극을 해결하는 방안이다.",
+    "경합성은 있으나 배제성이 없는 재화에서 발생한다.",
+    "공유지의 비극에서는 사적 한계비용이 사회적 한계비용보다 작다. 정답입니다.",
+    "연근해 어장의 남획은 공유지의 비극의 대표 사례이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-economics-gah-q05",
+   "paperId": "paper_civil_economics_2024_national_gah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/economics/2024/national-gah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n총수요를 늘리려면 통화량을 늘리고 정부지출을 확대해야 한다. 국공채 매각, 지급준비율 인상, 재할인율 인상은 모두 긴축적 통화정책이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "국공채 매각과 소득세 인상은 총수요를 줄인다.",
+    "통화량 증가와 정부지출 확대는 모두 총수요를 늘린다. 정답입니다.",
+    "지급준비율 인상과 정부지출 축소는 총수요를 줄인다.",
+    "재할인율 인상은 긴축정책이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-economics-gah-q06",
+   "paperId": "paper_civil_economics_2024_national_gah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/economics/2024/national-gah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n소비자 B는 가격이 10 미만일 때만 수요가 있으므로 시장수요는 32-3P이다. -4+P=32-3P에서 P=9이고, 이는 B의 수요가 존재하는 구간에 속한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "가격 6에서는 수요와 공급이 일치하지 않는다.",
+    "가격 7에서 수요 11, 공급 3으로 균형이 아니다.",
+    "가격 8에서 수요 8, 공급 4로 균형이 아니다.",
+    "-4+P=32-3P에서 균형가격은 9이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-economics-gah-q07",
+   "paperId": "paper_civil_economics_2024_national_gah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/economics/2024/national-gah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n균형은 85-15P=10+10P에서 P=3, Q=40이다. 수요의 가격탄력성은 기울기 15에 P/Q를 곱한 15×3/40=9/8이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "6/8은 수요량을 40이 아닌 값으로 본 것이다.",
+    "7/8은 가격을 잘못 적용한 값이다.",
+    "1은 단위탄력적이라는 뜻으로 계산과 맞지 않는다.",
+    "15×3/40=9/8이 균형점에서의 탄력성이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-economics-gah-q08",
+   "paperId": "paper_civil_economics_2024_national_gah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/economics/2024/national-gah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n효용함수가 선형이므로 두 재화의 한계대체율은 2/3로 일정하고, 가격비는 1/2이다. 한계대체율이 가격비보다 커 X재만 소비하는 코너해가 발생하므로 Y재 소비는 0이고 소득소비곡선은 y=0이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "X재의 한계효용은 2이므로 2/3이라는 설명은 옳지 않다.",
+    "코너해가 발생해 두 재화를 함께 소비하지 않는다.",
+    "소득이 늘면 X재 소비만 늘어난다.",
+    "최적 선택에서 Y재 소비가 0이므로 소득소비곡선은 y=0이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-economics-gah-q09",
+   "paperId": "paper_civil_economics_2024_national_gah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/economics/2024/national-gah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공공재의 사회적 한계편익은 각 소비자 한계편익의 수직합으로 15-3Q이다. 이것이 한계비용 9와 같아지는 수량은 Q=2이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "15-3Q=9에서 Q=2가 사회적 최적 생산량이다. 정답입니다.",
+    "Q=3이면 사회적 한계편익 6이 한계비용 9보다 작다.",
+    "Q=4는 한계비용보다 편익이 작아 과잉생산이다.",
+    "Q=5는 사회적 최적 생산량과 거리가 멀다."
+   ]
+  },
+  {
+   "id": "civil2024-national-economics-gah-q10",
+   "paperId": "paper_civil_economics_2024_national_gah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/economics/2024/national-gah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n구매력평가설은 상품의 경상거래를 바탕으로 환율을 설명하고 금융거래는 고려하지 않는다. 금융거래만 고려한다는 설명은 이자율평가설에 해당한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "이자율평가설은 자유로운 자본이동을 전제로 한다.",
+    "구매력평가설은 경상거래를 중심으로 하고 금융거래를 배제한 것이므로 이 설명은 옳지 않다. 정답입니다.",
+    "이자율평가설은 양국 이자율 차이로 환율을 설명한다.",
+    "무역장벽과 비교역재는 구매력평가설의 설명력을 낮춘다."
+   ]
+  },
+  {
+   "id": "civil2024-national-economics-gah-q11",
+   "paperId": "paper_civil_economics_2024_national_gah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/economics/2024/national-gah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n고정환율제도에서 정부지출이 늘면 IS가 우측으로 이동해 이자율 상승 압력이 생기고, 자본유입으로 통화량이 늘어 LM도 우측으로 이동한다. 그 결과 환율은 고정되고 소득은 증가한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "환율은 불변이고 소득은 증가한다는 설명이 옳다. 정답입니다.",
+    "고정환율제도에서는 환율이 상승하지 않는다.",
+    "소득은 증가하므로 불변이라는 설명은 옳지 않다.",
+    "환율이 하락하지도 않고 소득도 불변이 아니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-economics-gah-q12",
+   "paperId": "paper_civil_economics_2024_national_gah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/economics/2024/national-gah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n취업자 수는 1,600-80=1,520만 명이다. 실업률은 80/1,600=5%, 경제활동참가율은 1,600/2,000=80%, 비경제활동인구는 400만 명이며, 고용률은 1,520/2,000=76%이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "실업률 80/1,600=5%는 옳다.",
+    "고용률은 1,520/2,000=76%이므로 95%라는 설명은 옳지 않다. 정답입니다.",
+    "경제활동참가율 1,600/2,000=80%는 옳다.",
+    "비경제활동인구 2,000-1,600=400만 명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2024-national-economics-gah-q13",
+   "paperId": "paper_civil_economics_2024_national_gah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/economics/2024/national-gah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n리카디언 등가정리에 따르면 조세를 줄이고 국채를 발행해도 민간은 장래 증세를 예상해 저축을 늘리므로 총저축과 이자율, 투자는 변하지 않는다. 민간저축과 정부저축이 함께 증가해 총저축이 늘어난다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "조세삭감에도 소비는 늘지 않는다.",
+    "민간저축 증가가 정부저축 감소를 상쇄해 총저축은 변하지 않는다. 정답입니다.",
+    "재정적자는 단기에 국민소득과 물가에 영향을 미치지 못한다.",
+    "재정적자는 장기에도 국민소득과 물가에 영향을 미치지 못한다."
+   ]
+  },
+  {
+   "id": "civil2024-national-economics-gah-q14",
+   "paperId": "paper_civil_economics_2024_national_gah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/economics/2024/national-gah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n화폐경기변동이론은 예상치 못한 통화량 변동을, 실물경기변동이론은 기술적 충격에 따른 실물요인 변화를 경기변동의 원인으로 본다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "예상한 통화량은 화폐경기변동이론의 원인이 아니다.",
+    "임금의 경직성은 실물경기변동이론의 중심 요인이 아니다.",
+    "예상치 못한 통화량과 기술적 충격이 각 이론의 원인이다. 정답입니다.",
+    "임금 경직성은 실물경기변동이론의 핵심이 아니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-economics-gah-q15",
+   "paperId": "paper_civil_economics_2024_national_gah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/economics/2024/national-gah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n재정적자로 대부자금 공급이 줄면 공급곡선이 왼쪽으로 이동해 실질이자율은 상승하고 거래량은 감소한다. 이자율이 하락한다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "정부지출 증가는 투자수요를 직접 바꾸지 않아 수요곡선은 이동하지 않는다.",
+    "재정적자로 저축이 줄어 공급곡선이 왼쪽으로 이동한다.",
+    "이자율은 상승하고 거래량은 감소하므로 하락한다는 설명은 옳지 않다. 정답입니다.",
+    "정부차입으로 민간투자가 줄어드는 것은 구축효과이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-economics-gah-q16",
+   "paperId": "paper_civil_economics_2024_national_gah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/economics/2024/national-gah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n콥-더글라스 생산함수 Q=L^αK^β에서 노동과 자본의 산출탄력성은 각각 α와 β이다. 대체탄력성은 1이고, α+β=1이면 규모수익불변, 확장경로는 원점을 지나는 직선이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "대체탄력성은 α/β가 아니라 1이다.",
+    "α+β<1이면 규모수익체감이다.",
+    "α+β=1일 때 확장경로는 수직선이 아니라 원점을 지나는 직선이다.",
+    "생산의 노동탄력성과 자본탄력성은 각각 α와 β이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-economics-gah-q17",
+   "paperId": "paper_civil_economics_2024_national_gah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/economics/2024/national-gah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n각 기업의 이윤극대화 조건은 90-2qA-qB=10과 90-qA-2qB=20이다. 두 반응함수를 연립하면 qA=30, qB=20이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "20과 15는 반응함수를 잘못 풀어낸 값이다.",
+    "qA=30, qB=20이 꾸르노 균형이다. 정답입니다.",
+    "35와 25는 비용 차이를 반영하지 못한 값이다.",
+    "40과 30은 독점 균형에 가까운 값이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-economics-gah-q18",
+   "paperId": "paper_civil_economics_2024_national_gah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/economics/2024/national-gah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\na>10일 때 (L,H)와 (H,L)이 모두 내쉬균형이 되어 균형이 존재하므로 '존재하지 않는다'는 설명은 옳지 않다. a<10이면 A의 우월전략은 L이고, a=10일 때 균형은 2개이며, B는 우월전략이 없다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "B의 최적 대응은 A의 선택에 따라 달라져 우월전략이 없다.",
+    "a<10이면 A는 어떤 경우에도 L이 유리하다.",
+    "a=10일 때 (L,H)와 (H,L)이 모두 균형이다.",
+    "a>10일 때도 두 개의 순수전략 내쉬균형이 존재한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-economics-gah-q19",
+   "paperId": "paper_civil_economics_2024_national_gah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/economics/2024/national-gah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n균제상태 조건 0.4√k=0.2k에서 k=4, y=2이고 일인당 소비는 2-0.8=1.2이다. 자본의 한계생산성은 0.5/√4=0.25이므로 0.2라는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "√k=2이므로 k=4가 되어 최적 생산량은 4이다.",
+    "황금률 자본량 6.25보다 작아 황금률이 달성되지 않는다.",
+    "자본의 한계생산성은 0.5/2=0.25이다. 정답입니다.",
+    "일인당 소비는 2-0.4×2=1.2이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-economics-gah-q20",
+   "paperId": "paper_civil_economics_2024_national_gah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/economics/2024/national-gah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n통화승수는 (1+현금비율)/(지급준비율+현금비율)=(1+0.5)/(0.1+0.5)=2.5이다. 본원통화 600억 원에 2.5를 곱하면 통화량은 1,500억 원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "0.5는 통화승수가 될 수 없는 값이다.",
+    "1.5는 현금비율을 분자에만 반영한 값이다.",
+    "2.5와 1,500억 원이 계산 결과와 일치한다. 정답입니다.",
+    "3.5는 지급준비율을 분모에서 빼버린 값이다."
+   ]
+  }
+ ]
+}

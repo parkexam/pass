@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_economics_2022_national_gah",
+ "title": "2022 국가직 9급 경제학개론 가책형",
+ "year": 2022,
+ "source": "2022년도 국가공무원 9급 공개경쟁채용 필기시험 경제학개론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_25",
+ "questions": [
+  {
+   "id": "civil2022-national-economics-gah-q01",
+   "paperId": "paper_civil_economics_2022_national_gah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/economics/2022/national-gah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n실업률은 실업자를 경제활동인구(취업자+실업자)로 나눈 값이다. 실망실업자와 비경제활동인구는 경제활동인구에 포함되지 않으므로 27/(153+27)=15%이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "10.0%는 실업자를 전체 인구로 나눈 값이다.",
+    "27/180=15.0%가 실업률이다. 정답입니다.",
+    "18.8%는 실망실업자를 실업자에 더한 값이다.",
+    "23.5%는 비경제활동인구까지 분모에 넣은 값이다."
+   ]
+  },
+  {
+   "id": "civil2022-national-economics-gah-q02",
+   "paperId": "paper_civil_economics_2022_national_gah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/economics/2022/national-gah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기대보다 높은 인플레이션이 발생하면 가격 신호가 흐려지고 계약·투자 결정의 불확실성이 커진다. 인플레이션에서는 실물자산 보유자가 유리하고, 물가하락과 침체가 함께 오는 것은 디플레이션적 침체이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "인플레이션에서는 실물자산 보유자가 유리하고 금융자산 보유자가 불리하다.",
+    "물가하락과 경기침체가 함께 나타나는 것은 디플레이션 침체이다.",
+    "실제 인플레이션이 기대보다 높으면 채무자가 유리하고 채권자가 불리하다.",
+    "기대보다 높은 인플레이션은 불확실성을 높일 수 있다는 설명이 옳다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-economics-gah-q03",
+   "paperId": "paper_civil_economics_2022_national_gah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/economics/2022/national-gah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nQ=10에서 총가변비용은 2×100=200, 총비용은 800이므로 평균비용은 80이고 한계비용은 40이다. 평균가변비용은 200/10=20이므로 40이라는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "평균비용은 800/10=80이다.",
+    "고정비용은 생산량과 무관하므로 한계고정비용은 0이다.",
+    "평균가변비용은 200/10=20이므로 40이라는 설명은 옳지 않다. 정답입니다.",
+    "한계비용은 4Q=40이다."
+   ]
+  },
+  {
+   "id": "civil2022-national-economics-gah-q04",
+   "paperId": "paper_civil_economics_2022_national_gah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/economics/2022/national-gah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n소득이 10% 늘 때 지출이 3.3% 늘었으므로 수요의 소득탄력성은 약 0.33으로 0과 1 사이이다. 소득이 늘면 수요가 늘어 정상재이고, 탄력성이 1보다 작아 필수재이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "소득탄력성이 0과 1 사이이므로 정상재이면서 필수재이다. 정답입니다.",
+    "사치재가 되려면 소득탄력성이 1보다 커야 한다.",
+    "소득이 늘 때 지출도 늘었으므로 열등재가 아니다.",
+    "소득탄력성이 약 0.33으로 비탄력적이다."
+   ]
+  },
+  {
+   "id": "civil2022-national-economics-gah-q05",
+   "paperId": "paper_civil_economics_2022_national_gah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/economics/2022/national-gah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nP=10일 때 수요량은 200-40=160이고 수요함수의 기울기는 -4이다. 수요의 가격탄력성은 |dQ/dP×P/Q|=4×10/160=1/4이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "4×10/160=1/4이 탄력성의 크기이다. 정답입니다.",
+    "1/2은 수요량을 80으로 본 값이다.",
+    "1은 탄력성이 단위탄력적이라는 뜻으로 계산과 맞지 않는다.",
+    "4는 기울기의 절댓값으로 탄력성이 아니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-economics-gah-q06",
+   "paperId": "paper_civil_economics_2022_national_gah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/economics/2022/national-gah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n디플레이션은 물가수준 자체가 하락하는 것이다. 물가상승률이 10%에서 1%로 낮아진 것은 상승폭이 줄어든 디스인플레이션이며 디플레이션이 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "소비 지연으로 GDP에 부정적 영향이 나타날 수 있다.",
+    "디플레이션도 부와 소득의 재분배를 초래한다.",
+    "자산가격 하락은 부의 효과로 소비를 위축시킨다.",
+    "상승률이 낮아진 것은 디스인플레이션이므로 이 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-economics-gah-q07",
+   "paperId": "paper_civil_economics_2022_national_gah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/economics/2022/national-gah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n완전경쟁에서는 P=MC=20에서 Q=40이 되어 사회적 잉여는 (100-20)×40/2=1,600이다. 독점에서는 MR=MC에서 Q=20, P=60이 되어 잉여는 소비자잉여 400과 생산자잉여 800의 합 1,200이므로 차이는 400이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "100은 계산된 잉여 차이와 다르다.",
+    "200은 독점 생산량만 고려한 값이다.",
+    "300은 가격차와 수량의 곱을 잘못 적용한 값이다.",
+    "1,600-1,200=400이 두 시장의 사회적 잉여 차이이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-economics-gah-q08",
+   "paperId": "paper_civil_economics_2022_national_gah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/economics/2022/national-gah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n정부지출 증가와 기업투자 증가는 총수요를 증가시켜 물가를 상승시키고, 원자재 가격 상승은 총공급을 감소시켜 물가를 상승시킨다. 따라서 기업투자 증가(다)는 물가를 상승시킬 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "정부지출 증가는 총수요 증가로 물가를 상승시킨다.",
+    "원자재 가격 상승은 총공급 감소로 실질GDP를 감소시킨다.",
+    "기업투자 증가는 총수요 증가요인으로 물가를 상승시킬 수 있다. 정답입니다.",
+    "정부지출 증가는 총공급이 아니라 총수요 증가요인이다."
+   ]
+  },
+  {
+   "id": "civil2022-national-economics-gah-q09",
+   "paperId": "paper_civil_economics_2022_national_gah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/economics/2022/national-gah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n성장회계식 5%=1%+0.4×자본증가율+0.6×5%에서 0.4×자본증가율=1%이므로 자본증가율은 2.5%이다. 자본의 기여도는 0.4×2.5%=1.0%이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "0.5%는 자본증가율을 그대로 쓴 값이다.",
+    "0.7%는 노동 몫을 잘못 적용한 값이다.",
+    "자본 기여도는 0.4×2.5%=1.0%이다. 정답입니다.",
+    "3.0%는 노동의 기여도이다."
+   ]
+  },
+  {
+   "id": "civil2022-national-economics-gah-q10",
+   "paperId": "paper_civil_economics_2022_national_gah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/economics/2022/national-gah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n관세로 국내가격이 P0에서 P1으로 오르면 생산자잉여는 A만큼 감소하는 것이 아니라 A만큼 증가한다. 소비자잉여는 A+B+C+D만큼 줄고, 정부 관세수입은 C, 경제 전체 후생은 B+D만큼 감소한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "가격 상승은 생산자에게 유리하므로 생산자잉여는 A만큼 감소한다는 설명은 옳지 않다. 정답입니다.",
+    "경제 전체 후생의 감소분은 B+D이다.",
+    "정부의 관세수입은 C이다.",
+    "소비자잉여 감소분은 A+B+C+D이다."
+   ]
+  },
+  {
+   "id": "civil2022-national-economics-gah-q11",
+   "paperId": "paper_civil_economics_2022_national_gah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/economics/2022/national-gah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공공재는 여러 사람이 동시에 소비해도 다른 사람의 소비가 줄지 않는 비경합성과, 대가를 지불하지 않은 사람도 배제할 수 없는 비배제성을 갖는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "효율성과 형평성은 공공재의 정의적 특성이 아니다.",
+    "비경합성과 비배제성이 공공재의 두 특성이다. 정답입니다.",
+    "공공성·가치성은 공공재의 특성을 설명하는 개념이 아니다.",
+    "외부성은 공공재의 두 특성으로 제시되지 않는다."
+   ]
+  },
+  {
+   "id": "civil2022-national-economics-gah-q12",
+   "paperId": "paper_civil_economics_2022_national_gah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/economics/2022/national-gah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n보완재 가격이 하락하면 함께 소비하는 재화의 수요가 증가한다. 대체재 가격 하락은 수요를 감소시키고, 정상재의 소득 감소나 열등재의 소득 증가도 수요를 감소시킨다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "보완재 가격 하락은 X재의 수요를 증가시킨다. 정답입니다.",
+    "대체재 가격 하락은 X재 수요를 감소시킨다.",
+    "정상재는 소득이 감소하면 수요가 감소한다.",
+    "열등재는 소득이 증가하면 수요가 감소한다."
+   ]
+  },
+  {
+   "id": "civil2022-national-economics-gah-q13",
+   "paperId": "paper_civil_economics_2022_national_gah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/economics/2022/national-gah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n세율 인하는 공급비용을 낮춰 공급곡선을 우측으로 이동시키므로 휘발유의 시장가격은 하락하고 소비량은 늘어난다. 가격 하락으로 소비 여력이 커지고 소득효과도 같은 방향으로 작용한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "소비량은 가격 하락으로 오히려 증가한다.",
+    "가격 하락으로 소비량은 감소하지 않는다.",
+    "공급 증가로 균형가격은 하락한다.",
+    "세율 인하로 공급이 늘어 시장가격이 하락한다는 설명이 옳다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-economics-gah-q14",
+   "paperId": "paper_civil_economics_2022_national_gah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/economics/2022/national-gah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n완전고용은 마찰적·구조적 실업이 남아 있는 상태로, 실업률이 자연실업률과 같아지는 수준이다. 마찰적 실업이 사라지거나 모든 경제활동인구가 취업하는 것은 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "완전고용에서는 실업률이 자연실업률과 일치한다. 정답입니다.",
+    "완전고용에서도 마찰적 실업은 존재한다.",
+    "실업자가 실망실업자로만 구성되지 않는다.",
+    "모든 경제활동인구가 취업하는 것은 아니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-economics-gah-q15",
+   "paperId": "paper_civil_economics_2022_national_gah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/economics/2022/national-gah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n가격 하락에도 소비량이 감소하는 재화는 기펜재로, 음(-)의 소득효과가 대체효과보다 커 가격효과가 가격과 같은 방향으로 나타난다. 따라서 소득효과의 절댓값이 대체효과의 절댓값보다 작다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "가격 하락에 소비가 줄어드는 재화는 기펜재이다.",
+    "대체효과만 보면 가격 하락으로 소비량이 늘어난다.",
+    "열등재이므로 소득이 늘면 소비가 줄어든다.",
+    "기펜재는 소득효과의 절댓값이 대체효과보다 커야 하므로 이 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-economics-gah-q16",
+   "paperId": "paper_civil_economics_2022_national_gah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/economics/2022/national-gah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n채권가격과 만기수익률은 반대로 움직이므로 음(-)의 관계이다. 수익률곡선의 정의, 유동성 프리미엄이론, 국채발행의 재원조달 목적에 대한 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "수익률곡선은 만기와 만기수익률의 관계를 나타낸다.",
+    "만기수익률과 채권가격은 음의 관계이므로 정(＋)의 관계라는 설명은 옳지 않다. 정답입니다.",
+    "유동성 프리미엄이론은 투자자가 단기채권을 선호한다고 본다.",
+    "국채발행은 확장적 재정정책의 재원조달 수단이다."
+   ]
+  },
+  {
+   "id": "civil2022-national-economics-gah-q17",
+   "paperId": "paper_civil_economics_2022_national_gah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/economics/2022/national-gah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n종량세 부과 시 조세 부담은 수요와 공급의 상대적 탄력성에 따라 나뉘며, 수요가 비탄력적일수록, 공급이 탄력적일수록 소비자 부담이 커진다. ①은 수요탄력성이 가장 작고 공급탄력성이 가장 크다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "수요탄력성 0.2, 공급탄력성 1.8로 소비자 부담이 가장 크다. 정답입니다.",
+    "수요와 공급의 탄력성 차이가 작아 소비자 부담이 상대적으로 작다.",
+    "수요가 공급보다 탄력적이어서 소비자 부담이 작다.",
+    "수요가 매우 탄력적이어서 소비자 부담이 가장 작다."
+   ]
+  },
+  {
+   "id": "civil2022-national-economics-gah-q18",
+   "paperId": "paper_civil_economics_2022_national_gah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/economics/2022/national-gah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nA에서 B로의 이동은 단기총공급 감소로 물가상승과 생산감소가 함께 나타나는 스태그플레이션이다. 임금 등 요소가격이 하락하면 단기총공급이 원래 위치로 돌아가 A의 균형으로 회복되며, 총수요를 늘리는 정책이 C로 이동시킨다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "국제원자재 가격 상승은 단기총공급을 감소시키는 충격이다.",
+    "A에서 B로 이동할 때 물가상승과 생산감소가 함께 나타난다.",
+    "요소가격 하락은 SRAS를 우측으로 이동시켜 A로 회복시키므로 C로 간다는 설명은 옳지 않다. 정답입니다.",
+    "이자율 인하나 정부지출 증가는 총수요를 늘려 C로 이동시킨다."
+   ]
+  },
+  {
+   "id": "civil2022-national-economics-gah-q19",
+   "paperId": "paper_civil_economics_2022_national_gah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/economics/2022/national-gah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n물가상승률은 (111.1-110)/110=1%이다. 실질금리는 명목금리 2%에서 물가상승률 1%를 뺀 1%이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "0.5%는 물가상승률을 1.5%로 본 값이다.",
+    "2%-1%=1.0%가 실질금리이다. 정답입니다.",
+    "1.5%는 CPI 증가분을 잘못 적용한 값이다.",
+    "2.0%는 명목금리로 실질금리가 아니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-economics-gah-q20",
+   "paperId": "paper_civil_economics_2022_national_gah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/economics/2022/national-gah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nA국의 대B국 무역흑자를 줄이려면 B국의 대A국 수입이 늘거나 A국의 대B국 수출이 줄어야 한다. A국이 수입선을 다변화해 B국으로부터의 수입을 줄이면 흑자가 오히려 확대된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "B국의 수입관세 인상은 A국 수출을 줄여 흑자를 축소한다.",
+    "A국의 수입관세 인하는 B국 수입을 늘려 흑자를 축소한다.",
+    "B국 수입을 줄이면 흑자가 커지므로 이 조치는 옳지 않다. 정답입니다.",
+    "대B국 수출을 줄이는 것은 흑자 축소에 해당한다."
+   ]
+  }
+ ]
+}

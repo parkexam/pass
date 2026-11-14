@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_economics_2025_national_nah",
+ "title": "2025 국가직 9급 경제학개론 나책형",
+ "year": 2025,
+ "source": "2025년도 국가공무원 9급 공개경쟁채용 필기시험 경제학개론 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_25",
+ "questions": [
+  {
+   "id": "civil2025-national-economics-nah-q01",
+   "paperId": "paper_civil_economics_2025_national_nah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/economics/2025/national-nah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n범위의 경제는 한 기업이 여러 제품을 함께 생산할 때 각 제품을 따로 생산할 때보다 비용이 적게 드는 특성이다. 규모의 경제는 한 제품의 생산량을 늘릴 때 단위비용이 낮아지는 특성이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "규모의 경제는 생산량 확대에 따른 단위비용 하락이다.",
+    "규모의 불경제는 생산량이 늘수록 단위비용이 높아지는 특성이다.",
+    "규모에 대한 수확 체증은 투입을 늘릴 때 산출이 더 크게 늘어나는 성질이다.",
+    "여러 제품을 함께 생산할 때 비용이 줄어드는 것은 범위의 경제이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-economics-nah-q02",
+   "paperId": "paper_civil_economics_2025_national_nah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/economics/2025/national-nah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nGDP는 일정 기간 국내에서 생산된 최종생산물의 가치 합계이므로 중간생산물은 포함하지 않는다. 국내 생산활동은 포함하고 자국민의 해외 생산은 제외한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "국내 거주 외국인의 국내 생산활동은 GDP에 포함된다.",
+    "GDP는 일정 기간을 기준으로 하는 유량변수이다.",
+    "자국민의 해외 생산활동은 GNP에 포함되고 GDP에서는 제외된다.",
+    "중간생산물은 최종생산물의 가액에 이미 포함되므로 따로 더하지 않는다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-economics-nah-q03",
+   "paperId": "paper_civil_economics_2025_national_nah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/economics/2025/national-nah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n탄력성이 2이고 수요량이 20% 늘었으므로 가격은 10% 하락해야 한다. 원래 가격 120에서 10%를 빼면 108이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "98은 가격하락률을 18%로 본 값이다.",
+    "120×(1-0.1)=108이다. 정답입니다.",
+    "118은 수요량 증가율을 반대로 적용한 값이다.",
+    "128은 가격이 상승한다고 본 값이다."
+   ]
+  },
+  {
+   "id": "civil2025-national-economics-nah-q04",
+   "paperId": "paper_civil_economics_2025_national_nah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/economics/2025/national-nah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n중앙은행이 국채를 매도하면 시중 통화가 회수되어 본원통화가 줄고, 자금 수요가 늘어 이자율은 상승한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "본원통화 감소와 이자율 상승이 옳다. 정답입니다.",
+    "본원통화가 줄면 이자율은 하락하지 않는다.",
+    "국채 매도는 본원통화를 증가시키지 않는다.",
+    "국채 매도로 본원통화가 늘고 이자율이 하락한다는 설명은 반대이다."
+   ]
+  },
+  {
+   "id": "civil2025-national-economics-nah-q05",
+   "paperId": "paper_civil_economics_2025_national_nah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/economics/2025/national-nah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n게임 D에서 갑은 을이 전략1을 택하면 전략1, 전략2를 택하면 전략2가 유리해 우월전략이 없으므로 우월전략균형이 존재하지 않는다. 다른 게임은 두 사람 모두 우월전략이 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "게임 A는 갑과 을 모두 전략1이 우월전략이다.",
+    "게임 B는 두 사람 모두 전략2가 우월전략이다.",
+    "게임 C는 갑이 전략2, 을이 전략1을 택하는 우월전략균형이 있다.",
+    "게임 D는 갑에게 우월전략이 없어 우월전략균형이 존재하지 않는다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-economics-nah-q06",
+   "paperId": "paper_civil_economics_2025_national_nah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/economics/2025/national-nah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n정부지출 확대는 IS를 우측으로 이동시켜 이자율과 소득을 높인다. 총수요가 늘면 단기 총공급곡선이 우상향이므로 물가와 총생산이 함께 상승한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "이자율 상승, 물가 상승, 총생산 증가가 단기 효과이다. 정답입니다.",
+    "물가 수준은 하락하지 않고 오히려 상승한다.",
+    "총생산은 감소하지 않는다.",
+    "이자율은 하락하지 않는다."
+   ]
+  },
+  {
+   "id": "civil2025-national-economics-nah-q07",
+   "paperId": "paper_civil_economics_2025_national_nah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/economics/2025/national-nah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n재화시장 균형은 Y=50+0.5(Y-50)+50-5r+50에서 Y=250-10r이고, 화폐시장 균형은 100=Y-10r에서 Y=100+10r이다. 두 식을 연립하면 250-10r=100+10r에서 r=7.5, Y=175이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "150은 두 시장을 함께 고려하지 않은 값이다.",
+    "연립 결과 소득은 175이다. 정답입니다.",
+    "200은 재화시장만으로 구한 값이다.",
+    "250은 이자율이 0일 때의 소득이다."
+   ]
+  },
+  {
+   "id": "civil2025-national-economics-nah-q08",
+   "paperId": "paper_civil_economics_2025_national_nah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/economics/2025/national-nah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n효용극대화 조건은 MRS=2y/x가 가격비 200/300=2/3와 같아지는 것으로, x=3y이다. 예산 200x+300y=9,000에 대입하면 900y=9,000에서 y=10, x=30이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "전자책 30권이 최적 소비량이다. 정답입니다.",
+    "총 40권의 책을 구매하게 된다.",
+    "전자책이 종이책의 3배이다.",
+    "종이책도 10권 구매한다."
+   ]
+  },
+  {
+   "id": "civil2025-national-economics-nah-q09",
+   "paperId": "paper_civil_economics_2025_national_nah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/economics/2025/national-nah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n효율성임금이론은 시장균형 임금보다 높은 임금을 지급하면 이직이 줄고 생산성이 높아지지만, 그 결과 노동수요가 줄어 실업이 늘어난다고 본다. 따라서 실업을 감소시키는 방안이라는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "실업은 마찰적·구조적·경기적 실업으로 구분된다.",
+    "완전고용 상태에서도 마찰적 실업은 존재한다.",
+    "구직단념자가 구직활동을 시작하면 경제활동인구가 늘어 실업률이 상승한다.",
+    "효율성임금은 실업을 늘리는 요인으로 설명된다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-economics-nah-q10",
+   "paperId": "paper_civil_economics_2025_national_nah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/economics/2025/national-nah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공공재의 사회적 한계편익은 각 주민 수요의 수직합이다. 60명의 수요와 40명의 수요를 합하면 170-17Q이므로 170-17Q=34에서 Q=8이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "Q=0은 한계편익이 한계비용보다 훨씬 큰 상태이다.",
+    "Q=4에서는 사회적 한계편익이 한계비용보다 크다.",
+    "170-17Q=34에서 최적 공급량은 8이다. 정답입니다.",
+    "Q=12에서는 사회적 한계편익이 한계비용보다 작다."
+   ]
+  },
+  {
+   "id": "civil2025-national-economics-nah-q11",
+   "paperId": "paper_civil_economics_2025_national_nah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/economics/2025/national-nah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n테일러준칙은 명목금리나 통화정책을 인플레이션과 생산격차에 따라 설정하는 통화정책 준거식이다. 따라서 재정정책의 준거식이라는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "이력현상은 불황기의 적극적 정책개입 근거가 된다.",
+    "테일러준칙은 통화정책의 준거식이므로 이 설명은 옳지 않다. 정답입니다.",
+    "통화공급 증가율과 인플레이션율은 장기적으로 양의 상관관계를 갖는다.",
+    "물가안정목표제의 인플레이션 목표는 양의 값을 갖는다."
+   ]
+  },
+  {
+   "id": "civil2025-national-economics-nah-q12",
+   "paperId": "paper_civil_economics_2025_national_nah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/economics/2025/national-nah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n세금이 없을 때 균형은 80-P=0.5P-10에서 P=60, Q=20이다. 세금 3을 공급자에게 부과하면 공급곡선이 0.5(P-3)-10으로 이동해 균형가격은 61, 거래량은 19가 되고, 세수는 57, 후생손실은 0.5×3×1=1.5이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "세수는 3×19=57이다.",
+    "후생손실은 0.5×3×(20-19)=1.5이다.",
+    "세금 후 균형가격 61, 거래량 19는 계산과 일치한다.",
+    "가격은 1만 오르고 공급자는 2를 부담하므로 소비자 부담이 더 크다는 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-economics-nah-q13",
+   "paperId": "paper_civil_economics_2025_national_nah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/economics/2025/national-nah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n소규모 개방경제에서 관세를 인하하면 국내가격이 하락해 소비자잉여가 늘어난다. 가격하한제나 관세 인상은 가격을 높이고, 국내 생산품에 세금을 매기면 국내가격이 오른다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "가격하한제는 가격을 높여 소비자잉여를 줄인다.",
+    "관세 인하는 국내가격을 낮춰 소비자잉여를 늘린다. 정답입니다.",
+    "국내 생산품에 세금을 매기면 국내가격이 올라 소비자잉여가 줄어든다.",
+    "관세 인상은 가격을 높여 소비자잉여를 줄인다."
+   ]
+  },
+  {
+   "id": "civil2025-national-economics-nah-q14",
+   "paperId": "paper_civil_economics_2025_national_nah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/economics/2025/national-nah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n영구채의 만기수익률은 연간 이자를 채권가격으로 나눈 값이다. 10만 원을 100만 원으로 나누면 10%이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "5%는 이자를 두 배로 본 값이다.",
+    "10만/100만=10%가 만기수익률이다. 정답입니다.",
+    "15%는 계산 결과와 다르다.",
+    "20%는 계산 결과와 다르다."
+   ]
+  },
+  {
+   "id": "civil2025-national-economics-nah-q15",
+   "paperId": "paper_civil_economics_2025_national_nah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/economics/2025/national-nah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n균제상태 조건은 s√k=(δ+n+g)k이다. k=100에서 √k=10이고 (0.01+0.04)×100=5이므로 저장이 5가 되어야 한다. y=10에서 s×10=5이므로 저축률은 50%이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "10%로는 균제상태의 저축이 1에 그친다.",
+    "30%로는 저축이 3으로 부족하다.",
+    "s×10=5에서 저축률은 50%이다. 정답입니다.",
+    "70%는 저축이 7로 과다하다."
+   ]
+  },
+  {
+   "id": "civil2025-national-economics-nah-q16",
+   "paperId": "paper_civil_economics_2025_national_nah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/economics/2025/national-nah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n무위험이자율평가설에 따르면 선물환율은 현물환율에 양국 금리차를 반영한 값이다. (1.10/1.05)×1,000원/달러≈1,047원이므로 가장 가까운 값은 1,050원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "950원은 금리차를 반대로 적용한 값이다.",
+    "1,000원은 금리차를 반영하지 않은 값이다.",
+    "1,000×(1.10/1.05)≈1,047원으로 1,050원에 가깝다. 정답입니다.",
+    "1,100원은 미국 금리를 반영하지 않은 값이다."
+   ]
+  },
+  {
+   "id": "civil2025-national-economics-nah-q17",
+   "paperId": "paper_civil_economics_2025_national_nah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/economics/2025/national-nah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n2025년 명목GDP는 10×10+100×5=600이고, 2020년 가격으로 계산한 실질GDP는 10×10+100×4=500이다. GDP디플레이터는 600/500×100=120이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "80은 생산량과 가격을 뒤바꾼 값이다.",
+    "100은 기준연도의 디플레이터이다.",
+    "110은 2020년 생산량을 기준으로 계산한 값이다.",
+    "600/500×100=120이 2025년 GDP디플레이터이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-economics-nah-q18",
+   "paperId": "paper_civil_economics_2025_national_nah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/economics/2025/national-nah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n생산함수가 완전 대체재 형태이므로 두 요소 중 단위당 비용이 낮은 자본만 사용한다. K=2Q이므로 총비용은 2Q이고 한계비용은 2이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "0.5는 생산함수의 계수로 한계비용이 아니다.",
+    "1은 자본의 가격으로 한계비용이 아니다.",
+    "1.5는 두 요소 가격을 평균한 값이다.",
+    "자본만 사용할 때 총비용 2Q에서 한계비용은 2이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-economics-nah-q19",
+   "paperId": "paper_civil_economics_2025_national_nah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/economics/2025/national-nah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n각 시장에서 MR=MC 조건을 적용하면 A시장은 100-4Q=20에서 Q=20, P=60이고 B시장은 50-2Q=20에서 Q=15, P=35이다. 두 시장의 가격 차이는 25이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "15는 B시장 가격과 같은 값이다.",
+    "20은 한계비용과 같은 값이다.",
+    "60-35=25가 두 시장의 가격 차이이다. 정답입니다.",
+    "30은 A시장 가격에서 30을 뺀 값이다."
+   ]
+  },
+  {
+   "id": "civil2025-national-economics-nah-q20",
+   "paperId": "paper_civil_economics_2025_national_nah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/economics/2025/national-nah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n한계수입이 10으로 일정하므로 한계비용이 10보다 작은 3개까지 생산하는 것이 이윤을 극대화한다. 4개째는 한계비용 12가 한계수입 10보다 커 이윤이 줄어든다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "4개 생산 시 총수입 40, 총비용 32로 이윤은 8의 흑자이다.",
+    "평균비용은 생산량이 늘면서 반드시 감소하지 않는다.",
+    "3개까지 한계수입이 한계비용보다 커 3개에서 이윤이 극대화된다. 정답입니다.",
+    "한계수입이 일정해 평균수입도 일정하다."
+   ]
+  }
+ ]
+}

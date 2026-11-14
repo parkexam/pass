@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_public_health_2026_local_D",
+ "title": "2026 지방직 9급 공중보건 D책형",
+ "year": 2026,
+ "source": "2026년도 지방공무원 9급 공개경쟁임용 필기시험 공중보건 D책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_22",
+ "questions": [
+  {
+   "id": "civil2026-local-public_health-D-q01",
+   "paperId": "paper_civil_public_health_2026_local_D",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/public_health/2026/local-D/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국민건강증진종합계획의 건강생활실천 분야 중점과제는 금연, 절주, 영양, 신체활동이다. 수면은 이 분야의 중점과제로 제시되어 있지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "금연은 건강생활실천 분야의 중점과제이다.",
+    "절주는 건강생활실천 분야의 중점과제이다.",
+    "영양은 건강생활실천 분야의 중점과제이다.",
+    "수면은 건강생활실천 분야의 중점과제에 포함되지 않는다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-local-public_health-D-q02",
+   "paperId": "paper_civil_public_health_2026_local_D",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/public_health/2026/local-D/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n환자-대조군 연구는 질병군과 대조군을 비교해 과거 노출을 조사하므로 희귀질병 연구가 가능하고 여러 가설을 동시에 검증할 수 있다. 회상편향 때문에 과거 노출 정보의 정확성이 떨어지고 시간적 선후관계도 분명하지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "여러 가설을 동시에 검증할 수 있다는 점은 환자-대조군 연구의 장점이다.",
+    "과거 노출 정보는 회상편향으로 정확성이 떨어지는 것이 단점이다. 정답입니다.",
+    "희귀질병은 발생 수가 적어도 질병군을 모을 수 있어 연구가 가능하다.",
+    "노출과 질병의 시간적 선후관계는 코호트 연구에서 명확하다."
+   ]
+  },
+  {
+   "id": "civil2026-local-public_health-D-q03",
+   "paperId": "paper_civil_public_health_2026_local_D",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/public_health/2026/local-D/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n민감도는 실제 감염자 중 검사에서 양성으로 나오는 비율이다. 민감도 90 %는 감염자 100명 중 90명을 양성으로 정확히 판정한다는 뜻이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "감염자 중 90 %를 양성으로 정확하게 판정한다는 것이 민감도 90 %의 의미이다. 정답입니다.",
+    "감염자를 음성으로 잘못 판정하는 것은 위음성이며 민감도와 반대 개념이다.",
+    "비감염자 중 음성으로 정확히 판정하는 비율은 특이도이다.",
+    "비감염자 중 양성으로 잘못 판정하는 것은 위양성이며 특이도와 관련된다."
+   ]
+  },
+  {
+   "id": "civil2026-local-public_health-D-q04",
+   "paperId": "paper_civil_public_health_2026_local_D",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/public_health/2026/local-D/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n로위의 정책유형에서 소득 재분배를 목적으로 고소득자에게 더 많은 부담을 지우는 정책은 재분배정책이다. 배분정책은 특정 집단에 이익을 주는 정책, 규제정책은 행위를 제한하는 정책이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "배분정책은 특정 집단에 재화·서비스를 배분하는 정책이다.",
+    "규제정책은 일정한 행위를 제한·금지하는 정책이다.",
+    "구성정책은 정부 조직·인력을 구성하는 정책이다.",
+    "소득에 따라 보험료를 차등 부과하는 것은 재분배정책이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-local-public_health-D-q05",
+   "paperId": "paper_civil_public_health_2026_local_D",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/public_health/2026/local-D/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n생산연령인구가 많이 유입되는 도시 지역은 청장년층이 가운데가 넓은 별형 인구구조를 보인다. 종형은 인구정지형, 표주박형은 유소년·청장년이 모두 줄고 노년만 남은 구조이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "종형은 출생률·사망률이 낮아 인구가 정지된 구조이다.",
+    "생산연령인구 유입이 많은 지역은 별형 구조를 보인다. 정답입니다.",
+    "표주박형은 청장년층이 유출되어 노년층 비중이 큰 구조이다.",
+    "피라미드형은 출생률과 사망률이 모두 높은 전통적 구조이다."
+   ]
+  },
+  {
+   "id": "civil2026-local-public_health-D-q06",
+   "paperId": "paper_civil_public_health_2026_local_D",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/public_health/2026/local-D/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n하인리히 법칙은 중상 1건이 발생할 때 경상 29건, 무상해 사고 300건이 함께 발생한다는 것이다. 1 : 29 : 300에서 300은 무상해 사고를 뜻한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "사망 사고는 이 법칙의 비율 항목으로 제시되지 않는다.",
+    "29가 중상 사고에 해당한다.",
+    "경상 사고는 29건으로 설명된다.",
+    "300은 무상해 사고(아차사고)를 의미한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-local-public_health-D-q07",
+   "paperId": "paper_civil_public_health_2026_local_D",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/public_health/2026/local-D/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n정신건강증진사업은 정신건강 교육·상담, 정신질환의 예방·치료, 재활과 사회복귀 지원 등을 포함한다. 정신질환자의 격리는 사업 내용이 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "정신건강 관련 교육·상담은 정신건강증진사업에 해당한다.",
+    "정신질환의 예방·치료는 정신건강증진사업에 해당한다.",
+    "정신질환자의 재활은 정신건강증진사업에 해당한다.",
+    "정신질환자의 격리는 정신건강증진사업에 포함되지 않는다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-local-public_health-D-q08",
+   "paperId": "paper_civil_public_health_2026_local_D",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/public_health/2026/local-D/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n방부제 첨가법은 화학물질로 미생물 증식을 억제하는 화학적 보존법이다. 가열법·냉동법·자외선 이용법은 물리적 보존법이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "가열법은 열을 이용하는 물리적 보존법이다.",
+    "냉동법은 온도를 낮추는 물리적 보존법이다.",
+    "자외선 이용법은 물리적 에너지를 이용하는 보존법이다.",
+    "방부제 첨가법은 화학물질을 쓰는 화학적 보존법이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-local-public_health-D-q09",
+   "paperId": "paper_civil_public_health_2026_local_D",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/public_health/2026/local-D/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n24시간 이내에 신고해야 하고 격리가 필요한 감염병은 제2급 감염병이다. 세균성 이질은 제2급 감염병이고, 말라리아·발진티푸스는 제3급, 신종인플루엔자는 제1급이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "말라리아는 제3급 감염병으로 24시간 이내 신고 대상이 아니다.",
+    "발진티푸스는 제3급 감염병이다.",
+    "세균성 이질은 24시간 내 신고·격리가 필요한 제2급 감염병이다. 정답입니다.",
+    "신종인플루엔자는 제1급 감염병이다."
+   ]
+  },
+  {
+   "id": "civil2026-local-public_health-D-q10",
+   "paperId": "paper_civil_public_health_2026_local_D",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/public_health/2026/local-D/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n동물과 사람 간에 서로 전파되는 인수공통감염병으로 질병관리청장이 고시하는 감염병에는 탄저, 일본뇌염, 장출혈성대장균감염증, 브루셀라증, 큐열 등이 있다. 수족구병은 인수공통감염병이 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "탄저는 인수공통감염병이다.",
+    "수족구병은 사람 사이에서 전파되는 감염병으로 인수공통감염병이 아니다. 정답입니다.",
+    "일본뇌염은 모기 매개로 사람과 동물에 전파되는 인수공통감염병이다.",
+    "장출혈성대장균감염증은 인수공통감염병이다."
+   ]
+  },
+  {
+   "id": "civil2026-local-public_health-D-q11",
+   "paperId": "paper_civil_public_health_2026_local_D",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/public_health/2026/local-D/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지역보건법상 시·도지사와 시장·군수·구청장은 4년마다 지역보건의료계획을 수립해야 한다. 질병관리청장·보건복지부장관은 중앙정부 기관으로 수립 주체가 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "질병관리청장은 지역보건의료계획 수립 주체가 아니다.",
+    "행정안전부장관은 지역보건의료계획 수립 주체가 아니다.",
+    "보건복지부장관은 지역보건의료계획 수립 주체가 아니다.",
+    "시장·군수·구청장은 4년마다 지역보건의료계획을 수립해야 한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-local-public_health-D-q12",
+   "paperId": "paper_civil_public_health_2026_local_D",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/public_health/2026/local-D/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n의료법상 진료기록부를 거짓으로 작성한 경우는 3년 이하의 징역이나 3천만원 이하의 벌금에 처해 가장 무겁다. 거짓 의료광고와 정당한 사유 없는 진료 거부는 1년 이하 징역 또는 1천만원 이하 벌금, 간호기록부 미기록은 500만원 이하 벌금이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "진료기록부 거짓 작성은 3년 이하 징역 또는 3천만원 이하 벌금으로 가장 무겁다. 정답입니다.",
+    "거짓 의료광고는 1년 이하 징역 또는 1천만원 이하 벌금에 해당한다.",
+    "정당한 사유 없는 진료 거부는 1년 이하 징역 또는 1천만원 이하 벌금이다.",
+    "간호기록부 미기록은 500만원 이하 벌금에 해당한다."
+   ]
+  },
+  {
+   "id": "civil2026-local-public_health-D-q13",
+   "paperId": "paper_civil_public_health_2026_local_D",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/public_health/2026/local-D/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국민건강증진법상 소유자·점유자·관리자가 금연구역으로 지정해야 하는 시설에는 학교, 관광숙박업소, 지하도 상점가 등이 있다. 공동주택 엘리베이터는 지방자치단체장이 조례로 금연구역 지정을 검토하는 시설이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "초·중등교육법상 학교는 소유자 등이 지정하는 금연구역 시설이다.",
+    "관광진흥법상 관광숙박업소도 금연구역 지정 대상 시설이다.",
+    "공동주택 엘리베이터는 소유자 등이 지정하는 시설로 규정되어 있지 않다. 정답입니다.",
+    "유통산업발전법상 지하도 상점가는 금연구역 지정 대상 시설이다."
+   ]
+  },
+  {
+   "id": "civil2026-local-public_health-D-q14",
+   "paperId": "paper_civil_public_health_2026_local_D",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/public_health/2026/local-D/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n서치만의 평가방법 중 대상 집단이 요구하는 목표량 대비 실제 사업 실적량을 비교해 수요 충족 정도를 보는 것은 적정성 평가이다. 업무량 평가는 투입 노력, 성과 평가는 목표 달성도, 효율성 평가는 비용 대비 효과를 본다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "업무량 평가는 사업에 투입된 활동량을 평가한다.",
+    "성과 평가는 목표 대비 달성 정도를 평가한다.",
+    "수요 대비 실적량으로 충족도를 보는 것은 적정성 평가이다. 정답입니다.",
+    "효율성 평가는 투입 자원 대비 산출의 비율을 평가한다."
+   ]
+  },
+  {
+   "id": "civil2026-local-public_health-D-q15",
+   "paperId": "paper_civil_public_health_2026_local_D",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/public_health/2026/local-D/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국민건강보험공단은 건강보험·국민연금·고용보험·산재보험의 4대 사회보험료를 통합해 징수하는 기관이다. 국민연금공단은 연금 급여 사업을 담당한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "국민연금공단은 연금 사업을 담당하며 통합징수 기관이 아니다.",
+    "한국산업인력공단은 직업능력개발 사업을 담당한다.",
+    "4대 사회보험료 통합징수는 국민건강보험공단이 수행한다. 정답입니다.",
+    "한국보훈복지의료공단은 보훈 대상자 의료·복지를 담당한다."
+   ]
+  },
+  {
+   "id": "civil2026-local-public_health-D-q16",
+   "paperId": "paper_civil_public_health_2026_local_D",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/public_health/2026/local-D/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n연간 근로시간은 1,000명 × 10시간 × 300일 = 300만 시간이다. 도수율 = 재해건수 ÷ 연근로시간 × 1,000,000이므로 재해건수 = 10 × 300만 ÷ 100만 = 30건이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "계산 결과 재해건수는 30건이다. 정답입니다.",
+    "33건은 근로시간을 잘못 계산한 값이다.",
+    "300건은 계산식의 배수를 잘못 적용한 값이다.",
+    "330건은 근로자 수와 근로시간을 혼동한 값이다."
+   ]
+  },
+  {
+   "id": "civil2026-local-public_health-D-q17",
+   "paperId": "paper_civil_public_health_2026_local_D",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/public_health/2026/local-D/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n레이노 현상은 말초혈관 순환장애로 손가락에 감각마비·청색증·통증이 나타난다. 증상 완화를 위해서는 온찜질과 금연이 필요하므로 냉찜질이 좋다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "레이노 현상에는 온찜질이 도움이 되므로 냉찜질을 해야 한다는 설명은 옳지 않다. 정답입니다.",
+    "자동톱·공기해머 등 진동공구 사용이 원인이 될 수 있다.",
+    "손가락의 감각마비·청색증·통증이 대표 증상이다.",
+    "말초혈관 혈액순환 저하와 관련이 있다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-local-public_health-D-q18",
+   "paperId": "paper_civil_public_health_2026_local_D",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/public_health/2026/local-D/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n주요 감염원이 환자 분변·오염된 굴 등 패류이고 잠복기가 1~2일이며 예방백신이 없어 85도에서 1분 이상 가열해야 하는 식중독은 노로바이러스 식중독이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "로타바이러스는 영유아 장염의 주요 원인으로 잠복기가 더 길다.",
+    "분변·패류 감염, 잠복기 1~2일, 백신 없음은 노로바이러스 식중독의 특징이다. 정답입니다.",
+    "아데노바이러스는 호흡기·눈 감염을 주로 일으킨다.",
+    "A형간염바이러스는 잠복기가 15~50일로 길다."
+   ]
+  },
+  {
+   "id": "civil2026-local-public_health-D-q19",
+   "paperId": "paper_civil_public_health_2026_local_D",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/public_health/2026/local-D/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n먹는물 수질기준 및 검사 등에 관한 규칙상 정수장의 대장균·분원성 대장균군 검사는 주 1회 이상 실시한다. 매일 1회 이상이라는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "대장균 지수가 낮을수록 물이 깨끗하다는 설명은 옳다.",
+    "대장균군 검출은 분변 등에 의한 오염을 시사한다.",
+    "수돗물은 100 mL에서 대장균·분원성 대장균군이 검출되면 안 된다.",
+    "정수장 대장균 검사 주기는 주 1회 이상이므로 매일 1회라는 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-local-public_health-D-q20",
+   "paperId": "paper_civil_public_health_2026_local_D",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/public_health/2026/local-D/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n오존 주의보는 대기 중 오존 농도가 1시간 평균 0.12 ppm 이상일 때 발령한다. 경보는 0.3 ppm, 중대경보는 0.5 ppm 이상이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "0.02 ppm은 주의보 발령 기준보다 낮다.",
+    "0.1 ppm은 주의보 발령 기준에 미치지 않는다.",
+    "오존 주의보 발령 기준은 0.12 ppm이다. 정답입니다.",
+    "0.3 ppm은 경보 발령 기준이다."
+   ]
+  }
+ ]
+}

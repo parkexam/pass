@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_criminal_law_general_2024_national_gah",
+ "title": "2024 국가직 9급 형법총론 가책형",
+ "year": 2024,
+ "source": "2024년도 국가공무원 9급 공개경쟁채용 필기시험 형법총론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_27",
+ "questions": [
+  {
+   "id": "civil2024-national-criminal_law_general-gah-q01",
+   "paperId": "paper_civil_criminal_law_general_2024_national_gah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2024/national-gah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n업무상 배임죄는 경영상 판단이라고 하더라도 고의와 손해 발생, 임무위반의 인식이 필요하며, 단순히 본인에게 손해가 발생했다는 결과만으로는 성립하지 않는다. 따라서 이 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "명예훼손죄의 공연성에는 미필적 고의로 충분하다.",
+    "준강간의 고의는 심신상실·항거불능 상태의 인식과 이용 의사, 위험의 용인을 말한다.",
+    "경영상 판단에서도 고의와 임무위반 인식이 필요하므로 손해만으로 배임죄가 성립하지 않는다. 정답입니다.",
+    "방조범에는 방조의 고의와 정범의 고의가 필요하다."
+   ]
+  },
+  {
+   "id": "civil2024-national-criminal_law_general-gah-q02",
+   "paperId": "paper_civil_criminal_law_general_2024_national_gah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2024/national-gah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n부진정 부작위범의 작위의무는 법적 의무이면 충분하고, 사회상규나 조리상 작위의무가 기대되는 경우에도 인정된다. 인정되지 않는다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "부진정 부작위범은 작위를 내용으로 하는 범죄를 부작위로 실현하는 경우이다.",
+    "사회상규·조리상 작위의무도 법적 의무로 인정되므로 이 설명은 옳지 않다. 정답입니다.",
+    "부작위범 사이의 공동정범은 공통된 의무를 공통으로 이행할 수 있을 때 성립한다.",
+    "자기 행위로 위험을 야기한 자도 방지하지 않으면 결과 책임을 진다."
+   ]
+  },
+  {
+   "id": "civil2024-national-criminal_law_general-gah-q03",
+   "paperId": "paper_civil_criminal_law_general_2024_national_gah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2024/national-gah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n판례는 회사의 이익을 빼돌린다는 소문을 확인하려는 목적에서 이루어진 이 사안의 행위를 사회상규에 위배되지 않는 것으로 보았다. 따라서 허용될 수 없다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "정당행위의 긴급성·보충성은 수단의 상당성 판단 요소이다.",
+    "삼보일배 행진은 사회상규에 위반되지 않는다.",
+    "이 사안에서 판례는 위법성을 조각하였다고 보았다. 정답입니다.",
+    "위법성조각은 행위가 적극 권장된다는 의미가 아니라는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2024-national-criminal_law_general-gah-q04",
+   "paperId": "paper_civil_criminal_law_general_2024_national_gah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2024/national-gah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n광역시의회 의원이 선거관리위원회 공무원의 자문을 받아 지적대로 수정해 의정보고서를 배부하였다면 법령에 위반된다고 오인함에 정당한 이유가 인정된다. 나머지 사례는 정당한 이유가 부정된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "법률의 부지는 법률의 착오에 해당하지 않는다.",
+    "관례상 있는 일이라는 믿음만으로는 정당한 이유가 인정되지 않는다.",
+    "조례를 잘못 해석한 것만으로는 정당한 이유가 인정되지 않는다.",
+    "선관위 공무원의 자문에 따라 수정한 경우 정당한 이유가 인정된다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-criminal_law_general-gah-q05",
+   "paperId": "paper_civil_criminal_law_general_2024_national_gah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2024/national-gah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n야간에 폐쇄된 화랑의 문을 뜯고 물건을 가져간 행위는 법정 절차에 의한 권리 보전이 가능한 상황에서 이루어진 것으로 자구행위가 아니다. 자구행위에 해당한다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "자구행위는 법정 절차로 청구권을 보전할 수 없을 때 인정된다.",
+    "관리인이 있는 건조물의 자물쇠를 끊고 침입한 행위는 자구행위가 아니다.",
+    "불특정 다수인의 통행 우려만으로는 자구행위 요건이 충족되지 않는다.",
+    "야간에 문을 뜯고 물건을 가져간 행위는 자구행위가 아니다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-criminal_law_general-gah-q06",
+   "paperId": "paper_civil_criminal_law_general_2024_national_gah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2024/national-gah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n비의료인의 주도적 자금 출연이나 관여만으로 의료기관 개설·운영을 인정해 처벌하는 것은 처벌 범위를 확장해 죄형법정주의에 반한다. 죄형법정주의에 반하지 않는다는 설명이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "주도적 자금 출연만으로 개설·운영을 인정하면 죄형법정주의에 반한다. 정답입니다.",
+    "위임법령 변경 시 반성적 고려와 무관하게 제1조 제2항이 적용된다.",
+    "가정폭력 사회봉사명령에도 형벌불소급 원칙이 적용된다는 판례이다.",
+    "장기·단기 중 하나만 감경하는 방식은 허용되지 않는다."
+   ]
+  },
+  {
+   "id": "civil2024-national-criminal_law_general-gah-q07",
+   "paperId": "paper_civil_criminal_law_general_2024_national_gah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2024/national-gah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n실화죄는 과실범이어서 미수의 관념이 없다. 공동의 과실이 경합하고 원인이 밝혀지지 않았다면 실화죄로 처벌할 수 없으며, 미수로 불가벌이라는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "방조범 성립에는 방조와 범죄 실현 사이의 인과관계가 필요하다.",
+    "실화죄에는 미수가 없으므로 미수로 불가벌이라는 설명은 옳지 않다. 정답입니다.",
+    "실행 착수 전의 방조도 인과관계가 인정될 수 있다.",
+    "전화로 만류하는 말만으로 교사관계가 단절되지 않는다."
+   ]
+  },
+  {
+   "id": "civil2024-national-criminal_law_general-gah-q08",
+   "paperId": "paper_civil_criminal_law_general_2024_national_gah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2024/national-gah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n소극적 구성요건표지이론은 전제사실의 착오가 있으면 고의가 조각된다고 보지만, 제한책임설은 고의는 조각되지 않고 책임만 문제된다고 본다. 두 견해를 같다고 한 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "고의설은 위법성 인식을 고의 요소로 보고 책임설은 책임 요소로 본다.",
+    "제한고의설은 인식 가능성으로, 엄격고의설은 현실적 인식으로 고의를 인정한다.",
+    "엄격책임설과 제한책임설의 차이에 관한 설명은 옳다.",
+    "제한책임설은 고의를 조각하지 않으므로 두 견해가 같다는 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-criminal_law_general-gah-q09",
+   "paperId": "paper_civil_criminal_law_general_2024_national_gah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2024/national-gah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n강도가 강취 미수 후 항거불능 상태의 피해자를 간음하려다 미수에 그치고 폭행으로 상해를 입힌 경우, 강도강간미수죄와 강도치상죄가 성립하고 두 죄는 상상적 경합이 된다. 다른 설명은 판례와 다르다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "발각을 두려워하여 차용을 포기한 것은 자의적 중지가 아니어서 중지미수가 아니다.",
+    "심신상실 상태가 아니었다면 객체의 착오로 불능미수이다.",
+    "강도강간미수죄와 강도치상죄가 상상적 경합이 된다는 설명이 판례와 맞다. 정답입니다.",
+    "소장 송달이 되지 않아도 소송사기의 실행의 착수가 인정될 수 있다."
+   ]
+  },
+  {
+   "id": "civil2024-national-criminal_law_general-gah-q10",
+   "paperId": "paper_civil_criminal_law_general_2024_national_gah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2024/national-gah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n쟁의행위 중 대체 채용된 자의 행위에는 형법총칙의 공범규정을 적용할 수 없다. 적용할 수 있다는 설명은 판례와 다르다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "공무상 비밀을 누설받은 자에게 공범규정을 적용할 수 없다.",
+    "대향범은 공동의 구성요건을 실현하는 공범관계와 본질적으로 다르다.",
+    "정치자금 부정수수는 기부자 처벌 여부와 무관하게 성립할 수 있다.",
+    "대체 채용된 자의 행위에는 공범규정이 적용되지 않는다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-criminal_law_general-gah-q11",
+   "paperId": "paper_civil_criminal_law_general_2024_national_gah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2024/national-gah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n합동절도에서 현장에 없는 자도 기능적 행위지배가 인정되면 합동범의 공동정범이 될 수 있다. 기능적 지배를 불문하고 성립할 수 없다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "비공무원도 공무원과 기능적 행위지배가 있으면 뇌물수수죄 공동정범이 된다.",
+    "현장에 없는 자도 기능적 지배가 있으면 합동범 공동정범이 될 수 있다. 정답입니다.",
+    "공모관계 이탈의 표시는 묵시적으로도 가능하다.",
+    "공모공동정범에는 기능적 행위지배가 필요하다."
+   ]
+  },
+  {
+   "id": "civil2024-national-criminal_law_general-gah-q12",
+   "paperId": "paper_civil_criminal_law_general_2024_national_gah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2024/national-gah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국가정보원 직원이 단일하고 계속된 범의로 일정 기간 계속하여 저지른 직권남용행위는 상대방이 여럿이어도 포괄일죄가 성립할 수 있다. 다른 설명은 판례와 다르다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "단일·계속된 범의의 직권남용행위는 포괄일죄가 성립할 수 있다. 정답입니다.",
+    "변론기일을 달리한 허위진술은 선서 효력이 유지되어도 수개의 위증죄가 된다.",
+    "무면허운전을 반복한 경우 범의의 단일성이 없으면 포괄일죄가 아니다.",
+    "포괄일죄가 신·구법에 걸치면 원칙적으로 신법을 적용한다."
+   ]
+  },
+  {
+   "id": "civil2024-national-criminal_law_general-gah-q13",
+   "paperId": "paper_civil_criminal_law_general_2024_national_gah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2024/national-gah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n집행유예 기간 중에 범한 죄에 대하여 형을 선고할 때 이미 집행유예가 실효 또는 취소된 경우도 집행유예 결격사유에 해당한다. 나머지 설명은 조문과 맞지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "유예기간 중 금고 이상의 실형을 선고받아 확정되면 집행유예가 실효된다.",
+    "이미 실효·취소된 경우도 집행유예 결격사유에 해당한다. 정답입니다.",
+    "선고유예 시 보호관찰은 '명할 수 있다'이고 위반 시 형을 선고할 수 있다.",
+    "자격정지 이상의 전과가 발견되면 유예한 형을 선고하여야 한다."
+   ]
+  },
+  {
+   "id": "civil2024-national-criminal_law_general-gah-q14",
+   "paperId": "paper_civil_criminal_law_general_2024_national_gah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2024/national-gah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n한국인의 국외 도박은 속인주의로, 일본인의 국외 통화위조는 형법 제5조의 보호적용으로, 미국인이 국내에서 공모한 뒤 홍콩에서 매수한 마약범죄는 국내 공모를 근거로 형법이 적용된다. 영사관은 대한민국 영역이 아니어서 문서위조에 형법을 적용할 수 없다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "한국인의 국외 도박에는 속인주의로 형법이 적용된다.",
+    "ㄱ, ㄴ, ㄷ 모두 형법 적용이 가능하다. 정답입니다.",
+    "영사관에서의 위조는 국외범으로 형법 적용이 어렵다.",
+    "ㄱ이 빠져 있어 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2024-national-criminal_law_general-gah-q15",
+   "paperId": "paper_civil_criminal_law_general_2024_national_gah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2024/national-gah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n목적범에서 목적은 적극적 의욕이나 확정적 인식까지 요구하지 않고 미필적 인식으로도 충분하다. 확정적 인식이 필요하다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "고의와 목적 모두 행위자의 내부적·심리적 요소이다.",
+    "범죄에 이용할 목적은 초과주관적 위법요소로 구체적 내용까지 인식할 필요가 없다.",
+    "목적은 미필적 인식으로도 인정되므로 확정적 인식이 필요하다는 설명은 옳지 않다. 정답입니다.",
+    "목적범의 고의도 객관적 구성요건 요소를 인식대상으로 한다."
+   ]
+  },
+  {
+   "id": "civil2024-national-criminal_law_general-gah-q16",
+   "paperId": "paper_civil_criminal_law_general_2024_national_gah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2024/national-gah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n하자 있는 보험계약이라도 보험사고의 구체적 발생 가능성을 예견할 만한 사정을 인식하였다면 기망행위의 실행의 착수가 인정된다. 초인종 누르기, 필름 제조, 강제추행 사안에 관한 다른 설명은 판례와 다르다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "초인종을 누른 행위만으로는 주거침입의 실행의 착수가 인정되지 않는다.",
+    "필름 제조 단계에서는 공문서위조의 실행의 착수가 인정되지 않는다.",
+    "보험계약 체결행위가 사기죄의 실행의 착수가 될 수 있다는 설명이 옳다. 정답입니다.",
+    "껴안으려다 되돌아간 경우에도 강제추행의 실행의 착수가 인정될 수 있다."
+   ]
+  },
+  {
+   "id": "civil2024-national-criminal_law_general-gah-q17",
+   "paperId": "paper_civil_criminal_law_general_2024_national_gah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2024/national-gah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n불능미수의 위험성은 행위자가 인식한 사정과 일반인이 인식할 수 있었던 사정을 기초로 결과 발생 가능성이 있는지 판단한다. 소송사기 불능미수, '어떠한 경우에도 불가능'의 의미, 독물 토출 사안에 관한 다른 설명은 판례와 다르다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "불능미수의 위험성 판단 기준에 관한 설명이 옳다.",
+    "사망자를 상대로 한 소송은 사기죄의 불능미수로 보지 않는다.",
+    "'불가능'은 행위자가 인식한 사정 아래에서 결과 발생이 불가능한 경우를 뜻한다. 정답입니다.",
+    "독물을 토해낸 경우에도 살인미수가 성립할 수 있다."
+   ]
+  },
+  {
+   "id": "civil2024-national-criminal_law_general-gah-q18",
+   "paperId": "paper_civil_criminal_law_general_2024_national_gah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2024/national-gah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공무원이 아닌 자가 공문서 작성권한자의 직무를 보좌하는 자와 공모해 허위 공문서를 작성하게 한 경우, 보좌자뿐 아니라 공모한 자도 간접정범의 공범 책임을 진다. 甲에게 책임을 물을 수 없다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "협박으로 자상하게 해 상해가 발생하면 상해죄가 성립한다.",
+    "간접정범에 타인의 의사 억압이 반드시 필요한 것은 아니다.",
+    "목적범·신분범에서 목적이나 신분이 없는 자도 제34조의 대상이 된다.",
+    "공모한 甲에게도 간접정범의 공범 책임을 물을 수 있다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-criminal_law_general-gah-q19",
+   "paperId": "paper_civil_criminal_law_general_2024_national_gah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2024/national-gah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n유추적용제한책임설에 따르면 위법성조각사유의 전제사실에 관한 착오에 구성요건적 착오 규정을 유추적용해 상해의 고의가 조각된다. 다른 견해의 결론에 관한 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "유추적용제한책임설에 따르면 상해의 고의가 조각된다는 설명이 옳다. 정답입니다.",
+    "엄격책임설에서 정당한 이유가 없으면 과실치상죄 책임을 진다.",
+    "법효과제한책임설은 고의를 유지한 채 책임만 조각한다.",
+    "소극적 구성요건표지이론은 제16조가 아니라 고의 조각으로 처리한다."
+   ]
+  },
+  {
+   "id": "civil2024-national-criminal_law_general-gah-q20",
+   "paperId": "paper_civil_criminal_law_general_2024_national_gah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/criminal_law_general/2024/national-gah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n링크 행위자가 침해를 인식하면서 영리적·계속적으로 게시하면 방조범이 성립하고(ㄴ), 선거범죄와 다른 죄를 분리 선고하도록 한 규정 때문에 형법 제39조 제1항의 형평 고려가 배제된다는 해석이 타당하다(ㄷ). 웹사이트 매각대가는 추징 대상이 아니고(ㄱ), 개인형 이동장치 분류 변경은 범죄 구성 여부의 변경으로 볼 수 없다(ㄹ).",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "웹사이트 매각대가는 추징 대상이 아니어서 ㄱ은 옳지 않다.",
+    "ㄴ과 ㄷ이 판례의 태도와 맞다. 정답입니다.",
+    "ㄹ은 형법 제1조 제2항의 적용 대상이 아니어서 옳지 않다.",
+    "ㄱ과 ㄹ이 모두 옳지 않다."
+   ]
+  }
+ ]
+}

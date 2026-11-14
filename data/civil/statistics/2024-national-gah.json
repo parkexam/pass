@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_statistics_2024_national_gah",
+ "title": "2024 국가직 9급 통계학개론 가책형",
+ "year": 2024,
+ "source": "2024년도 국가공무원 9급 공개경쟁채용 필기시험 통계학개론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_24",
+ "questions": [
+  {
+   "id": "civil2024-national-statistics-gah-q01",
+   "paperId": "paper_civil_statistics_2024_national_gah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/statistics/2024/national-gah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n출구에서 조사원이 일정 간격으로 투표자는 뽑아 조사하는 방식은 계통추출법이다. 모집단을 정렬한 뒤 첫 표본을 무작위로 정하고 일정 간격마다 추출한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "단순임의추출법은 간격 없이 무작위로 표본을 뽑는 방법이다.",
+    "일정 간격으로 투표자를 추출하는 출구조사는 계통추출법이다. 정답입니다.",
+    "층화임의추출법은 모집단을 층으로 나누어 각 층에서 표본을 뽑는다.",
+    "집락추출법은 집락을 단위로 뽑아 집락 내 전원을 조사한다."
+   ]
+  },
+  {
+   "id": "civil2024-national-statistics-gah-q02",
+   "paperId": "paper_civil_statistics_2024_national_gah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/statistics/2024/national-gah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n독립이므로 P(A∩B^c∩C)=P(A)P(B^c)P(C)=1/48이다. P(A)=1/4, P(B)=3P(C)를 대입하면 (1-3c)c=1/12에서 c=1/6이므로 P(C)=1/6, P(B)=1/2이다. 따라서 P(B∩C^c)=1/2×5/6=5/12이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "1/12는 확률의 곱을 잘못 계산한 값이다.",
+    "P(B)P(C^c)=1/2×5/6=5/12이다. 정답입니다.",
+    "7/12는 여사건 확률을 거꾸로 적용한 값이다.",
+    "11/12는 P(B)와 P(C)의 값을 바꾸어 계산한 값이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-statistics-gah-q03",
+   "paperId": "paper_civil_statistics_2024_national_gah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/statistics/2024/national-gah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nE[X(Y+1)]=E(XY)+E(X)=9, E[Y(X+1)]=E(XY)+E(Y)=10에서 두 식을 빼면 E(Y)-E(X)=1이고 E(X)+E(Y)=7이므로 E(X)=3, E(Y)=4이다. E(XY)=6이므로 공분산은 6-3×4=-6이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "E(XY)=6, E(X)E(Y)=12이므로 공분산은 -6이다. 정답입니다.",
+    "-5는 기댓값 계산을 잘못한 값이다.",
+    "5는 부호를 잘못 적용한 값이다.",
+    "6은 E(XY)의 값으로 공분산이 아니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-statistics-gah-q04",
+   "paperId": "paper_civil_statistics_2024_national_gah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/statistics/2024/national-gah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n상관계수가 0이면 공분산이 0이고, Var(X+Y)=Var(X)+Var(Y)=Var(X-Y), E(XY)=E(X)E(Y), 상수의 선형변환을 한 공분산도 0이 된다. 다만 Cov(X+Y,X-Y)=Var(X)-Var(Y)이므로 두 분산이 같아야 0이 되어 상관계수 0과 동치가 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "Var(X+Y)=Var(X-Y)는 공분산이 0이라는 것과 동치이다.",
+    "E(XY)=E(X)E(Y)는 공분산이 0이라는 것과 동치이다.",
+    "선형변환해도 공분산은 0으로 유지되어 동치이다.",
+    "Cov(X+Y,X-Y)=Var(X)-Var(Y)이라 두 분산이 같아야 0이 되므로 동치가 아니다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-statistics-gah-q05",
+   "paperId": "paper_civil_statistics_2024_national_gah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/statistics/2024/national-gah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n상관계수가 0이라는 것은 선형관계가 없다는 뜻일 뿐 독립을 의미하지 않는다. 상관계수는 단위에 영향받지 않고, 절댓값이 클수록 선형관계가 강하며, 변수를 상수배해도 변하지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "상관계수 0은 선형관계가 없음을 뜻하며 독립을 보장하지 않는다. 정답입니다.",
+    "상관계수는 측정단위에 영향을 받지 않는다.",
+    "-0.7의 절댓값이 0.5보다 커 선형관계가 더 강하다.",
+    "상수배 변환은 상관계수를 바꾸지 않아 3X와 5Y의 상관계수도 0.5이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-statistics-gah-q06",
+   "paperId": "paper_civil_statistics_2024_national_gah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/statistics/2024/national-gah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n정규분포의 사분위수는 평균에서 z0.25σ 떨어진 지점이므로 제1사분위수와 제3사분위수의 차인 사분위수범위는 2×z0.25×σ이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "z0.025×σ는 95% 신뢰구간의 폭 계산에 쓰이는 값이다.",
+    "z0.25×σ는 한쪽 사분위수와 평균 사이의 거리이다.",
+    "2×z0.025×σ는 95% 구간 폭으로 사분위수범위와 다르다.",
+    "사분위수범위는 2×z0.25×σ이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-statistics-gah-q07",
+   "paperId": "paper_civil_statistics_2024_national_gah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/statistics/2024/national-gah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n불편추정량이 되려면 계수의 합이 1이어야 하고, 불편추정량 중 분산이 최소인 것은 계수가 모두 같아 가중치가 균등한 것이다. μ1^은 합이 1이고 계수 제곱합이 7/25로 가장 작다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "μ1^은 불편추정량이고 분산이 가장 작다. 정답입니다.",
+    "μ2^은 계수의 합이 5/4로 불편추정량이 아니다.",
+    "μ3^은 계수의 합이 6/5로 불편추정량이 아니다.",
+    "μ4^은 불편추정량이지만 계수 제곱합이 6/16으로 μ1^보다 크다."
+   ]
+  },
+  {
+   "id": "civil2024-national-statistics-gah-q08",
+   "paperId": "paper_civil_statistics_2024_national_gah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/statistics/2024/national-gah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n확률의 합이 1이므로 (가)+(나)+0.25=1에서 (가)+(나)=3/4이다. E(X)=1/8이면 (가)=1/8, (나)=5/8이 되어 3/8이 아니고, E(X)=1/12일 때 Var(X)=59/144이므로 크기 2인 표본평균의 분산은 59/288이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "(가)+(나)=1-0.25=3/4이므로 옳다. 정답입니다.",
+    "E(X)=0.25-(가)=1/8이면 (가)=1/8, (나)=5/8이므로 3/8이 아니다.",
+    "ㄱ만 옳으므로 ㄱ, ㄷ이 모두 옳지는 않다.",
+    "표본평균의 분산은 Var(X)/2=59/288이므로 59/144가 아니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-statistics-gah-q09",
+   "paperId": "paper_civil_statistics_2024_national_gah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/statistics/2024/national-gah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n절편이 있는 단순선형회귀에서 결정계수는 X와 Y의 표본상관계수의 제곱과 같다. 결정계수가 0이면 설명력이 없고 잔차는 0이 아니며, 변수를 추가하면 결정계수는 감소하지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "결정계수가 0이면 잔차제곱합이 총제곱합과 같아 잔차는 0이 아니다.",
+    "결정계수가 클수록 설명력이 높은 모형이다.",
+    "결정계수는 표본상관계수의 제곱으로 구할 수 있다. 정답입니다.",
+    "독립변수를 추가하면 결정계수는 같거나 커진다."
+   ]
+  },
+  {
+   "id": "civil2024-national-statistics-gah-q10",
+   "paperId": "paper_civil_statistics_2024_national_gah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/statistics/2024/national-gah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n2×2 분할표에서 각 칸의 기대도수는 50이고, 카이제곱통계량 8은 4개 칸의 (관측-50)²/50의 합이다. (가-50)²=100에서 (가)는 40 또는 60이고 (가)≥50이므로 60이며, 자유도는 (2-1)(2-1)=1이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "55는 카이제곱통계량 8의 조건을 만족하지 않는다.",
+    "자유도를 2로 본 것이 옳지 않다.",
+    "(가)=60, 자유도 1이 조건에 맞다. 정답입니다.",
+    "자유도는 2가 아니라 1이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-statistics-gah-q11",
+   "paperId": "paper_civil_statistics_2024_national_gah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/statistics/2024/national-gah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n평균은 (0×90+1×50+2×30+3×20+4×10)/200=1.05이고, 누적 90번째까지 0, 140번째까지 1이므로 중앙값은 1, 가장 많은 값은 0이다. 제3사분위수는 150.5번째 값으로 2이므로 3이라는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "평균 1.05는 계산 결과와 일치한다.",
+    "중앙값 1은 누적도수로 확인된다.",
+    "최빈값은 90일을 차지한 0이다.",
+    "제3사분위수는 2이므로 3이라는 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-statistics-gah-q12",
+   "paperId": "paper_civil_statistics_2024_national_gah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/statistics/2024/national-gah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공통분산은 (7×19+7×13)/14=16이므로 Sp=4이고, 자유도는 8+8-2=14이다. 신뢰구간의 길이는 2×2.145×4×√(2/8)=8.58이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "4.29는 신뢰구간의 절반 길이이다.",
+    "4.73은 t값을 잘못 적용한 값이다.",
+    "2×2.145×4×0.5=8.58이 신뢰구간의 길이이다. 정답입니다.",
+    "9.46은 자유도를 7로 적용한 값이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-statistics-gah-q13",
+   "paperId": "paper_civil_statistics_2024_national_gah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/statistics/2024/national-gah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n대립가설이 p>1/2이므로 유의확률은 p=1/2일 때 앞면이 4번 이상 나올 확률이다. (5C4+5C5)/2^5=(5+1)/32=6/32=3/16이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "1/16은 앞면이 5번 나올 확률만 계산한 값이다.",
+    "2/16은 조합 수를 잘못 계산한 값이다.",
+    "6/32를 약분하면 3/16이다. 정답입니다.",
+    "4/16은 분모를 16으로 본 값이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-statistics-gah-q14",
+   "paperId": "paper_civil_statistics_2024_national_gah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/statistics/2024/national-gah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n전체 위험군 수는 14+37+22+8=81명이고 전체 300명에 대한 비율은 0.27이다. 기대도수는 13.5, 27, 27, 13.5이고 관측도수와의 차는 0.5, 10, -5, -5.5로 20~30대가 가장 크다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "10대 이하는 차이가 0.5로 가장 작다.",
+    "20~30대는 차이가 10으로 가장 크다. 정답입니다.",
+    "40~50대의 차이는 5이다.",
+    "60대 이상의 차이는 5.5이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-statistics-gah-q15",
+   "paperId": "paper_civil_statistics_2024_national_gah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/statistics/2024/national-gah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n총제곱합은 1,544+12+24+62=1,642이고 총자유도는 11이다. 자유도는 A 2, B 1, 교호작용 2, 오차 6이며 B와 교호작용의 평균제곱은 모두 12이다. A의 F값이 훨씬 커 유의확률은 A가 더 작다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "총제곱합 1,642는 각 제곱합의 합과 일치한다.",
+    "B의 평균제곱 12/1=12, 교호작용의 평균제곱 24/2=12로 같다.",
+    "총자유도 11에서 2+1+2를 빼면 오차 자유도는 6이다.",
+    "A의 F값이 커 유의확률은 A가 더 작으므로 이 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-statistics-gah-q16",
+   "paperId": "paper_civil_statistics_2024_national_gah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/statistics/2024/national-gah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n결정계수는 420/480=0.875이고 p값이 0.001보다 작아 1%에서도 모형이 유의하다. 회귀 자유도는 2, 잔차 자유도는 20, 회귀평균제곱은 210이므로 세 값의 합은 232이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "420/480=0.875로 결정계수 계산이 옳다.",
+    "p값이 0.001보다 작아 1%에서도 유의하다.",
+    "ㄷ의 합은 283이 아니므로 ㄱ, ㄷ 전체가 옳지는 않다.",
+    "ㄷ이 성립하지 않으므로 세 설명이 모두 옳지는 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-statistics-gah-q17",
+   "paperId": "paper_civil_statistics_2024_national_gah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/statistics/2024/national-gah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nt분포의 분위수는 자유도가 커질수록 표준정규분포 값에 가까워지며 감소하므로 t0.05(n)>t0.05(n+1)이다. 따라서 모든 n에서 작다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "유의수준 0.01에서 기각하면 0.05에서도 기각된다.",
+    "t분위수는 자유도가 커지면 작아지므로 부등호가 반대이다. 정답입니다.",
+    "카이제곱분포의 분위수는 자유도가 커지면 증가한다.",
+    "배반사건의 조건부확률은 더할 수 있다."
+   ]
+  },
+  {
+   "id": "civil2024-national-statistics-gah-q18",
+   "paperId": "paper_civil_statistics_2024_national_gah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/statistics/2024/national-gah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n최소제곱 추정에서 SSE=Syy-β1^Sxy가 성립한다. 기울기 추정값은 Sxy/Sxx이고, 결정계수는 Sxy²/(SxxSyy)이며, Σyi ei는 잔차제곱합과 같아 0이 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "기울기 추정값은 Sxy/Syy가 아니라 Sxy/Sxx이다.",
+    "SSE=Syy-β1^Sxy가 성립한다. 정답입니다.",
+    "결정계수는 Sxy를 제곱한 Sxy²/(SxxSyy)이다.",
+    "Σyi ei=Σei²이므로 0이 아니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-statistics-gah-q19",
+   "paperId": "paper_civil_statistics_2024_national_gah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/statistics/2024/national-gah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n결합확률의 합이 1이 되도록 c를 구하면 (x+y)의 합이 54이므로 c=54이다. Y=2X가 되는 경우는 (1,2)와 (2,4)로 각각 3/54, 6/54이므로 합은 9/54=1/6이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "1/18은 한 경우만 계산한 값이다.",
+    "1/9는 c를 잘못 구한 값이다.",
+    "3/54+6/54=1/6이 P(Y=2X)이다. 정답입니다.",
+    "2/9는 다른 조합을 포함한 값이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-statistics-gah-q20",
+   "paperId": "paper_civil_statistics_2024_national_gah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/statistics/2024/national-gah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n전체 평균은 (5×6+10×3+15×2)/30=3이다. 처리제곱합은 5(6-3)²+10(3-3)²+15(2-3)²=45+0+15=60이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "처리제곱합은 45+0+15=60이다. 정답입니다.",
+    "90은 반복수를 모두 10으로 본 값이다.",
+    "270은 전체평균을 잘못 구한 값이다.",
+    "330은 제곱 전 편차를 사용한 값이다."
+   ]
+  }
+ ]
+}

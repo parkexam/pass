@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_health_admin_2022_local_A",
+ "title": "2022 지방직 9급 보건행정 A책형",
+ "year": 2022,
+ "source": "2022년도 지방공무원 9급 공개경쟁임용 필기시험 보건행정 A책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_23",
+ "questions": [
+  {
+   "id": "civil2022-local-health_admin-A-q01",
+   "paperId": "paper_civil_health_admin_2022_local_A",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/health_admin/2022/local-A/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n의료기사 등에 관한 법률상 의료기사는 임상병리사, 방사선사, 물리치료사, 작업치료사, 치과기공사, 치과위생사이다. 안경사는 같은 법에서 '의료기사 등'으로 함께 규정되지만 의료기사에는 해당하지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "작업치료사는 의료기사에 해당한다.",
+    "치과기공사는 의료기사에 해당한다.",
+    "안경사는 의료기사가 아니라 '의료기사 등'으로 규정된 직역이다. 정답입니다.",
+    "치과위생사는 의료기사에 해당한다."
+   ]
+  },
+  {
+   "id": "civil2022-local-health_admin-A-q02",
+   "paperId": "paper_civil_health_admin_2022_local_A",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/health_admin/2022/local-A/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n맥그리거의 X이론은 인간이 일을 싫어하고 책임을 회피한다고 보므로 경제적 보상과 제재로 통제하는 관리방식을 취한다. 권한 위임·자율성 존중·민주적 리더십은 Y이론에 가깝다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "X이론에서는 경제적 보상과 제재로 동기를 부여한다. 정답입니다.",
+    "권한의 위임은 Y이론적 관리방식이다.",
+    "자율성 존중은 Y이론의 인간관에 기초한다.",
+    "민주적 리더십은 Y이론과 연결되는 관리방식이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-health_admin-A-q03",
+   "paperId": "paper_civil_health_admin_2022_local_A",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/health_admin/2022/local-A/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n과다한 행정관리비용, 과잉진료 우려, 의료기술 발전 유도는 행위별수가제의 특징이다. 서비스 제공량에 따라 진료비를 지급하므로 기술 발전을 유도하지만 진료량 증가와 관리비 부담이 크다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "인두제는 등록환자 수 기준으로 진료비를 지급하는 방식이다.",
+    "봉급제는 의사에게 고정급을 지급하는 방식이다.",
+    "총액계약제는 진료비 총액을 미리 계약하는 방식이다.",
+    "행위별수가제는 행위마다 수가를 지급해 과잉진료와 관리비 증가가 나타난다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-local-health_admin-A-q04",
+   "paperId": "paper_civil_health_admin_2022_local_A",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/health_admin/2022/local-A/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n요양급여의 기준에 관한 규칙상 상급종합병원에서도 1단계 요양급여를 받을 수 있는 경우에는 혈우병 환자, 결핵 환자 등이 있다. 산전 진찰이나 정신건강의학과 진료는 의뢰 없이 이용할 수 있는 별도 예외이나 1단계 요양급여 예외와는 구분된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "혈우병 환자는 상급종합병원에서 1단계 요양급여를 받을 수 있다. 정답입니다.",
+    "직원의 직계존·비속이라는 사유는 1단계 요양급여 예외가 아니다.",
+    "정신건강의학과 진료는 요양급여 절차의 별도 예외 규정에 따른다.",
+    "산전 진찰은 요양급여 절차의 별도 예외 규정에 따른다."
+   ]
+  },
+  {
+   "id": "civil2022-local-health_admin-A-q05",
+   "paperId": "paper_civil_health_admin_2022_local_A",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/health_admin/2022/local-A/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n목표 달성 여부와 의도치 않은 결과는 결과평가, 사업 진행이 계획대로 실행되는지는 과정평가에서 다룬다. 구조평가는 투입 자원의 적합성을 보는 평가이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "구조평가만으로는 목표 달성과 진행 정도를 평가할 수 없다.",
+    "과정평가만으로는 목표 달성 여부를 평가할 수 없다.",
+    "목표 달성과 진행 정도를 함께 보는 것은 과정평가와 결과평가이다.",
+    "사업 진행 정도는 과정평가, 목표 달성과 부작용은 결과평가에서 다룬다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-local-health_admin-A-q06",
+   "paperId": "paper_civil_health_admin_2022_local_A",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/health_admin/2022/local-A/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n로머의 분류에서 중앙계획형은 국가가 보건의료를 계획적으로 운영하는 유형으로 북한이 이에 해당한다. 복지지향형은 영국, 시장지향형은 미국이 대표적이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "복지지향형은 국가보건서비스 방식으로 영국 등이 해당한다.",
+    "시장지향형은 민간보험 중심의 미국 등이 해당한다.",
+    "북한은 국가가 보건의료를 계획·운영하는 중앙계획형에 속한다. 정답입니다.",
+    "개발도상국형은 보건의료체계가 미발달한 국가를 가리킨다."
+   ]
+  },
+  {
+   "id": "civil2022-local-health_admin-A-q07",
+   "paperId": "paper_civil_health_admin_2022_local_A",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/health_admin/2022/local-A/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n포괄수가제는 질병군별로 진료비를 미리 정해 지급하므로 진료의 표준화와 진료비 산정의 간소화를 유도한다. 진료의 지속성과 첨단의학기술 발전 유도는 행위별수가제의 특징이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "진료의 지속성 유도는 포괄수가제의 특징이 아니다.",
+    "첨단의학기술 발전 유도는 행위별수가제의 특징이다.",
+    "진료의 표준화 유도와 진료비 산정의 간소화는 포괄수가제의 특징이다. 정답입니다.",
+    "ㄴ은 포괄수가제의 특징이나 ㄹ은 행위별수가제의 특징이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-health_admin-A-q08",
+   "paperId": "paper_civil_health_admin_2022_local_A",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/health_admin/2022/local-A/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n피훈련자를 여러 반으로 나눠 과제를 연구·토의하고 그 결과를 전원에게 보고·비판하는 방식은 신디케이트(syndicate) 기법이다. 사례연구는 실제 사례를 분석·토론하는 방식이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "토론회의는 주제에 대해 전체가 토론하는 방식이다.",
+    "사례연구는 실제 사례를 제시하고 해결방안을 토론한다.",
+    "분반별 과제 연구·발표·비판 방식은 신디케이트 기법이다. 정답입니다.",
+    "감수성훈련은 집단역학을 통해 인간관계 감수성을 높이는 훈련이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-health_admin-A-q09",
+   "paperId": "paper_civil_health_admin_2022_local_A",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/health_admin/2022/local-A/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국민건강보험법상 매년 국민건강증진기금에서 당해연도 보험료 예상 수입액의 6 %에 해당하는 금액을 국민건강보험공단에 지원한다. 건강보험 재원의 가장 큰 비중은 가입자가 내는 보험료이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "건강보험 재원의 가장 큰 비중은 보험료 수입이다.",
+    "국민건강증진기금에서 보험료 예상 수입액의 6 %를 지원한다. 정답입니다.",
+    "국고 지원은 보험료 예상 수입액의 14 % 수준으로 20 %가 아니다.",
+    "건강보험 재정의 대부분은 직장가입자와 지역가입자의 보험료이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-health_admin-A-q10",
+   "paperId": "paper_civil_health_admin_2022_local_A",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/health_admin/2022/local-A/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nSWOT 분석에서 강점·약점은 조직 내부 요인, 기회·위협은 외부 환경 요인이다. 교내 공간 부족은 약점, 주변 연계기관 부족은 위협에 해당한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "사회적 분위기는 외부 요인인 기회에 해당하므로 강점이 아니다.",
+    "교원 능력은 내부 요인인 강점에 해당하므로 기회가 아니다.",
+    "공간 부족(약점)과 연계기관 부족(위협)은 옳게 분류되었다. 정답입니다.",
+    "ㄴ은 기회로 분류된 것이 잘못이므로 ㄴ, ㄷ, ㄹ 전체가 옳지는 않다."
+   ]
+  },
+  {
+   "id": "civil2022-local-health_admin-A-q11",
+   "paperId": "paper_civil_health_admin_2022_local_A",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/health_admin/2022/local-A/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n인구 1,000명당 병상 수를 OECD 평균과 비교하는 것은 보건의료자원의 양적 공급 수준을 평가하는 것이다. 분포는 자원이 지역·계층에 고루 배치되었는지를 보는 요소이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "효율성은 투입 대비 산출 수준을 평가하는 요소이다.",
+    "통합성은 보건의료 서비스 간 연계·조정 수준을 보는 요소이다.",
+    "인구당 병상 수 비교는 자원의 양적 공급 요소에 해당한다. 정답입니다.",
+    "분포는 인구집단별·지역별 자원 배분의 형평성을 보는 요소이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-health_admin-A-q12",
+   "paperId": "paper_civil_health_admin_2022_local_A",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/health_admin/2022/local-A/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n중앙예산기관이 배정한 예산을 각 중앙부처 장이 소속 하부기관에 다시 나누어 주는 것은 예산의 재배정이다. 중앙예산기관이 부처에 나누는 것은 배정이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "예산의 편성은 예산안을 만들어 국회 승인을 받는 단계이다.",
+    "예산의 배정은 기획재정부가 각 부처에 예산을 나누는 단계이다.",
+    "부처 장이 하부기관에 예산을 나누어 주는 것은 재배정이다. 정답입니다.",
+    "지출원인행위는 예산을 집행하기 위해 계약 등을 체결하는 행위이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-health_admin-A-q13",
+   "paperId": "paper_civil_health_admin_2022_local_A",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/health_admin/2022/local-A/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국민건강증진기금은 건강생활지원, 국민영양관리, 구강건강관리, 금연·절주 사업, 건강증진 연구 등에 사용한다. 사업장 건강검진은 산업안전보건 관련 사업으로 기금 사용범위에 명시되어 있지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "건강생활지원사업은 기금 사용범위에 해당한다.",
+    "국민영양관리사업은 기금 사용범위에 해당한다.",
+    "구강건강관리사업은 기금 사용범위에 해당한다.",
+    "사업장건강검진사업은 국민건강증진기금 사용범위에 명시되어 있지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-local-health_admin-A-q14",
+   "paperId": "paper_civil_health_admin_2022_local_A",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/health_admin/2022/local-A/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n암관리법 시행령상 대장암 검진은 50세 이상 남·여를 대상으로 1년 주기로 실시한다. 유방암·위암·자궁경부암은 2년 주기이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "유방암은 40세 이상 여성, 2년 주기로 검진한다.",
+    "위암은 40세 이상 남·여, 2년 주기로 검진한다.",
+    "자궁경부암은 20세 이상 여성, 2년 주기로 검진한다.",
+    "대장암의 검진주기는 2년이 아니라 1년이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-local-health_admin-A-q15",
+   "paperId": "paper_civil_health_admin_2022_local_A",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/health_admin/2022/local-A/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n최적모형은 합리성과 함께 직관·판단력 같은 초합리적 요소를 중시하며 더 나은 정책 산출을 위한 체제 운영에 초점을 둔다. 합리모형은 전지적 합리성을, 만족모형은 제한된 합리성을 전제한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "제한된 합리성을 전제하는 것은 합리모형이 아니라 만족모형이다.",
+    "이성과 합리성을 전제로 의사결정이 이루어진다고 보는 것은 합리모형이다.",
+    "혼합주사모형은 만족모형을 조직적 차원으로 발전시킨 것이 아니다.",
+    "최적모형은 합리성과 초합리적 요인을 함께 중시한다는 설명이 옳다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-local-health_admin-A-q16",
+   "paperId": "paper_civil_health_admin_2022_local_A",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/health_admin/2022/local-A/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n결과를 질보정생존연수(QALY)로 측정해 비용과 비교하는 경제성 평가방법은 비용-효용 분석이다. 비용-효과 분석은 결과를 자연단위(생존연수, 혈압 감소 등)로 측정한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "최소비용분석은 효과가 같은 대안의 비용만 비교하는 방법이다.",
+    "비용-편익 분석은 결과를 화폐 단위로 환산해 비교한다.",
+    "비용-효과 분석은 결과를 임상적 자연단위로 측정한다.",
+    "QALY로 결과를 측정하는 것은 비용-효용 분석이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-local-health_admin-A-q17",
+   "paperId": "paper_civil_health_admin_2022_local_A",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/health_admin/2022/local-A/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n팀제는 의사결정 권한이 팀에 위임되어 현장에서 빠르게 판단하는 조직이다. 권한이 상급자에게 집중된다는 설명은 팀제의 특성과 반대이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "팀제에서는 권한이 팀장과 팀원에게 위임되므로 상급자 집중 설명은 옳지 않다. 정답입니다.",
+    "팀장·팀원의 유기적 관계로 시너지를 기대할 수 있다.",
+    "빠른 의사결정으로 다양한 욕구에 대처할 수 있다.",
+    "팀원 능력과 팀 실적을 기초로 보수를 구성한다."
+   ]
+  },
+  {
+   "id": "civil2022-local-health_admin-A-q18",
+   "paperId": "paper_civil_health_admin_2022_local_A",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/health_admin/2022/local-A/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nHP 2030의 기본원칙은 생애과정·생활터 적용, 건강수준 향상과 건강형평성 제고, 모든 정책에 건강 우선 반영 등이다. 바이오헬스 산업 육성은 보건의료 산업정책으로 건강증진종합계획의 기본원칙이 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "모든 생애과정과 생활터에 적용한다는 것은 기본원칙이다.",
+    "바이오헬스 산업 육성은 HP 2030의 기본원칙에 포함되지 않는다. 정답입니다.",
+    "보편적 건강수준 향상과 형평성 제고는 기본원칙이다.",
+    "모든 정책에 건강을 우선 반영한다는 것은 기본원칙이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-health_admin-A-q19",
+   "paperId": "paper_civil_health_admin_2022_local_A",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/health_admin/2022/local-A/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nWHO가 제시한 보건행정의 범위는 감염병 관리, 모자보건, 보건간호, 보건교육, 환경위생 등 보건사업의 분야로 구성된다. 의료서비스 제공이나 보건기록의 보존은 보건행정의 범위로 제시되지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "보건기록의 보존은 WHO가 제시한 보건행정 범위가 아니다.",
+    "감염병 관리·모자보건·보건간호는 모두 보건행정의 범위에 해당한다. 정답입니다.",
+    "의료서비스 제공은 보건행정의 범위로 제시되지 않는다.",
+    "의료서비스 제공과 보건기록 보존은 보건행정 범위가 아니다."
+   ]
+  },
+  {
+   "id": "civil2022-local-health_admin-A-q20",
+   "paperId": "paper_civil_health_admin_2022_local_A",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/health_admin/2022/local-A/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지역사회진단은 지역사회 전체를 대상으로 보건문제·요구도, 인구사회학적 특성, 가용자원을 파악해 사업 우선순위를 정하는 과정이다. 취약계층만을 대상으로 경제·보건상태를 파악하는 것은 진단의 목적이 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "보건문제와 요구도 파악을 통한 우선순위 결정은 진단의 목적이다.",
+    "인구·사회학적 자료로 보건상태를 파악하는 것은 진단의 목적이다.",
+    "가정·지역사회 요소와 가용자원 파악은 진단의 목적이다.",
+    "취약계층만을 대상으로 삼는 것은 지역사회진단의 목적이 아니다. 정답입니다."
+   ]
+  }
+ ]
+}

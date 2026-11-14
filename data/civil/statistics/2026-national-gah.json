@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_statistics_2026_national_gah",
+ "title": "2026 국가직 9급 통계학개론 가책형",
+ "year": 2026,
+ "source": "2026년도 국가공무원 9급 공개경쟁채용 필기시험 통계학개론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_24",
+ "questions": [
+  {
+   "id": "civil2026-national-statistics-gah-q01",
+   "paperId": "paper_civil_statistics_2026_national_gah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/statistics/2026/national-gah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n상자그림에서 제1사분위수는 약 2.5, 중앙값은 4, 제3사분위수는 5이다. 사분위수범위는 2.5로 2보다 크고, 제1사분위수와 제3사분위수 사이의 자료가 전체의 50%이므로 2 이상 5 이하 값은 50% 이상이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "ㄷ은 옳지만 ㄱ, ㄴ까지 확인되지 않으므로 ㄷ만 고르는 것은 부족하다.",
+    "상자그림만으로 평균이 4라고 단정할 수 없다.",
+    "사분위수범위가 2보다 크고 2 이상 5 이하 자료가 50% 이상이라는 설명은 옳다. 정답입니다.",
+    "ㄱ은 상자그림만으로 알 수 없으므로 세 설명이 모두 옳지는 않다."
+   ]
+  },
+  {
+   "id": "civil2026-national-statistics-gah-q02",
+   "paperId": "paper_civil_statistics_2026_national_gah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/statistics/2026/national-gah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n히스토그램은 왼쪽에 자료가 몰리고 오른쪽으로 긴 꼬리를 갖는 오른쪽 꼬리 분포이다. 이 경우 평균이 중앙값보다 크고 왜도는 양수이며, 중앙값은 제1사분위수에 더 가깝다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "오른쪽 꼬리 분포에서는 평균이 중앙값보다 크다.",
+    "자료가 10에서 80까지 퍼져 있어 범위는 70으로 50 이상이다.",
+    "오른쪽으로 긴 꼬리를 가져 왜도는 양수이다.",
+    "오른쪽 꼬리 분포에서 중앙값은 제3사분위수보다 제1사분위수에 가깝다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-statistics-gah-q03",
+   "paperId": "paper_civil_statistics_2026_national_gah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/statistics/2026/national-gah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n독립이므로 P(A∩B^c)=P(A)P(B^c)=1/2×2/3=1/3이다. 따라서 P(A∪B^c)=1/2+2/3-1/3=5/6이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "13/18은 여사건 확률을 잘못 적용한 값이다.",
+    "7/9는 교집합 확률을 빼지 않은 값이다.",
+    "1/2+2/3-1/3=5/6이 P(A∪B^c)이다. 정답입니다.",
+    "8/9는 P(B^c)를 잘못 계산한 값이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-statistics-gah-q04",
+   "paperId": "paper_civil_statistics_2026_national_gah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/statistics/2026/national-gah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nZ=5X+2, W=6Y+5이므로 Cov(Z,W)=30Cov(X,Y)이고 Corr(Z,W)=Cov(Z,W)/(σZσW)이다. σZ=5×3=15, σW=6×5=30이므로 0.4=30Cov(X,Y)/(15×30)에서 Cov(X,Y)=6이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "4는 표준편차를 2와 2로 본 값이다.",
+    "30Cov(X,Y)/(15×30)=0.4에서 Cov(X,Y)=6이다. 정답입니다.",
+    "8은 상관계수와 표준편차의 곱을 잘못 계산한 값이다.",
+    "10은 변환 상수를 하나만 적용한 값이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-statistics-gah-q05",
+   "paperId": "paper_civil_statistics_2026_national_gah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/statistics/2026/national-gah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n회귀 자유도 1, 회귀평균제곱 20, F값 10이므로 잔차평균제곱은 2이고 잔차 자유도 30에서 잔차제곱합은 60이다. 회귀제곱합은 20이므로 결정계수는 20/(20+60)=1/4이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "20/80=1/4이 결정계수이다. 정답입니다.",
+    "1/3은 잔차제곱합을 40으로 본 값이다.",
+    "1/2는 잔차제곱합을 20으로 본 값이다.",
+    "2/3은 제곱합의 비를 뒤집은 값이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-statistics-gah-q06",
+   "paperId": "paper_civil_statistics_2026_national_gah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/statistics/2026/national-gah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n네 종류의 기대도수는 모두 60/4=15이고 관측도수는 20, 15, 10, 15이다. 카이제곱통계량은 (25/15)+(0)+(25/15)+(0)=50/15=10/3이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "7/3은 제곱 계산이 맞지 않는 값이다.",
+    "8/3은 차이를 한 번만 제곱한 값이다.",
+    "(20-15)²/15와 (10-15)²/15의 합은 10/3이다. 정답입니다.",
+    "11/3은 기대도수를 잘못 구한 값이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-statistics-gah-q07",
+   "paperId": "paper_civil_statistics_2026_national_gah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/statistics/2026/national-gah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n풍속이 미세먼지에 미치는 영향을 선형관계로 분석하는 것은 회귀분석이고, 계절이라는 범주에 따라 평균의 차이를 검정하는 것은 분산분석이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "상관분석은 두 변수의 관계 정도만 보고 영향은 다루지 않는다.",
+    "영향 분석은 회귀분석, 집단 평균 비교는 분산분석이 맞다. 정답입니다.",
+    "적합도검정은 범주형 자료의 분포를 검정하는 방법이다.",
+    "t검정은 두 집단 비교에 쓰이나 사계절 네 집단에는 분산분석이 맞다."
+   ]
+  },
+  {
+   "id": "civil2026-national-statistics-gah-q08",
+   "paperId": "paper_civil_statistics_2026_national_gah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/statistics/2026/national-gah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n주어진 확률질량함수는 이항분포 B(10, 1/2)의 확률과 같은 형태이고, 합이 1이 되도록 c를 정하면 c=10!이다. 따라서 N은 이항분포를 따르므로 E(N)=5, Var(N)=2.5이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "13/2는 기댓값과 분산의 합이 6.5가 되는 값이다.",
+    "5+2.5=7.5=15/2이다. 정답입니다.",
+    "17/2는 분산을 3.5로 본 값이다.",
+    "19/2는 분산을 4.5로 본 값이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-statistics-gah-q09",
+   "paperId": "paper_civil_statistics_2026_national_gah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/statistics/2026/national-gah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n대립가설이 평균이 증가했다는 단측가설이므로 유의확률은 P(Z≥z)이다. 검정통계량은 (5.2-5)/(1/8)=1.6이므로 유의확률은 P(Z≥1.6)이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "P(Z≥1)은 표준편차를 1로 그대로 쓴 경우이다.",
+    "검정통계량 1.6에 대한 단측 확률이 유의확률이다. 정답입니다.",
+    "2×는 양측검정의 유의확률이다.",
+    "양측검정으로 계산한 값이며 대립가설이 단측이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-statistics-gah-q10",
+   "paperId": "paper_civil_statistics_2026_national_gah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/statistics/2026/national-gah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nP(X=2)=1/4이고 E(X²)=3/2에서 4×1/4+1×P(X=1)=3/2이므로 P(X=1)=1/2, P(X=0)=1/4이다. E(X)=1/2+2×1/4=1이므로 분산은 3/2-1=1/2이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "1/4은 분산을 0.25로 본 값이다.",
+    "3/2-1=1/2이 분산이다. 정답입니다.",
+    "3/4은 기댓값을 잘못 구한 값이다.",
+    "1은 E(X²)에서 E(X)를 빼지 않은 값이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-statistics-gah-q11",
+   "paperId": "paper_civil_statistics_2026_national_gah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/statistics/2026/national-gah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n2×4 분할표의 자유도는 (2-1)(4-1)=3이다. 유의수준 5%의 임계값은 χ²0.05(3)=7.81이고 검정통계량 2.25가 이보다 작으므로 두 교수법의 효과에 차이가 없다고 판단한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "자유도 3의 임계값 7.81보다 작아 차이가 없다고 판단한다. 정답입니다.",
+    "검정통계량이 임계값보다 작으므로 차이가 있다는 결론은 옳지 않다.",
+    "자유도 7의 임계값 14.07은 이 표에 적용되지 않는다.",
+    "임계값 14.07은 자유도가 7일 때이고 검정 결과도 반대이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-statistics-gah-q12",
+   "paperId": "paper_civil_statistics_2026_national_gah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/statistics/2026/national-gah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n독립인 표준정규변수이므로 E(X²Y²)=E(X²)E(Y²)=1이고 공분산은 0이다. 3X-4Y는 분산 9+16=25인 정규분포를 따르므로 표준화하면 P(-0.6≤Z≤1)=0.8413-0.2743=0.567이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "E(X²)=1, E(Y²)=1이므로 곱의 기댓값은 1이다.",
+    "독립이므로 공분산은 0이다.",
+    "3X-4Y의 분산 25로 표준화하면 -0.6과 1 사이의 확률이 0.567이다.",
+    "ㄱ, ㄴ, ㄷ이 모두 옳다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-statistics-gah-q13",
+   "paperId": "paper_civil_statistics_2026_national_gah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/statistics/2026/national-gah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n표본평균의 표준오차는 2/√n이므로 P(|X̄-μ|≤0.2)≥0.9544는 0.2≥2×2/√n을 뜻한다. √n≥20에서 n≥400이므로 최솟값은 400이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "64는 표준오차 조건을 만족하지 못한다.",
+    "100은 0.2 대신 0.4를 적용한 값이다.",
+    "225는 √n≥15를 적용한 값이다.",
+    "√n≥20이므로 n의 최솟값은 400이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-statistics-gah-q14",
+   "paperId": "paper_civil_statistics_2026_national_gah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/statistics/2026/national-gah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기울기의 신뢰구간 폭은 t값과 √(MSE/Sxx)에 비례한다. 따라서 MSE가 커지면 폭이 넓어지고, Sxx가 커지거나 α가 커져 t값이 작아지면 폭이 좁아진다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "기울기 추정값은 구간의 중심을 옮길 뿐 폭을 바꾸지 않는다.",
+    "α가 커지면 t값이 작아져 구간 폭은 좁아진다.",
+    "MSE가 커지면 표준오차가 커져 신뢰구간 폭이 넓어진다. 정답입니다.",
+    "독립변수의 편차 제곱합이 커지면 폭은 좁아진다."
+   ]
+  },
+  {
+   "id": "civil2026-national-statistics-gah-q15",
+   "paperId": "paper_civil_statistics_2026_national_gah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/statistics/2026/national-gah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nF값은 (SSA/(가))/(SSE/(나))와 같고 p값은 F분포에서 이 값보다 클 확률, 즉 P(X≥(다))이다. 따라서 작다는 방향으로 쓴 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "처리 수가 3이면 처리 자유도는 2이다.",
+    "전체 25개, 처리 3개이면 오차 자유도는 22이다.",
+    "F값은 SSA×(나)/(SSE×(가))로 계산한다.",
+    "p값은 F값보다 클 확률이므로 작을 확률로 쓴 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-statistics-gah-q16",
+   "paperId": "paper_civil_statistics_2026_national_gah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/statistics/2026/national-gah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n제1종 오류 확률은 μ=μ0에서 귀무가설을 기각할 확률 γ(μ0)로 그림에서 0.1이다. 제2종 오류 확률은 μ=μ1에서 기각하지 못할 확률이므로 1-γ(μ1)=1-0.8=0.2이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "제1종 오류 0.1, 제2종 오류 0.2가 그림과 일치한다. 정답입니다.",
+    "제2종 오류는 1-0.8=0.2이므로 0.8은 검정력이다.",
+    "제1종 오류는 γ(μ0)=0.1이므로 0.2가 아니다.",
+    "두 값 모두 그림의 확률과 맞지 않는다."
+   ]
+  },
+  {
+   "id": "civil2026-national-statistics-gah-q17",
+   "paperId": "paper_civil_statistics_2026_national_gah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/statistics/2026/national-gah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n총제곱합 180, 잔차제곱합 54이므로 회귀제곱합은 126이다. F=(126/2)/(54/9)=63/6=10.5이고 F0.01(2,9)=8.02보다 크므로 유의확률은 0.01보다 작다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "F값 10.5가 8.02보다 커 유의확률은 0.01보다 작다. 정답입니다.",
+    "유의확률이 0.01보다 작으므로 이 구간에 들지 않는다.",
+    "유의확률이 0.05보다도 작아 이 구간에 들지 않는다.",
+    "유의확률이 0.1보다 작아 이 구간에 들지 않는다."
+   ]
+  },
+  {
+   "id": "civil2026-national-statistics-gah-q18",
+   "paperId": "paper_civil_statistics_2026_national_gah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/statistics/2026/national-gah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n오차평균제곱 28.58로 나누면 인자 A의 F는 10.85, 인자 B는 0.73, 교호작용은 2.01이다. 인자 B의 제곱합 42.00에 대한 평균제곱이 21.00이므로 자유도는 2이고, 인자 A는 제곱합과 평균제곱이 같아 자유도가 1이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "인자 A의 자유도가 1이므로 수준수는 2이다.",
+    "인자 B의 제곱합 자유도는 2이다.",
+    "인자 A 2수준, 인자 B 3수준이고 총자료가 12개이므로 반복수는 2이다.",
+    "교호작용의 p값 0.215가 0.05보다 커 유의하지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-statistics-gah-q19",
+   "paperId": "paper_civil_statistics_2026_national_gah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/statistics/2026/national-gah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n신뢰구간의 중심은 표본평균으로 100이고 오차한계는 10이다. 신뢰구간은 모평균이 그 구간에 있을 확률을 뜻하는 것이 아니라, 같은 방법으로 구간을 반복해 만들 때 95%가 모평균을 포함한다는 의미이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "구간의 중심이 표본평균 100이라는 설명은 옳다.",
+    "표본평균 100에서 10씩 떨어진 구간이므로 오차한계는 10이다.",
+    "모평균은 고정된 값이므로 구간에 포함될 확률을 말할 수 없어 이 설명은 옳지 않다. 정답입니다.",
+    "98이 구간 (90,110) 안에 있어 유의수준 5%에서 기각하지 못한다."
+   ]
+  },
+  {
+   "id": "civil2026-national-statistics-gah-q20",
+   "paperId": "paper_civil_statistics_2026_national_gah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/statistics/2026/national-gah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nX와 Y가 0 또는 1의 값만 가지므로 X²=X, Y²=Y이다. E(X)=E(Y)=5/8, E(XY)=3/8이므로 공분산은 3/8-25/64=-1/64이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "-1/8은 공분산 대신 확률 차이를 쓴 값이다.",
+    "3/8-25/64=-1/64이 X²과 Y²의 공분산이다. 정답입니다.",
+    "1/64는 부호를 잘못 적용한 값이다.",
+    "1/8은 기댓값의 곱을 잘못 계산한 값이다."
+   ]
+  }
+ ]
+}

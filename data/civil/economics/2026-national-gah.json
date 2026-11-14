@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_economics_2026_national_gah",
+ "title": "2026 국가직 9급 경제학개론 가책형",
+ "year": 2026,
+ "source": "2026년도 국가공무원 9급 공개경쟁채용 필기시험 경제학개론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_25",
+ "questions": [
+  {
+   "id": "civil2026-national-economics-gah-q01",
+   "paperId": "paper_civil_economics_2026_national_gah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/economics/2026/national-gah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기회비용은 어떤 선택을 위해 포기한 대안의 가치로, 창업으로 포기한 연봉 4,000만 원이 여기에 해당한다. 이는 실제로 지출되는 비용이 아니어서 회계비용에는 포함되지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "재료비는 실제로 지출하는 회계비용이다.",
+    "창업으로 포기한 연봉은 기회비용이지만 회계비용에는 포함되지 않는다. 정답입니다.",
+    "임대료는 실제 지출하는 회계비용이다.",
+    "인건비도 실제 지출하는 회계비용이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-economics-gah-q02",
+   "paperId": "paper_civil_economics_2026_national_gah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/economics/2026/national-gah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n부가가치는 각 생산단계의 매출에서 중간재 비용을 뺀 값의 합이다. 농업 30억, 제분 22+18-30=10억, 제빵 40-22=18억, 국수 35-18=17억을 더하면 75억 원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "30+10+18+17=75억 원이 부가가치 합계이다. 정답입니다.",
+    "105억 원은 중간재를 한 번만 차감한 값이다.",
+    "115억 원은 최종 매출 일부를 중복 계산한 값이다.",
+    "145억 원은 각 단계 매출을 모두 더한 값이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-economics-gah-q03",
+   "paperId": "paper_civil_economics_2026_national_gah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/economics/2026/national-gah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n완화정책은 본원통화를 늘리는 정책이므로 국채 매입과 지급준비율 인하가 해당한다. 재할인율 인상은 통화를 회수하는 긴축정책이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "국채 매입은 본원통화를 늘리는 완화정책이다.",
+    "재할인율 인상은 통화를 줄이는 긴축정책이다. 정답입니다.",
+    "지급준비율 인하는 통화승수를 높이는 완화정책이다.",
+    "ㄴ은 긴축정책이므로 세 가지가 모두 옳지는 않다."
+   ]
+  },
+  {
+   "id": "civil2026-national-economics-gah-q04",
+   "paperId": "paper_civil_economics_2026_national_gah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/economics/2026/national-gah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n물품세를 폐지하면 공급비용이 낮아져 공급곡선이 우측으로 이동한다. 그 결과 균형거래량은 늘고 시장균형가격은 하락한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "거래량은 증가하므로 감소한다는 설명은 옳지 않다.",
+    "거래량은 감소하지 않고 증가한다.",
+    "공급 증가로 가격은 하락한다.",
+    "거래량 증가와 가격 하락이 모두 맞다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-economics-gah-q05",
+   "paperId": "paper_civil_economics_2026_national_gah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/economics/2026/national-gah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n할인채의 현재가치는 액면가를 (1+만기수익률)로 나눈 값이다. 11,000÷1.1=10,000원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "8,000원은 할인율을 잘못 적용한 값이다.",
+    "9,000원은 만기수익률을 22%로 본 값이다.",
+    "11,000/1.1=10,000원이 현재가치이다. 정답입니다.",
+    "11,000원은 액면가로 현재가치가 아니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-economics-gah-q06",
+   "paperId": "paper_civil_economics_2026_national_gah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/economics/2026/national-gah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n누구나 무료로 이용할 수 있어 배제성이 없고, 이용자가 적어 다른 사람의 이용을 방해하지 않아 경합성도 없다. 따라서 공공재적 성격을 갖는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "배제성과 경합성이 모두 있으면 사적재이다.",
+    "무료 개방으로 배제성이 없어 이 설명은 옳지 않다.",
+    "이용자가 적어 경합성이 없으므로 이 설명은 옳지 않다.",
+    "배제성도 없고 경합성도 없다는 설명이 옳다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-economics-gah-q07",
+   "paperId": "paper_civil_economics_2026_national_gah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/economics/2026/national-gah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nA국의 반도체 1단위 기회비용은 1/2=0.5 의류, B국은 6/3=2 의류이다. 기회비용이 작은 A국이 반도체 생산에 비교우위가 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "A국 0.5, B국 2, 비교우위는 A국이 맞다. 정답입니다.",
+    "비교우위 국가가 B국이 아니어서 옳지 않다.",
+    "기회비용 수치가 서로 뒤바뀌었다.",
+    "두 기회비용의 위치가 바뀌어 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2026-national-economics-gah-q08",
+   "paperId": "paper_civil_economics_2026_national_gah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/economics/2026/national-gah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n그림은 균형가격보다 높은 수준에서 가격이 통제되는 가격하한제로, 공급량이 수요량을 초과해 초과공급이 발생한다. 노동시장에 적용하면 최저임금이 되어 실업이 늘어날 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "임대료 규제는 균형가격보다 낮게 통제하는 가격상한제의 예이다.",
+    "가격하한에서는 Q1Q2만큼 초과공급이 발생한다.",
+    "최저임금처럼 가격하한이 적용되면 노동공급이 수요를 초과해 실업이 늘 수 있다. 정답입니다.",
+    "최저임금은 고용된 노동자의 임금을 높여 소득이 감소하지 않는다."
+   ]
+  },
+  {
+   "id": "civil2026-national-economics-gah-q09",
+   "paperId": "paper_civil_economics_2026_national_gah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/economics/2026/national-gah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n화폐수요가 이자율에 민감할수록 LM곡선은 수평에 가까워진다. 이자율 변화에 화폐수요가 크게 반응해 소득 변화가 작아지기 때문이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "투자가 이자율에 민감하면 IS곡선이 수평에 가까워진다.",
+    "화폐수요가 이자율에 민감할수록 LM은 수평에 가까워지므로 수직이라는 설명은 옳지 않다. 정답입니다.",
+    "IS가 수평에 가까울수록 통화정책의 소득 효과가 크다.",
+    "LM이 수평에 가까울수록 재정정책의 소득 효과가 크다."
+   ]
+  },
+  {
+   "id": "civil2026-national-economics-gah-q10",
+   "paperId": "paper_civil_economics_2026_national_gah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/economics/2026/national-gah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n황금률 수준에서는 순한계생산물이 인구증가율과 같아진다. 즉 MPK-감가상각률=n이며, 크다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "솔로우 모형은 규모에 대한 수확불변 생산함수를 가정한다.",
+    "황금률 자본수준에서 1인당 소비가 극대화된다.",
+    "1인당 자본 증가율은 저축에 의한 자본 증가와 감가상각·인구증가에 의한 감소의 차이로 결정된다.",
+    "황금률에서는 MPK-감가상각률이 인구증가율과 같으므로 크다는 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-economics-gah-q11",
+   "paperId": "paper_civil_economics_2026_national_gah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/economics/2026/national-gah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n총비용은 9개일 때 54원, 10개일 때 59원이다. 10번째 생산에 추가로 든 비용은 59-54=5원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "1원은 평균비용의 감소분이다.",
+    "총비용의 증가분 5원이 한계비용이다. 정답입니다.",
+    "5.9원은 10개일 때의 평균비용이다.",
+    "6원은 9개일 때의 평균비용이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-economics-gah-q12",
+   "paperId": "paper_civil_economics_2026_national_gah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/economics/2026/national-gah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n코즈정리는 소유권이 명확하고 거래비용이 작으면 당사자 간 협상으로 외부효과를 해결해 효율적 배분에 이를 수 있다고 본다. 정부 개입 없이도 해결이 가능하다는 것이 핵심이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "이해당사자가 많으면 협상비용이 커져 어렵다.",
+    "코즈정리는 정부 보조금이 아니라 당사자 간 협상을 통한 해결을 설명한다.",
+    "소유권이 분명해야 협상이 성립한다.",
+    "거래비용이 작다는 조건이 충족되면 정부 개입 없이 효율적 배분이 가능하다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-economics-gah-q13",
+   "paperId": "paper_civil_economics_2026_national_gah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/economics/2026/national-gah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n통화정책은 중앙은행이 신속히 결정해 내부시차가 짧지만 효과가 나타나기까지 외부시차가 길다. 재정정책은 예산 편성·승인 과정 때문에 내부시차가 길고 집행 후 효과는 상대적으로 빨리 나타난다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "통화정책 내부시차는 짧다.",
+    "재정정책 내부시차는 길다.",
+    "통화정책 외부시차는 길고 재정정책 외부시차는 짧다. 정답입니다.",
+    "내부시차와 외부시차의 길이가 서로 뒤바뀌었다."
+   ]
+  },
+  {
+   "id": "civil2026-national-economics-gah-q14",
+   "paperId": "paper_civil_economics_2026_national_gah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/economics/2026/national-gah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n경제활동인구는 취업자 2,500만 명과 실업자 500만 명을 합한 3,000만 명이다. 고용률은 2,500/4,000=62.5%, 경제활동참가율은 3,000/4,000=75%이며, 실업률은 500/3,000≈16.7%이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "경제활동인구 3,000만 명은 옳다.",
+    "ㄱ, ㄴ, ㄹ이 옳고 실업률 15%는 틀리다. 정답입니다.",
+    "실업률 15%가 틀려 ㄷ이 포함된 조합은 옳지 않다.",
+    "ㄷ이 틀려 이 조합은 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2026-national-economics-gah-q15",
+   "paperId": "paper_civil_economics_2026_national_gah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/economics/2026/national-gah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n수요곡선에서 P=40-2Q이므로 MR=40-4Q이고, 평균비용에서 TC=Q³-6Q²+24Q, MC=3Q²-12Q+24이다. MR=MC에서 3Q²-8Q-16=0이므로 Q=4이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "Q=2에서는 MR이 MC보다 크다.",
+    "Q=3에서도 MR이 MC보다 커 이윤이 더 늘어난다.",
+    "Q=4에서 MR=MC가 성립해 이윤이 극대화된다. 정답입니다.",
+    "Q=6에서는 MC가 MR보다 커 이윤이 줄어든다."
+   ]
+  },
+  {
+   "id": "civil2026-national-economics-gah-q16",
+   "paperId": "paper_civil_economics_2026_national_gah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/economics/2026/national-gah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n소득이 증가하면 거래적 동기의 화폐수요가 늘어 이자율이 상승한다. 따라서 소득 증가가 이자율을 하락시킨다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "소득 증가는 화폐수요를 늘려 이자율을 상승시킨다. 정답입니다.",
+    "통화공급 증가는 이자율을 하락시킨다.",
+    "투기적 동기의 화폐수요로 화폐수요곡선이 우하향한다.",
+    "화폐공급은 중앙은행이 외생적으로 결정해 수직이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-economics-gah-q17",
+   "paperId": "paper_civil_economics_2026_national_gah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/economics/2026/national-gah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n관세 부과로 생산이 늘고 소비가 줄면서 자원배분이 왜곡되는 두 삼각형의 합이 자중손실이다. 국내 생산 증가에 따른 생산왜곡과 소비 감소에 따른 소비왜곡이 각각 B와 D이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "A는 정부의 관세수입 일부로 자중손실이 아니다.",
+    "생산왜곡 B와 소비왜곡 D의 합이 자중손실이다. 정답입니다.",
+    "C는 정부 관세수입이 포함되어 자중손실이 아니다.",
+    "E는 자중손실과 관계없는 영역이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-economics-gah-q18",
+   "paperId": "paper_civil_economics_2026_national_gah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/economics/2026/national-gah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n통화승수는 (1+현금비율)/(지급준비율+현금비율)=(1+0.2)/(0.1+0.2)=4이다. 본원통화 100조 원에 4를 곱하면 통화공급은 400조 원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "100조 원은 본원통화와 같은 값이다.",
+    "200조 원은 승수를 2로 본 값이다.",
+    "300조 원은 승수를 3으로 본 값이다.",
+    "승수 4를 적용하면 통화공급은 400조 원이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-economics-gah-q19",
+   "paperId": "paper_civil_economics_2026_national_gah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/economics/2026/national-gah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n필립스곡선 πt=πe-2(ut-2)에서 πe=π(t-1)이다. 인플레이션이 4%포인트 감소하면 πt-πe=-4이므로 -4=-2(ut-2)에서 ut=4%이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "1%는 계수를 잘못 적용한 값이다.",
+    "3%는 감소폭을 2%포인트로 본 값이다.",
+    "ut-2=2이므로 실업률은 4%이다. 정답입니다.",
+    "6%는 감소폭을 8%포인트로 본 값이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-economics-gah-q20",
+   "paperId": "paper_civil_economics_2026_national_gah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/economics/2026/national-gah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n가격이 4% 오르면 탄력성 1.5에 따라 수요는 6% 감소하고, 소득이 6% 늘면 소득탄력성 -0.5에 따라 3% 감소한다. 두 효과를 합하면 수요는 9% 감소한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "6%+3%=9% 감소가 수요변화율이다. 정답입니다.",
+    "6%는 가격효과만 계산한 값이다.",
+    "소득탄력성이 음수이므로 수요는 증가하지 않는다.",
+    "3%는 소득효과만 계산한 값이다."
+   ]
+  }
+ ]
+}

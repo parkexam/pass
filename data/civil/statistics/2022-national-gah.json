@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_statistics_2022_national_gah",
+ "title": "2022 국가직 9급 통계학개론 가책형",
+ "year": 2022,
+ "source": "2022년도 국가공무원 9급 공개경쟁채용 필기시험 통계학개론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_24",
+ "questions": [
+  {
+   "id": "civil2022-national-statistics-gah-q01",
+   "paperId": "paper_civil_statistics_2022_national_gah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/statistics/2022/national-gah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n상자그림에서 A 지역은 최솟값·중앙값이 B 지역보다 위쪽(큰 값)에 있고, 상자의 폭과 수염의 길이가 더 길어 범위가 B보다 크다. 따라서 최솟값과 중앙값이 A에서 크다는 ㄱ, ㄴ은 옳고, 범위가 A에서 작다는 ㄷ은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "A 지역의 최솟값이 B 지역보다 크다는 설명은 옳다. 정답입니다.",
+    "A 지역의 중앙값이 B 지역보다 크다는 설명은 옳다.",
+    "A 지역의 수염 길이가 더 길어 범위는 A가 B보다 크다.",
+    "ㄱ과 ㄴ만 옳고 ㄷ은 틀리므로 세 설명이 모두 옳지는 않다."
+   ]
+  },
+  {
+   "id": "civil2022-national-statistics-gah-q02",
+   "paperId": "paper_civil_statistics_2022_national_gah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/statistics/2022/national-gah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n표본상관계수는 두 변수의 선형 관계의 방향과 강도를 나타낸다. ②는 강한 음의 상관, ④는 V자 형태로 상관이 거의 0이며, ①은 흩어짐이 커 상관이 약하다. ③은 양의 선형관계가 뚜렷해 상관계수가 가장 크다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "①은 점이 넓게 흩어져 상관계수가 작다.",
+    "②는 강한 음의 상관으로 상관계수가 음수이다.",
+    "③은 양의 선형관계가 뚜렷해 상관계수가 가장 크다. 정답입니다.",
+    "④는 V자 형태로 선형 상관계수가 0에 가깝다."
+   ]
+  },
+  {
+   "id": "civil2022-national-statistics-gah-q03",
+   "paperId": "paper_civil_statistics_2022_national_gah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/statistics/2022/national-gah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n제1종 오류는 귀무가설이 참인데도 이를 기각하는 오류로, 그 확률이 유의수준 α이다. 제2종 오류는 귀무가설이 거짓인데 기각하지 않는 오류이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "귀무가설이 참일 때 기각할 확률이 제1종 오류확률이다. 정답입니다.",
+    "귀무가설이 참일 때 기각하지 않을 확률은 1-α로 신뢰수준이다.",
+    "귀무가설이 거짓일 때 기각하는 확률은 검정력이다.",
+    "귀무가설이 거짓일 때 기각하지 않을 확률은 제2종 오류확률이다."
+   ]
+  },
+  {
+   "id": "civil2022-national-statistics-gah-q04",
+   "paperId": "paper_civil_statistics_2022_national_gah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/statistics/2022/national-gah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n단순선형회귀에서 오차분산의 불편추정값은 잔차제곱합을 잔차의 자유도 n-2로 나눈 값이다. n=22이므로 자유도는 20이고, 2,100÷20=105이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "100은 잔차제곱합을 n으로 나눈 값으로 불편추정값이 아니다.",
+    "2,100을 자유도 20으로 나눈 105가 오차분산의 불편추정값이다. 정답입니다.",
+    "110은 자유도를 잘못 적용한 값이다.",
+    "120은 잔차제곱합과 자유도의 계산이 맞지 않는 값이다."
+   ]
+  },
+  {
+   "id": "civil2022-national-statistics-gah-q05",
+   "paperId": "paper_civil_statistics_2022_national_gah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/statistics/2022/national-gah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n베이즈 정리로 구한다. 실제 음성이면서 검사 음성일 확률은 0.8×0.7=0.56, 실제 양성이면서 검사 음성일 확률은 0.2×0.2=0.04이다. 따라서 검사 음성일 때 실제 음성일 확률은 0.56÷(0.56+0.04)=14/15이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "13/15는 분모의 위음성 확률을 잘못 계산한 값이다.",
+    "9/10은 사전확률과 검사 정확도를 혼동한 값이다.",
+    "0.56/0.60을 계산하면 14/15가 된다. 정답입니다.",
+    "29/30은 위음성 확률을 다르게 적용한 값이다."
+   ]
+  },
+  {
+   "id": "civil2022-national-statistics-gah-q06",
+   "paperId": "paper_civil_statistics_2022_national_gah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/statistics/2022/national-gah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nX와 Y가 독립이면 조건부확률밀도함수는 주변확률밀도함수와 같아지지만, 그 주변분포는 Y의 주변분포이어야 한다. X가 주어졌을 때 Y의 조건부분포가 X의 주변분포와 같다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "독립이면 공분산은 0이 된다.",
+    "독립이면 합의 분산은 각 분산의 합과 같다.",
+    "독립이면 곱의 기댓값은 기댓값의 곱과 같다.",
+    "조건부분포는 Y의 주변분포와 같아야 하므로 X의 주변분포와 같다는 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-statistics-gah-q07",
+   "paperId": "paper_civil_statistics_2022_national_gah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/statistics/2022/national-gah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n회귀제곱합 540, 잔차제곱합 200, 총제곱합 740이며 총자유도 11에서 회귀 자유도 1, 잔차 자유도 10이다. (가) 회귀평균제곱 540, (나) 잔차평균제곱 20, (다) F값 27이 되고, 결정계수는 540/740이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "(가) 회귀의 평균제곱은 540/1=540으로 옳다.",
+    "(나) 잔차의 평균제곱은 200/10=20으로 옳다.",
+    "(다) F값은 540/20=27로 옳다.",
+    "결정계수는 회귀제곱합/총제곱합인 540/740이므로 200/740이라는 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-statistics-gah-q08",
+   "paperId": "paper_civil_statistics_2022_national_gah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/statistics/2022/national-gah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기대도수는 4:4:1:1 비율로 80개를 나누어 32, 32, 8, 8이다. 검정통계량은 (40-32)²/32+(24-32)²/32+(10-8)²/8+(6-8)²/8=2+2+0.5+0.5=5이고, 자유도는 범주 수 4에서 1을 뺀 3이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "검정통계량 5는 계산 결과와 일치한다.",
+    "자유도는 4가 아니라 범주 수에서 1을 뺀 3이다. 정답입니다.",
+    "검은색의 기대도수는 80×4/10=32이다.",
+    "ㄴ이 옳지 않으므로 ㄱ, ㄴ, ㄷ이 모두 옳지는 않다."
+   ]
+  },
+  {
+   "id": "civil2022-national-statistics-gah-q09",
+   "paperId": "paper_civil_statistics_2022_national_gah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/statistics/2022/national-gah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n모집단의 분포 형태를 모르는 경우 표본평균의 분포가 정규분포에 근사하려면 표본의 크기가 충분히 커야 한다. n=5는 소표본이므로 근사적으로 표준정규분포를 따른다고 할 수 없다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "F가 (df1, df2) 분포를 따를 때 1/F는 (df2, df1) 분포를 따른다.",
+    "정규모집단에서 표본평균은 평균 μ, 분산 σ²/n인 정규분포를 따른다.",
+    "독립인 표준정규변수 제곱합은 자유도 n인 카이제곱분포를 따른다.",
+    "n=5는 소표본이므로 정규근사를 적용할 수 없다는 점이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-statistics-gah-q10",
+   "paperId": "paper_civil_statistics_2022_national_gah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/statistics/2022/national-gah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n처리제곱합 50, 자유도 3-1=2이므로 처리평균제곱은 25이고, 오차평균제곱은 20/6이다. F값은 25÷(20/6)=7.5이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "2.5는 처리와 오차의 제곱합 비율로 F값이 아니다.",
+    "5.0은 자유도를 잘못 적용한 값이다.",
+    "F값은 25÷(20/6)=7.5이다. 정답입니다.",
+    "15.0은 오차평균제곱을 잘못 계산한 값이다."
+   ]
+  },
+  {
+   "id": "civil2022-national-statistics-gah-q11",
+   "paperId": "paper_civil_statistics_2022_national_gah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/statistics/2022/national-gah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n확률밀도함수가 0을 기준으로 좌우 대칭인 쌍봉형이므로 평균과 중앙값은 모두 0이다. 최빈값은 좌우 두 봉우리의 위치로 0이 아니므로 그 절댓값은 중앙값 0보다 크다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "좌우 대칭이므로 평균은 0이다.",
+    "좌우 대칭이므로 중앙값도 0이다.",
+    "최빈값은 두 봉우리에 위치해 절댓값이 0보다 크다.",
+    "ㄱ, ㄴ, ㄷ 모두 옳다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-statistics-gah-q12",
+   "paperId": "paper_civil_statistics_2022_national_gah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/statistics/2022/national-gah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n모표준편차가 알려진 경우 모평균의 95% 신뢰구간은 표본평균 ± 1.96×σ/√n이다. 66 ± 1.96×8/8 = 66 ± 1.96이므로 (64.040, 67.960)이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "66에 1.96을 더하고 뺀 구간으로 옳다. 정답입니다.",
+    "1.645를 적용한 구간은 90% 신뢰구간이다.",
+    "표준오차를 σ/√n이 아닌 다른 값으로 계산한 구간이다.",
+    "표준오차를 잘못 적용한 구간이다."
+   ]
+  },
+  {
+   "id": "civil2022-national-statistics-gah-q13",
+   "paperId": "paper_civil_statistics_2022_national_gah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/statistics/2022/national-gah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n분산분석표의 F검정은 귀무가설 H0: β1=β2=0, 즉 모든 회귀계수가 0이라는 것을 검정한다. p값이 0.05보다 작아 H0를 기각하면 회귀계수 중 적어도 하나는 0이 아니라고 말할 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "F검정으로는 두 계수가 모두 0이 아니라는 결론을 내릴 수 없다.",
+    "적어도 하나의 회귀계수가 0이 아니라는 결론을 내릴 수 있다. 정답입니다.",
+    "절편까지 모두 0이 아니라는 결론은 내릴 수 없다.",
+    "절편을 포함해 적어도 하나가 0이 아니라는 것은 F검정의 결론이 아니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-statistics-gah-q14",
+   "paperId": "paper_civil_statistics_2022_national_gah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/statistics/2022/national-gah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nVar(3X+9)=9Var(X)=36이므로 Var(X)=4이다. E(X(X+1))=E(X²)+E(X)=Var(X)+{E(X)}²+E(X)=10에서 {E(X)}²+E(X)-6=0이고, E(X)>0이므로 E(X)=2이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "1을 대입하면 1+1-6=-4로 성립하지 않는다.",
+    "E(X)=2이면 4+2-6=0으로 조건을 만족한다. 정답입니다.",
+    "3을 대입하면 9+3-6=6으로 성립하지 않는다.",
+    "4를 대입하면 16+4-6=14로 성립하지 않는다."
+   ]
+  },
+  {
+   "id": "civil2022-national-statistics-gah-q15",
+   "paperId": "paper_civil_statistics_2022_national_gah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/statistics/2022/national-gah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n모집단1의 평균은 1/3, 분산은 2/9이고 모집단2의 평균은 5/3, 분산은 2/9이다. 표본평균의 합의 평균은 2, 분산은 2/9÷100+2/9÷100=4/900이므로 근사분포는 N(2, 4/900)이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "분산이 2/900은 각 모집단 분산을 100으로 나눈 뒤 합하지 않은 값이다.",
+    "평균 2, 분산 4/900이 표본평균 합의 근사분포이다. 정답입니다.",
+    "평균을 4로 계산한 것은 두 모집단 평균을 잘못 합한 결과이다.",
+    "평균 4, 분산 4/900은 평균 계산이 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2022-national-statistics-gah-q16",
+   "paperId": "paper_civil_statistics_2022_national_gah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/statistics/2022/national-gah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n두 정규모집단의 모분산을 비교할 때는 각 표본분산의 비를 이용하며, 표본크기가 각각 25이면 자유도가 (24, 24)인 F분포를 따른다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "표준정규분포는 단일 모평균 검정에 쓰인다.",
+    "t분포는 두 모평균 비교나 단일 모평균 검정에 쓰인다.",
+    "카이제곱분포는 한 모집단의 분산 추정에 쓰인다.",
+    "두 모분산의 비는 자유도 (24, 24)인 F분포를 따른다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-statistics-gah-q17",
+   "paperId": "paper_civil_statistics_2022_national_gah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/statistics/2022/national-gah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n카이제곱 검정통계량은 각 칸에서 (관측도수-기대도수)²을 기대도수로 나눈 값을 모두 더한 것이다. 기대도수는 (행의 합×열의 합)/전체합으로 계산한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "제곱을 하지 않은 식은 편차의 합이 0이 되어 검정통계량이 될 수 없다.",
+    "편차를 제곱하지 않고 나눈 식이므로 검정통계량이 아니다.",
+    "(관측-기대)²을 기대도수로 나눈 값을 모두 더하는 식이 옳다. 정답입니다.",
+    "제곱한 값을 기대도수로 다시 나누어 검정통계량과 다르다."
+   ]
+  },
+  {
+   "id": "civil2022-national-statistics-gah-q18",
+   "paperId": "paper_civil_statistics_2022_national_gah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/statistics/2022/national-gah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n두 독립표본의 평균 차이 검정에서 양측검정의 p값은 검정통계량의 절댓값이 관측값 이상일 확률이다. 검정통계량은 (41-38)/√(10²/200+8²/100)이므로 P(|Z|≥그 값)이 p값이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "양측검정이므로 |Z|가 관측값 이상일 확률을 구한다. 정답입니다.",
+    "단측검정의 p값으로 대립가설이 양측이므로 옳지 않다.",
+    "|Z|가 관측값 이하일 확률은 p값이 아니다.",
+    "Z가 관측값 이하일 확률은 단측검정의 다른 방향 확률이다."
+   ]
+  },
+  {
+   "id": "civil2022-national-statistics-gah-q19",
+   "paperId": "paper_civil_statistics_2022_national_gah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/statistics/2022/national-gah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n총자유도는 1+3+3+8=15이므로 자료의 수는 16개이다. 인자 A는 2수준, B는 4수준이고 교호작용 자유도는 (2-1)(4-1)=3, 교호작용 평균제곱은 1,200/3=400, F는 400/100=4이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "교호작용 자유도 3, F값 4는 계산 결과와 일치한다.",
+    "총자유도 15이므로 자료 수는 16개이며 15개라는 설명은 옳지 않다. 정답입니다.",
+    "A는 2수준, B는 4수준이므로 설명이 옳다.",
+    "인자 A의 p값이 0.011로 0.05보다 작아 주효과는 유의하다."
+   ]
+  },
+  {
+   "id": "civil2022-national-statistics-gah-q20",
+   "paperId": "paper_civil_statistics_2022_national_gah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/statistics/2022/national-gah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n정규확률그림은 자료의 분위수와 정규분포 분위수를 좌표에 찍은 것으로, 자료가 정규분포를 따르면 점들이 기울어진 직선에 가깝게 놓인다. ①·②·④는 S자나 꺾인 형태로 정규성에서 벗어난 모양이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "①은 양 끝이 꺾인 S자 형태로 정규분포에서 벗어난다.",
+    "②는 한쪽으로 급격히 휘어 정규성에서 벗어난다.",
+    "③은 점들이 직선에 가깝게 놓여 정규분포를 따른다고 볼 수 있다. 정답입니다.",
+    "④는 위쪽이 평평해지는 형태로 정규분포와 다르다."
+   ]
+  }
+ ]
+}

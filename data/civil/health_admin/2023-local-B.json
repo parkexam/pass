@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_health_admin_2023_local_B",
+ "title": "2023 지방직 9급 보건행정 B책형",
+ "year": 2023,
+ "source": "2023년도 지방공무원 9급 공개경쟁임용 필기시험 보건행정 B책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_23",
+ "questions": [
+  {
+   "id": "civil2023-local-health_admin-B-q01",
+   "paperId": "paper_civil_health_admin_2023_local_B",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/health_admin/2023/local-B/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사회보장은 소득보장과 의료보장 등으로 나뉜다. 의료급여는 저소득층의 의료비를 지원하는 의료보장 제도이고, 국민연금·고용보험·국민기초생활보장은 소득보장 기능을 한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "의료급여는 의료비를 지원하는 의료보장 제도이다. 정답입니다.",
+    "국민연금은 노후 소득을 보장하는 소득보장 제도이다.",
+    "고용보험은 실업 시 소득을 보장하는 제도이다.",
+    "국민기초생활보장은 최저생계를 보장하는 소득보장 제도이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-health_admin-B-q02",
+   "paperId": "paper_civil_health_admin_2023_local_B",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/health_admin/2023/local-B/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n연간 본인부담금 총액이 소득에 따른 기준금액을 넘으면 초과액을 공단이 부담하는 제도는 본인부담상한제이다. 본인일부부담제는 진료비의 일정 비율을 환자가 부담하는 제도이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "급여상한제는 급여 항목이나 횟수를 제한하는 제도이다.",
+    "정액수혜제는 일정액을 지급하는 방식으로 본인부담 상한과 다르다.",
+    "본인일부부담제는 진료비의 일부를 환자가 부담하는 방식이다.",
+    "연간 본인부담 총액이 기준을 넘으면 초과액을 공단이 부담하는 것은 본인부담상한제이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-health_admin-B-q03",
+   "paperId": "paper_civil_health_admin_2023_local_B",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/health_admin/2023/local-B/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n포괄수가제는 7개 질병군(수정체 수술, 편도·아데노이드 절제술, 항문 수술, 서혜·대퇴부 탈장 수술, 자궁·자궁부속기 수술, 제왕절개분만, 백내장 수술 등)에 적용된다. 갑상샘 수술은 이에 포함되지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "수정체 수술은 포괄수가제 질병군에 해당한다.",
+    "갑상샘 수술은 포괄수가제 질병군에 포함되지 않는다.",
+    "편도 및 아데노이드 절제술은 포괄수가제 질병군이다. 정답입니다.",
+    "서혜 및 대퇴부 탈장 수술은 포괄수가제 질병군이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-health_admin-B-q04",
+   "paperId": "paper_civil_health_admin_2023_local_B",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/health_admin/2023/local-B/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nBPRS는 건강문제의 크기, 건강문제의 심각도, 보건사업의 개입 효과를 곱하거나 더해 우선순위 점수를 산출한다. 지역사회의 역량은 구성요소가 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "건강문제의 심각도는 BPRS의 구성요소이다.",
+    "건강문제의 크기는 BPRS의 구성요소이다.",
+    "지역사회의 역량은 BPRS 구성요소가 아니다. 정답입니다.",
+    "보건사업의 개입 효과는 BPRS의 구성요소이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-health_admin-B-q05",
+   "paperId": "paper_civil_health_admin_2023_local_B",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/health_admin/2023/local-B/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n한국보건사회연구원은 보건복지부 산하 공공기관이 아니라 경제·인문사회연구회 소속 정부출연연구기관이다. 한국장애인개발원·한국노인인력개발원·한국사회보장정보원은 보건복지부 산하 공공기관이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "한국장애인개발원은 보건복지부 산하 공공기관이다.",
+    "한국노인인력개발원은 보건복지부 산하 공공기관이다.",
+    "한국사회보장정보원은 보건복지부 산하 공공기관이다.",
+    "한국보건사회연구원은 정부출연연구기관으로 보건복지부 산하 공공기관이 아니다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-health_admin-B-q06",
+   "paperId": "paper_civil_health_admin_2023_local_B",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/health_admin/2023/local-B/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n정부 조직의 신설·개편으로 권한과 예산, 인사를 새로 구성하는 정책은 로위의 분류상 구성정책이다. 배분정책은 이익 배분, 규제정책은 행위 제한, 재분배정책은 소득 재분배를 다룬다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "재분배정책은 계층 간 소득·자원 배분을 바꾸는 정책이다.",
+    "규제정책은 개인·기업의 행위를 제한하는 정책이다.",
+    "배분정책은 특정 집단에 이익을 배분하는 정책이다.",
+    "조직의 승격·개편으로 권한을 구성하는 것은 구성정책이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-health_admin-B-q07",
+   "paperId": "paper_civil_health_admin_2023_local_B",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/health_admin/2023/local-B/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n각 부서에서 인원을 차출해 일정 기간 특정 과업을 수행하도록 만든 조직은 프로젝트 조직이다. 과업이 끝나면 해체되어 원래 부서로 복귀한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "라인 조직은 명령·보고 계통이 수직으로 이어지는 기본 조직이다.",
+    "부서 인원을 차출해 한시적으로 운영하는 팀은 프로젝트 조직이다. 정답입니다.",
+    "매트릭스 조직은 기능조직과 프로젝트조직을 이중으로 결합한 형태이다.",
+    "라인스탭 조직은 라인 부서에 자문·지원 참모를 붙인 조직이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-health_admin-B-q08",
+   "paperId": "paper_civil_health_admin_2023_local_B",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/health_admin/2023/local-B/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n의료법상 의료기관인증위원회 위원장은 보건복지부차관이 된다. 인증 신청은 임의이고, 인증 유효기간은 4년(조건부 인증 1년)이며, 이의신청은 통보일부터 정해진 기간 내에 해야 한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "의료기관 인증 신청은 의무가 아니라 임의이다.",
+    "의료기관인증위원회 위원장은 보건복지부차관이 맡는다. 정답입니다.",
+    "인증 유효기간은 4년이고 조건부인증의 유효기간이 1년이다.",
+    "이의신청 기간은 90일이 아니라 법령이 정한 더 짧은 기간이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-health_admin-B-q09",
+   "paperId": "paper_civil_health_admin_2023_local_B",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/health_admin/2023/local-B/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n회계연도가 시작되었으나 예산안이 의결되지 않았을 때 전년도 예산에 준해 일정 범위의 경비를 집행하는 제도는 준예산이다. 추가경정예산은 예산 확정 후 변경하는 제도이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "가예산은 임시로 편성하는 예산이라는 뜻으로 법정 제도명이 아니다.",
+    "예산 미의결 시 전년도 예산에 준해 집행하는 것은 준예산이다. 정답입니다.",
+    "수정예산은 정부가 제출한 예산안을 국회에서 수정하는 것이다.",
+    "추가경정예산은 예산 확정 후 불가피한 사유로 추가 편성하는 예산이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-health_admin-B-q10",
+   "paperId": "paper_civil_health_admin_2023_local_B",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/health_admin/2023/local-B/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n노인장기요양보험법상 장기요양보험사업의 보험자는 국민건강보험공단이다. 공단이 가입자 관리와 급여 사업을 수행하고 심사평가원은 심사 업무를 맡는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "국민연금공단은 국민연금 사업의 보험자 역할을 한다.",
+    "근로복지공단은 산재보험·고용보험 관련 사업을 수행한다.",
+    "노인장기요양보험사업의 보험자는 국민건강보험공단이다. 정답입니다.",
+    "건강보험심사평가원은 요양급여비용 심사·평가 기관이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-health_admin-B-q11",
+   "paperId": "paper_civil_health_admin_2023_local_B",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/health_admin/2023/local-B/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n보건복지부 소관 기금에는 국민연금기금, 국민건강증진기금, 응급의료기금, 노인장기요양보험기금 등이 있다. 노인복지기금은 별도로 설치된 기금이 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "국민연금기금은 보건복지부 소관 기금이다.",
+    "노인복지기금은 보건복지부 소관 기금으로 설치되어 있지 않다. 정답입니다.",
+    "응급의료기금은 보건복지부 소관 기금이다.",
+    "국민건강증진기금은 보건복지부 소관 기금이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-health_admin-B-q12",
+   "paperId": "paper_civil_health_admin_2023_local_B",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/health_admin/2023/local-B/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n의료전달체계는 의료자원의 효율적 이용, 건강보험 재정 안정, 지역 간 균형 발전을 목적으로 한다. 의료서비스의 고급화·첨단화 촉진은 의료전달체계의 목적이 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "건강보험 재정 안정 도모는 의료전달체계의 목적이다.",
+    "의료자원의 효율적 이용은 의료전달체계의 목적이다.",
+    "고급화된 의료서비스 제공 촉진은 의료전달체계의 목적이 아니다. 정답입니다.",
+    "지역·의료기관 간 균형 발전 도모는 의료전달체계의 목적이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-health_admin-B-q13",
+   "paperId": "paper_civil_health_admin_2023_local_B",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/health_admin/2023/local-B/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n보건진료 전담공무원은 간호사·조산사 면허를 가진 사람으로서 보건복지부장관이 실시하는 직무교육을 받아야 하는데, 그 교육기간은 16주가 아니다. 매년 21시간 이상 보수교육을 받고 시장·군수·구청장이 근무지역을 지정해 임용한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "보수교육기간은 매년 21시간 이상으로 한다는 설명은 옳다.",
+    "특별자치시장·시장·군수·구청장이 근무지역을 지정해 임용한다는 설명은 옳다.",
+    "직무교육 기간을 16주 이상으로 본 것이 규정과 달라 옳지 않다. 정답입니다.",
+    "의료 취약지역에서 경미한 의료행위를 할 수 있다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2023-local-health_admin-B-q14",
+   "paperId": "paper_civil_health_admin_2023_local_B",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/health_admin/2023/local-B/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n황금다이아몬드 방법은 지역 간 형평성을 고려해 우선순위를 정하는 방법으로, 효율성만을 추구하는 방법이 아니다. 미국 메릴랜드주에서 사용되었고 3점 척도로 측정하며 지표의 추세 확인이 가능할 때 적합하다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "형평성을 중요하게 고려하는 방법이므로 효율성 우선이라는 설명은 옳지 않다. 정답입니다.",
+    "미국 메릴랜드주에서 사용한 방식이라는 설명은 옳다.",
+    "척도를 3점 척도로 측정한다는 설명은 옳다.",
+    "자치단체별 건강지표와 과거 추세를 활용할 수 있을 때 적합하다."
+   ]
+  },
+  {
+   "id": "civil2023-local-health_admin-B-q15",
+   "paperId": "paper_civil_health_admin_2023_local_B",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/health_admin/2023/local-B/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n임파워먼트 리더십은 구성원에게 핵심적 권한을 공유해 스스로 판단하고 책임지도록 하는 리더십이다. 업적에 따른 보상은 거래적 리더십, 섬김과 솔선수범은 서번트 리더십의 개념이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "업적에 따른 보상은 거래적 리더십의 개념이다.",
+    "핵심적 권한의 공유는 임파워먼트 리더십의 핵심 개념이다. 정답입니다.",
+    "ㄱ은 거래적 리더십의 개념이므로 ㄱ, ㄴ 전체가 옳지는 않다.",
+    "섬김과 솔선수범은 서번트 리더십의 개념이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-health_admin-B-q16",
+   "paperId": "paper_civil_health_admin_2023_local_B",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/health_admin/2023/local-B/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n민츠버그의 조직 유형 중 전문적 관료제는 전문가가 핵심 운영부를 구성하고 자율적으로 업무를 수행하는 조직으로, 상급종합병원이 대표적이다. 기계적 관료제는 표준화된 반복업무 조직이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "애드호크라시는 유연한 팀 기반의 혁신 조직이다.",
+    "단순 조직은 소규모·소수 경영진 중심 조직이다.",
+    "기계적 관료제는 업무가 표준화된 관료 조직이다.",
+    "전문가 자율성이 큰 상급종합병원은 전문적 관료제에 해당한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-health_admin-B-q17",
+   "paperId": "paper_civil_health_admin_2023_local_B",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/health_admin/2023/local-B/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n도나베디안의 질 평가 틀에서 구조는 인력·시설·장비 등 투입 요소를 뜻하며 면허제도가 대표적이다. 고객만족도는 결과, 임상진료지침과 의료이용도 조사는 과정·결과 지표로 분류된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "면허제도는 인력의 자격 요건으로 구조적 접근에 해당한다. 정답입니다.",
+    "고객만족도는 결과 평가 지표에 해당한다.",
+    "임상진료지침은 과정 평가와 관련된다.",
+    "의료이용도 조사는 과정·결과 평가 지표로 활용된다."
+   ]
+  },
+  {
+   "id": "civil2023-local-health_admin-B-q18",
+   "paperId": "paper_civil_health_admin_2023_local_B",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/health_admin/2023/local-B/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n직무를 종합적으로 비교해 상대적 순위를 정하는 비계량적 직무평가 방법은 서열법이다. 점수법·요소비교법은 요소별 점수나 비율로 평가하는 계량적 방법이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "서열법은 직무를 종합적으로 비교해 순위를 정하는 비계량적 방법이다. 정답입니다.",
+    "점수법은 평가요소별 점수를 합산하는 계량적 방법이다.",
+    "요소비교법은 기준 직무와 요소별로 비교해 임률을 정하는 방법이다.",
+    "직무분류법은 직무를 등급별로 분류하는 방법이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-health_admin-B-q19",
+   "paperId": "paper_civil_health_admin_2023_local_B",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/health_admin/2023/local-B/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n금연사업으로 흡연율이 감소하고 결핵관리사업으로 환자 발견 건수가 늘어난 것은 사업이 목표한 성과를 달성했는지를 보는 성과 평가에 해당한다. 과정 평가는 사업 수행 활동을, 노력 평가는 투입량을 본다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "흡연율 감소와 환자 발견 증가는 성과(결과) 평가 지표이다. 정답입니다.",
+    "과정 평가는 사업이 계획대로 수행되었는지를 본다.",
+    "노력 평가는 투입된 활동량·자원을 평가한다.",
+    "효율성 평가는 비용 대비 성과의 비율을 평가한다."
+   ]
+  },
+  {
+   "id": "civil2023-local-health_admin-B-q20",
+   "paperId": "paper_civil_health_admin_2023_local_B",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/health_admin/2023/local-B/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n명목집단기법은 구성원이 대화 없이 개별적으로 의견을 제시한 뒤 제한적 토의를 거쳐 표결로 우선순위를 정하는 방법이다. 자료를 소집단으로 분류해 예측하는 것은 델파이법과 구분된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "자료를 소집단으로 분류해 예측하는 것은 명목집단기법이 아니다.",
+    "작업계획과 실적을 시간으로 비교하는 것은 간트차트 등의 일정관리 기법이다.",
+    "결과를 반복 전달해 합의를 보는 것은 델파이법의 특징이다.",
+    "개별 의견 제시 후 제한적 토의·표결은 명목집단기법의 설명이다. 정답입니다."
+   ]
+  }
+ ]
+}
