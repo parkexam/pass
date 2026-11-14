@@ -35,7 +35,11 @@
   function shortExamExamId(s) { return s.examId === 'civil' || s.examId === 'nursing'; }
   function gradeOf(s) {
     if (s.examId === 'nursing') return '8급';
-    const m = /^([89])급/.exec(String(s.section || ''));
+    // 8급은 섹션에 '8급'이 있을 때만('8급 간호·보건진료'), 9급 공무원 트랙의 급수 표기가 없는 섹션('행정' 등)은 9급입니다.
+    const section = String(s.section || '');
+    if (section.indexOf('8급') >= 0) return '8급';
+    if (s.examId === 'civil') return '9급';
+    const m = /^([89])급/.exec(section);
     return m ? m[1] + '급' : '';
   }
   function goalLabel(s) {

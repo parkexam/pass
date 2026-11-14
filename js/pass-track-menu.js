@@ -1,7 +1,7 @@
 /* PASS | 9급 공무원 직렬별 과목 연결 (2026-11-14 표기 간소화)
  * 공무원 > 9급 공무원 의 직렬 카드를 누르면 공통과목(국어·영어)과 그 직렬의 전공과목을
  * 간호직 메뉴(pass-nursing-menu.js)와 같은 화면 구성으로 열어 줍니다.
- * 하위 섹션은 9급 행정 / 8급 간호·보건진료 / 9급 보건·의료 / 9급 조세·사법·치안 /
+ * 하위 섹션은 행정 / 8급 간호·보건진료 / 9급 보건·의료 / 9급 조세·사법·치안 /
  * 9급 과학기술·전산 / 9급 농림·환경·현장 순으로 보여 줍니다.
  * 기존 data/catalog.json, 시험지 JSON, subjectId, Firebase 오답/학습 기록은 그대로 두고
  * 화면(메뉴) 구성만 담당합니다.
@@ -13,7 +13,7 @@
   const CIVIL = 'civil';
   const DEFAULT_COMMON = ['국어', '영어'];
   /* 9급 공무원 하위 섹션 표시 순서. 저장된 기기 데이터의 과목 순서와 상관없이 같은 순서로 보입니다. */
-  const SECTION_ORDER = ['9급 행정', '8급 간호·보건진료', '9급 보건·의료',
+  const SECTION_ORDER = ['행정', '8급 간호·보건진료', '9급 보건·의료',
     '9급 조세·사법·치안', '9급 과학기술·전산', '9급 농림·환경·현장'];
   const sectionRank = name => {
     const i = SECTION_ORDER.indexOf(name);
@@ -91,10 +91,12 @@
     document.head.appendChild(style);
   }
 
-  /* 직렬의 급수는 섹션 이름('9급 행정', '8급 간호·보건진료')의 앞머리에서 읽습니다. */
+  /* 직렬의 급수는 섹션 이름의 앞머리에서 읽습니다. 8급은 '8급 간호·보건진료'처럼 섹션에
+     '8급'이 들어 있을 때만 8급이고, 급수 표기가 없는 섹션('행정' 등)은 9급으로 봅니다. */
   function gradeOf(track) {
-    const m = /^([89])급/.exec(String(track && track.section || ''));
-    return m ? m[1] + '급' : '9급';
+    const section = String(track && track.section || '');
+    if (section.indexOf('8급') >= 0) return '8급';
+    return '9급';
   }
   function civilExam() { return examBy(CIVIL); }
   function isCivilTrack(id) {
