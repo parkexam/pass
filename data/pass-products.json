@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "paymentEnabled": false,
+  "notes": [
+    "이 파일은 출시 전 상품 및 과목 분류 정의입니다. 구매 버튼·결제·서버 접근 제어가 아직 연결되지 않았습니다.",
+    "2027년 국가·지방직 9급 공개경쟁채용 한국사 필기는 한능검 3급 이상으로 대체됩니다.",
+    "8급 간호직과 경력경쟁채용 등은 공고별 응시과목·자격요건 확인 후 패스 상품을 확정해야 합니다.",
+    "2026년 이전의 공무원 한국사 과거 기출 문제 및 기록은 삭제하거나 이동하지 않습니다.",
+    "한능검 이용권은 공무원 직렬별 패스 및 기본 전체 프리패스 상품에서 제외하는 별도 상품으로 설계합니다."
+  ],
+  "standaloneProducts": [
+    {
+      "productId": "hanggeom_advanced",
+      "title": "한국사능력검정시험 심화",
+      "examId": "hanggeom",
+      "subjectId": "ext_e638ec9da505",
+      "levelGrades": [
+        "1급",
+        "2급",
+        "3급"
+      ],
+      "standalone": true,
+      "includedInCivilServicePass": false,
+      "includedInGeneralAllPass": false,
+      "price": null,
+      "saleEnabled": false
+    },
+    {
+      "productId": "hanggeom_basic",
+      "title": "한국사능력검정시험 기본",
+      "examId": "hanggeom",
+      "subjectId": "ext_d2d6a4100d7f",
+      "levelGrades": [
+        "4급",
+        "5급",
+        "6급"
+      ],
+      "standalone": true,
+      "includedInCivilServicePass": false,
+      "includedInGeneralAllPass": false,
+      "price": null,
+      "saleEnabled": false
+    }
+  ],
+  "bundleTemplates": [
+    {
+      "productId": "civil_9_open_2027_template",
+      "title": "2027년 이후 9급 공채 직렬 패스",
+      "type": "track_subject_bundle",
+      "includedSubjectKeys": [
+        "civil_korean",
+        "civil_english",
+        "track_major_1",
+        "track_major_2"
+      ],
+      "excludedProductIds": [
+        "hanggeom_advanced",
+        "hanggeom_basic"
+      ],
+      "certificateRequirement": {
+        "name": "한국사능력검정시험",
+        "minimumLevel": "3급",
+        "soldSeparately": true
+      },
+      "saleEnabled": false
+    },
+    {
+      "productId": "nursing_track_template",
+      "title": "간호직 직렬 패스 (연도·채용형태별 확정 필요)",
+      "type": "track_subject_bundle",
+      "includedSubjectKeys": [
+        "civil_korean",
+        "civil_english",
+        "nursing_management",
+        "nursing_community"
+      ],
+      "needsOfficialAnnouncementVerification": true,
+      "excludedProductIds": [
+        "hanggeom_advanced",
+        "hanggeom_basic"
+      ],
+      "saleEnabled": false
+    }
+  ]
+}
