@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_labor_law_2025_national_nah",
+ "title": "2025 국가직 9급 노동법개론 나책형",
+ "year": 2025,
+ "source": "2025년도 국가공무원 9급 공개경쟁채용 필기시험 노동법개론 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_14",
+ "questions": [
+  {
+   "id": "civil2025-national-labor_law-nah-q01",
+   "paperId": "paper_civil_labor_law_2025_national_nah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/labor_law/2025/national-nah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n부당노동행위는 노동조합의 조직·운영에 대한 지배·개입, 불이익 처우 등으로 성립하고, 위법한 지배·개입이 노동조합의 단결권을 침해하면 비재산적 손해에 대한 위자료 배상책임도 인정될 수 있다. 인사고과를 통한 차별적 상여금 지급이나 특정 조합원에게만 금품을 지급하는 행위도 부당노동행위가 될 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "부당노동행위가 인정되어도 위자료 배상책임은 부담하지 않는다고 한 부분이 판례와 달라 옳지 않다. 정답입니다.",
+    "특정 노동조합 조합원이라는 이유로 불리하게 인사고과해 상여금을 적게 지급한 행위가 부당노동행위가 될 수 있다는 설명은 옳다.",
+    "다른 노동조합의 운영에 개입할 의사로 특정 조합에만 금품을 지급한 행위도 부당노동행위가 될 수 있다는 설명은 옳다.",
+    "구제신청과 구제명령의 상대방인 사용자에 사업주를 위해 행동하는 사람이 포함된다는 설명도 옳다."
+   ]
+  },
+  {
+   "id": "civil2025-national-labor_law-nah-q02",
+   "paperId": "paper_civil_labor_law_2025_national_nah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/labor_law/2025/national-nah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n취업규칙에는 근로자의 식비·작업용품 부담, 제재, 임금 등 법이 정한 사항을 기재해야 한다. 불이익하게 변경된 취업규칙은 집단적 동의를 받았더라도 개별 근로계약이 더 유리하면 그 계약이 우선하고, 불이익 변경 시에는 노동조합 또는 근로자 과반수의 '동의'를 받아야 한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "취업규칙에 근로자의 작업 용품의 부담에 관한 사항이 포함되어야 한다는 설명은 옳다. 정답입니다.",
+    "불이익하게 변경된 취업규칙이 개별 근로계약보다 우선한다고 한 부분이 판례와 달라 옳지 않다.",
+    "불이익 변경 시 근로자 과반수의 '의견'을 들으면 된다고 한 부분이 동의를 요구하는 규정과 달라 옳지 않다.",
+    "상시 5명 이상 사업장에서 취업규칙을 작성해야 한다고 한 부분이 10명 이상이라는 기준과 달라 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2025-national-labor_law-nah-q03",
+   "paperId": "paper_civil_labor_law_2025_national_nah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/labor_law/2025/national-nah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n근로시간에는 사용자의 지휘·감독 아래 있는 대기시간이 포함되고, 휴가수당은 유급휴가를 주기 전이나 준 직후의 임금지급일에 지급하며, 1일 8시간을 초과해 4시간의 연장근로를 하게 할 때에는 연장근로 도중에 30분 이상의 휴게시간을 주어야 한다. 재량근로 대상 업무에는 디자인·고안 업무가 포함된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "실내장식의 고안 업무가 재량근로 대상 업무에 해당하지 않는다고 한 부분이 시행령의 열거와 달라 옳지 않다. 정답입니다.",
+    "지휘·감독 아래의 대기시간을 근로시간으로 본다는 설명은 옳다.",
+    "휴가수당의 지급 시기에 관한 설명은 옳다.",
+    "4시간 연장근로 시 30분 이상 휴게시간 부여에 관한 설명도 옳다."
+   ]
+  },
+  {
+   "id": "civil2025-national-labor_law-nah-q04",
+   "paperId": "paper_civil_labor_law_2025_national_nah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/labor_law/2025/national-nah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n단시간근로자의 근로조건은 통상 근로자의 근로시간을 기준으로 산정한 비율로 정하고, 사용자는 근로자의 생명·신체·건강을 해치지 않도록 인적·물적 환경을 정비할 보호의무를 진다. 근로기준법은 국가와 지방자치단체에도 적용된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "단시간근로자의 근로조건에 관한 설명은 옳다.",
+    "사용자의 보호의무에 관한 설명은 옳다.",
+    "정당한 이유 없이 근로제공을 계속 거부해 정신적 고통을 주어도 배상의무가 없다고 한 부분이 판례와 달라 옳지 않다. 정답입니다.",
+    "근로기준법이 국가와 지방자치단체에도 적용된다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2025-national-labor_law-nah-q05",
+   "paperId": "paper_civil_labor_law_2025_national_nah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/labor_law/2025/national-nah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n이행강제금은 최초 구제명령일을 기준으로 매년 2회 범위에서 반복 부과할 수 있고 2년을 초과해 부과할 수 없다. 노동위원회는 부과 전 30일까지 문서로 미리 알려야 하고, 해고무효확인소송에서 패소가 확정되면 구제신청의 이익이 소멸한다는 것이 판례이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "ㄱ(이행강제금의 반복 부과와 2년 한도)이 옳은 서술이다.",
+    "ㄱ과 ㄹ이 모두 옳은 서술이다. 정답입니다.",
+    "ㄴ이 포함되어 있는데, 사전 통지 기간을 50일로 서술해 30일 규정과 달라 옳지 않다.",
+    "ㄴ이 포함되어 있어 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2025-national-labor_law-nah-q06",
+   "paperId": "paper_civil_labor_law_2025_national_nah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/labor_law/2025/national-nah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기숙사규칙의 작성·변경에 동의를 받으려는 경우 기숙 근로자 과반수가 18세 미만이면 규칙안을 7일 이상 보기 쉬운 장소에 게시하거나 갖추어 두어 알린 후 동의를 받아야 한다. 침실 하나의 거주 인원은 8명 이하로 정해져 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "게시기간 7일, 침실 거주인원 8명으로 본 조합이 시행령과 일치한다. 정답입니다.",
+    "침실 거주인원을 12명으로 본 부분이 시행령과 달라 옳지 않다.",
+    "게시기간을 10일로 본 부분이 시행령과 달라 옳지 않다.",
+    "게시기간 10일과 거주인원 12명 모두 시행령과 달라 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2025-national-labor_law-nah-q07",
+   "paperId": "paper_civil_labor_law_2025_national_nah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/labor_law/2025/national-nah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n통상임금은 소정근로의 대가로 정기적·일률적으로 지급되는 임금으로, 임금 조건의 설정 자유가 인정되되 강행규정 위반이나 탈법행위는 무효다. 2024년 전원합의체 판결은 고정성 개념을 통상임금의 요건에서 제외하였다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "통상임금을 실근로의 가치를 반영하는 개념으로 보아 계속적 실근로 제공을 전제로 산정해야 한다고 한 부분이 현행 판례와 달라 옳지 않다. 정답입니다.",
+    "임금 조건의 자유로운 부가와 무효 사유에 관한 설명은 옳다.",
+    "고정성 개념이 통상임금의 강행적 성격과 맞지 않는다는 설명은 판례에 부합한다.",
+    "퇴직이 소정근로의 대가와 개념상 관련이 없다는 설명도 옳다."
+   ]
+  },
+  {
+   "id": "civil2025-national-labor_law-nah-q08",
+   "paperId": "paper_civil_labor_law_2025_national_nah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/labor_law/2025/national-nah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n경영상 이유에 의한 해고는 긴박한 경영상 필요, 해고회피 노력, 합리적·공정한 대상자 선정, 협의 절차를 갖추어야 한다. 긴박한 경영상 필요는 예외적인 경우가 아니면 법인 전체의 경영사정을 종합해 판단하고, 정부는 해고된 근로자에 대해 생계안정·재취업 등 조치를 우선적으로 해야 한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "긴박한 경영상 필요의 판단 기준에 관한 설명은 옳다.",
+    "해고회피 노력에 관한 협의 결과도 참작된다는 설명은 옳다.",
+    "정부가 해고 근로자에게 필요한 조치를 우선적으로 해야 한다는 설명은 옳다.",
+    "사업 폐지를 위한 해산·청산 과정의 해고도 경영상 해고 요건을 갖추어야 유효하다고 한 부분이 판례와 달라 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-labor_law-nah-q09",
+   "paperId": "paper_civil_labor_law_2025_national_nah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/labor_law/2025/national-nah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n교섭창구 단일화 절차에서 사용자가 단일화를 거치지 않기로 동의하면 교섭을 요구한 모든 노동조합과 성실히 교섭해야 한다. 조합원 수 10% 이상 노동조합이 공동교섭대표단에 참여할 수 있고, 구성에 합의하지 못하면 노동위원회가 조합원 비율을 고려해 결정할 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "단일화를 거치지 않기로 동의한 경우에도 노동위원회가 정한 교섭대표노동조합과 교섭해야 한다고 한 부분이 제29조의2와 달라 옳지 않다. 정답입니다.",
+    "교섭창구 단일화 절차의 세부 사항을 대통령령으로 정한다는 설명은 옳다.",
+    "공동교섭대표단 참여 요건을 조합원 10% 이상으로 본 설명은 옳다.",
+    "공동교섭대표단 구성에 합의하지 못할 때 노동위원회가 결정할 수 있다는 설명도 옳다."
+   ]
+  },
+  {
+   "id": "civil2025-national-labor_law-nah-q10",
+   "paperId": "paper_civil_labor_law_2025_national_nah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/labor_law/2025/national-nah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n근로기준법상 근로자는 직업의 종류를 불문하고 임금 등 수입에 의하여 생활하는 사람이고, 사용자는 사업주와 사용자 및 그 사업의 경영담당자 또는 근로자에 관한 사항에 대하여 사업주를 위하여 행동하는 자이다. 사업경영담당자 해당성은 제도적 권한과 책임 부여를 기준으로 판단한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "ㄱ이 포함된 조합은 근로자 정의에 관한 서술이 법문과 달라 옳지 않다.",
+    "ㄱ이 포함되어 있어 옳지 않다.",
+    "ㄴ이 포함되어 있는데, 사업경영담당자와 항상 사용자의 이익을 대표하는 자를 혼동해 서술해 옳지 않다.",
+    "ㄷ·ㄹ이 모두 옳은 서술이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-labor_law-nah-q11",
+   "paperId": "paper_civil_labor_law_2025_national_nah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/labor_law/2025/national-nah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n고용노동부장관은 쟁의행위가 공익사업에 관한 것이어서 현저히 국민경제를 해하거나 국민 일상생활을 위태롭게 할 위험이 현존할 때 긴급조정을 결정할 수 있고, 결정하면 이유를 붙여 공표하고 중앙노동위원회와 당사자에게 통고해야 한다. 공표 후 즉시 쟁의행위를 중지하고 30일이 지나야 재개할 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "공익사업 쟁의행위에 대한 긴급조정 결정 사유에 관한 설명은 옳다.",
+    "결정의 공표와 통고 절차에 관한 설명은 옳다.",
+    "쟁의행위 중지와 30일 경과 후 재개에 관한 설명도 옳다.",
+    "긴급조정 결정에 미리 노동위원회의 의결을 얻어야 한다고 한 부분이 법 제76조와 달라 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-labor_law-nah-q12",
+   "paperId": "paper_civil_labor_law_2025_national_nah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/labor_law/2025/national-nah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n노동조합은 규약 등으로 대표자의 단체협약 체결권 행사를 절차적으로 제한할 수 있고, 교섭단위 분리 결정에 대하여 어느 일방에게 불리하다는 사유만으로는 불복할 수 없다. 교섭대표노동조합이 모든 단계에서 완벽한 정보 제공·의견 수렴을 하지 않았다고 곧바로 공정대표의무 위반이 되지는 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "단체협약 체결권한의 절차적 제한이 허용된다는 설명은 옳다.",
+    "복수 노동조합 간 설립무효 확인 소송을 제기할 수 없다고 한 부분이 판례와 달라 옳지 않다. 정답입니다.",
+    "교섭단위 분리 결정에 대한 불복 제한에 관한 설명은 옳다.",
+    "공정대표의무 위반 단정에 관한 설명도 옳다."
+   ]
+  },
+  {
+   "id": "civil2025-national-labor_law-nah-q13",
+   "paperId": "paper_civil_labor_law_2025_national_nah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/labor_law/2025/national-nah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n해고예고 규정은 경영상 이유에 의한 해고에도 적용되고, 해고예고는 해고 시점을 근로자가 알 수 있는 방법으로 해야 한다. 사용자는 고의로 사업에 막대한 지장을 초래한 경우 등 해고예고 예외 사유가 있어도 해고사유와 시기를 서면으로 통지해야 한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "경영상 이유에 의한 해고에 해고예고 규정이 적용되지 않는다고 한 부분이 법과 달라 옳지 않다.",
+    "해고예고를 일정 시점을 특정하지 않고 할 수 있다고 한 부분이 판례와 달라 옳지 않다.",
+    "해고예고 예외 사유가 있는 경우에도 해고사유와 시기를 서면으로 통지해야 한다는 설명은 옳다. 정답입니다.",
+    "산전·산후 휴업기간과 그 후 30일 동안 '어떠한 경우에도' 해고하지 못한다고 한 부분이 예외를 두는 규정과 달라 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2025-national-labor_law-nah-q14",
+   "paperId": "paper_civil_labor_law_2025_national_nah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/labor_law/2025/national-nah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n당연퇴직 사유가 사망·정년처럼 근로관계의 자동소멸사유가 아니라면 그에 따른 당연퇴직 처분은 해고 제한을 받는다. 반면 정년퇴직 처리는 근로관계를 새로 형성하는 행위가 아니어서 해고와 구별된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "ㄱ(자동소멸사유가 아닌 당연퇴직 처분은 해고 제한을 받는다)이 옳은 서술이다.",
+    "ㄱ과 ㄷ이 모두 옳은 서술이다. 정답입니다.",
+    "ㄹ이 포함되어 있어 옳지 않다.",
+    "ㄹ이 포함되어 있어 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2025-national-labor_law-nah-q15",
+   "paperId": "paper_civil_labor_law_2025_national_nah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/labor_law/2025/national-nah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n최저임금은 매년 8월 5일까지 결정해 고시해야 하고, 고용노동부장관은 매년 3월 31일까지 최저임금위원회에 심의를 요청한다. 위원회가 제출한 최저임금안은 지체 없이 고시해야 하며, 10일 이내에 고시해야 한다는 기한은 두고 있지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "매년 8월 5일까지 최저임금을 결정해야 한다는 설명은 옳다.",
+    "매년 3월 31일까지 심의를 요청해야 한다는 설명은 옳다.",
+    "결정 후 지체 없이 고시해야 한다는 설명도 옳다.",
+    "최저임금안을 제출받은 날부터 10일 이내에 고시해야 한다고 한 부분이 지체 없이 고시하도록 한 규정과 달라 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-labor_law-nah-q16",
+   "paperId": "paper_civil_labor_law_2025_national_nah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/labor_law/2025/national-nah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n최저임금위원회는 심의 요청을 받은 날부터 90일 이내에 최저임금안을 의결·제출해야 하고, 고용노동부장관이 재심의를 요청하면 20일 이내에, 재심의는 10일 이상의 기간을 두고 심의한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "90일·20일·10일을 60일·20일·10일로 본 조합은 제출 기한이 달라 옳지 않다.",
+    "60일·30일·20일로 본 조합은 모든 기한이 법과 달라 옳지 않다.",
+    "90일 이내 제출, 20일 이내 재심의, 10일 이상 재심의로 본 조합이 법과 일치한다. 정답입니다.",
+    "90일·30일·20일로 본 조합은 재심의 기한이 달라 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2025-national-labor_law-nah-q17",
+   "paperId": "paper_civil_labor_law_2025_national_nah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/labor_law/2025/national-nah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n재해보상에서 요양 중인 근로자에게는 평균임금의 100분의 60의 휴업보상을 하고, 기존 장해가 같은 부위에서 심해지면 등급 차이에 해당하는 일수로 장해보상금을 산정하며, 2년이 지나도 완치되지 않으면 평균임금 1,340일분의 일시보상으로 모든 보상책임을 면할 수 있다. 중대한 과실이 인정되면 휴업보상·장해보상을 면제할 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "요양 중 근로자에게 평균임금의 100분의 60을 휴업보상으로 지급해야 한다는 설명은 옳다.",
+    "기존 장해가 심해진 경우의 장해보상금 산정에 관한 설명은 옳다.",
+    "중대한 과실이 인정되면 요양보상도 하지 않아도 된다고 한 부분이 면제 대상에서 요양보상을 제외한 규정과 달라 옳지 않다. 정답입니다.",
+    "2년 경과 시 평균임금 1,340일분의 일시보상에 관한 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2025-national-labor_law-nah-q18",
+   "paperId": "paper_civil_labor_law_2025_national_nah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/labor_law/2025/national-nah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n최저임금위원회에는 관계 행정기관 공무원 중 3명 이내의 특별위원을 둘 수 있다. 연구위원의 수, 특별위원회 설치, 전문위원회 구성에 관하여는 법이 정한 범위가 따로 있어 각 선지의 수치와 구성이 그대로 인정되지는 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "관계 행정기관 공무원 중 3명 이내의 특별위원을 둘 수 있다는 설명은 옳다. 정답입니다.",
+    "연구위원을 5명 이내로 둘 수 있다고 한 부분이 법이 정한 수와 달라 옳지 않다.",
+    "특별위원회를 사업의 종류별·특정 사항별로 둘 수 있다고 한 부분이 법의 규정 방식과 달라 옳지 않다.",
+    "전문위원회를 각 9명 이내의 같은 수로 구성한다고 한 부분이 법과 달라 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2025-national-labor_law-nah-q19",
+   "paperId": "paper_civil_labor_law_2025_national_nah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/labor_law/2025/national-nah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n노동조합이 사업장 근로자의 3분의 2 이상을 대표하면 유니언숍 협정 체결이 허용되고 부당노동행위가 되지 않는다. 유니언숍 협정이 있어도 조합을 탈퇴해 다른 조합에 가입한 것을 이유로 불이익을 줄 수 없고, 지배적 노조가 아닌 노조에 이미 가입한 신규 입사자를 협정을 이유로 해고하는 것은 정당하지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "3분의 2 이상 대표 시 유니언숍 협정이 허용된다는 설명은 옳다.",
+    "재가입 신청 중 일부만 승인한 것이 권리남용·신의칙 위반이라는 설명은 판례에 부합한다.",
+    "탈퇴 후 다른 조합 가입을 이유로 신분상 불이익을 줄 수 없다는 설명은 옳다.",
+    "지배적 노조가 아닌 노조에 가입한 신규 입사자를 협정을 이유로 해고하는 것이 유효하다고 한 부분이 판례와 달라 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-labor_law-nah-q20",
+   "paperId": "paper_civil_labor_law_2025_national_nah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/labor_law/2025/national-nah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n근로기준법상 임금은 근로의 대가로 지급하는 모든 금품이고, 누구든지 법률에 따르지 않고는 영리로 다른 사람의 취업에 개입하거나 중간인으로 이익을 취득하지 못한다. 사용자는 근로자가 공의 직무 집행에 필요한 시간을 청구하면 거부하지 못하고, 직무 수행에 지장이 있으면 그 시간을 변경할 수 있을 뿐이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "임금의 정의에 관한 설명은 옳다.",
+    "공의 직무 수행에 지장이 없으면 청구한 시간을 거부할 수 있다고 한 부분이 변경만 가능하다는 규정과 달라 옳지 않다. 정답입니다.",
+    "영리 취업 알선·중간이익 취득 금지에 관한 설명은 옳다.",
+    "도로보수원과 운전직 공무원 간 수당 차별이 균등처우 위반이 아니라는 설명은 판례에 부합한다."
+   ]
+  }
+ ]
+}

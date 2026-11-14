@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_intl_law_2026_national_gah",
+ "title": "2026 국가직 9급 국제법개론 가책형",
+ "year": 2026,
+ "source": "2026년도 국가공무원 9급 공개경쟁채용 필기시험 국제법개론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_15",
+ "questions": [
+  {
+   "id": "civil2026-national-intl_law-gah-q01",
+   "paperId": "paper_civil_intl_law_2026_national_gah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/intl_law/2026/national-gah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국제법의 법원인 조약, 국제관습법, 법의 일반원칙은 위계관계가 없고, 충돌 시 특별법 우선·후법 우선의 원칙으로 조정된다. 조약이 체결 당시 강행규범과 충돌하지 않았더라도 이후 새로 출현한 강행규범과 충돌하면 그때부터 무효가 된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "규정 제38조 제1항의 나열 순서가 위계를 의미하지 않는다는 설명은 옳다.",
+    "조약이 이후 출현한 강행규범과 충돌해도 무효로 되지 않는다고 한 부분이 강행규범의 효과와 달라 옳지 않다. 정답입니다.",
+    "조약과 관습법의 효력이 동등하고 충돌 시 특별법·후법 우선 원칙이 적용된다는 설명은 옳다.",
+    "법의 일반원칙이 보충적 법원이라는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-intl_law-gah-q02",
+   "paperId": "paper_civil_intl_law_2026_national_gah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/intl_law/2026/national-gah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n전권위임장과 관련해, 국가원수·정부수반·외교부장관은 조약 체결에 관한 모든 행위에서, 국제회의나 국제기구에 파견된 대표는 조약문 채택에서 전권위임장이 필요 없다. 전권 없이 한 서명도 국가가 추인하면 효력을 가질 수 있고, 전권위임장에는 여러 사람을 지정할 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "전권위임장 없이 서명한 경우 국가의 추인이 있더라도 효력이 없다고 한 부분이 추인의 효과와 달라 옳지 않다. 정답입니다.",
+    "외교공관장이 파견국과 접수국 간 조약문 채택 목적이면 전권위임장을 제시하지 않아도 된다는 설명은 옳다.",
+    "외교장관이 조약 체결 관련 모든 행위에서 전권위임장 없이 국가를 대표한다는 설명은 옳다.",
+    "전권위임장에 여러 사람을 지정할 수 있다는 설명도 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-intl_law-gah-q03",
+   "paperId": "paper_civil_intl_law_2026_national_gah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/intl_law/2026/national-gah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n조약 규정의 분리가능성은 조약법협약 제44조가 정하고, 무력의 위협·사용에 의한 국가에 대한 강박이나 강행규범 위반의 경우에는 분리가 허용되지 않는다. 국가대표의 부정이나 기만의 경우에는 일정한 요건 아래 분리가 인정된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "국가대표에 대한 강박의 경우 조약 전체에 대해 무효를 주장할 수 없다고 한 부분이 옳지 않다.",
+    "무력의 위협 또는 사용을 통한 국가에 대한 강박을 이유로 주장하는 경우 조약 규정의 분리가 허용되지 않는다는 설명은 옳다. 정답입니다.",
+    "특정 조항만 무효를 주장하려면 그 조항의 수락이 다른 당사국의 기속적 동의의 필수적 기초가 아니었다는 점이 나타나거나 증명되어야 한다. 필요 없다고 한 부분이 옳지 않다.",
+    "분리될 수 없더라도 잔여부분 이행이 부당하지 않으면 특정 조항만 무효를 주장할 수 있다고 한 부분이 분리가능성의 요건과 달라 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2026-national-intl_law-gah-q04",
+   "paperId": "paper_civil_intl_law_2026_national_gah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/intl_law/2026/national-gah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국가면제 협약상 국가가 국제협정이나 서면계약으로 타국 법원의 관할권 행사에 명시적으로 동의하면 그 소송에 관해 면제를 주장할 수 없다. 타국 법 적용 합의, 증인 출석, 면제 원용을 위한 소송 참여 등은 관할권에 대한 동의로 간주되지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "국가가 타국의 법을 적용하기로 합의한 것이 관할권 행사에 대한 동의로 해석된다고 한 부분이 옳지 않다.",
+    "증인 출석이나 결석이 관할권 동의로 간주된다고 한 부분이 옳지 않다.",
+    "면제를 원용하기 위한 소송 참여가 관할권 동의로 간주된다고 한 부분이 옳지 않다.",
+    "국제협정이나 서면계약을 통한 명시적 동의가 있으면 면제를 더는 주장할 수 없다는 설명은 협약 제7조에 부합한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-intl_law-gah-q05",
+   "paperId": "paper_civil_intl_law_2026_national_gah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/intl_law/2026/national-gah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n외교관은 자신이 제기한 본소와 직접 관련된 반소에 대해서는 면제를 주장할 수 없고, 면제의 포기가 있어도 신체·주거의 불가침에 대한 강제집행은 별도의 명시적 동의가 필요하다. 접수국은 공관 확보를 원조할 의무가 있고, 외교관계 단절이나 무력충돌 시에도 공관 보호 의무를 진다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "외교관이 자신이 제기한 본소와 직접 관련된 반소에 대해 면제를 주장할 수 없다는 설명은 옳다. 정답입니다.",
+    "상업적 활동 관련 소송에서 신체·주거 침해를 포함한 강제집행을 할 수 있다고 한 부분이 협약 제32조와 달라 옳지 않다.",
+    "접수국이 공관 시설 확보를 원조할 의무가 없다고 한 부분이 협약 제21조와 달라 옳지 않다.",
+    "외교관계 단절·무력충돌 시 공관 보호 의무가 없다고 한 부분이 협약 제45조와 달라 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2026-national-intl_law-gah-q06",
+   "paperId": "paper_civil_intl_law_2026_national_gah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/intl_law/2026/national-gah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공해상 군함은 기국 외의 관할권에서 면제되고, 모든 국가는 자국기 선박에 대해 행정적·기술적·사회적 사항의 관할권을 유효하게 행사한다. 바다에서 발견된 실종 위험자에 대한 지원도 선장에게 요구한다. 다만 마약 불법거래 선박의 나포는 기국 등 일정한 국가에 인정된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "공해상 군함이 기국 외 국가의 관할권에서 완전히 면제된다는 설명은 옳다.",
+    "선장에게 실종 위험자 지원을 요구한다는 설명은 옳다.",
+    "모든 국가가 마약·향정신성물질 불법거래 선박을 나포할 수 있다고 한 부분이 나포 권한의 주체를 넓힌 서술이어서 옳지 않다. 정답입니다.",
+    "모든 국가가 자국기 선박에 대해 유효하게 관할권을 행사한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-intl_law-gah-q07",
+   "paperId": "paper_civil_intl_law_2026_national_gah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/intl_law/2026/national-gah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n영해에 대한 연안국의 주권은 상공·해저·하층토에 미치고, 영해에 정박 중인 외국선박에 대해서는 민사집행이 일정한 요건 아래 허용되며, 통상적으로 사용되는 정박지는 영해 밖에 있더라도 영해에 포함된다. 내수를 떠나 영해를 통항 중인 외국선박 내에서도 연안국은 일정한 요건 아래 체포·수사 조치를 할 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "영해의 상공·해저·하층토에도 주권이 미친다는 설명은 옳다.",
+    "영해에 정박 중인 외국선박에 대한 민사 강제집행·나포에 관한 설명은 옳다.",
+    "내수를 떠나 영해를 통항 중인 외국선박 내에서 연안국이 체포·수사를 목적으로 한 조치를 취할 수 없다고 한 부분이 옳지 않다. 정답입니다.",
+    "영해 밖에 있는 정박지도 영해에 포함된다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-intl_law-gah-q08",
+   "paperId": "paper_civil_intl_law_2026_national_gah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/intl_law/2026/national-gah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국가의 기본적 권리의무는 유엔헌장과 국제연맹 시기부터 형성된 국제법 원칙에 근거하고, 1970년 우호관계 선언은 이를 확인·발전시킨 것이다. 국내문제 관련 사건도 국제평화와 안전을 위협하면 강제조치가 적용될 수 있고, Wimbledon호 사건은 주권 제약 조약이 주권 포기가 아니라고 보았다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "국가의 기본적 권리의무가 1970년 우호관계 선언에서 최초로 확인되었다고 한 부분이 그 이전의 헌장·관행과 달라 옳지 않다. 정답입니다.",
+    "헌장 제51조의 자위권과 안보리 보고 의무에 관한 설명은 옳다.",
+    "국내문제 사건도 국제평화와 안전을 위협하면 강제조치 대상이 된다는 설명은 옳다.",
+    "Wimbledon호 사건의 판단에 관한 설명도 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-intl_law-gah-q09",
+   "paperId": "paper_civil_intl_law_2026_national_gah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/intl_law/2026/national-gah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국가관할권은 주권의 구체적 발현이고, 집행관할권은 영토에 국한되는 것이 원칙이어서 범죄인인도 같은 제도로 그 한계를 극복한다. 형법은 영역 내 범죄뿐 아니라 영역 외의 대한민국 선박·항공기 내 범죄에도 적용되고, 공해상 충돌 사고의 형사절차는 기국이나 선장 국적국 외에서는 제기할 수 없다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "국가관할권이 주권의 구체적 발현이라는 설명은 옳다.",
+    "집행관할권의 영토적 한계와 범죄인인도 제도에 관한 설명은 옳다.",
+    "형법의 선박·항공기 내 범죄 적용에 관한 설명은 옳다.",
+    "공해상 선박충돌 사고의 형사절차를 기국·선장 국적국 외의 국가에서도 제기할 수 있다고 한 부분이 해양법협약 제97조와 달라 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-intl_law-gah-q10",
+   "paperId": "paper_civil_intl_law_2026_national_gah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/intl_law/2026/national-gah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n유엔은 전문기구의 정책과 활동을 조정하기 위한 권고를 하고, 경제사회이사회가 전문기구와 제휴협정을 체결하며 총회의 승인을 받는다. 만국우편연합과 전기통신연합은 19세기에 설립되었지만 유엔 전문기구에 해당한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "유엔이 전문기구의 정책과 활동을 조정하기 위한 권고를 한다는 설명은 옳다.",
+    "만국우편연합과 전기통신연합이 유엔 전문기구에 해당하지 않는다고 한 부분이 사실과 달라 옳지 않다. 정답입니다.",
+    "경제사회이사회의 제휴협정 체결과 총회 승인에 관한 설명은 옳다.",
+    "전문기구가 활동범위 안의 법적 문제에 관해 ICJ에 권고적 의견을 요청할 수 있다는 설명도 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-intl_law-gah-q11",
+   "paperId": "paper_civil_intl_law_2026_national_gah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/intl_law/2026/national-gah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n총회는 모든 회원국으로 구성되고 회원국은 5명까지 대표를 출석시킬 수 있으며, 중요한 문제는 출석·투표 회원국 2/3 이상 찬성으로 가결하고 기권은 투표로 보지 않는다. 분담금을 2년분 이상 연체한 회원국의 투표권은 총회가 허용할 수 있으나, 불가항력적 사유가 있으면 투표를 허용한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "각 회원국이 총회에 7명까지 대표를 출석시킬 수 있다고 한 부분이 5명이라는 규정과 달라 옳지 않다.",
+    "총회가 회부된 국제평화·안보 문제에 대해 토의 및 권고할 수 있다고 서술한 부분이 안보리 우선권과의 관계를 무시해 옳지 않다.",
+    "분담금 연체 시 연체 사유와 상관없이 투표권을 허용할 수 없다고 한 부분이 불가항력 예외를 무시해 옳지 않다.",
+    "중요한 문제의 결정이 출석·투표 회원국 2/3 이상 찬성으로 가결되고 기권을 투표로 보지 않는다는 설명은 옳다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-intl_law-gah-q12",
+   "paperId": "paper_civil_intl_law_2026_national_gah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/intl_law/2026/national-gah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국제법상 국가는 외국인의 입국을 허용할 의무를 지지 않고, 칼보조항은 외국인이 국내 구제절차를 이용하도록 해 국적국의 외교적 보호를 제한하는 조항이다. 우리 헌법은 외국인의 지위를 국제법과 조약이 정하는 바에 따라 보장한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "국가가 외국인의 입국을 허용할 의무가 있고 입국 거부가 국제위법행위가 된다고 한 부분이 옳지 않다.",
+    "칼보조항이 국적국의 외교적 보호권 행사를 인정한다고 한 부분이 그 취지와 반대여서 옳지 않다.",
+    "헌법에 따라 외국인의 지위가 국제법과 조약이 정하는 바에 의하여 보장된다는 설명은 옳다. 정답입니다.",
+    "복수국적 국가 간에 어떠한 경우에도 외교적 보호권을 행사할 수 없다고 한 부분이 예외를 무시한 서술이어서 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2026-national-intl_law-gah-q13",
+   "paperId": "paper_civil_intl_law_2026_national_gah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/intl_law/2026/national-gah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n세계인권선언은 모든 사람이 국적을 가질 권리를 인정하고, 해양법협약은 선박 국적 부여와 등록·기국 게양 조건을 각국이 정하도록 한다. 여성차별철폐협약은 혼인이나 남편의 국적 변경으로 처의 국적이 자동 변경되지 않도록 한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "모든 사람이 국적을 가질 권리가 있다는 설명은 옳다.",
+    "선박 국적 부여와 등록·기국 게양 조건을 각국이 정한다는 설명은 옳다.",
+    "혼인·국적 변경으로 처의 국적이 자동 변경되지 않도록 해야 한다는 설명은 옳다.",
+    "자진해 외국 국적을 취득한 사람이 법무부장관의 승인을 받아야 대한민국 국적을 상실한다고 한 부분이 자동 상실 규정과 달라 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-intl_law-gah-q14",
+   "paperId": "paper_civil_intl_law_2026_national_gah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/intl_law/2026/national-gah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n핵확산금지조약은 비보유국에 IAEA 안전조치협정 체결을 요구하고, 포괄적 핵실험금지조약은 핵무기 보유국과 핵연구용 원자로 시설 보유국의 비준을 발효 요건으로 한다. 핵무기금지조약은 존속기간이 정해져 있지 않고 유보와 탈퇴가 허용되지 않으며, 지역적 차원의 비핵지대 조약도 체결되었다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "NPT가 IAEA 안전조치협정 체결을 요구한다는 설명은 옳다.",
+    "CTBT 발효에 핵연구용 원자로 시설 보유국의 비준이 필요하다는 설명은 옳다.",
+    "핵무기금지조약의 존속기간이 정해져 있지 않고 유보와 탈퇴가 허용되지 않는다고 한 부분이 탈퇴 조항을 둔 조약의 내용과 달라 옳지 않다. 정답입니다.",
+    "지역적 차원에서 핵무기를 포괄적으로 금지하는 조약이 체결되었다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-intl_law-gah-q15",
+   "paperId": "paper_civil_intl_law_2026_national_gah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/intl_law/2026/national-gah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국제연맹규약은 규약을 위반해 전쟁을 개시한 회원국에 대해 경제제재 조치를 취할 의무를 다른 회원국에 부과하였다. 유엔헌장의 무력 위협·사용 금지는 군사적 무력에 관한 것이고, 부전조약은 자위권 행사를 엄격히 통제하지 않았다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "부전조약이 자위권 행사를 엄격히 통제하고 있다고 한 부분이 옳지 않다.",
+    "국제연맹규약이 규약 위반 전쟁 개시국에 대한 경제제재 의무를 회원국에 부과했다는 설명은 옳다. 정답입니다.",
+    "헌장의 무력 위협·사용 금지 원칙이 경제 조치 위협까지 포함한다고 한 부분이 옳지 않다.",
+    "계약상 채무회수를 위한 무력사용 제한 협약이 유럽국가 주도로 채택되었다고 한 부분이 미국 주도로 채택된 사실과 달라 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2026-national-intl_law-gah-q16",
+   "paperId": "paper_civil_intl_law_2026_national_gah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/intl_law/2026/national-gah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n유보에 대한 이의는 언제든지 철회할 수 있고, 유보의 철회에는 유보를 수락한 국가의 동의가 필요하지 않다. 유보와 이의는 서면으로 표명해 통지해야 하고, 이의의 철회는 유보 표명국이 통보를 접수한 때 효력이 발생한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "유보에 대한 이의가 언제든지 철회될 수 있다는 설명은 옳다.",
+    "유보의 철회를 위해 수락국의 동의가 필요하다고 한 부분이 옳지 않다. 유보 철회는 일방적으로 할 수 있다. 정답입니다.",
+    "이의 철회의 효력 발생 시점에 관한 설명은 옳다.",
+    "유보와 이의가 서면으로 표명되어 통지되어야 한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-intl_law-gah-q17",
+   "paperId": "paper_civil_intl_law_2026_national_gah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/intl_law/2026/national-gah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n남극조약은 남극의 평화적 이용을 정하고 기존 영토주권 주장을 포기하는 것으로 해석되지 않으며, 감시원 지명 권한이 있는 당사국은 공중감시를 할 수 있다. 조약 발효 중의 행위나 활동은 영토주권 청구권을 주장·지지·부인하는 근거가 될 수 없다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "남극조약의 규정이 기존 영토주권 주장의 포기로 해석되지 않는다는 설명은 옳다.",
+    "남극이 평화적 목적으로만 이용될 수 있다는 설명은 옳다.",
+    "감시원 지명 권한이 있는 당사국이 공중감시를 할 수 있다는 설명도 옳다.",
+    "발효 중의 행위·활동이 영토주권 청구권을 주장·지지·부인하는 근거가 될 수 있다고 한 부분이 조약 제4조와 달라 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-intl_law-gah-q18",
+   "paperId": "paper_civil_intl_law_2026_national_gah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/intl_law/2026/national-gah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n통과통항은 외국 선박과 항공기에 인정되고 군함·군용기도 향유할 수 있다. 해협연안국의 섬과 본토 사이에 항행상 유사한 편의가 있는 배타적경제수역 통과항로가 섬의 바다 쪽에 있으면 그 통로에 대해서는 통과통항이 적용되지 않고 무해통항이 인정된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "통과통항에서 군함과 군용기가 허용되지 않는다고 한 부분이 옳지 않다.",
+    "배타적경제수역 일부와 외국 영해 사이의 해협에서 통과통항과 무해통항이 모두 인정된다고 한 부분이 통과통항이 적용되는 구조와 달라 옳지 않다.",
+    "직선기선 채택으로 내수가 된 수역에서 무해통항이 허용되지 않는다고 한 부분이 협약 제35조와 달라 옳지 않다.",
+    "섬의 바다 쪽에 편의가 유사한 배타적경제수역 통과항로가 있으면 통과통항이 허용되지 않는다는 설명은 협약 제45조에 부합한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-intl_law-gah-q19",
+   "paperId": "paper_civil_intl_law_2026_national_gah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/intl_law/2026/national-gah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n비엔나협약은 오존층을 변화시킬 수 있는 물질을 본문에 열거하지 않고 부속서에 맡겼고, 기후변화협약은 공동의 그러나 차별화된 책임과 지속가능한 개발 권리를 규정한다. 교토의정서는 민간·공공기구의 청정개발체제 참여를 허용하며, 파리협정은 당사국 간 완화 성과의 이전을 허용한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "비엔나협약이 대상 물질을 본문에 구체적으로 명시하지 않았다는 설명은 옳다.",
+    "파리협정이 당사국 간 완화 성과의 이전을 허용하지 않는다고 한 부분이 이전 메커니즘을 둔 협정 구조와 달라 옳지 않다. 정답입니다.",
+    "기후변화협약의 공동의 그러나 차별화된 책임과 지속가능한 개발 권리에 관한 설명은 옳다.",
+    "교토의정서의 청정개발체제 참여에 관한 설명도 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-intl_law-gah-q20",
+   "paperId": "paper_civil_intl_law_2026_national_gah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/intl_law/2026/national-gah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n위생 및 식물위생 조치 협정은 개발도상회원국의 특별한 필요와 함께 최빈개도국회원국의 필요도 고려하도록 규정하고 있다. 무역에 대한 기술장벽 협정, 보조금 및 상계조치 협정, 농업협정도 개발도상국에 대한 특별하고 차별적인 대우를 두고 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "위생 및 식물위생 조치 협정이 최빈개도국회원국에 대한 고려를 포함하지 않는다고 한 부분이 협정의 특별대우 규정과 달라 옳지 않다. 정답입니다.",
+    "기술장벽 협정이 개발도상국의 고유 기술·생산방법 보전을 위한 적합판정절차 채택을 인정한다는 설명은 옳다.",
+    "보조금협정이 수출보조금을 금지하되 일부 개발도상국에는 적용하지 않는다는 설명은 옳다.",
+    "농업협정의 개발도상국 투자보조금 면제에 관한 설명도 옳다."
+   ]
+  }
+ ]
+}

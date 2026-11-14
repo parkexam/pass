@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_crimproc_2024_national_gah",
+ "title": "2024 국가직 9급 형사소송법 가책형",
+ "year": 2024,
+ "source": "2024년도 국가공무원 9급 공개경쟁채용 필기시험 형사소송법 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_13",
+ "questions": [
+  {
+   "id": "civil2024-national-crimproc-gah-q01",
+   "paperId": "paper_civil_crimproc_2024_national_gah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/crimproc/2024/national-gah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n제척은 법관이 이미 그 사건에 관여한 경우 등 법률이 정한 사유만으로 당연히 직무집행에서 배제되는 제도이다. 증거보전 절차에서 증인신문을 한 법관은 공소제기 후 제1심 법관으로 관여해도 제17조의 전심재판 관여로 보지 않아 제척사유가 되지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "증거보전청구에 의한 증인신문에 관여한 법관이 제1심 판결에 관여한 경우는 제척사유가 아니므로, 제척사유에 해당한다는 설명은 옳지 않다. 정답입니다.",
+    "약식명령을 한 법관이 정식재판 절차의 항소심 판결에 관여한 경우는 제척사유에 해당한다는 설명은 옳다.",
+    "소송지연 목적의 기피신청은 법관이 결정으로 기각할 수 있고, 그 판단은 제출된 소명방법만에 의할 것은 아니라는 설명은 옳다.",
+    "전문심리위원에게 법관의 제척·기피 규정이 준용된다는 설명도 옳다."
+   ]
+  },
+  {
+   "id": "civil2024-national-crimproc-gah-q02",
+   "paperId": "paper_civil_crimproc_2024_national_gah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/crimproc/2024/national-gah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공소장변경이 있어도 공소시효 완성 여부는 당초 공소제기 시점을 기준으로 판단하고, 공범에 관한 규정은 공소제기 효력의 인적 범위를 넓히는 예외이므로 엄격히 해석해야 한다. 범인이 형사처분을 면할 목적으로 국외에 있는 경우 시효는 정지되고, 이는 국내에서 범행 후 도피한 경우에 한정되지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "공소시효 완성 여부를 당초 공소제기 시점 기준으로 판단한다는 설명은 옳다.",
+    "사기죄와 변호사법위반죄가 상상적 경합이면 한 죄의 시효 완성으로 다른 죄의 시효까지 완성되지는 않는다는 설명은 옳다.",
+    "제253조 제2항의 '공범'을 엄격하게 해석해야 한다는 설명도 옳다.",
+    "국외에서 범죄를 저지르고 처분을 면할 목적으로 국외 체류를 계속하는 경우도 시효정지 대상에 포함되므로, 국내 범행 후 도피한 경우에 한정된다는 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-crimproc-gah-q03",
+   "paperId": "paper_civil_crimproc_2024_national_gah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/crimproc/2024/national-gah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n구속 전 피의자심문에서 피의자에게 변호인이 없으면 지방법원 판사가 직권으로 변호인을 선정해야 하고, 그 선정은 구속영장 청구가 기각되어 효력이 소멸한 경우를 제외하고 제1심까지 효력이 있다. 구속기간 만료 후 판결 선고와 함께 한 구속이나 다른 범죄사실에 기한 구속이 곧바로 위법한 것은 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "구속기간 만료 후 항소법원이 판결 선고와 함께 구속한 것이 재구속·이중구속에 해당한다는 설명은 판례와 달라 옳지 않다.",
+    "구속기간 만료 무렵 종전 영장과 다른 범죄사실로 구속했다는 사정만으로 위법하다고 볼 수 없어 옳지 않다.",
+    "구속 전 피의자심문에서 변호인이 없으면 법원이 직권으로 선정해야 하고 그 효력이 제1심까지 미친다는 설명은 옳다. 정답입니다.",
+    "제70조 제2항의 사유를 제70조 제1항의 구속사유에 새로 추가한 것으로 보는 설명은 조문 체계와 달라 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2024-national-crimproc-gah-q04",
+   "paperId": "paper_civil_crimproc_2024_national_gah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/crimproc/2024/national-gah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n친고죄의 고소는 범인의 처벌을 구하는 의사표시로, 고소 후 취소하지 않았다면 고소 전 처벌을 원하지 않았다는 사정만으로 고소가 무효가 되지 않는다. 친고죄로 기소되었다가 동일성이 인정되는 비친고죄로 공소장이 변경되면 공소제기의 흠은 치유되고, 일부 공범에 대한 제1심 판결 선고 후에는 다른 공범에 대한 고소를 취소할 수 없다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "고소 전에 처벌을 원하지 않았더라도 이후 한 고소는 유효하다는 설명은 옳다.",
+    "비친고죄로 공소장이 변경되면 공소제기의 흠이 치유된다는 설명도 옳다.",
+    "일부 공범에 대한 제1심 판결 선고 후에는 다른 공범에 대한 고소를 취소할 수 없다는 설명은 옳다.",
+    "고소불가분의 원칙은 반의사불벌죄의 처벌불원 의사표시나 그 철회에 당연히 적용되지 않으므로, 적용된다는 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-crimproc-gah-q05",
+   "paperId": "paper_civil_crimproc_2024_national_gah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/crimproc/2024/national-gah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국민참여재판은 배심원의 평의·평결을 전제로 하는 절차여서 피고인이 공판정에서 자백하더라도 간이공판절차를 적용할 수 없다. 피고인의 의사 확인 절차를 거치지 않은 채 통상 공판절차로 진행한 경우는 위법하고, 성폭력 사건에서 피해자가 원하지 않으면 국민참여재판을 할 수 없다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "국민참여재판에서는 자백 사건이라도 간이공판절차를 적용할 수 없다는 설명은 옳다. 정답입니다.",
+    "의사 확인 절차 없이 통상 절차로 진행한 위법이 어떠한 경우에도 치유될 수 없다고 단정한 부분이 판례와 달라 옳지 않다.",
+    "배제결정에 즉시항고, 국민참여재판 진행 결정에 보통항고를 할 수 있다는 설명은 항고의 형식이 법과 달라 옳지 않다.",
+    "성폭력범죄 사건에서 피해자나 법정대리인이 원하지 않으면 국민참여재판을 할 수 없다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2024-national-crimproc-gah-q06",
+   "paperId": "paper_civil_crimproc_2024_national_gah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/crimproc/2024/national-gah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n무죄추정의 원칙은 형사절차뿐 아니라 일반 법생활 영역의 기본권 제한에도 적용되고, 구속기간은 불구속수사 원칙의 예외로 설정된 기간이다. 마약류사범 미결수용자에 대한 엄중계호도 무죄추정에 반하지 않지만, 공소제기만으로 확정판결 전까지 장기간 변호사 업무를 정지시키는 것은 무죄추정을 침해한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "무죄추정의 원칙이 일반 법생활 영역의 기본권 제한에도 적용된다는 설명은 옳다.",
+    "구속기간이 불구속수사 원칙의 예외로 설정된 기간이라는 설명도 옳다.",
+    "마약류사범 미결수용자에 대한 엄중계호 규정이 무죄추정에 반하지 않는다는 설명은 옳다.",
+    "공소제기된 변호사의 업무정지를 확정판결 때까지 허용하는 규정은 헌법재판소가 무죄추정 원칙을 침해한다고 본 것으로, 반하지 않는다는 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-crimproc-gah-q07",
+   "paperId": "paper_civil_crimproc_2024_national_gah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/crimproc/2024/national-gah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n피고인이 공판기일에 출석하지 않으면 특별한 규정이 없으면 개정할 수 없고, 법인인 피고인은 대리인을 출석하게 할 수 있다. 다액 500만 원 이하의 벌금·과료 사건은 피고인 출석을 요하지 않으며, 무죄·면소 등이 명백하면 질병으로 출정할 수 없어도 재판할 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "피고인이 출정하지 않은 경우 대리인이나 변호인이 출정했다는 이유만으로 증거동의한 것으로 간주되는 것은 아니므로, 간주된다는 설명은 옳지 않다. 정답입니다.",
+    "피고인이 출석하지 않으면 개정하지 못하되 법인은 대리인을 출석하게 할 수 있다는 설명은 옳다.",
+    "다액 500만 원 이하의 벌금·과료 사건에서는 피고인 출석을 요하지 않고 대리인을 출석하게 할 수 있다는 설명은 옳다.",
+    "질병으로 출정할 수 없어도 무죄·면소·형의 면제·공소기각 재판을 할 것이 명백하면 출정 없이 재판할 수 있다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2024-national-crimproc-gah-q08",
+   "paperId": "paper_civil_crimproc_2024_national_gah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/crimproc/2024/national-gah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n피의자신문조서는 그 사본이라도 전문증거로서 제312조의 증거능력 요건을 갖추어야 한다. 피고인이 내용을 부인하는 취지로 부동의하면 제312조 제1항에 따라 유죄의 증거로 쓸 수 없다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "공범 아닌 관계나 양벌규정의 적용 범위에 관한 설명이 판례와 달라 옳지 않다.",
+    "서명만 있고 날인·간인이 없는 조서의 형식적 진정성립에 관한 설명이 판례와 달라 옳지 않다.",
+    "공소사실을 부인하면서도 기재대로 진술했다는 점만 밝힌 경우 제312조 제1항으로 증거능력이 인정된다는 설명은 옳지 않다.",
+    "검사 작성 피의자신문조서 사본에 대해 내용부인 취지로 부동의하면 유죄의 증거로 쓸 수 없다는 설명은 옳다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-crimproc-gah-q09",
+   "paperId": "paper_civil_crimproc_2024_national_gah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/crimproc/2024/national-gah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사인이 위법하게 수집한 증거도 관련 법률에 위반되었다는 이유만으로 당연히 배제되지 않고, 효과적인 형사소추·진실발견이라는 공익과 개인의 인격적 이익을 비교형량해 허용 여부를 정한다. 따라서 제3자가 절취한 업무일지를 대가를 지급받고 취득해 제출하는 것도 허용될 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "사생활 영역의 증거 제출이 곧바로 금지되는 것은 아니고 법원이 이익을 비교형량해 결정한다는 설명은 옳다.",
+    "택시 운전기사가 승객과 나눈 대화를 공개한 경우 그 발언은 '타인 간의 대화'에 해당하지 않는다는 설명은 옳다.",
+    "제3자가 절취한 업무일지라도 증거 제출이 허용될 수 있다는 설명은 판례에 부합한다.",
+    "권한 없이 비밀보호조치를 해제해 수집한 전자우편이라도 관련 법률 위반만으로 증거 제출이 당연히 금지되는 것은 아니므로, 제출이 허용되지 않는다는 취지의 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-crimproc-gah-q10",
+   "paperId": "paper_civil_crimproc_2024_national_gah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/crimproc/2024/national-gah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n상소권회복은 자기 또는 대리인이 책임질 수 없는 사유로 상소기간을 지키지 못한 때 허용된다. 질병으로 입원했다거나 교도소 직원이 편의를 제공하지 않았다는 사정, 공동피고인의 기망으로 항소권을 포기했다는 사정은 모두 회복사유가 되지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "질병으로 병원에 입원해 상소하지 못했다는 사정이 회복사유가 아니라는 설명은 옳다.",
+    "거주지 변경신고를 하지 않아 공시송달로 재판이 진행된 경우에도 소송촉진법상 공시송달 요건을 갖추지 못했다면 회복이 허용될 수 있으므로, 허용될 수 없다는 설명은 옳지 않다. 정답입니다.",
+    "교도소 직원이 편의를 제공하지 않은 것이 책임질 수 없는 사유가 아니라는 설명은 옳다.",
+    "공동피고인의 기망으로 항소권을 포기한 것을 안 사정이 책임질 수 없는 사유가 아니라는 설명도 옳다."
+   ]
+  },
+  {
+   "id": "civil2024-national-crimproc-gah-q11",
+   "paperId": "paper_civil_crimproc_2024_national_gah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/crimproc/2024/national-gah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n일부상소는 재판의 일부에 대해 할 수 있고 그 부분과 불가분의 관계에 있는 부분에도 효력이 미친다. 포괄일죄에서 검사만 무죄부분에 상고하면 유죄부분도 상고심에 이전되고, 경합범에서 검사만 무죄부분에 항소하면 확정된 유죄부분은 심판대상이 되지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "일부상소의 효력이 불가분 관계 부분에 미친다는 설명은 옳다.",
+    "포괄일죄에서 검사만 무죄부분에 상고하면 유죄부분도 상고심 심판대상이 된다는 설명은 옳다.",
+    "피고인만 유죄부분에 항소하고 검사가 공소기각 부분에 항소하지 않았다면 그 부분까지 항소심이 판단해야 한다는 설명은 옳지 않다. 정답입니다.",
+    "경합범에서 검사만 무죄부분에 항소하면 파기 범위도 무죄부분에 한정된다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2024-national-crimproc-gah-q12",
+   "paperId": "paper_civil_crimproc_2024_national_gah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/crimproc/2024/national-gah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공소취소로 공소기각 결정이 확정되면 다른 중요한 증거를 발견한 경우에 한해 다시 공소를 제기할 수 있다. 이미 선고된 판결의 내용을 실질적으로 변경하는 경정은 허용되지 않고, 경정결정은 주문에 기재해야 한다. 상습범의 기판력은 확정판결 전의 동일 습벽 범행에 문제된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "공소취소 후 다른 중요한 증거를 발견한 때에 한해 다시 공소를 제기할 수 있다는 설명은 옳다.",
+    "재심이 개시되면 재심판결의 기판력이 그 선고 전에 범한 후행범죄에까지 미친다고 단정한 부분이 판례와 달라 옳지 않다. 정답입니다.",
+    "반대신문에서 진술의 모순을 드러내기 곤란했던 경우의 증거능력에 관한 설명은 옳다.",
+    "판결 내용을 실질적으로 변경하는 경정이 허용되지 않고 경정결정을 주문에 기재해야 한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2024-national-crimproc-gah-q13",
+   "paperId": "paper_civil_crimproc_2024_national_gah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/crimproc/2024/national-gah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n하나의 형이 확정된 경합범 중 일부 범죄사실에 재심사유가 있으면 재심개시결정의 효력은 재심사유가 없는 범죄사실을 형식적으로 심판대상에 포함시키는 데 그친다. 따라서 재심법원은 재심사유가 없는 부분의 유죄 인정을 다시 파기할 수 없고 양형을 위한 범위에서만 심리한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "공소장일본주의 위반을 뒤늦게 주장해 이미 진행된 절차의 효력을 다툴 수 없다고 한 부분은 판례와 달라 옳지 않다.",
+    "항소법원이 항소이유서에 포함되지 않은 사유는 심판할 수 없다는 설명은 옳지 않다.",
+    "재심개시결정의 효력이 형식적 심판대상 포함에 그치고 재심사유 없는 범죄사실의 유죄 인정을 파기할 수 없다는 설명은 옳다. 정답입니다.",
+    "예비적 공소사실만 유죄이고 피고인만 상소한 경우 주위적 공소사실이 심판대상에 포함된다는 설명이 판례와 달라 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2024-national-crimproc-gah-q14",
+   "paperId": "paper_civil_crimproc_2024_national_gah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/crimproc/2024/national-gah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n검찰청법상 법무부장관은 검찰사무의 최고 감독자로서 검찰총장을 지휘·감독하고, 구체적 사건에 관해서는 검찰총장만이 지휘·감독한다. 검사는 소속 상급자의 지휘·감독의 적법성·정당성에 이견이 있으면 이의를 제기할 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "검사가 수사개시한 범죄에 대해 공소를 제기할 수 없다는 설명은 옳다.",
+    "경찰공무원 등이 범한 범죄에 대해 검사가 수사를 개시할 수 있다는 설명은 법 개정으로 근거가 없어져 옳지 않다.",
+    "법무부장관이 구체적인 사건에 대하여 검사를 지휘·감독한다고 한 부분이 검찰청법상 지휘 체계와 달라 옳지 않다. 정답입니다.",
+    "검사가 상급자의 지휘·감독에 이의를 제기할 수 있다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2024-national-crimproc-gah-q15",
+   "paperId": "paper_civil_crimproc_2024_national_gah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/crimproc/2024/national-gah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n압수물은 증거보전의 필요와 소유자·소지자의 사용 필요를 조화시켜 처리한다. 증거에만 공할 목적으로 압수한 물건으로 소유자·소지자가 계속 사용해야 할 물건은 사진촬영 등 원형보존 조치를 하고 신속히 가환부해야 한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "멸실·파손·부패 등 염려가 있는 압수물은 폐기하여야 한다고 단정한 부분이 법이 정한 절차와 달라 옳지 않다.",
+    "소유권이나 환부청구권을 포기하면 환부 의무가 면제된다고 한 부분이 판례·법령과 달라 옳지 않다.",
+    "증거에만 공할 목적으로 압수한 물건이라도 계속 사용할 물건이면 원형보존 조치 후 신속히 가환부해야 한다는 설명은 옳다. 정답입니다.",
+    "압수한 장물은 피고 사건이 종결되지 않으면 피해자에게 환부할 수 없다고 한 부분이 법과 달라 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2024-national-crimproc-gah-q16",
+   "paperId": "paper_civil_crimproc_2024_national_gah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/crimproc/2024/national-gah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n압수·수색영장은 처분을 받는 사람에게 제시해야 하지만 피처분자를 발견할 수 없는 등 제시가 현실적으로 불가능하면 제시 없이 집행해도 위법이 아니다. 압수목록은 압수 직후 현장에서 작성·교부하는 것이 원칙이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "영장 제시가 현실적으로 불가능한 경우에도 제시 없이 집행하면 위법하다고 한 부분이 판례와 달라 옳지 않다.",
+    "사법경찰관이 피의자 이외의 사람의 주거를 수색할 때 주거주에게 미리 일시·장소를 통지해야 한다고 단정한 부분이 법과 달라 옳지 않다.",
+    "영장에 야간집행 기재가 없으면 공개된 시간 내라도 야간에는 집행할 수 없다고 한 부분이 법과 달라 옳지 않다.",
+    "압수물 목록을 압수 직후 현장에서 작성해 교부해야 함이 원칙이라는 설명은 옳다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-crimproc-gah-q17",
+   "paperId": "paper_civil_crimproc_2024_national_gah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/crimproc/2024/national-gah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n법원은 공소사실의 동일성 범위에서 방어권에 실질적 불이익이 없으면 공소장변경 없이 직권으로 가벼운 범죄사실을 인정할 수 있다. 다만 변론이 종결된 뒤 공소장변경 신청이 있더라도 심리를 재개할지는 법원의 소송지휘에 따른 재량이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "동일성 범위에서 직권으로 가벼운 범죄사실을 인정할 수 있다는 설명은 옳다.",
+    "장물취득죄로 기소되어 장물보관만 인정되는 경우 직권으로 유죄를 인정해야 한다는 설명은 판례에 부합한다.",
+    "심리 종결 후 공소장변경 신청이 있으면 반드시 심리를 재개해 허가해야 한다고 한 부분이 법원의 재량과 달라 옳지 않다. 정답입니다.",
+    "항소심이 공소장변경 허가 여부를 결정하지 않고 공판기일을 진행한 조치에 관한 서술은 판례에 부합한다."
+   ]
+  },
+  {
+   "id": "civil2024-national-crimproc-gah-q18",
+   "paperId": "paper_civil_crimproc_2024_national_gah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/crimproc/2024/national-gah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n증인신문에서는 증인의 지위와 증언거부권의 범위가 문제된다. 공동피고인이라도 서로 다른 범죄사실에 관해서는 증인의 지위에 서고, 절도범과 장물범처럼 별개의 범죄사실을 가진 공동피고인은 상대방의 범죄사실에 관해 증인이 된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "증언거부권의 대상에 자신이 범행한 것으로 오인되어 유죄판결을 받을 우려가 있는 사실이 포함되지 않는다고 한 부분이 판례와 달라 옳지 않다.",
+    "사실혼 배우자인 증인의 통역을 한 통역인의 증인신문조서를 유죄 증거로 쓸 수 있다고 한 부분이 제척 규정과 달라 옳지 않다.",
+    "공범 관계인 공동피고인이 분리 후 다른 공동피고인의 공소사실에 관해 위증해도 위증죄가 성립하지 않는다고 한 부분이 옳지 않다.",
+    "절도범과 장물범인 공동피고인은 서로 다른 공동피고인의 범죄사실에 관하여 증인의 지위에 있다는 설명은 옳다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-crimproc-gah-q19",
+   "paperId": "paper_civil_crimproc_2024_national_gah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/crimproc/2024/national-gah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n자유심증주의는 증거의 증명력을 법관의 자유로운 판단에 맡기되 자의적 판단을 허용하지 않는다. 법정 증언과 다른 사건의 공판조서 기재가 상반될 때 어느 것을 채택할지에 관한 형식적 법칙은 없고, 법관이 종합적으로 판단한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "다른 형사사건 확정판결에서 인정된 사실을 다른 증거에 비추어 배척할 수 없다고 한 부분이 판례와 달라 옳지 않다.",
+    "감정의견이 일치하는 경우 이를 배척하려면 특별한 이유를 밝혀야 한다고 한 부분이 자유심증주의와 달라 옳지 않다.",
+    "법정 증언과 다른 사건 공판조서의 진술이 상반될 때 반드시 법정 증언을 믿어야 하는 법칙은 없다는 설명은 옳다. 정답입니다.",
+    "증거보전 절차의 진술을 배척하는 것이 자유심증주의의 남용에 해당한다고 한 부분이 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2024-national-crimproc-gah-q20",
+   "paperId": "paper_civil_crimproc_2024_national_gah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/crimproc/2024/national-gah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n면소판결은 확정판결이 있는 때, 범죄 후 법령의 개폐로 형이 폐지된 때, 공소시효가 완성된 때 등에 선고한다. 공소시효 정지에 관한 규정은 그 시행일 이후의 절차에도 적용될 수 있으나 이미 완성된 시효를 소급해 되살릴 수는 없다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "면소 사안에 대해 피고인의 이익을 위해 무죄의 실체판결을 한 것은 파기의 대상이 된다는 설명은 옳다.",
+    "아동학대범죄 공소시효 정지 규정에 경과규정이 없으면 시행일 당시 이미 범죄가 종료된 사건에는 적용되지 않아 면소 대상이 된다고 한 부분이 판례와 달라 옳지 않다. 정답입니다.",
+    "포괄일죄 관계에서 확정판결 전의 범행이 포함되면 면소판결을 선고해야 한다는 설명은 옳다.",
+    "경과규정으로 종전 규정을 적용하도록 한 경우에는 면소사유에 해당하지 않는다는 설명도 옳다."
+   ]
+  }
+ ]
+}

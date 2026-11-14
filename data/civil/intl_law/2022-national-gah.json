@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_intl_law_2022_national_gah",
+ "title": "2022 국가직 9급 국제법개론 가책형",
+ "year": 2022,
+ "source": "2022년도 국가공무원 9급 공개경쟁채용 필기시험 국제법개론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_15",
+ "questions": [
+  {
+   "id": "civil2022-national-intl_law-gah-q01",
+   "paperId": "paper_civil_intl_law_2022_national_gah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/intl_law/2022/national-gah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국제사법재판소규정 제38조 제1항은 재판의 준칙으로 조약, 국제관습법, 법의 일반원칙을 들고, 그 뒤에 학설과 판례를 법칙 결정의 보조 수단으로 둔다. 법의 일반원칙은 조약과 관습법이 흠결된 경우 보충적으로 적용되고, 같은 조항의 나열 순서가 위계를 뜻하지는 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "ICJ가 당사국의 합의 없이 형평과 선에 따라 재판할 수 있다고 한 부분이 규정과 달라 옳지 않다.",
+    "조약과 국제관습법이 충돌할 때 조약이 항상 우선한다고 단정한 부분이 옳지 않다. 양자는 위계관계가 없어 특별법 우선이나 후법 우선의 원칙으로 조정된다.",
+    "법의 일반원칙이 조약과 관습법의 흠결 시 보충적으로 적용된다는 설명은 규정 제38조 제1항의 구조에 부합한다. 정답입니다.",
+    "ICJ가 선례구속의 원칙을 따라야 한다고 한 부분이 옳지 않다. ICJ 판결은 그 사건 당사자만 기속한다."
+   ]
+  },
+  {
+   "id": "civil2022-national-intl_law-gah-q02",
+   "paperId": "paper_civil_intl_law_2022_national_gah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/intl_law/2022/national-gah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국제법과 국내법의 관계는 각국 헌법이 정하는 방식에 따라 직접 적용되거나 국내법으로 변형되어 실현된다. 우리 헌법은 적법하게 체결·공포된 조약을 국내법과 같은 효력을 갖는 것으로 규정하고, 국가는 국내법을 이유로 국제의무 불이행을 정당화할 수 없다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "국제재판소가 국제법에 위반되는 국내법의 효력을 무효로 할 수 있다고 한 부분이 옳지 않다. 국제재판소는 국내법의 효력을 직접 무효화하지 못한다. 정답입니다.",
+    "국제법이 국내적으로 직접 적용되거나 변형되어 실현된다는 설명은 옳다.",
+    "헌법에 따라 체결·공포된 조약이 변형 없이 국내법과 같은 효력을 가진다는 설명은 우리 헌법 제6조에 부합한다.",
+    "국내법을 국제의무 불이행의 정당화 사유로 원용할 수 없다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-national-intl_law-gah-q03",
+   "paperId": "paper_civil_intl_law_2022_national_gah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/intl_law/2022/national-gah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n범죄인인도는 조약이나 국내법에 근거해 이루어지는 제도로, 인도 대상 범죄는 대체로 중대한 범죄로 한정되고, 특정성 원칙에 따라 인도된 범죄 외의 범죄로 처벌하려면 피청구국의 동의가 필요하다. 피청구국에서 재판이 계속 중이거나 이미 확정판결을 받은 경우에는 인도가 거부될 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "범죄인이 체류하는 국가가 범죄인 인도청구에 응할 국제관습법상 의무가 있다고 한 부분이 옳지 않다. 인도 의무는 조약 등에 근거해 발생한다. 정답입니다.",
+    "인도 대상 범죄를 중대한 범죄로 한정하는 것이 일반적이라는 설명은 옳다.",
+    "특정성 원칙에 따라 추가 동의 없이는 인도사유에 명시된 범죄만 처벌할 수 있다는 설명은 옳다.",
+    "피청구국에서 재판이 진행 중이거나 확정판결이 있는 경우 인도가 거부될 수 있다는 설명도 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-national-intl_law-gah-q04",
+   "paperId": "paper_civil_intl_law_2022_national_gah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/intl_law/2022/national-gah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n외국인 재산의 수용은 공공목적, 비차별, 적법절차, 보상이라는 요건 아래 허용된다. 1962년 천연자원에 관한 영구주권 선언도 수용 권리를 인정하면서 적절한 보상을 지급하도록 하고 있고, Hull 공식은 신속·충분·효과적인 보상을 요구한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "1962년 선언이 소유주는 보상을 지급받을 수 없다고 규정했다고 한 부분이 옳지 않다. 선언은 적절한 보상을 지급하도록 하고 있다. 정답입니다.",
+    "수용 대상 재산에 동산·부동산·무체재산이 모두 포함된다는 설명은 옳다.",
+    "Hull 공식이 신속·충분·효과적인 보상을 요구한다는 설명은 옳다.",
+    "내국인과 외국인 간, 외국인 간 비차별 원칙이 수용의 요건이 된다는 설명도 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-national-intl_law-gah-q05",
+   "paperId": "paper_civil_intl_law_2022_national_gah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/intl_law/2022/national-gah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n보호책임(R2P)은 국가가 자국민을 대량학살·전쟁범죄·인도에 반한 죄 등으로부터 보호하지 못할 때 국제사회가 보호 책임을 지는 개념이다. 침략범죄는 국가 간 무력행위에 관한 범죄로 보호책임과 직접 관련이 없다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "집단살해죄는 보호책임 논의의 핵심이 되는 국제범죄이다.",
+    "전쟁범죄도 보호책임의 대상이 되는 국제범죄이다.",
+    "인도에 반한 죄 역시 보호책임 논의에서 중심이 되는 국제범죄이다.",
+    "침략범죄는 국가의 무력행위에 관한 범죄로, 자국민 보호를 내용으로 하는 보호책임과 직접 관련이 없다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-intl_law-gah-q06",
+   "paperId": "paper_civil_intl_law_2022_national_gah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/intl_law/2022/national-gah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n유엔 헌장은 지역적 약정에 의한 분쟁 해결 노력과 안전보장이사회의 허가 없는 강제조치 금지를 정하고, 군사력 동원을 위한 특별협정은 실제로 체결된 적이 없다. 안전보장이사회가 책임을 다하지 못하면 총회가 집단적 조치를 권고할 수 있다는 것이 총회 결의의 입장이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "지역적 약정 회원국의 해결 노력과 안보리 허가 없는 강제조치 금지에 관한 설명은 옳다.",
+    "군사력 동원을 위한 특별협정이 체결된 적이 없다는 설명은 옳다.",
+    "안보리가 책임을 다하지 못할 때 총회가 집단적 조치를 권고할 수 있다는 설명은 옳다.",
+    "안보리가 임무를 수행하는 동안 총회가 안보리의 요청 없이도 권고할 수 있다고 한 부분이 헌장 제12조와 달라 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-intl_law-gah-q07",
+   "paperId": "paper_civil_intl_law_2022_national_gah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/intl_law/2022/national-gah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n해양법협약 제12부는 해양환경 보호·보전에 관한 국가의 의무를 정하면서 오염 피해 방지, 통보, 환경영향평가 등의 원칙을 규정하고 있다. 예방적 접근은 별도의 조항과 원칙으로 다루어지고, 제12부의 규정으로 명시되어 있지는 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "자국의 관할권·통제 하의 활동이 다른 국가의 환경에 피해를 주지 않도록 보장해야 한다는 설명은 협약의 원칙에 해당한다.",
+    "과학적 불확실성을 이유로 조치를 지연시켜서는 안 된다는 예방적 접근에 관한 서술은 국제환경법의 원칙이지만, 제12부가 규정한 원칙으로 보기는 어려워 이에 해당하지 않는다. 정답입니다.",
+    "오염 피해가 급박하거나 발생한 것을 알게 된 국가의 신속한 통보 의무는 협약의 원칙이다.",
+    "계획된 활동이 해양환경에 중대한 변화를 가져올 근거가 있으면 잠재적 영향을 평가해야 한다는 설명도 협약의 원칙이다."
+   ]
+  },
+  {
+   "id": "civil2022-national-intl_law-gah-q08",
+   "paperId": "paper_civil_intl_law_2022_national_gah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/intl_law/2022/national-gah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n영사관계 협약상 외교관계의 수립 동의는 다른 의사표시가 없으면 영사관계 수립 동의를 포함하고, 외교관이 영사직무를 수행할 때에도 외교특권과 면제가 유지된다. 다만 영사관원은 접수국의 동의를 받아 외교활동을 하더라도 외교특권과 면제를 주장할 수 없다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "외교관계 수립 동의가 영사관계 수립 동의를 포함한다는 설명은 협약 제2조에 부합한다.",
+    "외교관이 영사직무를 수행해도 외교특권과 면제가 유지된다는 설명은 옳다.",
+    "영사관원이 접수국의 동의하에 외교활동을 수행하면 외교특권과 면제를 주장할 수 있다고 한 부분이 협약 제17조와 달라 옳지 않다. 정답입니다.",
+    "외교관으로서 영사직무를 수행하는 자의 명단을 접수국 외교부에 통고해야 한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-national-intl_law-gah-q09",
+   "paperId": "paper_civil_intl_law_2022_national_gah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/intl_law/2022/national-gah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n조약법협약 제7조 제2항은 전권위임장이 필요 없는 경우를 열거한다. 국가원수·정부수반·외교부장관은 조약 체결에 관한 모든 행위에서, 국제회의나 국제기구에 파견된 대표는 그 회의·기구에서 조약문을 채택하는 데에서 전권위임장이 필요 없다. 외교공관장이 조약에 서명하는 경우는 채택을 넘어서는 행위여서 전권위임장이 필요하다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "ㄱ이 포함된 조합은 ㄴ이 포함되어 옳지 않다.",
+    "ㄱ·ㄴ·ㄹ을 고른 조합도 ㄴ이 포함되어 옳지 않다.",
+    "외교부장관의 서명(ㄱ), 대사의 조약문 채택(ㄷ), 국제기구에 파견된 국가대표의 조약문 채택(ㄹ)이 모두 전권위임장이 필요 없는 경우이다. 정답입니다.",
+    "ㄴ이 포함되어 있어 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2022-national-intl_law-gah-q10",
+   "paperId": "paper_civil_intl_law_2022_national_gah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/intl_law/2022/national-gah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n외교공관 문서와 서류의 불가침은 외교관계가 단절되거나 무력충돌이 발생해도 유지되고, 접수국은 공관 문서를 반환해야 하며 사법절차 목적으로 활용할 수 없다. 외교문서가 제3자에게 공식적으로 전달되면 그때부터 불가침을 상실한다는 것이 국제관행이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "무력충돌이나 외교관계 단절 시 문서 불가침이 보호되지 않는다고 한 부분이 옳지 않다.",
+    "외교문서가 공관원에 의해 제3자에게 공식 전달되면 불가침성을 상실한다는 설명은 국제관행에 부합한다. 정답입니다.",
+    "외교관의 개인서류에 관해 재판에 필수적인 서류 제출을 강제할 수 있다고 한 부분이 옳지 않다.",
+    "접수국 수중에 들어간 공관 문서를 사법절차 목적으로 활용할 수 있다고 한 부분이 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2022-national-intl_law-gah-q11",
+   "paperId": "paper_civil_intl_law_2022_national_gah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/intl_law/2022/national-gah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n총회는 국제평화에 관한 문제를 토의할 수 있지만 조치를 필요로 하는 문제는 안전보장이사회에 회부해야 하고, 안보리 의장성명은 표결 없이 채택되며 법적 구속력이 없다. 상주 옵저버국 대표는 발언권만 있고 투표권은 없다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "총회의 토의와 안보리 회부에 관한 설명은 옳다.",
+    "의장성명의 채택 방식과 법적 성격에 관한 설명은 옳다.",
+    "상주 옵저버국 대표의 발언권과 투표권에 관한 설명도 옳다.",
+    "유엔 가입권고에 관한 안보리 표결에 상임이사국의 거부권이 적용되지 않는다고 한 부분이 옳지 않다. 가입권고는 실질사항으로 거부권이 적용된다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-intl_law-gah-q12",
+   "paperId": "paper_civil_intl_law_2022_national_gah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/intl_law/2022/national-gah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n강행규범은 국가 간 합의로도 배제할 수 없는 국제법의 최상위 규범으로, 이에 위반하는 조약은 무효이고 새로운 강행규범이 출현하면 이에 저촉되는 기존 조약은 효력을 잃는다. 강행규범은 그 자체가 새로운 강행규범에 의해 수정될 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "조약당사국이 합의로 강행규범의 적용을 배제할 수 있다고 한 부분이 옳지 않다.",
+    "새로운 강행규범과 저촉되는 기존 조약이 소급해 무효가 된다고 한 부분이 옳지 않다. 무효가 되는 시점은 그 규범의 출현 이후이다.",
+    "강행규범이 새로운 강행규범에 의해 수정될 수 있다는 설명은 옳다. 정답입니다.",
+    "조약 일부가 강행규범에 반해도 나머지 규정이 유효하다고 한 부분이 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2022-national-intl_law-gah-q13",
+   "paperId": "paper_civil_intl_law_2022_national_gah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/intl_law/2022/national-gah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n외국인의 입국을 허용할 의무는 국제법상 국가가 부담하지 않지만, 합법적으로 입국한 외국인을 자의적으로 추방할 수는 없다. 출국 금지도 자의적으로 할 수 없고, 조약을 통해 집단적 추방을 금지할 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "국가가 외국인의 입국을 허용할 국제법상 의무를 부담하지 않는다는 설명은 옳다.",
+    "합법적으로 입국한 외국인을 자의적으로 추방할 수 없다는 설명은 옳다.",
+    "국가가 외국인에 대해 자의적으로 출국을 금지할 수 있다고 한 부분이 옳지 않다. 출국 금지도 자의적이어서는 안 된다. 정답입니다.",
+    "조약으로 외국인의 집단적 추방을 금지할 수 있다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-national-intl_law-gah-q14",
+   "paperId": "paper_civil_intl_law_2022_national_gah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/intl_law/2022/national-gah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nICJ는 유엔의 주요기관이고, 자국 출신 재판관이 없는 분쟁 당사국은 임시재판관을 지명할 수 있는데 그 재판관에게 선임국의 국적을 요구하지 않는다. 소재판부의 판결은 전원재판부와 같은 구속력을 가지며, 판결의 재심은 결정적 요소가 될 성격의 새로운 사실이 발견된 경우에 청구할 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "PCIJ가 국제연맹으로부터 독립된 기관이었고 ICJ가 유엔의 주요기관이라는 설명은 옳다.",
+    "임시재판관이 선임국의 국적을 가지고 있을 것을 요건으로 한다고 한 부분이 옳지 않다. 정답입니다.",
+    "소재판부 판결이 전원재판부와 같은 구속력을 가진다는 설명은 옳다.",
+    "판결의 재심 청구 사유에 관한 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-national-intl_law-gah-q15",
+   "paperId": "paper_civil_intl_law_2022_national_gah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/intl_law/2022/national-gah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국제위법행위에 관한 국가책임초안은 사인의 행위가 국가에 귀속되는 경우를 정하고 있다. 국가기관으로부터 법률상 권한을 위임받아 행동하거나 공권력이 마비된 상황에서 정부권한을 행사하는 경우에는 국가행위로 귀속된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "국가가 원칙적으로 사인의 위법행위에 대해 국가책임을 부담하지 않는다는 설명은 옳다.",
+    "국가가 사인의 행위를 단순히 지지한 경우에도 국가행위로 귀속된다고 한 부분이 옳지 않다. 귀속되려면 그 행위를 인정하고 채택하는 정도의 명시적 행태가 필요하다. 정답입니다.",
+    "사인이 법률상 권한을 위임받아 행동하는 경우 국가행위로 간주된다는 설명은 옳다.",
+    "공공당국이 마비된 상황에서 사인이 정부권한을 행사하는 경우 국가행위로 간주된다는 설명도 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-national-intl_law-gah-q16",
+   "paperId": "paper_civil_intl_law_2022_national_gah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/intl_law/2022/national-gah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국적의 부여와 박탈은 원칙적으로 국내관할 사항이되 국제법과 충돌해서는 안 되고, 국가는 자국민에 대하여 원칙적으로 외교적 보호권을 행사한다. 법인에 대한 외교적 보호는 Barcelona Traction 사건에서 회사 설립지국이 행사한다는 원칙이 제시되었다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "국적 부여·박탈이 기본적으로 국내관할 사항이라는 설명은 옳다.",
+    "국가가 해외에 있는 자국민의 행위를 규율하는 법을 제정할 수 있다는 설명은 옳다.",
+    "Barcelona Traction 사건에서 법인에 대한 외교적 보호에 진정한 관련성이 요구된다고 시사했다고 한 부분이 옳지 않다. 그 사건은 회사 설립지국 보호 원칙을 제시하였다. 정답입니다.",
+    "국가가 원칙적으로 자국민에 대해서만 외교적 보호권을 행사할 수 있다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-national-intl_law-gah-q17",
+   "paperId": "paper_civil_intl_law_2022_national_gah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/intl_law/2022/national-gah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nWTO 분쟁해결절차에서 위반 조치가 이행기간 내에 제거되지 않으면 보상에 합의할 수 있고, 이행기간 종료일부터 20일 내에 합의가 없으면 DSB에 보복조치 수권을 요청할 수 있다. 보복조치 수준에 다툼이 있으면 중재에 회부하고, 보복은 원칙적으로 같은 분야에서 하지만 상황에 따라 다른 분야로도 가능하다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "보상이 임시적 구제수단이라는 설명은 옳다.",
+    "이행기간 종료일부터 20일 이내 합의가 없으면 보복 수권을 요청할 수 있다는 설명은 옳다.",
+    "보복조치 수준에 관한 다툼을 중재에 회부할 수 있다는 설명도 옳다.",
+    "다른 산업분야에 대한 보복조치가 허용되지 않는다고 한 부분이 교차보복을 허용하는 제도와 달라 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-intl_law-gah-q18",
+   "paperId": "paper_civil_intl_law_2022_national_gah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/intl_law/2022/national-gah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n최혜국대우 원칙은 동종상품에 대해 법률상·사실상의 차별을 금지하고, 관세뿐 아니라 과징금 부과방법 등에도 적용된다. 관세동맹 등 GATT 제24조에 근거한 특혜는 예외로 허용된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "최혜국대우가 사실상의 차별도 금지한다는 설명은 옳다.",
+    "관세동맹 회원국 간 특혜가 예외로 허용된다는 설명은 옳다.",
+    "최혜국대우가 과징금 부과방법에도 적용된다는 설명도 옳다.",
+    "최혜국대우가 원칙적으로 수입상품에만 적용된다고 한 부분이 옳지 않다. GATT 제1조는 수입과 수출에 관한 관세·부과금 등에도 적용된다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-intl_law-gah-q19",
+   "paperId": "paper_civil_intl_law_2022_national_gah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/intl_law/2022/national-gah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n조약법협약 제31조는 조약의 해석에서 문맥에 전문·부속서와 함께 조약 체결과 관련한 모든 당사국 간의 합의, 당사국이 수락한 관련 문서를 포함시킨다. 교섭 기록은 문맥이 아니라 해석의 보충적 수단으로 활용된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "조약 체결과 관련한 모든 당사국 간의 합의는 문맥에 포함된다.",
+    "당사국이 수락한 조약 관련 문서도 문맥에 포함된다.",
+    "전문과 부속서는 문맥의 기본 요소이다.",
+    "조약 체결 시의 상황과 교섭 기록은 문맥이 아니라 해석의 보충적 수단에 해당한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-intl_law-gah-q20",
+   "paperId": "paper_civil_intl_law_2022_national_gah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/intl_law/2022/national-gah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n섬은 영해·접속수역·배타적경제수역·대륙붕을 가질 수 있는 자연적으로 형성된 육지이고, 사람이 살 수 없거나 독자적 경제생활을 유지할 수 없는 암석은 배타적경제수역과 대륙붕을 가질 수 없다. 인공섬 주변에는 항행 안전을 위한 안전수역을 설정할 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "섬이 접속수역을 설정할 수 없다고 한 부분이 옳지 않다.",
+    "인공섬을 배타적경제수역에 설치하는 경우 주변 항행을 위해 안전수역을 설정할 수 있다는 설명은 옳다. 정답입니다.",
+    "인간이 거주할 수 없거나 독자적 경제활동을 유지할 수 없는 암석이 배타적경제수역을 설정할 수 있다고 한 부분이 옳지 않다.",
+    "간조노출지가 국제법상 섬에 해당한다고 한 부분이 옳지 않다. 간조노출지는 섬과 구별된다."
+   ]
+  }
+ ]
+}
