@@ -21,7 +21,7 @@
       "imageUrl": "assets/questions/fire/law/2023/q01.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n소방기본법의 벌칙은 소방활동을 직접 방해하는 행위에 무거운 형을 두고 있다. 출동하는 소방자동차의 출동을 방해하면 5년 이하의 징역 또는 5천만원 이하의 벌금이지만, 생활안전활동 방해, 소방용수 사용 방해, 관계인의 현장 조치 불이행 등은 100만원 이하의 벌금이다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1,
+      "sourcePage": 7,
       "optionExplanations": [
         "정당한 사유 없이 소방대의 생활안전활동을 방해한 자는 100만원 이하의 벌금으로 ③·④와 상한이 같다.",
         "화재진압·구조·구급을 위해 출동하는 소방자동차의 출동을 방해하면 5년 이하의 징역 또는 5천만원 이하의 벌금으로 나머지 셋보다 훨씬 무겁다. 정답입니다.",
@@ -45,7 +45,7 @@
       "imageUrl": "assets/questions/fire/law/2023/q02.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국고보조 대상 소방활동장비의 규격은 소방기본법 시행규칙 별표 1의2에 정해져 있다. 구조정은 마력이 아니라 30톤급으로 규정하고, 배연차·펌프차 등 중형 차량은 170마력 이상, 특수 구급차는 90마력 이상, 소방헬리콥터는 5~17인승이다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1,
+      "sourcePage": 7,
       "optionExplanations": [
         "구조정은 마력이 아니라 톤수로 규정해 30톤급이므로 90마력 이상이라는 설명이 옳지 않다. 정답입니다.",
         "배연차는 중형 한 종류로 170마력 이상이므로 옳은 설명이다.",
@@ -69,7 +69,7 @@
       "imageUrl": "assets/questions/fire/law/2023/q03.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지하에 설치하는 소화전·저수조의 소방용수표지는 맨홀 뚜껑 지름을 648밀리미터 이상으로 하고, 뚜껑 부근 둘레에 노란색 반사도료로 폭 15센티미터의 선을 칠하도록 정해져 있다(소방기본법 시행규칙 별표 2).",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1,
+      "sourcePage": 7,
       "optionExplanations": [
         "지름 648밀리미터 이상, 노란색, 폭 15센티미터가 모두 규정과 일치한다. 정답입니다.",
         "지름은 맞지만 둘레 선은 붉은색이 아니라 노란색이어야 한다.",
@@ -93,7 +93,7 @@
       "imageUrl": "assets/questions/fire/law/2023/q04.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n소방기술 경력의 인정과 자격수첩·경력수첩의 발급 권한은 소방청장에게 있고(소방시설공사업법 제28조), 인정 범위와 발급 절차는 행정안전부령으로 정한다. 거짓·부정한 방법으로 수첩을 발급받은 경우에는 반드시 취소하여야 한다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1,
+      "sourcePage": 7,
       "optionExplanations": [
         "자격·학력·경력을 가진 사람을 소방기술자로 인정하는 권한은 소방청장에게 있으므로 옳지 않다.",
         "자격수첩·경력수첩의 발급 권한도 소방청장에게 있으므로 옳지 않다.",
@@ -117,7 +117,7 @@
       "imageUrl": "assets/questions/fire/law/2023/q05.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n감리업자가 감리를 마치면 소방공사감리 결과보고(통보)서에 소방시설 성능시험조사표, 감리일지(소방본부장·소방서장에게 보고하는 경우만), 사용승인 신청 증빙서류 등을 첨부한다(소방시설공사업법 시행규칙 제19조). 첨부하는 도면은 건축설계도면이 아니라 소방시설설계도면이다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1,
+      "sourcePage": 7,
       "optionExplanations": [
         "첨부하는 도면은 건축설계도면이 아니라 착공신고 후 변경된 소방시설설계도면이므로 옳지 않다. 정답입니다.",
         "소방청장이 고시하는 소방시설 성능시험조사표 1부를 첨부하므로 맞다.",
@@ -141,7 +141,7 @@
       "imageUrl": "assets/questions/fire/law/2023/q06.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n상주 공사감리 대상은 연면적 3만제곱미터 이상인 특정소방대상물(아파트 제외)의 소방시설 공사, 그리고 지하층을 포함한 층수가 16층 이상이면서 500세대 이상인 아파트의 소방시설 공사다(소방시설공사업법 시행령 별표 3).",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 2,
+      "sourcePage": 8,
       "optionExplanations": [
         "아파트 세대 기준이 500세대가 아니라 300세대로 되어 있어 옳지 않다.",
         "연면적 3만제곱미터 이상, 아파트는 16층 이상이면서 500세대 이상으로 모두 규정과 일치한다. 정답입니다.",
@@ -165,7 +165,7 @@
       "imageUrl": "assets/questions/fire/law/2023/q07.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n분리 도급의 예외는 재난 발생으로 긴급히 착공해야 하는 공사, 국방·국가안보상 기밀을 유지해야 하는 공사, 실시설계 기술제안입찰·기본설계 기술제안입찰에 따른 공사 등이다(소방시설공사업법 시행령 제11조의2). 비상경보설비 공사가 예외가 되려면 연면적 1천제곱미터 이하여야 한다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 2,
+      "sourcePage": 8,
       "optionExplanations": [
         "ㄷ의 연면적 기준이 1천제곱미터여야 하는데 3천제곱미터로 되어 있고, ㅁ이 빠졌다.",
         "재난 긴급 착공(ㄱ), 국방·국가안보 기밀 공사(ㄴ), 기술제안입찰 공사(ㅁ)가 모두 예외에 해당한다. 정답입니다.",
@@ -189,7 +189,7 @@
       "imageUrl": "assets/questions/fire/law/2023/q08.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n소방기술자 배치기준은 공사의 규모·층수에 따라 특급·고급·중급·초급으로 나뉜다. 연면적 20만제곱미터 이상이거나 지하층 포함 40층 이상이면 특급, 16층 이상 40층 미만이거나 연면적 3만~20만제곱미터면 고급, 5천~3만제곱미터면 중급, 1천~5천제곱미터나 물분무등소화설비·제연설비 설치 현장이면 중급 이상을 배치한다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 2,
+      "sourcePage": 8,
       "optionExplanations": [
         "연면적 20만제곱미터 이상 현장에 특급기술자를 배치하므로 옳은 설명이다.",
         "지하층 포함 16층 이상 40층 미만 현장에 고급기술자 이상을 배치하므로 옳은 설명이다.",
@@ -213,7 +213,7 @@
       "imageUrl": "assets/questions/fire/law/2023/q09.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n건설현장 소방안전관리자의 업무에는 소방계획서 작성, 화기취급 감독과 화재위험작업의 허가·관리, 공사 단계별 피난안전구역·피난로 확보, 임시소방시설 감독, 초기대응체계 운영, 건설현장 작업자에 대한 소방안전 교육·훈련 등이 있다(화재예방법 제29조 제2항).",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 2,
+      "sourcePage": 8,
       "optionExplanations": [
         "건설현장의 소방계획서 작성은 소방안전관리자의 업무이므로 옳은 설명이다.",
         "화기취급의 감독과 화재위험작업의 허가·관리는 업무에 포함되므로 옳은 설명이다.",
@@ -237,7 +237,7 @@
       "imageUrl": "assets/questions/fire/law/2023/q10.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n특수가연물 표지는 흰 바탕에 검은 글자로 하고, 화기엄금 표시 부분만 붉은 바탕에 흰 글자로 한다. 표지는 짧은 변 0.3미터 이상, 긴 변 0.6미터 이상인 직사각형이며 품명·최대저장수량·관리책임자·연락처 등을 담는다(화재예방법 시행령 별표 3).",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 3,
+      "sourcePage": 9,
       "optionExplanations": [
         "화기엄금 부분은 붉은 바탕에 백색 문자로 하므로 옳은 설명이다.",
         "표지는 0.3미터 이상과 0.6미터 이상의 직사각형으로 하므로 옳은 설명이다.",
@@ -261,7 +261,7 @@
       "imageUrl": "assets/questions/fire/law/2023/q11.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n건설현장 소방안전관리대상물은 공사 부분의 연면적 합계가 1만5천제곱미터 이상인 경우와, 연면적 5천제곱미터 이상이면서 지하 2층 이상이거나 지상 11층 이상이거나 냉동·냉장창고인 경우다(화재예방법 시행령 제29조).",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 3,
+      "sourcePage": 9,
       "optionExplanations": [
         "연면적 5천제곱미터 이상인 냉동·냉장창고는 층수와 관계없이 대상이므로 해당한다.",
         "공사 부분 연면적 합계 1만5천제곱미터 이상이면 용도와 관계없이 대상이므로 2만제곱미터 복합건축물은 해당한다.",
@@ -285,7 +285,7 @@
       "imageUrl": "assets/questions/fire/law/2023/q12.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n화재예방안전진단의 범위에는 화재위험요인 조사, 소방계획·피난계획 수립, 소방시설등의 유지·관리, 비상대응조직 및 교육훈련, 화재 위험성 평가가 모두 포함된다(화재예방법 제41조 제2항).",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 3,
+      "sourcePage": 9,
       "optionExplanations": [
         "ㄱ만으로는 부족하고 ㄴ·ㄷ·ㄹ도 진단 범위에 들어간다.",
         "ㄱ·ㄴ에 비상대응조직·교육훈련 등이 더 포함되므로 부족하다.",
@@ -309,7 +309,7 @@
       "imageUrl": "assets/questions/fire/law/2023/q13.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n소방안전관리자는 선임 사유가 발생한 날부터 30일 이내에 선임하고, 선임한 날부터 14일 이내에 소방본부장 또는 소방서장에게 선임 사실을 신고하여야 한다(화재예방법 제26조 제1항, 같은 법 시행규칙 제14조).",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 3,
+      "sourcePage": 9,
       "optionExplanations": [
         "선임신고 14일, 선임 30일이 모두 규정과 일치한다. 정답입니다.",
         "신고 기한은 맞지만 선임 기한이 60일이 아니라 30일이다.",
@@ -333,7 +333,7 @@
       "imageUrl": "assets/questions/fire/law/2023/q14.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n수용인원은 용도별 기준면적으로 바닥면적을 나누어 산정한다. 관람석이 없는 강당은 4.6㎡당 1명, 강의실과 휴게실은 1.9㎡당 1명이다. 강당 460÷4.6=100명, 강의실 570÷1.9=300명, 휴게실 38÷1.9=20명을 더하면 420명이다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 4,
+      "sourcePage": 10,
       "optionExplanations": [
         "380명은 계산보다 40명 적은 값이다.",
         "400명은 휴게실 20명을 빠뜨린 값이다.",
@@ -357,7 +357,7 @@
       "imageUrl": "assets/questions/fire/law/2023/q15.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n스프링클러설비는 학생 수용을 위한 기숙사로서 연면적 5천제곱미터 이상인 경우와, 영화상영관 용도로 쓰는 층의 바닥면적이 1천제곱미터 이상인 경우 등에 설치한다. 합숙소 100제곱미터와 숙박시설 500제곱미터는 간이스프링클러설비 대상이다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 4,
+      "sourcePage": 10,
       "optionExplanations": [
         "ㄱ은 맞지만 ㄴ은 간이스프링클러설비 대상이고 ㄹ이 빠졌다.",
         "기숙사 5천제곱미터(ㄱ)와 영화상영관 1천제곱미터(ㄹ)가 모두 설치 대상이다. 정답입니다.",
@@ -381,7 +381,7 @@
       "imageUrl": "assets/questions/fire/law/2023/q16.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n건축허가 등의 동의 대상은 연면적 400제곱미터 이상이 원칙이고, 노유자시설·수련시설은 200제곱미터 이상, 학교시설사업 촉진법에 따른 학교시설은 100제곱미터 이상이다. 지하층·무창층은 바닥면적 150제곱미터(공연장 100제곱미터) 이상인 층이 있는 경우, 차고·주차장은 200제곱미터 이상인 층이 있는 경우가 대상이다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 4,
+      "sourcePage": 10,
       "optionExplanations": [
         "노유자시설과 수련시설의 기준은 100제곱미터가 아니라 200제곱미터이므로 옳지 않다. 정답입니다.",
         "학교시설사업 촉진법에 따라 건축하는 연면적 100제곱미터 이상의 학교시설은 동의 대상이므로 옳은 설명이다.",
@@ -405,7 +405,7 @@
       "imageUrl": "assets/questions/fire/law/2023/q17.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n중앙소방기술심의위원회는 화재안전기준, 소방시설의 구조·원리상 공법이 특수한 설계·시공, 설계 및 공사감리의 방법, 하자 판단의 기준 등을 심의한다. 소방시설의 하자 유무 판단은 원칙적으로 지방소방기술심의위원회가 맡는다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 4,
+      "sourcePage": 10,
       "optionExplanations": [
         "화재안전기준에 관한 사항은 중앙위원회 심의사항이므로 옳다.",
         "소방시설에 하자가 있는지의 판단은 지방위원회가 맡고, 중앙위원회는 하자 판단의 기준을 심의하므로 옳지 않다. 정답입니다.",
@@ -429,7 +429,7 @@
       "imageUrl": "assets/questions/fire/law/2023/q18.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n전문 소방시설관리업의 보조 기술인력은 고급·중급·초급점검자 이상의 기술인력을 각 2명 이상 두어야 한다(소방시설법 시행령 별표 9). 일반 소방시설관리업은 중급·초급점검자 각 1명 이상이다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 5,
+      "sourcePage": 11,
       "optionExplanations": [
         "전문 소방시설관리업에는 특급점검자 기준이 없으므로 옳지 않다.",
         "각 1명으로는 부족하고 등급별 2명 이상이어야 한다.",
@@ -453,7 +453,7 @@
       "imageUrl": "assets/questions/fire/law/2023/q19.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n행정처분의 감경사유는 경미한 위반사항, 사소한 부주의나 오류로 인한 위반, 처음 위반한 경우로서 5년 이상 모범적으로 업무를 해 온 경우 등이다. 고의에 의한 위반은 감경이 아니라 가중사유에 해당한다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 5,
+      "sourcePage": 11,
       "optionExplanations": [
         "유도등이 일시적으로 점등되지 않는 경우는 경미한 위반사항으로 감경사유다.",
         "스프링클러 헤드가 살수반경에 미치지 못하는 경우도 경미한 위반사항으로 감경사유다.",
@@ -477,7 +477,7 @@
       "imageUrl": "assets/questions/fire/law/2023/q20.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n위험물의 유별 저장·취급 기준에서 제1류(산화성 고체)는 가연물·분해촉진 물품과의 접촉, 과열·충격·마찰을 피하고 알칼리금속의 과산화물은 물과의 접촉도 피한다. 자연발화성물질·금수성물질은 제3류, 철분·금속분·마그네슘의 물·산 접촉 금지는 제2류의 기준이다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 5,
+      "sourcePage": 11,
       "optionExplanations": [
         "제1류 위험물의 저장·취급 기준으로 옳은 설명이다. 정답입니다.",
         "자연발화성물질과 금수성물질은 제2류가 아니라 제3류 위험물의 기준이므로 옳지 않다.",
@@ -501,7 +501,7 @@
       "imageUrl": "assets/questions/fire/law/2023/q21.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n예방규정을 정해야 하는 제조소등은 지정수량의 10배 이상을 취급하는 제조소, 옥외저장소는 100배 이상, 옥내저장소는 150배 이상, 옥외탱크저장소는 200배 이상을 저장하는 경우 등이다(위험물안전관리법 시행령 제15조).",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 5,
+      "sourcePage": 11,
       "optionExplanations": [
         "알코올류 지정수량 400L의 10배인 4,000L를 취급하는 제조소이므로 예방규정 대상이다.",
         "유황 지정수량 100kg의 300배인 30,000kg을 저장하는 옥외저장소이므로 대상이다.",
@@ -525,7 +525,7 @@
       "imageUrl": "assets/questions/fire/law/2023/q22.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n옥외저장소에 저장할 수 있는 위험물은 제2류 중 황·인화성고체, 제4류 중 알코올류·석유류·동식물유류와 인화점 0℃ 이상인 제1석유류, 제6류 위험물 등이다. 제1류 위험물은 옥외저장소에 저장할 수 없다(위험물안전관리법 시행령 별표 2).",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 6,
+      "sourcePage": 12,
       "optionExplanations": [
         "제1류 위험물 중 염소산염류는 옥외저장소에 저장할 수 없다. 정답입니다.",
         "제2류 위험물 중 유황은 옥외저장소 저장이 허용된다.",
@@ -549,7 +549,7 @@
       "imageUrl": "assets/questions/fire/law/2023/q23.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n제조소의 보유공지는 취급하는 위험물이 지정수량의 10배 이하이면 3미터 이상, 10배를 넘으면 5미터 이상이다(위험물안전관리법 시행규칙 별표 4). 지정수량의 20배를 취급하므로 5미터 이상을 확보하여야 한다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 6,
+      "sourcePage": 12,
       "optionExplanations": [
         "2미터라는 기준은 없으므로 옳지 않다.",
         "3미터 이상은 지정수량 10배 이하일 때의 기준이다.",
@@ -573,7 +573,7 @@
       "imageUrl": "assets/questions/fire/law/2023/q24.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n화학소방자동차의 기준은 포수용액 방사차의 경우 방사능력이 매분 2,000리터 이상, 분말 방사차는 1,400킬로그램 이상의 분말 비치와 매초 35킬로그램 이상 방사, 할로겐화합물 방사차는 매초 40킬로그램 이상 방사와 1,000킬로그램 이상 비치, 이산화탄소 방사차는 매초 40킬로그램 이상 방사와 3,000킬로그램 이상 비치이다(위험물안전관리법 시행규칙 별표 23).",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 6,
+      "sourcePage": 12,
       "optionExplanations": [
         "포수용액 방사차의 방사능력은 매분 1,000리터가 아니라 2,000리터 이상이다.",
         "분말 방사차는 1,000킬로그램이 아니라 1,400킬로그램 이상의 분말을 비치한다.",
@@ -597,7 +597,7 @@
       "imageUrl": "assets/questions/fire/law/2023/q25.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n위험물 운반 적재기준은 하나의 외장용기에 다른 종류의 위험물을 함께 담지 않고, 고체는 내용적의 95퍼센트 이하, 액체는 98퍼센트 이하로 수납하며 55℃에서 누설되지 않도록 공간용적을 두게 한다. 알킬알루미늄등만 90퍼센트 이하, 50℃에서 5퍼센트 이상의 공간용적을 유지해야 한다(위험물안전관리법 시행규칙 별표 19).",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 6,
+      "sourcePage": 12,
       "optionExplanations": [
         "하나의 외장용기에는 다른 종류의 위험물을 수납하지 않으므로 옳은 설명이다.",
         "고체 위험물은 내용적의 95퍼센트 이하 수납율로 수납하므로 옳은 설명이다.",

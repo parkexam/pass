@@ -21,7 +21,7 @@
       "imageUrl": "assets/questions/fire/admin_law/2022/q01.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n행정기본법은 행정작용이 법률에 위반되어서는 안 된다는 법률우위와, 권리 제한·의무 부과 등 중요한 경우 법률의 근거를 요구하는 법률유보를 함께 정하고 있다. 장기간 권한을 행사하지 않아 국민이 행사되지 않으리라 믿을 만한 사유가 있으면 권한을 행사할 수 없고, 즉시강제는 보충적·최소한으로만 허용된다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1,
+      "sourcePage": 9,
       "optionExplanations": [
         "행정작용은 법률에 위반되어서는 안 되고 권리 제한·의무 부과 등 중요한 경우에는 법률의 근거를 요구하므로 옳은 설명이다.",
         "장기간 권한을 행사하지 않아 국민이 권한이 행사되지 않으리라 믿을 만한 사유가 있으면 권한을 행사할 수 없으므로 옳은 설명이다.",
@@ -45,7 +45,7 @@
       "imageUrl": "assets/questions/fire/admin_law/2022/q02.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n행정행위의 무효사유가 되려면 하자가 중대할 뿐 아니라 외관상 명백하여야 한다. 법률이 요구한 심의절차를 빠뜨린 하자는 처분을 위법하게 하는 취소사유에 그치고, 그 자체로 당연무효가 되지는 않는다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1,
+      "sourcePage": 9,
       "optionExplanations": [
         "토지 소유·동의 요건을 갖추지 못한 채 한 사업시행자 지정처분은 하자가 중대·명백하여 무효이다.",
         "위헌결정 후 그 법률에 터잡아 한 체납처분은 위헌결정의 기속력에 어긋나 무효이다.",
@@ -69,7 +69,7 @@
       "imageUrl": "assets/questions/fire/admin_law/2022/q03.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n행정처분을 한 행정청은 자신의 처분에 하자가 있으면 별도의 근거 규정이 없어도 직권으로 취소할 수 있다. 다만 수익적 처분을 취소할 때는 공익상 필요와 당사자가 입을 신뢰이익을 비교·형량하여야 한다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1,
+      "sourcePage": 9,
       "optionExplanations": [
         "부과처분의 취소를 다시 취소해도 이미 효력을 상실한 원부과처분은 소생하지 않으므로 옳은 설명이다.",
         "어린이집 평가인증의 취소는 성립 후 사유에 의한 철회이므로, 효력을 과거로 소급해 상실시키려면 별도의 법적 근거가 필요하다는 설명은 옳다.",
@@ -93,7 +93,7 @@
       "imageUrl": "assets/questions/fire/admin_law/2022/q04.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n신뢰보호의 원칙은 공적 견해 표명, 정당한 신뢰, 신뢰에 기한 처리, 신뢰이익 침해, 공익과의 형량 요건을 모두 갖추어야 적용된다. 사전 적정통보를 믿고 요건을 갖춘 뒤 한 불허가는 신뢰보호와 비례 원칙에 반하는 재량권 남용이다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 1,
+      "sourcePage": 9,
       "optionExplanations": [
         "공익이 신뢰이익의 침해를 정당화할 정도로 강하면 그 처분은 위법하지 않으므로 옳은 설명이다.",
         "중요한 사실관계와 쟁점을 제대로 드러내지 않은 질의에 대한 회신은 공적 견해표명으로 볼 수 없으므로 옳은 설명이다.",
@@ -117,7 +117,7 @@
       "imageUrl": "assets/questions/fire/admin_law/2022/q05.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n법치행정의 원리상 국회가 법률로 직접 규율해야 할 필요성은 규율대상이 기본권과 기본적 의무에 관련될수록 커진다. 국가계약이 사법상 계약이더라도 국가계약법령이 정한 요건과 절차를 거치지 않은 계약은 효력이 없다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 2,
+      "sourcePage": 10,
       "optionExplanations": [
         "규율대상이 기본권·기본적 의무와 관련되고 이해 조정의 필요성이 클수록 법률로 직접 규율할 필요성이 커지므로 옳은 설명이다.",
         "국가계약은 사법의 원리가 적용되지만 국가계약법령의 요건과 절차를 거치지 않으면 효력이 없으므로, 유효하다는 서술은 옳지 않다. 정답입니다.",
@@ -141,7 +141,7 @@
       "imageUrl": "assets/questions/fire/admin_law/2022/q06.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n시행령·시행규칙이 법률의 위임 없이 새로운 내용을 정할 수는 없지만, 모법의 취지상 해석으로 가능한 내용을 구체화한 데 그친 경우에는 직접 위임 규정이 없어도 무효가 아니다. 위임 근거가 사후에 생기면 그때부터 유효해진다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 2,
+      "sourcePage": 10,
       "optionExplanations": [
         "위임 없이 권리·의무에 관한 내용을 정할 수 없다는 원칙은 맞지만, 모법의 규율 범위 안에서 구체화한 경우까지 당연히 무효라고 볼 수는 없으므로 옳지 않다. 정답입니다.",
         "법률이 위임했는데 정당한 이유 없이 시행령을 제정하지 않은 것은 불법행위가 되어 국가배상청구가 가능하므로 옳은 설명이다.",
@@ -165,7 +165,7 @@
       "imageUrl": "assets/questions/fire/admin_law/2022/q07.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n가명정보는 추가 정보 없이는 특정 개인을 알아볼 수 없게 처리한 정보로서 개인정보 보호법상 개인정보에 포함되고, 적용이 배제되는 것은 익명정보이다. 공공기관에 대한 열람 요구는 그 기관에 직접 하거나 개인정보 보호위원회를 통해 할 수 있다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 2,
+      "sourcePage": 10,
       "optionExplanations": [
         "가명처리한 정보는 개인정보 보호법상 개인정보에 해당하므로, 해당하지 않는다는 서술은 옳지 않다.",
         "개인정보 보호위원회는 대통령이 아니라 국무총리 소속 중앙행정기관이므로 옳지 않다.",
@@ -189,7 +189,7 @@
       "imageUrl": "assets/questions/fire/admin_law/2022/q08.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n정보공개청구에서 청구인이 공개방법을 지정하면 공공기관은 원칙적으로 그 방법에 따라 공개하여야 한다. 제3자의 비공개 요청은 그 자체로 비공개 사유가 되지 않고, 정보공개청구권은 모든 국민에게 주어져 거부처분을 받으면 원고적격이 인정된다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 2,
+      "sourcePage": 10,
       "optionExplanations": [
         "청구인이 선택한 사본 교부의 방법으로 공개하여야 하므로 옳은 설명이다.",
         "제3자의 비공개 요청만으로 공개하여서는 안 되는 것은 아니고, 적법하게 공개하였다면 손해배상책임도 지지 않으므로 옳지 않다. 정답입니다.",
@@ -213,7 +213,7 @@
       "imageUrl": "assets/questions/fire/admin_law/2022/q09.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n조례가 집행행위 없이 직접 국민의 권리의무에 영향을 미치면 처분성이 인정되고, 근거가 행정규칙이어도 권리의무에 직접 영향을 주면 처분이다. 행정입법을 제정하지 않는 부작위는 항고소송의 대상이 되지 않는다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 3,
+      "sourcePage": 11,
       "optionExplanations": [
         "조례가 집행행위의 개입 없이 직접 법률상 효과를 발생하면 항고소송의 대상이 되는 처분이므로 옳은 설명이다.",
         "행정입법을 제정하지 않는 행위는 항고소송의 대상이 되지 않으므로 옳지 않다. 정답입니다.",
@@ -237,7 +237,7 @@
       "imageUrl": "assets/questions/fire/admin_law/2022/q10.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n주민등록신고는 행정청이 수리하여야 효력이 생기는 수리를 요하는 신고이고, 의원급 의료기관 개설신고나 가설건축물 존치기간 연장신고는 법령이 정한 요건을 갖추면 원칙적으로 수리하여야 한다. 다만 수리를 요하는 신고라도 신고서 위조 등으로 신고행위 자체가 무효이면 수리행위도 당연무효다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 3,
+      "sourcePage": 11,
       "optionExplanations": [
         "주민등록신고는 행정청이 수리한 경우에 효력이 발생하므로 옳은 설명이다.",
         "신고서 위조 등으로 신고행위 자체가 무효이면 수리가 당연무효이므로, 수리하면 그대로 유효하다는 서술은 옳지 않다. 정답입니다.",
@@ -261,7 +261,7 @@
       "imageUrl": "assets/questions/fire/admin_law/2022/q11.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n행정계획은 법령이 목표와 절차만 정하므로 행정청에 광범위한 형성의 재량이 있고, 이익형량을 전혀 하지 않은 결정은 재량권 일탈·남용으로 위법하다. 도시기본계획은 장기적·종합적 개발계획으로 직접적 구속력이 없고, 개발제한구역이라도 지정목적에 어긋나지 않는 시설 설치까지 막지는 않는다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 3,
+      "sourcePage": 11,
       "optionExplanations": [
         "행정청은 행정계획의 입안·결정에 광범위한 형성의 재량을 가지므로 옳은 설명이다.",
         "이익형량을 전혀 하지 않은 행정계획 결정은 재량권을 일탈·남용한 것으로 위법하므로 옳은 설명이다.",
@@ -285,7 +285,7 @@
       "imageUrl": "assets/questions/fire/admin_law/2022/q12.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n행정벌에서 통고처분을 받은 사람은 납부기간 내에 납부하면 형사처벌을 면할 수 있으므로, 그 기간이 지나기 전에는 검사가 공소를 제기할 수 없다. 하나의 행위가 둘 이상의 질서위반행위에 해당하면 가장 중한 과태료를 하나만 부과한다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 3,
+      "sourcePage": 11,
       "optionExplanations": [
         "지방자치단체가 고유의 자치사무를 처리하면서 위반행위를 한 경우에는 양벌규정에 따라 처벌대상 법인이 되므로 옳은 설명이다.",
         "고발 후 권한이 소멸한 뒤에 한 통고처분은 효력이 없고 이를 이행해도 일사부재리가 적용되지 않으므로 옳은 설명이다.",
@@ -309,7 +309,7 @@
       "imageUrl": "assets/questions/fire/admin_law/2022/q13.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n행정심판에서 피청구인을 잘못 지정하면 위원회가 직권 또는 당사자의 신청에 의하여 결정으로 경정하고, 재결은 청구인에게 불리하게 할 수 없다. 공고·고시한 처분이 재결로 취소·변경되면 처분청은 지체 없이 그 사실을 공고·고시하여야 한다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 4,
+      "sourcePage": 12,
       "optionExplanations": [
         "피청구인을 잘못 지정한 경우 위원회가 직권으로 또는 당사자의 신청에 의하여 경정할 수 있으므로 옳은 설명이다.",
         "행정심판위원회는 청구인에게 불리한 재결을 할 수 없으므로 옳지 않다. 정답입니다.",
@@ -333,7 +333,7 @@
       "imageUrl": "assets/questions/fire/admin_law/2022/q14.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n재량권의 일탈·남용은 그 처분의 효력을 다투는 자가 주장·입증하고, 처분청이 재량행사의 정당함까지 증명할 필요는 없다. 임의적 감경사유를 고려하고도 감경하지 않고 상한으로 처분하였다는 것만으로 곧바로 일탈·남용이라고 단정할 수는 없다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 4,
+      "sourcePage": 12,
       "optionExplanations": [
         "재량권 일탈·남용의 위법은 처분의 효력을 다투는 자가 주장·입증하므로 옳은 설명이다.",
         "감경사유를 고려하고도 감경하지 않은 채 상한으로 처분하였다는 것만으로는 재량권 일탈·남용이라고 단정할 수 없으므로 옳지 않다. 정답입니다.",
@@ -357,7 +357,7 @@
       "imageUrl": "assets/questions/fire/admin_law/2022/q15.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n개발행위허가가 의제되는 건축허가에서는 개발행위허가기준까지 함께 심사하므로 기준에 맞지 않으면 건축허가를 거부할 수 있다. 의제된 인허가는 별도의 처분이어서 그 하자는 주된 처분이 아니라 의제된 인허가의 취소를 구해야 하고, 체류자격 변경허가는 재량행위이다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 4,
+      "sourcePage": 12,
       "optionExplanations": [
         "개발행위허가기준에 부합하지 않으면 건축허가를 거부할 수 있으므로 옳은 설명이다. 정답입니다.",
         "의제된 인허가의 위법은 주된 처분이 아니라 의제된 인허가의 취소를 구하여야 하므로 옳지 않다.",
@@ -381,7 +381,7 @@
       "imageUrl": "assets/questions/fire/admin_law/2022/q16.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n부관을 붙일 수 있는지는 재량행위인지로 갈린다. 재량이 있으면 법령의 근거 없이도 부관을 붙일 수 있고, 부담이 무효라도 그 이행으로 한 사법상 매매가 당연히 무효가 되지는 않는다. 조건 불이행 시 인가를 취소할 수 있도록 한 인가조건은 철회권을 유보한 것이다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 4,
+      "sourcePage": 12,
       "optionExplanations": [
         "부관은 수익적 처분인지가 아니라 재량이 있는지에 따라 달라지므로 옳지 않다.",
         "부담이 무효라도 그 이행으로 한 사법상 법률행위가 당연히 무효가 되지는 않으므로 옳지 않다.",
@@ -405,7 +405,7 @@
       "imageUrl": "assets/questions/fire/admin_law/2022/q17.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n환경영향평가를 통째로 거치지 않은 채 한 처분은 하자가 중대·명백하여 당연무효이지만, 사전환경성검토협의 대상인지 여부를 법 해석을 그르쳐 판단한 경우에는 하자가 객관적으로 명백하다고 할 수 없어 취소사유에 그친다. 평가를 거쳤으나 부실한 경우도 그 부실이 평가를 하지 않은 것과 같은 정도가 아니면 위법이 되지 않는다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 5,
+      "sourcePage": 13,
       "optionExplanations": [
         "환경영향평가를 거치지 않고 한 승인처분은 당연무효이므로 옳은 설명이다.",
         "사전환경성검토협의 대상 여부를 법 해석을 잘못해 절차를 생략한 경우에는 하자가 객관적으로 명백하다고 볼 수 없어 취소사유에 그치므로, 당연무효라는 서술은 옳지 않다. 정답입니다.",
@@ -429,7 +429,7 @@
       "imageUrl": "assets/questions/fire/admin_law/2022/q18.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국가배상책임은 공무원의 직무상 의무가 개인의 안전과 이익을 보호하기 위한 경우 성립하고, 그 위반과 손해 사이에 상당인과관계가 인정되어야 한다. 금융감독기관의 검사·감독의무는 투자자 개인의 이익을 직접 보호하기 위한 것이 아니어서 투자 손실과의 인과관계가 부정되었다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 5,
+      "sourcePage": 13,
       "optionExplanations": [
         "구체적 입법의무를 상당 기간 고의·과실로 이행하지 않으면 배상책임이 인정될 수 있으므로, 배상책임이 인정되기 어렵다는 서술은 옳지 않다.",
         "법령안을 입법예고한 것만으로는 법령으로 확정되지 않아 신뢰가 부여된 것으로 볼 수 없으므로 옳지 않다.",
@@ -453,7 +453,7 @@
       "imageUrl": "assets/questions/fire/admin_law/2022/q19.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n손실보상과 손해배상은 근거와 요건을 달리하지만 같은 손해에 대해 양 청구권이 동시에 성립하면 하나만 선택할 수 있다. 공공사업으로 인한 간접손실은 예견 가능하고 범위를 특정할 수 있으면 관련 규정을 유추적용해 보상하며, 보상금 액수의 다툼은 사업시행자를 피고로 하는 보상금증감소송으로 다툰다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 6,
+      "sourcePage": 14,
       "optionExplanations": [
         "같은 손해에 대해 두 청구권이 동시에 성립하면 어느 하나만 선택적으로 행사할 수 있으므로 옳은 설명이다.",
         "간접손실이라도 예견 가능하고 범위를 특정할 수 있으면 관련 규정을 유추적용해 보상할 수 있으므로 옳은 설명이다.",
@@ -477,7 +477,7 @@
       "imageUrl": "assets/questions/fire/admin_law/2022/q20.webp",
       "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n처분은 행정의사가 공식적인 방법으로 외부에 표시되어야 성립하므로, 내부 전산망에만 입력되고 당사자에게 통보되지 않은 입국금지결정은 처분이 아니다. 병역의무 기피자 인적사항 공개결정과 연구개발확인서 발급은 항고소송의 대상이 되는 처분이다.",
       "explanationStatus": "draft_review_required",
-      "sourcePage": 6,
+      "sourcePage": 14,
       "optionExplanations": [
         "입국금지결정은 내부전산망에 입력되었을 뿐 외부에 표시되지 않아 처분이 아니므로, 항고소송의 대상이 되는 처분이라는 서술은 옳지 않다. 정답입니다.",
         "병역의무 기피자의 인적사항을 공개하는 결정은 항고소송의 대상이 되는 행정처분이므로 옳은 설명이다.",
