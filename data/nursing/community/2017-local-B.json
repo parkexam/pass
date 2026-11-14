@@ -1,0 +1,489 @@
+{
+  "id": "paper_nursing_community_2017_local_B",
+  "title": "2017 지방직 9급 지역사회간호 B책형",
+  "year": 2017,
+  "source": "2017년도 9급 지방공무원 임용 필기시험 지역사회간호 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+  "subjectId": "sub_nursing_community",
+  "questions": [
+    {
+      "id": "nursing2017-2017-local-community-B-q01",
+      "paperId": "paper_nursing_community_2017_local_B",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2017/local-B/q01.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n자료 수집의 간접법은 기존에 만들어진 자료를 활용하는 방법으로 시간과 비용이 적게 들고, 직접법은 관찰·면담 등으로 직접 자료를 모으므로 기간이 길고 비용이 많이 듭니다.",
+      "optionExplanations": [
+        "참여관찰법은 주민들과 함께 활동하며 참여 정도를 파악할 수 있습니다. 옳은 설명입니다.",
+        "공공기관의 연보와 보고서 같은 이차 자료를 활용하는 것은 간접법의 예입니다. 옳은 설명입니다.",
+        "기간이 길고 비용이 많이 드는 것은 직접법이며, 간접법은 오히려 시간과 비용이 적게 듭니다. 정답입니다.",
+        "기존 자료의 타당성이 의심될 때 직접 자료를 수집하는 직접법을 활용합니다. 옳은 설명입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2017-2017-local-community-B-q02",
+      "paperId": "paper_nursing_community_2017_local_B",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2017/local-B/q02.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n집단토의에서는 학습자가 주도적으로 참여해 의견을 나누는 것이 핵심이므로, 교육자는 토의의 목적과 규칙을 안내하고 흐름을 촉진하는 역할을 하며 답을 제시하거나 토의를 주도할 만큼 적극적으로 개입하는 것은 적절하지 않습니다.",
+      "optionExplanations": [
+        "학습자가 토의 목적을 이해해야 효과적이라는 설명은 옳습니다.",
+        "교육자가 적극적으로 개입해 토의를 이끄는 것은 학습자의 자발적 참여를 막으므로 옳지 않습니다. 정답입니다.",
+        "타인의 의견을 존중하고 양보하는 과정에서 사회성이 높아진다는 설명은 옳습니다.",
+        "학습자가 능동적으로 참여할 수 있다는 설명은 옳습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2017-2017-local-community-B-q03",
+      "paperId": "paper_nursing_community_2017_local_B",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2017/local-B/q03.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n감염병의 예방 및 관리에 관한 법률상 정기예방접종을 실시해야 하는 질병에는 디프테리아, 풍진, 폐렴구균 감염증 등이 포함되며, C형 간염은 정기예방접종 대상이 아닙니다.",
+      "optionExplanations": [
+        "디프테리아만 고른 경우 폐렴구균이 빠져 있습니다.",
+        "디프테리아, 풍진, 폐렴구균은 모두 정기예방접종 대상 질병입니다. 정답입니다.",
+        "C형 간염은 정기예방접종 대상이 아니므로 디프테리아가 빠진 이 조합은 옳지 않습니다.",
+        "C형 간염이 포함되어 있어 옳지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2017-2017-local-community-B-q04",
+      "paperId": "paper_nursing_community_2017_local_B",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2017/local-B/q04.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n민감도는 실제로 질병이 있는 사람 중 검사에서 양성으로 나온 사람의 비율입니다. 실제 대장암 환자는 80+20=100명이고 그중 양성이 80명이므로 80/100×100입니다.",
+      "optionExplanations": [
+        "80/100×100은 실제 환자 중 양성 비율인 민감도입니다. 정답입니다.",
+        "870/900×100은 실제로 질병이 없는 사람 중 음성 비율인 특이도입니다.",
+        "80/110×100은 검사 양성자 중 실제 환자 비율인 양성예측도입니다.",
+        "870/890×100은 검사 음성자 중 실제로 건강한 사람의 비율인 음성예측도입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2017-2017-local-community-B-q05",
+      "paperId": "paper_nursing_community_2017_local_B",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2017/local-B/q05.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n보건소는 지역보건법에 따라 시·군·구에 설치되고, 인력과 예산은 지방자치단체가 부담하며, 4년마다 지역보건의료계획을 수립하고 관할 구역의 보건의료기관을 지도·관리합니다.",
+      "optionExplanations": [
+        "보건소는 지역보건법에 따라 설치하며, 보건의료기본법에 따른다는 설명은 옳지 않습니다.",
+        "보건소의 인력과 예산은 지방자치단체가 지원하므로 보건복지부로부터 지원받는다는 설명은 옳지 않습니다.",
+        "지역보건의료계획은 4년마다 수립하므로 5년마다라는 설명은 옳지 않습니다.",
+        "보건소는 관할 구역 내 보건의료기관을 지도·관리합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2017-2017-local-community-B-q06",
+      "paperId": "paper_nursing_community_2017_local_B",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2017/local-B/q06.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n세계보건기구 감시 대상 감염병에는 두창, 폴리오, 중증급성호흡기증후군(SARS), 콜레라 등이 포함되므로 네 가지가 모두 해당합니다.",
+      "optionExplanations": [
+        "두창과 SARS만 고른 경우 폴리오와 콜레라가 빠져 있습니다.",
+        "폴리오가 포함되었으나 SARS가 빠져 있어 옳지 않습니다.",
+        "콜레라와 폴리오, SARS는 포함되나 두창이 빠져 있어 옳지 않습니다.",
+        "두창, 폴리오, SARS, 콜레라는 모두 세계보건기구 감시 대상 감염병입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2017-2017-local-community-B-q07",
+      "paperId": "paper_nursing_community_2017_local_B",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2017/local-B/q07.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기획은 지역사회의 요구와 자원을 고려해 우선순위를 정하고 미래를 예측해 활동을 결정하는 과정이므로, 이해관계자의 참여를 배제한다는 설명은 옳지 않습니다.",
+      "optionExplanations": [
+        "우선순위를 고려해 자원을 배분한다는 설명은 옳습니다.",
+        "기획 과정에는 주민과 이해관계자가 참여해야 하므로 배제한다는 설명은 옳지 않습니다. 정답입니다.",
+        "미래를 예측해 필요한 활동을 결정한다는 설명은 옳습니다.",
+        "환경요건의 변화에 따라 계획을 변경한다는 설명은 옳습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2017-2017-local-community-B-q08",
+      "paperId": "paper_nursing_community_2017_local_B",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2017/local-B/q08.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n의료급여법상 입양특례법에 따라 국내에 입양된 아동은 18세 미만이 수급권자이므로, 20세 미만이라고 한 설명은 옳지 않습니다.",
+      "optionExplanations": [
+        "재해구호법에 따른 이재민으로서 보건복지부장관이 인정한 사람은 수급권자입니다.",
+        "의사상자 등 예우 및 지원에 관한 법률에 따라 의료급여를 받는 사람은 수급권자입니다.",
+        "국내에 입양된 아동은 18세 미만이 수급권자이므로 20세 미만이라는 설명은 옳지 않습니다. 정답입니다.",
+        "국민기초생활 보장법에 따른 의료급여 수급자는 수급권자입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2017-2017-local-community-B-q09",
+      "paperId": "paper_nursing_community_2017_local_B",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2017/local-B/q09.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사회생태학적 모형은 개인, 개인 간, 조직, 지역사회, 정책 등 여러 수준의 요인에 각각 다른 전략을 적용합니다. 지역사회 내 이벤트와 홍보, 사회 마케팅은 정책 수준이 아니라 지역사회 수준의 전략입니다.",
+      "optionExplanations": [
+        "개인의 지식·태도·기술을 변화시키는 교육은 개인적 요인 수준의 전략입니다.",
+        "친구와 이웃 등 사회적 네트워크 활용은 개인 간 요인 수준의 전략입니다.",
+        "직장 회식문화 개선은 조직 수준의 전략입니다.",
+        "지역사회 이벤트, 홍보, 사회 마케팅은 지역사회 수준의 전략이므로 정책 요인의 예로 제시한 것은 옳지 않습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2017-2017-local-community-B-q10",
+      "paperId": "paper_nursing_community_2017_local_B",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2017/local-B/q10.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n오타와 헌장의 건강증진 5대 활동은 건강 지향적 공공정책 수립, 지지적 환경 조성, 지역사회 활동 강화, 개인적 기술 개발, 보건의료서비스의 방향 재설정입니다. 보건의료 부문의 역할 전환과 책임 분담을 강조한 것은 보건의료서비스의 방향 재설정입니다.",
+      "optionExplanations": [
+        "보건의료 부문의 역할을 건강증진으로 전환하고 책임을 공동 분담하는 것은 보건의료서비스의 방향 재설정입니다. 정답입니다.",
+        "건강 지향적 공공정책의 수립은 모든 정책 결정에서 건강을 고려하는 전략입니다.",
+        "지지적 환경 조성은 건강을 지원하는 물리적·사회적 환경을 만드는 전략입니다.",
+        "지역사회활동의 강화는 지역사회가 건강 문제 해결에 주도적으로 참여하도록 하는 전략입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2017-2017-local-community-B-q11",
+      "paperId": "paper_nursing_community_2017_local_B",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2017/local-B/q11.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nBPRS는 (문제의 크기 + 문제의 심각성) × 사업의 추정 효과로 계산하므로, 사업의 추정 효과가 우선순위 결정에 영향을 미칩니다.",
+      "optionExplanations": [
+        "BPRS는 구성 요소를 점수화하지만 사용자의 주관적 판단이 완전히 배제되지는 않습니다.",
+        "문제의 크기는 건강 문제로 인한 경제적 손실이 아니라 문제를 가진 인구의 규모 등으로 판단합니다.",
+        "문제의 심각성은 문제를 가진 인구 비율이 아니라 사망률, 합병증 등 문제의 중대함으로 판단합니다.",
+        "사업의 추정 효과는 BPRS 계산식에 곱해지는 요소로 우선순위 결정에 영향을 미칩니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2017-2017-local-community-B-q12",
+      "paperId": "paper_nursing_community_2017_local_B",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2017/local-B/q12.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n산업안전보건법 시행규칙상 일반건강진단은 사무직 종사 근로자는 2년에 1회 이상, 그 밖의 근로자는 1년에 1회 이상 실시합니다.",
+      "optionExplanations": [
+        "사무직 종사 근로자는 2년에 1회 이상이므로 1년에 1회라는 설명은 옳지 않습니다.",
+        "사무직 1년에 1회, 그 밖의 근로자 1년에 2회는 옳지 않은 짝입니다.",
+        "사무직 종사 근로자 2년에 1회 이상, 그 밖의 근로자 1년에 1회 이상이 옳은 짝입니다. 정답입니다.",
+        "그 밖의 근로자는 1년에 1회 이상이므로 1년에 2회라는 설명은 옳지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2017-2017-local-community-B-q13",
+      "paperId": "paper_nursing_community_2017_local_B",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2017/local-B/q13.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n작업환경관리의 기본 원리 중 격리는 유해 요인을 다른 곳으로 옮기거나 원격조작장치·밀폐 설비로 작업자와 분리하는 방법입니다. 원격조정용 장치를 설치한 것은 격리에 해당합니다.",
+      "optionExplanations": [
+        "원격조정용 장치로 작업자와 유해 요인을 분리하는 것은 격리입니다. 정답입니다.",
+        "대치는 유해 물질을 덜 해로운 물질로 바꾸는 방법입니다.",
+        "환기는 유해 요인을 희석해 배출하는 방법입니다.",
+        "개인보호구는 작업자가 직접 착용해 노출을 줄이는 방법입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2017-2017-local-community-B-q14",
+      "paperId": "paper_nursing_community_2017_local_B",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2017/local-B/q14.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n산업화와 사회보장제도의 확대로 가족의 간병 기능은 줄어들고 사회 제도가 이를 대신하게 됩니다. 사회보장제도의 축소로 간병 기능이 확대된다는 설명은 옳지 않습니다.",
+      "optionExplanations": [
+        "산업화로 생산보다 소비 단위로서의 가족 기능이 커졌다는 설명은 옳습니다.",
+        "전문 교육기관의 발달로 가족의 교육 기능이 축소된다는 설명은 옳습니다.",
+        "사회보장제도는 축소가 아니라 확대되는 추세이며, 그에 따라 가족의 간병 기능은 줄어듭니다. 정답입니다.",
+        "건강한 사회 유지를 위한 가족의 애정적 기능은 여전히 중요하다는 설명은 옳습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2017-2017-local-community-B-q15",
+      "paperId": "paper_nursing_community_2017_local_B",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2017/local-B/q15.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n성비는 1차 성비(수정 시), 2차 성비(출생 시), 3차 성비(생식연령기)로 나뉩니다. 출생아의 성비는 2차 성비이며, 여아 수에 대한 남아 수의 비율로 계산하므로 남아 90명, 여아 100명이면 90/100×100입니다.",
+      "optionExplanations": [
+        "출생 시의 성비는 1차 성비가 아니라 2차 성비입니다.",
+        "1차 성비로 표기했고 여아/남아로 분자와 분모도 뒤바뀌었습니다.",
+        "출생 시 성비인 2차 성비를 남아/여아로 계산한 90/100×100이 옳습니다. 정답입니다.",
+        "2차 성비는 맞으나 여아/남아로 계산해 정의와 다릅니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2017-2017-local-community-B-q16",
+      "paperId": "paper_nursing_community_2017_local_B",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2017/local-B/q16.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n가족 사정은 가족 전체를 하나의 단위로 보고, 가족의 다양성과 변화성을 인식하면서 접근해야 합니다.",
+      "optionExplanations": [
+        "가족 사정에는 가족의 참여가 필요하며 배제해서는 안 됩니다.",
+        "취약한 가구원은 사회지지도의 중심에 가깝게 표시합니다.",
+        "가족 사정은 개인의 문제가 아니라 가족 체계 전체의 상호작용에 초점을 둡니다.",
+        "가족의 다양성과 변화성을 인식하고 접근하는 것이 옳습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2017-2017-local-community-B-q17",
+      "paperId": "paper_nursing_community_2017_local_B",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2017/local-B/q17.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기여위험도는 위험 요인이 있는 군의 발생률에서 위험 요인이 없는 군의 발생률을 뺀 값입니다. 위험 요인 있는 군은 a/(a+b), 없는 군은 c/(c+d)이므로 두 값을 뺀 식이 기여위험도입니다.",
+      "optionExplanations": [
+        "a/(a+b)에서 c/(c+d)를 뺀 식이 기여위험도입니다. 정답입니다.",
+        "b/(a+b)에서 d/(c+d)를 빼는 식은 발생률의 정의와 맞지 않습니다.",
+        "a/(a+c)는 노출군 중 환자 비율로 기여위험도가 아닙니다.",
+        "c/(a+c) 등으로 계산한 값은 기여위험도의 정의와 다릅니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2017-2017-local-community-B-q18",
+      "paperId": "paper_nursing_community_2017_local_B",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2017/local-B/q18.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n의료법상 종합병원은 100개 이상의 병상을 갖추어야 하며, 300개 이상은 종합병원의 요건이 아닙니다.",
+      "optionExplanations": [
+        "의료기관은 의원급 의료기관, 조산원, 병원급 의료기관으로 구분된다는 설명은 옳습니다.",
+        "전문병원 지정은 병원급 의료기관을 대상으로 한다는 설명은 옳습니다.",
+        "상급종합병원은 20개 이상의 진료과목을 갖추어야 한다는 설명은 옳습니다.",
+        "종합병원은 100개 이상의 병상을 갖추어야 하므로 300개 이상이라는 설명은 옳지 않습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2017-2017-local-community-B-q19",
+      "paperId": "paper_nursing_community_2017_local_B",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2017/local-B/q19.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n제4차 국민건강증진종합계획은 건강수명을 총괄 목표로 삼고 모성사망비, 영아사망률, 건강식생활 실천율 등을 대표 지표로 제시했습니다. 노인 삶의 질은 이 계획의 대표 지표로 설정되지 않았습니다.",
+      "optionExplanations": [
+        "모성사망비는 제4차 국민건강증진종합계획의 대표 지표입니다.",
+        "영아사망률은 제4차 국민건강증진종합계획의 대표 지표입니다.",
+        "건강식생활 실천율은 제4차 국민건강증진종합계획의 대표 지표입니다.",
+        "노인 삶의 질은 대표 지표로 설정되지 않았습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2017-2017-local-community-B-q20",
+      "paperId": "paper_nursing_community_2017_local_B",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2017/local-B/q20.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n블룸의 심리운동 영역은 실제로 몸을 움직여 기술을 수행하는 능력에 관한 목표입니다. 지도자의 지시에 따라 맨손체조를 실시하는 것이 여기에 해당합니다.",
+      "optionExplanations": [
+        "운동의 장점을 열거하는 것은 인지적 영역의 목표입니다.",
+        "지시에 따라 실제로 몸을 움직여 체조를 수행하는 것은 심리운동 영역의 목표입니다. 정답입니다.",
+        "만성질환 관리와 운동 효과를 연관시키는 것은 인지적 영역의 목표입니다.",
+        "운동이 이롭다고 표현하는 것은 정의적 영역의 목표입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    }
+  ]
+}

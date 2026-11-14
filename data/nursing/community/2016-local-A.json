@@ -1,0 +1,489 @@
+{
+  "id": "paper_nursing_community_2016_local_A",
+  "title": "2016 지방직 9급 지역사회간호 A책형",
+  "year": 2016,
+  "source": "2016년도 9급 등 지방공무원 임용 필기시험 지역사회간호 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+  "subjectId": "sub_nursing_community",
+  "questions": [
+    {
+      "id": "nursing2016-2016-local-community-A-q01",
+      "paperId": "paper_nursing_community_2016_local_A",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2016/local-A/q01.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n환자-대조군 연구는 질병이 있는 환자군과 질병이 없는 대조군을 선정해 과거의 노출 요인을 비교하는 연구로, 발생 빈도가 낮은 희귀 질병의 원인을 찾는 데 적합합니다.",
+      "optionExplanations": [
+        "희귀한 질병을 연구하는 데 적합하다는 설명이 환자-대조군 연구의 특징입니다. 정답입니다.",
+        "질병의 자연사나 규모를 모를 때 처음 시행하는 연구는 단면연구입니다.",
+        "시간적 선후관계를 명확히 밝히는 것은 코호트 연구의 장점입니다.",
+        "질병 발생률과 비교 위험도를 직접 산출하는 것은 코호트 연구입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2016-2016-local-community-A-q02",
+      "paperId": "paper_nursing_community_2016_local_A",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2016/local-A/q02.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n수레바퀴 모형은 인간을 중심에 두고 유전적 성향, 생물학적 환경, 사회적 환경이 상호작용해 질병이 발생한다고 설명하는 모형입니다.",
+      "optionExplanations": [
+        "역학적 삼각형 모형은 병인, 숙주, 환경의 세 요소로 질병 발생을 설명합니다.",
+        "거미줄 모형은 여러 원인이 복잡하게 얽혀 질병이 발생한다는 다원적 인과 모형입니다.",
+        "인간과 환경의 상호작용으로 질병 발생을 설명하는 것은 수레바퀴 모형입니다. 정답입니다.",
+        "원인 모형은 원인 요소들의 기여 정도를 도형의 크기로 표현하는 방식으로, 인간과 환경의 상호작용을 중심에 두는 모형은 수레바퀴 모형입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2016-2016-local-community-A-q03",
+      "paperId": "paper_nursing_community_2016_local_A",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2016/local-A/q03.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n구조-과정-결과로 평가할 때 과정평가는 프로그램이 실제로 어떻게 수행되었는지를 봅니다. 절주 프로그램에 참여한 비율은 진행 과정을 보여주는 과정평가 지표입니다.",
+      "optionExplanations": [
+        "프로그램 참여율은 수행 과정을 보여주는 과정평가입니다. 정답입니다.",
+        "고위험 음주율의 변화는 프로그램의 결과를 보는 결과평가입니다.",
+        "음주와 건강에 대한 지식 변화는 결과평가 중 영향평가에 해당합니다.",
+        "비용 효과성 분석은 결과와 자원 투입을 함께 보는 경제성 평가입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2016-2016-local-community-A-q04",
+      "paperId": "paper_nursing_community_2016_local_A",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2016/local-A/q04.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n납 중독에서는 손목을 드는 근육이 마비되어 손이 처지는 손 처짐(wrist drop)이 나타나고, 빈혈, 근육통, 식욕부진, 수면장애와 피로감이 동반될 수 있습니다.",
+      "optionExplanations": [
+        "손 처짐과 빈혈, 근육통은 납 중독의 대표적인 증상입니다. 정답입니다.",
+        "크롬 중독은 피부 궤양과 비중격 천공, 폐암 등이 특징입니다.",
+        "수은 중독은 구내염, 진전, 성격 변화 등이 특징입니다.",
+        "카드뮴 중독은 신장 손상과 이타이이타이병 등이 특징입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2016-2016-local-community-A-q05",
+      "paperId": "paper_nursing_community_2016_local_A",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2016/local-A/q05.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n호흡기로 병원체가 침입해 발생하는 감염성 질환은 신증후군출혈열입니다. 콜레라와 장티푸스는 소화기, B형 간염은 혈액과 체액을 통한 감염이 주요 경로입니다.",
+      "optionExplanations": [
+        "콜레라는 오염된 물이나 음식으로 감염되는 소화기 감염병입니다.",
+        "B형 간염은 혈액과 체액을 통해 전파됩니다.",
+        "장티푸스는 오염된 음식과 물로 감염되는 소화기 감염병입니다.",
+        "신증후군출혈열은 설치류의 배설물 등이 호흡기로 들어가 감염됩니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2016-2016-local-community-A-q06",
+      "paperId": "paper_nursing_community_2016_local_A",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2016/local-A/q06.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n로이는 자극을 초점자극, 상황자극, 잔여자극으로 나누었습니다. 잔여자극은 과거 경험이나 신념, 태도와 같이 현재 상황에 대한 영향이 분명하지 않은 자극입니다.",
+      "optionExplanations": [
+        "당뇨병 진단은 문제의 초점이 되는 초점자극입니다.",
+        "당뇨식이의 유익성에 대한 신념 부족은 과거 경험에서 형성된 신념으로 잔여자극에 해당합니다. 정답입니다.",
+        "혈당 측정에 대한 근심으로 생긴 불면증은 상황자극에 해당합니다.",
+        "장기간 투병으로 인한 재정적 어려움은 상황자극으로 볼 수 있습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2016-2016-local-community-A-q07",
+      "paperId": "paper_nursing_community_2016_local_A",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2016/local-A/q07.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nWO 전략은 외부 기회를 활용해 내부 약점을 보완하는 전략입니다. 기존 사업의 철수는 WT 전략에 해당하므로, 철수와 신사업 개발을 함께 WO 전략으로 설명한 것은 옳지 않습니다.",
+      "optionExplanations": [
+        "SO 전략은 강점과 기회를 살려 사업 구조와 영역, 시장을 확대하는 방향으로 수립합니다. 옳은 설명입니다.",
+        "ST 전략은 강점으로 위협을 대응해 신기술과 새로운 대상자를 개발하는 방향으로 수립합니다. 옳은 설명입니다.",
+        "기존 사업의 철수는 WT 전략에 해당하므로 WO 전략의 방향으로 제시한 것은 옳지 않습니다. 정답입니다.",
+        "WT 전략은 약점과 위협이 겹치는 상황에서 사업을 축소하거나 폐지하는 방향입니다. 옳은 설명입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2016-2016-local-community-A-q08",
+      "paperId": "paper_nursing_community_2016_local_A",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2016/local-A/q08.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n인지주의 학습이론은 학습자가 기존의 인지구조와 새로운 내용을 연결해 의미 있게 받아들이도록 하는 학습을 중시합니다. 익숙한 동요의 가사를 칼로리 내용으로 바꾸어 반복해 부르게 하면 기존 지식과 연결해 의미 있게 학습하도록 돕습니다.",
+      "optionExplanations": [
+        "음식일기를 기록한 날 스티커를 주는 것은 강화를 이용한 행동주의 접근입니다.",
+        "익숙한 동요에 새로운 학습 내용을 연결해 반복하게 하는 것은 인지주의의 의미 있는 학습에 해당합니다. 정답입니다.",
+        "아동이 스스로 식단을 작성하도록 자율성을 주는 것은 인본주의 접근에 가깝습니다.",
+        "칭찬 점수를 모으게 하는 것은 토큰 강화를 이용한 행동주의 접근입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2016-2016-local-community-A-q09",
+      "paperId": "paper_nursing_community_2016_local_A",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2016/local-A/q09.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n프라이는 국가보건의료체계를 자유방임형, 복지지향형, 보편적 제도형, 사회주의형 등으로 구분했습니다. 자유방임형에서는 의료기관 선택이 자유롭고 의료인의 재량권이 인정됩니다.",
+      "optionExplanations": [
+        "지역 간 균형 발전은 오히려 국가 주도 체계에서 추구하는 목표입니다.",
+        "정부 주도로 예방 중심의 질병 관리를 하는 것은 사회주의형 등 다른 유형의 특징입니다.",
+        "정부의 통제로 의료의 질이 낮은 편이라는 것은 자유방임형과 반대되는 설명입니다.",
+        "의료기관 선택이 자유롭고 의료인의 재량권이 부여되어 있다는 것이 자유방임형의 특징입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2016-2016-local-community-A-q10",
+      "paperId": "paper_nursing_community_2016_local_A",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2016/local-A/q10.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n오마하 문제분류체계는 영역, 문제, 수정인자의 단계로 구성되며 문제마다 수정인자를 달리 적용합니다. 수정인자에는 문제의 심각성 정도와 문제의 대상 등이 포함됩니다.",
+      "optionExplanations": [
+        "오마하는 7개 축으로 구성된 체계가 아니라 영역과 문제, 수정인자의 구조로 되어 있습니다.",
+        "오마하의 영역은 환경, 심리사회, 생리, 건강 관련 행위의 4개 영역입니다.",
+        "20개의 간호요소와 145개의 진단으로 구성되었다는 설명은 오마하 체계와 다릅니다.",
+        "문제별 수정인자로 문제의 심각성 정도와 대상 등을 적용한다는 설명은 오마하 체계의 구성에 해당합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2016-2016-local-community-A-q11",
+      "paperId": "paper_nursing_community_2016_local_A",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2016/local-A/q11.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지역보건법 시행령상 보건지소는 읍·면마다 1개씩 설치할 수 있고, 특별히 필요하면 여러 개를 통합해 설치·운영할 수 있습니다.",
+      "optionExplanations": [
+        "보건지소를 읍·면마다 1개씩 설치할 수 있고 필요한 경우 통합 운영할 수 있다는 설명은 옳습니다. 정답입니다.",
+        "보건소에 대한 인사권과 예산권은 지방자치단체에 있으며 보건복지부에 있지 않습니다.",
+        "보건소는 지역보건법에 따라 지방자치단체의 조례로 설치하며, 시행령의 기준에 따른다는 설명은 옳지 않습니다.",
+        "보건진료 전담 공무원은 의사 면허가 아니라 간호사 등 관련 면허를 가진 사람이 맡습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2016-2016-local-community-A-q12",
+      "paperId": "paper_nursing_community_2016_local_A",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2016/local-A/q12.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n걷거나 자동차를 이용해 지역의 환경과 생활상을 신속하게 관찰하는 방법은 차창 밖 조사입니다.",
+      "optionExplanations": [
+        "참여관찰은 주민과 함께 생활하며 관찰하는 방법으로 신속한 파악과는 거리가 있습니다.",
+        "차창 밖 조사는 걷거나 차를 타고 이동하며 지역을 관찰하는 방법입니다. 정답입니다.",
+        "정보원 면담은 지역의 주요 인물을 만나 정보를 얻는 방법입니다.",
+        "설문지 조사는 다수의 주민에게 서면으로 응답을 받는 방법입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2016-2016-local-community-A-q13",
+      "paperId": "paper_nursing_community_2016_local_A",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2016/local-A/q13.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n듀발의 가족발달단계에서 학령전기 가족은 자녀의 사회화를 격려하고 자녀의 성장을 지원하는 것이 주요 발달 과업입니다.",
+      "optionExplanations": [
+        "신혼기의 과업은 부부 관계 형성과 양가 가족과의 관계 정립입니다.",
+        "학령전기에는 자녀의 사회화 교육이 주요 발달 과업이 됩니다. 정답입니다.",
+        "진수기(학령기) 가족의 과업은 자녀의 학교생활 적응 지원과 또래 관계 형성입니다.",
+        "노년기의 과업은 은퇴 후 역할 전환과 배우자 사별에 대한 적응입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2016-2016-local-community-A-q14",
+      "paperId": "paper_nursing_community_2016_local_A",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2016/local-A/q14.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n학교보건법 시행령상 학교 간에 정화구역이 중복될 경우 초등학교의 장이 중복된 정화구역을 관리합니다.",
+      "optionExplanations": [
+        "정화구역은 학교의 장이 설정하지만 설정 내용을 교육감에게 알리는 절차가 정해져 있어, 설정과 통보 주체를 뒤바꾼 이 설명은 옳지 않습니다.",
+        "초등학교와 중학교의 정화구역이 중복되면 초등학교의 장이 관리합니다. 정답입니다.",
+        "상대정화구역은 절대정화구역을 포함하지 않습니다.",
+        "학교 간 정화구역이 중복될 때 상대정화구역이 설정된 학교의 장이 관리한다는 설명은 옳지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2016-2016-local-community-A-q15",
+      "paperId": "paper_nursing_community_2016_local_A",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2016/local-A/q15.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nPRECEDE-PROCEED 모형에서 성향 요인은 건강행위를 하기 전에 개인이 지닌 신념, 가치, 태도, 자기효능 등으로, 건강에 대한 신념과 자기효능이 여기에 해당합니다.",
+      "optionExplanations": [
+        "사회적 지지는 강화 요인에 해당합니다.",
+        "친구나 동료의 영향은 강화 요인 또는 성향 요인으로 다루어지며 가능 요인이 아닙니다.",
+        "보건의료 및 지역사회 자원의 이용 가능성은 가능 요인입니다.",
+        "건강에 대한 신념과 자기효능은 성향 요인입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2016-2016-local-community-A-q16",
+      "paperId": "paper_nursing_community_2016_local_A",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2016/local-A/q16.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n영아사망률은 해당 연도의 출생아 1,000명에 대한 1세 미만 사망아 수의 비율입니다.",
+      "optionExplanations": [
+        "α-index는 영아사망수를 신생아사망수로 나눈 값이므로 모성사망수와의 비라고 한 설명은 옳지 않습니다.",
+        "출생아 1,000명에 대한 1세 미만 사망아 수의 비율이 영아사망률입니다. 정답입니다.",
+        "주산기사망률은 임신 28주 이후의 태아 사망과 생후 7일 미만의 신생아 사망을 합해 계산합니다.",
+        "모성사망률은 출생아 수가 아니라 해당 연도의 15~49세 여성 인구 또는 출생아 10만 명을 기준으로 산출합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2016-2016-local-community-A-q17",
+      "paperId": "paper_nursing_community_2016_local_A",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2016/local-A/q17.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n학교보건법령상 감염병으로 인한 등교중지 기간은 출석으로 인정됩니다. 학생과 학부모에게 이 사실을 알려 주는 것이 옳은 조치입니다.",
+      "optionExplanations": [
+        "투베르쿨린 검사 결과만으로 감염력 소실을 판단해 등교중지 해지를 결정하는 것은 적절하지 않습니다.",
+        "결핵 발생 신고는 질병관리본부가 아니라 관할 보건소에 합니다.",
+        "학생의 이름과 상태를 전교생에게 공지하는 것은 개인정보를 침해합니다.",
+        "등교중지 기간을 출석으로 인정한다는 사실을 학생과 학부모에게 알려 주는 것이 옳습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2016-2016-local-community-A-q18",
+      "paperId": "paper_nursing_community_2016_local_A",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2016/local-A/q18.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n구조기능이론은 가족을 사회의 한 체계로 보고 가족이 사회의 안정과 통합에 어떻게 기여하는지를 거시적 관점에서 설명합니다.",
+      "optionExplanations": [
+        "일반체계론은 가족을 투입과 산출이 순환하는 하나의 체계로 설명합니다.",
+        "가족발달이론은 가족이 생애주기에 따라 발달 과업을 수행하며 변화한다고 봅니다.",
+        "가족과 사회의 관계, 사회 통합에의 기여를 거시적으로 보는 관점은 구조기능이론입니다. 정답입니다.",
+        "상징적 상호작용론은 가족 내 상호작용에서 상징과 의미가 형성되는 과정에 초점을 둡니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2016-2016-local-community-A-q19",
+      "paperId": "paper_nursing_community_2016_local_A",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2016/local-A/q19.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n노인장기요양보험은 국민건강보험공단이 관리운영을 맡고, 통합 징수한 장기요양보험료와 건강보험료는 각각 별도의 회계로 관리합니다.",
+      "optionExplanations": [
+        "장기요양 인정은 경제적 수준이 아니라 신체 기능과 치매 여부 등으로 판정합니다.",
+        "장기요양급여는 가족의 부담을 고려해 시설급여를 우선 제공하는 것이 아니라 대상자의 상태와 선택에 따라 결정합니다.",
+        "관리운영기관은 국민건강보험공단이며 장기요양보험료와 건강보험료는 각각 독립 회계로 관리합니다. 정답입니다.",
+        "장기요양 인정 유효기간은 최소 6개월이 아니라 원칙적으로 12개월(최소 3개월)이며 자동 갱신되지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2016-2016-local-community-A-q20",
+      "paperId": "paper_nursing_community_2016_local_A",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2016/local-A/q20.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n세계보건기구가 제시하는 건강도시의 특징에는 깨끗하고 안전한 물리적 환경, 모든 시민의 기본 욕구 충족 노력, 건강과 복지에 대한 시민 참여, 모든 시민에 대한 적절한 공중보건 및 치료서비스의 보장이 모두 포함됩니다.",
+      "optionExplanations": [
+        "깨끗하고 안전한 물리적 환경만으로는 건강도시의 특징을 모두 담지 못합니다.",
+        "시민 참여와 서비스 보장만 고른 경우 환경과 기본 욕구 충족이 빠져 있습니다.",
+        "물리적 환경과 기본 욕구, 시민 참여는 포함되나 서비스 보장이 빠져 있습니다.",
+        "제시된 네 가지는 모두 세계보건기구가 제시한 건강도시의 특징입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    }
+  ]
+}

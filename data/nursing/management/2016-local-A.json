@@ -1,0 +1,489 @@
+{
+  "id": "paper_nursing_management_2016_local_A",
+  "title": "2016 지방직 9급 간호관리 A책형",
+  "year": 2016,
+  "source": "2016년도 9급 등 지방공무원 임용 필기시험 간호관리 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+  "subjectId": "sub_nursing_manage",
+  "questions": [
+    {
+      "id": "nursing2016-2016-local-management-A-q01",
+      "paperId": "paper_nursing_management_2016_local_A",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2016/local-A/q01.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n효과성은 조직 목표를 달성했는지를, 효율성은 목표 달성에 투입한 자원 대비 산출이 적절한지를 보는 개념입니다. 목표는 달성했지만 자원을 산출보다 더 많이 투입한 경우가 효과성은 충족되고 효율성은 떨어지는 경우입니다.",
+      "optionExplanations": [
+        "자원을 최소로 투입해 목표를 달성한 경우는 효과성과 효율성이 모두 높습니다.",
+        "자원을 적정 수준으로 투입해 목표를 달성한 경우도 효과성과 효율성이 모두 충족된 경우입니다.",
+        "목표는 달성했으나 자원을 산출보다 더 많이 투입한 경우로, 효과성은 충족되고 효율성은 떨어집니다. 정답입니다.",
+        "자원을 적정 수준 투입했지만 목표를 달성하지 못한 경우는 효율성은 있으나 효과성이 낮은 경우입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2016-2016-local-management-A-q02",
+      "paperId": "paper_nursing_management_2016_local_A",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2016/local-A/q02.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n메이요의 인간관계론은 조직을 사회적·심리적 체계로 보고 구성원의 감정과 사회적 관계에 관심을 가져야 한다고 봅니다. 신규 간호사의 사회적·심리적 어려움에 관심을 갖고 고충 상담을 하는 것이 이에 해당합니다.",
+      "optionExplanations": [
+        "개인별 능력에 따라 업무를 전문화하는 것은 과학적 관리론의 접근입니다.",
+        "업무지침서를 만들어 준수하게 하는 것은 합리적·공식적 관리에 해당합니다.",
+        "신규 간호사의 사회적·심리적 어려움에 관심을 갖고 고충 상담을 하는 것은 인간관계론의 적용입니다. 정답입니다.",
+        "복잡한 환경 요소를 전체적 관점에서 개선하는 것은 체계이론적 접근입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2016-2016-local-management-A-q03",
+      "paperId": "paper_nursing_management_2016_local_A",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2016/local-A/q03.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n팀 조직은 구성원 간 상호 의존성이 높고 정보가 공유되며, 권한이 분산되어 환경 변화에 유연하게 적응할 수 있는 조직 유형입니다.",
+      "optionExplanations": [
+        "팀 조직은 구성원 간 상호 의존성이 높습니다.",
+        "팀 조직은 리더의 통제보다 구성원 간 협력과 자율로 팀워크를 촉진합니다.",
+        "팀 조직은 의사결정에 필요한 정보가 구성원에게 분산되어 있습니다.",
+        "팀 조직은 조직 내외의 환경 변화에 적응하는 유연성이 높습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2016-2016-local-management-A-q04",
+      "paperId": "paper_nursing_management_2016_local_A",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/management/2016/local-A/q04.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n성과 측정을 위한 목표는 구체적이고 측정 가능하며 기한이 있어야 합니다. 연말까지 실무교육 이수 간호사 비율을 전년 대비 15퍼센트 늘린다는 진술이 이 조건을 갖추었습니다.",
+      "optionExplanations": [
+        "선호도를 최대한 반영한다는 표현은 측정 기준이 모호합니다.",
+        "기한과 측정 가능한 수치가 함께 제시된 목표 진술입니다. 정답입니다.",
+        "50퍼센트 이상이라는 기준은 있으나 간호의 질을 높인다는 목표 자체가 모호합니다.",
+        "감염률을 2주마다 분석한다는 것은 목표가 아니라 활동에 해당합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2016-2016-local-management-A-q05",
+      "paperId": "paper_nursing_management_2016_local_A",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/management/2016/local-A/q05.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n위조는 실제로 존재하지 않는 데이터나 결과를 만들어내는 행위입니다. 실제 인터뷰를 하지 않고 가상의 응답을 만들어 연구에 사용한 것이 위조입니다.",
+      "optionExplanations": [
+        "없는 응답을 만들어 연구에 사용하는 것은 위조입니다. 정답입니다.",
+        "데이터를 임의로 수정하는 것은 변조에 해당합니다.",
+        "다른 연구자의 내용을 인용 표시 없이 쓰는 것은 표절입니다.",
+        "참여하지 않은 사람을 저자에 포함시키는 것은 부당한 저자표시입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2016-2016-local-management-A-q06",
+      "paperId": "paper_nursing_management_2016_local_A",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2016/local-A/q06.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n마약·대마·향정신성의약품 중독자는 의료인 결격사유에 해당하므로 보건복지부장관이 면허를 반드시 취소해야 합니다.",
+      "optionExplanations": [
+        "면허증을 빌려준 경우는 면허 취소 사유이지만 반드시 취소해야 하는 사유는 아닙니다.",
+        "간호기록부를 거짓으로 작성한 경우는 자격정지 등 처분 대상입니다.",
+        "향정신성의약품 중독자로 판정된 경우는 결격사유로 면허를 반드시 취소해야 합니다. 정답입니다.",
+        "품위를 심하게 손상시키는 행위는 자격정지 등 처분 사유입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2016-2016-local-management-A-q07",
+      "paperId": "paper_nursing_management_2016_local_A",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2016/local-A/q07.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n활동성 결핵은 공기전파 질환이므로 음압 장치가 가동되는 격리실을 사용하고 출입문을 닫아 두어야 합니다. MRSA는 접촉주의 대상으로 장갑과 가운 착용, 손위생이 중요합니다.",
+      "optionExplanations": [
+        "격리실에서 나올 때는 가운을 벗은 뒤 손위생을 해야 하며, 나가서 가운을 벗는 것은 적절하지 않습니다.",
+        "공기전파 환자는 음압 시설을 유지해야 하므로 공기순환장치를 중단해서는 안 됩니다.",
+        "음압 장치가 가동되는 격리실을 사용하고 출입문을 항상 닫는 것이 옳습니다. 정답입니다.",
+        "MRSA 양성 환자끼리 같은 방을 쓰더라도 커튼만으로는 접촉 전파를 막을 수 없습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2016-2016-local-management-A-q08",
+      "paperId": "paper_nursing_management_2016_local_A",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/management/2016/local-A/q08.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n계획적 변화의 구조적 접근법은 조직의 권한, 책임, 의사소통 체계 등 구조를 바꾸는 방법입니다. 간호단위 관리자의 권한과 책임을 확대해 자율성을 높이는 것이 이에 해당합니다.",
+      "optionExplanations": [
+        "소프트웨어를 최신 버전으로 올리는 것은 기술적 접근법입니다.",
+        "관리자의 권한과 책임을 확대해 자율성을 높이는 것은 구조적 접근법입니다. 정답입니다.",
+        "음압 병실 수를 늘리는 것은 시설을 바꾸는 기술적 접근법입니다.",
+        "근거기반 간호중재를 교육하고 적용하도록 권장하는 것은 구성원 측면의 접근법입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2016-2016-local-management-A-q09",
+      "paperId": "paper_nursing_management_2016_local_A",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/management/2016/local-A/q09.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n환자의 질병 자체로 인해 예측할 수 없이 발생한 손상은 위해사건이 아닙니다. 위해사건은 의료 과정이나 의료오류로 인해 환자에게 발생한 손상을 말합니다.",
+      "optionExplanations": [
+        "위해 없이 발견된 의료오류를 근접오류라고 한다는 설명은 옳습니다.",
+        "질병으로 인한 예측불가능한 손상을 위해사건이라고 한 설명은 정의와 다릅니다. 정답입니다.",
+        "현재 지식으로 예방 가능한 위해가 의료오류로 발생했다면 의료 과오의 가능성이 있다는 설명은 옳습니다.",
+        "적신호사건의 정의로 제시된 설명은 옳습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2016-2016-local-management-A-q10",
+      "paperId": "paper_nursing_management_2016_local_A",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2016/local-A/q10.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n행위기준 평정척도법(BARS)은 직무 수행에 필요한 구체적인 행동 사례를 척도의 기준으로 삼아 평가하는 방법입니다.",
+      "optionExplanations": [
+        "강제배분법은 평가자를 여러 등급에 강제로 배분하는 방법으로 다수의 피평가자에게 적합합니다.",
+        "도표식 평정척도법은 관대화나 가혹화 경향을 예방하지 못합니다.",
+        "목표관리법은 장기적 목표보다 단기적이고 측정 가능한 목표를 활용합니다.",
+        "직무와 관련된 구체적 행동 기준을 척도로 사용하는 것은 BARS입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2016-2016-local-management-A-q11",
+      "paperId": "paper_nursing_management_2016_local_A",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/management/2016/local-A/q11.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n간호관리료 차등제는 병상 수 대 간호사 수의 비율이라는 지표로 인력 수준을 등급화합니다. 이처럼 경험이나 단순한 지표를 근거로 인력을 산정하는 방법은 서술적 접근방법입니다.",
+      "optionExplanations": [
+        "병상 수 대 간호사 수 비율 같은 지표로 인력을 정하는 것은 서술적 접근방법입니다. 정답입니다.",
+        "산업공학적 접근방법은 시간연구 등으로 실제 업무 소요시간을 측정합니다.",
+        "관리공학적 접근방법은 환자분류체계로 환자별 간호요구를 파악해 인력을 산정합니다.",
+        "원형평가적 접근방법은 환자 원형을 기준으로 분류하는 방식으로 차등제 기준과 다릅니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2016-2016-local-management-A-q12",
+      "paperId": "paper_nursing_management_2016_local_A",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2016/local-A/q12.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n임파워먼트는 권력을 나누어 주는 것이 아니라 구성원의 역량을 키우고 자신이 맡은 일에 대한 통제감과 자율성을 높여 주는 과정입니다.",
+      "optionExplanations": [
+        "임파워먼트는 권력을 나누는 제로섬 관점이 아니라 전체의 권한을 키우는 관점입니다.",
+        "직위에 임명되어 권한을 받는 것은 공식적 권한 부여로 임파워먼트와 다릅니다.",
+        "개인의 역량을 향상시키고 맡은 일에 대한 통제감을 높여주는 것이 임파워먼트입니다. 정답입니다.",
+        "임파워링에는 거래적 리더십보다 변혁적 리더십이 효과적입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2016-2016-local-management-A-q13",
+      "paperId": "paper_nursing_management_2016_local_A",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2016/local-A/q13.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n피들러의 상황적합성이론은 리더의 유형과 상황의 호의성을 파악해 상황에 적합한 리더를 배치합니다. 상황 호의성은 과업 구조화 정도, 리더와 구성원의 관계, 직위 권한으로 판단합니다.",
+      "optionExplanations": [
+        "관리격자이론은 과업지향과 관계지향의 정도로 리더 유형을 구분합니다.",
+        "경로-목표이론은 리더가 구성원의 목표 달성 경로를 어떻게 지원하는지에 관한 이론입니다.",
+        "상황적 리더십이론은 구성원의 성숙도에 따라 리더 유형을 바꾸는 이론입니다.",
+        "리더십 유형과 상황 호의성을 짝지어 관리자를 선발·배치하는 것은 피들러의 상황적합성이론입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2016-2016-local-management-A-q14",
+      "paperId": "paper_nursing_management_2016_local_A",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/management/2016/local-A/q14.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n허츠버그의 2요인이론은 직무 만족과 불만족을 서로 독립된 차원으로 보고, 만족에는 동기요인이, 불만족에는 위생요인이 각각 영향을 준다고 설명합니다.",
+      "optionExplanations": [
+        "직무 만족과 불만족이 각각 독립된 차원이며 영향 요인이 다르다는 것은 2요인이론의 설명입니다. 정답입니다.",
+        "타인과 동등하게 대우받을 것이라는 기대는 브룸의 기대이론이 아니라 형평성이론의 설명입니다.",
+        "성취 욕구가 강한 사람은 어려운 과업을 선호하므로 맥클랜드에 대한 설명은 옳지 않습니다.",
+        "두 가지 이상의 욕구가 동시에 작용한다는 것은 매슬로우의 단계이론과 다른 설명입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2016-2016-local-management-A-q15",
+      "paperId": "paper_nursing_management_2016_local_A",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/management/2016/local-A/q15.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n직무분석은 직무의 내용과 요건을 파악하는 과정으로, 설문지법, 면접법, 관찰법 등의 방법을 사용합니다.",
+      "optionExplanations": [
+        "직무분석 방법에 설문지법, 면접법, 관찰법 등이 있다는 설명은 옳습니다. 정답입니다.",
+        "유사 직무와 비교해 상대적 가치를 측정하는 것은 직무평가입니다.",
+        "과업 수를 줄이거나 범위를 넓히는 것은 직무설계입니다.",
+        "직무명세서에는 그 직무를 수행할 사람에게 필요한 자격 요건을 기술하며, 직무기술서에 직무의 개요와 내용, 근무 조건 등을 기술합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2016-2016-local-management-A-q16",
+      "paperId": "paper_nursing_management_2016_local_A",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/management/2016/local-A/q16.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n의료법 제21조는 환자가 아닌 사람에게 진료기록을 열람하게 하거나 사본을 내주는 것을 금지하면서, 다른 법령에 따라 요청받은 경우 등을 예외로 둡니다. 감염병 역학조사를 위해 질병관리본부장이 요청한 경우가 이에 해당합니다.",
+      "optionExplanations": [
+        "배우자가 환자 본인의 동의서를 제출했더라도 환자의 동의 없이 기록을 제공하는 것은 예외 사유가 아닙니다.",
+        "질병관리본부장이 감염병 역학조사를 위해 요청한 경우는 법령에 따른 예외로 허용됩니다. 정답입니다.",
+        "고용주가 보험급여 지급 후 기록을 요청하는 것은 예외 사유에 해당하지 않습니다.",
+        "의료분쟁조정중재원의 감정위원 요청은 관련 법령의 정해진 절차와 요건에 따라야 하며, 문제에 제시된 상황만으로 예외가 인정되지는 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2016-2016-local-management-A-q17",
+      "paperId": "paper_nursing_management_2016_local_A",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2016/local-A/q17.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n조직구조 설계에서 조직에 필요한 전문 지식이나 기술의 종류가 다양할수록 업무가 수평적으로 분화되어 전문 부서가 늘어납니다.",
+      "optionExplanations": [
+        "부문화 정도가 높아지면 의사결정은 오히려 분권화되는 경향이 있습니다.",
+        "공식화 정도가 높을수록 구성원의 행동 통제는 쉬워집니다.",
+        "필요한 전문 지식과 기술이 다양할수록 조직이 수평적으로 분화됩니다. 정답입니다.",
+        "일상적이고 규칙적인 과업을 수행하는 조직은 집권화되는 경향이 있습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2016-2016-local-management-A-q18",
+      "paperId": "paper_nursing_management_2016_local_A",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2016/local-A/q18.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n도나베디안 모형에서 과정적 접근은 간호가 실제로 어떻게 제공되었는지를 평가합니다. 환자안전 문제 발생 시 정해진 시간 안에 보고했는지는 간호 과정의 수행을 보는 지표입니다.",
+      "optionExplanations": [
+        "간호 실무 수행 방법의 표준과 규칙을 마련했는지는 구조적 접근입니다.",
+        "근거중심 간호연구센터 설치와 인력 배치는 구조적 접근입니다.",
+        "환자안전 문제를 12시간 이내 적정진료관리실에 보고했는지는 간호 과정의 수행을 보는 과정적 접근입니다. 정답입니다.",
+        "퇴원 후 약물 복용 순응도 향상은 결과적 접근입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2016-2016-local-management-A-q19",
+      "paperId": "paper_nursing_management_2016_local_A",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/management/2016/local-A/q19.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n환자안전사고, 특히 적신호사건은 보고의 자발성만 강조할 사안이 아니라 정해진 절차에 따라 반드시 보고하고 원인을 분석해 재발을 막아야 합니다. 보고 여부를 보고자의 자발성에 우선 맡긴다는 설명은 옳지 않습니다.",
+      "optionExplanations": [
+        "위해사건의 원인을 밝히기 위해 근본원인분석을 실시한다는 설명은 옳습니다.",
+        "심각한 위해가 발생한 사건의 보고를 보고자의 자발성에 우선 맡긴다는 설명은 옳지 않습니다. 정답입니다.",
+        "개인의 수행보다 시스템과 프로세스에 초점을 맞춘다는 설명은 옳습니다.",
+        "반복되는 환자안전 문제를 개선하기 위해 내외부 고객 모두에 초점을 맞춘다는 설명은 옳습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2016-2016-local-management-A-q20",
+      "paperId": "paper_nursing_management_2016_local_A",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2016/local-A/q20.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n의료법령상 감염관리실에는 감염 관리에 경험과 지식이 있는 의사, 간호사, 해당 의료기관의 장이 인정하는 사람 중 1명 이상이 전담 근무해야 합니다.",
+      "optionExplanations": [
+        "2016년 시행 기준 감염관리위원회 설치 대상은 종합병원과 200개 이상의 병상을 갖춘 병원 등이므로, 30개 병상을 갖춘 병원은 대상이 아닙니다.",
+        "콜레라 등 제1군 감염병 환자는 요양병원의 입원 대상에 포함되지 않습니다.",
+        "표준주의는 모든 환자에게 기본으로 적용하는 것이며, 접촉 시 항상 장갑과 마스크를 착용해야 하는 것은 아닙니다.",
+        "감염관리실에는 감염 관리 경험과 지식이 있는 의사, 간호사, 기관장이 인정하는 사람 중 1명 이상이 전담 근무해야 합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    }
+  ]
+}

@@ -529,6 +529,46 @@
       "questionCount": 20,
       "dataFile": "data/nursing/community/2018-local-B.json",
       "external": true
+    },
+    {
+      "id": "paper_nursing_management_2017_local_B",
+      "subjectId": "sub_nursing_manage",
+      "title": "2017 지방직 9급 간호관리 B책형",
+      "year": 2017,
+      "source": "2017년도 9급 지방공무원 임용 필기시험 간호관리 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/nursing/management/2017-local-B.json",
+      "external": true
+    },
+    {
+      "id": "paper_nursing_community_2017_local_B",
+      "subjectId": "sub_nursing_community",
+      "title": "2017 지방직 9급 지역사회간호 B책형",
+      "year": 2017,
+      "source": "2017년도 9급 지방공무원 임용 필기시험 지역사회간호 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/nursing/community/2017-local-B.json",
+      "external": true
+    },
+    {
+      "id": "paper_nursing_management_2016_local_A",
+      "subjectId": "sub_nursing_manage",
+      "title": "2016 지방직 9급 간호관리 A책형",
+      "year": 2016,
+      "source": "2016년도 9급 등 지방공무원 임용 필기시험 간호관리 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/nursing/management/2016-local-A.json",
+      "external": true
+    },
+    {
+      "id": "paper_nursing_community_2016_local_A",
+      "subjectId": "sub_nursing_community",
+      "title": "2016 지방직 9급 지역사회간호 A책형",
+      "year": 2016,
+      "source": "2016년도 9급 등 지방공무원 임용 필기시험 지역사회간호 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/nursing/community/2016-local-A.json",
+      "external": true
     }
   ]
 }
