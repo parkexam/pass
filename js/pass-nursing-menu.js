@@ -1,12 +1,13 @@
-/* PASS | 간호직 메뉴 통합 (2026-11-14)
- * 공무원 > 보건·생활·지방직 > 간호직 에 기존 4과목 연결.
- * 원본 기출 JSON, catalog.json, 문제/응시 ID, Firebase 데이터 변경 없음.
+/* PASS | 8급 간호직 메뉴 통합 (2026-11-14 8·9급 개편)
+ * 8·9급 공무원 > 8급 (간호·보건진료) > 간호 를 누르면 기존 4과목(국어·영어·간호관리·지역사회간호)을 연결합니다.
+ * 중복되던 첫 화면의 '간호직' 시험 분야(examId: nursing)는 data/extended-catalog.json 에서 hidden 처리되어
+ * 홈·전체보기 메뉴에 나오지 않습니다. 원본 기출 JSON, catalog.json, 문제/응시 ID, Firebase 데이터는 변경하지 않습니다.
  * catalog-extension.js 다음, app.js 이전에 로드하세요.
  */
 (function () {
   'use strict';
 
-  const LEGACY_NURSING_EXAM = 'nursing';
+  /* 8급 (간호·보건진료) 섹션의 '간호' 직렬. 과목 연결은 기존 subjectId를 그대로 씁니다. */
   const TRACK_ID = 'ext_437ba2654a4e';
   const COMPONENTS = [
     { id: 'sub_civil_0', name: '국어', from: 'civil' },
@@ -17,30 +18,10 @@
   let entryLeaf = null;
 
   function nursingTrack() {
-    return db.subjects.find(s => s.id === TRACK_ID) ||
-      db.subjects.find(s => s.examId === 'civil' &&
-        (s.name === '간호' || s.name === '간호직') &&
-        String(s.section || '').includes('보건'));
+    return subjectBy(TRACK_ID) ||
+      db.subjects.find(s => s.examId === 'civil' && s.kind === 'track' &&
+        (s.name === '간호' || s.name === '간호직'));
   }
-
-  // 문제 파일은 그대로 두고 표시용 분류/이름만 조정합니다.
-  const beforeInit = initCatalog;
-  initCatalog = async function () {
-    await beforeInit();
-    const legacy = examBy(LEGACY_NURSING_EXAM);
-    if (legacy) legacy.categoryGroup = '__internal_nursing_legacy__';
-    const track = nursingTrack();
-    if (track && track.name === '간호') track.name = '간호직';
-  };
-
-  // 홈의 추천 카드에도 남아 있는 중복 간호직 카드를 제거합니다.
-  const beforeCards = catCards;
-  catCards = function () {
-    return beforeCards().replace(
-      /<button\b(?=[^>]*\bdata-act="exam")(?=[^>]*\bdata-val="nursing")[^>]*>[\s\S]*?<\/button>/g,
-      ''
-    );
-  };
 
   function resolveComponent(part) {
     // 현재 기출의 기존 subjectId를 우선 사용해 통계/오답 연결을 유지합니다.
@@ -61,15 +42,15 @@
   function nursingSubjects() {
     const track = nursingTrack();
     return `${appHeader()}
-      <button class="back back-exams" data-act="nursingReturn">← ${esc(examBy('civil')?.name || '공무원')}</button>
-      <div class="eyebrow">CIVIL SERVICE / NURSING</div>
-      <h1 class="titleline">${esc(track?.name || '간호직')}</h1>
-      <p class="description">기존 공통과목과 간호직 전공과목을 한곳에서 풀어보세요.</p>
+      <button class="back back-exams" data-act="nursingReturn">← ${esc(examBy('civil')?.name || '8·9급 공무원')}</button>
+      <div class="eyebrow">CIVIL SERVICE / 8급 간호</div>
+      <h1 class="titleline">${esc(track?.name || '간호')}</h1>
+      <p class="description">8급 (간호·보건진료) 직렬입니다. 공통과목과 간호 전공과목을 한곳에서 풀어보세요.</p>
       <section class="catalog-list-section"><h2 class="catalog-section-title">공통과목</h2>
         <div class="catalog-list">${COMPONENTS.slice(0, 2).map(courseRow).join('') || '<div class="empty">공통과목 준비 중</div>'}</div></section>
       <section class="catalog-list-section"><h2 class="catalog-section-title">전공과목</h2>
         <div class="catalog-list">${COMPONENTS.slice(2).map(courseRow).join('') || '<div class="empty">전공과목 준비 중</div>'}</div></section>
-      <p class="catalog-footnote">과목 안내는 메뉴 구성용입니다. 간호직 8급의 연도·지역·채용 방식별 실제 시험과목은 해당 공고를 확인해 주세요. 기존 한국사 기출은 공무원 과목 목록에 그대로 유지됩니다.</p>`;
+      <p class="catalog-footnote">과목 안내는 메뉴 구성용입니다. 8급 간호직의 연도·지역·채용 방식별 실제 시험과목은 해당 공고를 확인해 주세요. 기존 한국사 기출은 공무원 과목 목록에 그대로 유지됩니다.</p>`;
   }
 
   const beforeSubject = subject;
@@ -80,7 +61,7 @@
       // 간호직에서 들어온 경우에만 뒤로가기를 간호직으로 변경합니다.
       html = html.replace(
         /<button\b(?=[^>]*\bdata-act="backSubjects")[^>]*>[\s\S]*?<\/button>/,
-        '<button class="back back-exams" data-act="nursingReturnToTrack">← 간호직</button>'
+        `<button class="back back-exams" data-act="nursingReturnToTrack">← ${esc(nursingTrack()?.name || '간호')}</button>`
       );
     }
     return html;

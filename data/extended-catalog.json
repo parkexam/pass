@@ -4,8 +4,8 @@
   "exams": [
     {
       "id": "civil",
-      "name": "9급 공무원",
-      "desc": "국가직·지방직·교육청 등",
+      "name": "8·9급 공무원",
+      "desc": "8급 간호·보건진료 · 9급 국가직·지방직 공채",
       "categoryGroup": "공무원",
       "order": 10
     },
@@ -14,7 +14,10 @@
       "name": "간호직",
       "desc": "간호관리 · 지역사회간호",
       "categoryGroup": "공무원",
-      "order": 11
+      "order": 11,
+      "hidden": true,
+      "mergedInto": "civil",
+      "note": "8·9급 공무원 > 8급 (간호·보건진료) > 간호 메뉴로 통합. 기존 간호관리·지역사회간호 기출의 subjectId 유지를 위한 레거시 시험 분야이며 메뉴에는 표시하지 않습니다."
     },
     {
       "id": "civil7",
@@ -181,322 +184,322 @@
       "id": "ext_1df0109fb54a",
       "examId": "civil",
       "name": "일반행정",
-      "section": "공통 기출·행정",
+      "section": "9급 행정·공통",
       "kind": "track"
     },
     {
       "id": "ext_434b383d99af",
       "examId": "civil",
       "name": "일반행정(지역구분)",
-      "section": "공통 기출·행정",
+      "section": "9급 행정·공통",
       "kind": "track"
     },
     {
       "id": "ext_7af990ad083a",
       "examId": "civil",
       "name": "우정사업본부 행정",
-      "section": "공통 기출·행정",
+      "section": "9급 행정·공통",
       "kind": "track"
     },
     {
       "id": "ext_6a9afea6c636",
       "examId": "civil",
       "name": "교육행정",
-      "section": "공통 기출·행정",
+      "section": "9급 행정·공통",
       "kind": "track"
     },
     {
       "id": "ext_9739c8c8c5eb",
       "examId": "civil",
       "name": "선거행정",
-      "section": "공통 기출·행정",
+      "section": "9급 행정·공통",
       "kind": "track"
     },
     {
       "id": "ext_10ab663eb7ed",
       "examId": "civil",
       "name": "고용노동",
-      "section": "공통 기출·행정",
+      "section": "9급 행정·공통",
       "kind": "track"
     },
     {
       "id": "ext_060fcd8d6740",
       "examId": "civil",
       "name": "직업상담",
-      "section": "공통 기출·행정",
+      "section": "9급 행정·공통",
       "kind": "track"
     },
     {
       "id": "ext_610d3b2acfac",
       "examId": "civil",
       "name": "사회복지",
-      "section": "공통 기출·행정",
+      "section": "9급 행정·공통",
       "kind": "track"
     },
     {
       "id": "ext_586bf5b28d10",
       "examId": "civil",
       "name": "사서",
-      "section": "공통 기출·행정",
+      "section": "9급 행정·공통",
       "kind": "track"
     },
     {
       "id": "ext_e2697c1bdd66",
       "examId": "civil",
       "name": "속기",
-      "section": "공통 기출·행정",
+      "section": "9급 행정·공통",
       "kind": "track"
     },
     {
       "id": "ext_e8c36db48d64",
       "examId": "civil",
       "name": "운전",
-      "section": "공통 기출·행정",
+      "section": "9급 행정·공통",
       "kind": "track"
     },
     {
       "id": "ext_7f8b962a0931",
       "examId": "civil",
       "name": "시설관리",
-      "section": "공통 기출·행정",
+      "section": "9급 행정·공통",
       "kind": "track"
     },
     {
       "id": "ext_c21900e44d44",
       "examId": "civil",
       "name": "방호",
-      "section": "공통 기출·행정",
-      "kind": "track"
-    },
-    {
-      "id": "ext_02b115f27274",
-      "examId": "civil",
-      "name": "세무",
-      "section": "조세·사법·치안",
-      "kind": "track"
-    },
-    {
-      "id": "ext_973a736263c6",
-      "examId": "civil",
-      "name": "관세",
-      "section": "조세·사법·치안",
-      "kind": "track"
-    },
-    {
-      "id": "ext_b79a26e6bdec",
-      "examId": "civil",
-      "name": "통계",
-      "section": "조세·사법·치안",
-      "kind": "track"
-    },
-    {
-      "id": "ext_c53407ad9c6f",
-      "examId": "civil",
-      "name": "교정",
-      "section": "조세·사법·치안",
-      "kind": "track"
-    },
-    {
-      "id": "ext_147306b7d91b",
-      "examId": "civil",
-      "name": "보호",
-      "section": "조세·사법·치안",
-      "kind": "track"
-    },
-    {
-      "id": "ext_81a4a997f52c",
-      "examId": "civil",
-      "name": "검찰",
-      "section": "조세·사법·치안",
-      "kind": "track"
-    },
-    {
-      "id": "ext_3012bd9b7df1",
-      "examId": "civil",
-      "name": "마약수사",
-      "section": "조세·사법·치안",
-      "kind": "track"
-    },
-    {
-      "id": "ext_beccee142abe",
-      "examId": "civil",
-      "name": "출입국관리",
-      "section": "조세·사법·치안",
-      "kind": "track"
-    },
-    {
-      "id": "ext_f57dc93a8978",
-      "examId": "civil",
-      "name": "철도관리",
-      "section": "조세·사법·치안",
-      "kind": "track"
-    },
-    {
-      "id": "ext_f4d755ddc233",
-      "examId": "civil",
-      "name": "철도경찰",
-      "section": "조세·사법·치안",
-      "kind": "track"
-    },
-    {
-      "id": "ext_b4945d18b315",
-      "examId": "civil",
-      "name": "일반기계",
-      "section": "과학기술·전산",
-      "kind": "track"
-    },
-    {
-      "id": "ext_7dcfe5d26276",
-      "examId": "civil",
-      "name": "전기",
-      "section": "과학기술·전산",
-      "kind": "track"
-    },
-    {
-      "id": "ext_fc8643562fe4",
-      "examId": "civil",
-      "name": "화공",
-      "section": "과학기술·전산",
-      "kind": "track"
-    },
-    {
-      "id": "ext_aab55847fcbb",
-      "examId": "civil",
-      "name": "전산개발",
-      "section": "과학기술·전산",
-      "kind": "track"
-    },
-    {
-      "id": "ext_456c423526ff",
-      "examId": "civil",
-      "name": "정보보호",
-      "section": "과학기술·전산",
-      "kind": "track"
-    },
-    {
-      "id": "ext_cedeaad65d54",
-      "examId": "civil",
-      "name": "방송통신(전송기술)",
-      "section": "과학기술·전산",
-      "kind": "track"
-    },
-    {
-      "id": "ext_96636c4b0a18",
-      "examId": "civil",
-      "name": "농업(일반농업)",
-      "section": "과학기술·전산",
-      "kind": "track"
-    },
-    {
-      "id": "ext_6cfbf4637b48",
-      "examId": "civil",
-      "name": "임업(산림자원)",
-      "section": "과학기술·전산",
-      "kind": "track"
-    },
-    {
-      "id": "ext_a32225420f46",
-      "examId": "civil",
-      "name": "환경(일반환경)",
-      "section": "과학기술·전산",
-      "kind": "track"
-    },
-    {
-      "id": "ext_99a1d8b508ea",
-      "examId": "civil",
-      "name": "일반토목",
-      "section": "과학기술·전산",
-      "kind": "track"
-    },
-    {
-      "id": "ext_a30a7b6c8c2d",
-      "examId": "civil",
-      "name": "건축",
-      "section": "과학기술·전산",
-      "kind": "track"
-    },
-    {
-      "id": "ext_cf039f6a4aad",
-      "examId": "civil",
-      "name": "지적",
-      "section": "과학기술·전산",
-      "kind": "track"
-    },
-    {
-      "id": "ext_d47c3d8bf944",
-      "examId": "civil",
-      "name": "방재안전",
-      "section": "과학기술·전산",
-      "kind": "track"
-    },
-    {
-      "id": "ext_8dc5b3a97253",
-      "examId": "civil",
-      "name": "보건",
-      "section": "보건·생활·지방직",
+      "section": "9급 행정·공통",
       "kind": "track"
     },
     {
       "id": "ext_437ba2654a4e",
       "examId": "civil",
       "name": "간호",
-      "section": "보건·생활·지방직",
+      "section": "8급 (간호·보건진료)",
       "kind": "track"
     },
     {
       "id": "ext_e33422f08156",
       "examId": "civil",
       "name": "보건진료",
-      "section": "보건·생활·지방직",
+      "section": "8급 (간호·보건진료)",
+      "kind": "track"
+    },
+    {
+      "id": "ext_8dc5b3a97253",
+      "examId": "civil",
+      "name": "보건",
+      "section": "9급 보건·의료",
       "kind": "track"
     },
     {
       "id": "ext_8cff171dbf9a",
       "examId": "civil",
       "name": "의료기술",
-      "section": "보건·생활·지방직",
+      "section": "9급 보건·의료",
       "kind": "track"
     },
     {
       "id": "ext_da972265f9f9",
       "examId": "civil",
       "name": "식품위생",
-      "section": "보건·생활·지방직",
+      "section": "9급 보건·의료",
+      "kind": "track"
+    },
+    {
+      "id": "ext_02b115f27274",
+      "examId": "civil",
+      "name": "세무",
+      "section": "9급 조세·사법·치안",
+      "kind": "track"
+    },
+    {
+      "id": "ext_973a736263c6",
+      "examId": "civil",
+      "name": "관세",
+      "section": "9급 조세·사법·치안",
+      "kind": "track"
+    },
+    {
+      "id": "ext_b79a26e6bdec",
+      "examId": "civil",
+      "name": "통계",
+      "section": "9급 조세·사법·치안",
+      "kind": "track"
+    },
+    {
+      "id": "ext_c53407ad9c6f",
+      "examId": "civil",
+      "name": "교정",
+      "section": "9급 조세·사법·치안",
+      "kind": "track"
+    },
+    {
+      "id": "ext_147306b7d91b",
+      "examId": "civil",
+      "name": "보호",
+      "section": "9급 조세·사법·치안",
+      "kind": "track"
+    },
+    {
+      "id": "ext_81a4a997f52c",
+      "examId": "civil",
+      "name": "검찰",
+      "section": "9급 조세·사법·치안",
+      "kind": "track"
+    },
+    {
+      "id": "ext_3012bd9b7df1",
+      "examId": "civil",
+      "name": "마약수사",
+      "section": "9급 조세·사법·치안",
+      "kind": "track"
+    },
+    {
+      "id": "ext_beccee142abe",
+      "examId": "civil",
+      "name": "출입국관리",
+      "section": "9급 조세·사법·치안",
+      "kind": "track"
+    },
+    {
+      "id": "ext_f57dc93a8978",
+      "examId": "civil",
+      "name": "철도관리",
+      "section": "9급 조세·사법·치안",
+      "kind": "track"
+    },
+    {
+      "id": "ext_f4d755ddc233",
+      "examId": "civil",
+      "name": "철도경찰",
+      "section": "9급 조세·사법·치안",
+      "kind": "track"
+    },
+    {
+      "id": "ext_b4945d18b315",
+      "examId": "civil",
+      "name": "일반기계",
+      "section": "9급 과학기술·전산",
+      "kind": "track"
+    },
+    {
+      "id": "ext_7dcfe5d26276",
+      "examId": "civil",
+      "name": "전기",
+      "section": "9급 과학기술·전산",
+      "kind": "track"
+    },
+    {
+      "id": "ext_fc8643562fe4",
+      "examId": "civil",
+      "name": "화공",
+      "section": "9급 과학기술·전산",
+      "kind": "track"
+    },
+    {
+      "id": "ext_aab55847fcbb",
+      "examId": "civil",
+      "name": "전산개발",
+      "section": "9급 과학기술·전산",
+      "kind": "track"
+    },
+    {
+      "id": "ext_456c423526ff",
+      "examId": "civil",
+      "name": "정보보호",
+      "section": "9급 과학기술·전산",
+      "kind": "track"
+    },
+    {
+      "id": "ext_cedeaad65d54",
+      "examId": "civil",
+      "name": "방송통신(전송기술)",
+      "section": "9급 과학기술·전산",
+      "kind": "track"
+    },
+    {
+      "id": "ext_99a1d8b508ea",
+      "examId": "civil",
+      "name": "일반토목",
+      "section": "9급 과학기술·전산",
+      "kind": "track"
+    },
+    {
+      "id": "ext_a30a7b6c8c2d",
+      "examId": "civil",
+      "name": "건축",
+      "section": "9급 과학기술·전산",
+      "kind": "track"
+    },
+    {
+      "id": "ext_cf039f6a4aad",
+      "examId": "civil",
+      "name": "지적",
+      "section": "9급 과학기술·전산",
+      "kind": "track"
+    },
+    {
+      "id": "ext_d47c3d8bf944",
+      "examId": "civil",
+      "name": "방재안전",
+      "section": "9급 과학기술·전산",
+      "kind": "track"
+    },
+    {
+      "id": "ext_96636c4b0a18",
+      "examId": "civil",
+      "name": "농업(일반농업)",
+      "section": "9급 농림·환경·현장",
+      "kind": "track"
+    },
+    {
+      "id": "ext_6cfbf4637b48",
+      "examId": "civil",
+      "name": "임업(산림자원)",
+      "section": "9급 농림·환경·현장",
+      "kind": "track"
+    },
+    {
+      "id": "ext_a32225420f46",
+      "examId": "civil",
+      "name": "환경(일반환경)",
+      "section": "9급 농림·환경·현장",
       "kind": "track"
     },
     {
       "id": "ext_8655097731fe",
       "examId": "civil",
       "name": "수의",
-      "section": "보건·생활·지방직",
+      "section": "9급 농림·환경·현장",
       "kind": "track"
     },
     {
       "id": "ext_c6bc714895b2",
       "examId": "civil",
       "name": "농촌지도",
-      "section": "보건·생활·지방직",
+      "section": "9급 농림·환경·현장",
       "kind": "track"
     },
     {
       "id": "ext_85f16f850add",
       "examId": "civil",
       "name": "녹지",
-      "section": "보건·생활·지방직",
+      "section": "9급 농림·환경·현장",
       "kind": "track"
     },
     {
       "id": "ext_77788f93ad77",
       "examId": "civil",
       "name": "조경",
-      "section": "보건·생활·지방직",
+      "section": "9급 농림·환경·현장",
       "kind": "track"
     },
     {
       "id": "ext_2fcf6c7f31c2",
       "examId": "civil",
       "name": "기계운영",
-      "section": "보건·생활·지방직",
+      "section": "9급 농림·환경·현장",
       "kind": "track"
     },
     {

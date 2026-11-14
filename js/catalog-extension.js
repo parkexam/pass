@@ -4,7 +4,8 @@
 (function(){
 'use strict';
 const categoryGroups=['공무원','적성·입학','국가기술자격','자격·인증'];
-const featuredIds=['civil','nursing','leet','meet','cert-engineer','cert-health'];
+/* 홈에 먼저 보여 줄 시험 분야. 간호직은 8·9급 공무원 > 8급 (간호·보건진료) > 간호 로 통합되어 뺐습니다. */
+const featuredIds=['civil','leet','meet','cert-engineer','cert-health'];
 const baseInit=initCatalog;
 initCatalog=async function(){
   await baseInit();
@@ -16,8 +17,13 @@ initCatalog=async function(){
     for(const ex of extra.exams){
       const current=db.exams.find(e=>e.id===ex.id);
       if(current){
+        // 표시 이름·설명은 확장 카탈로그를 기준으로 삼아, 기존 catalog.json이 그대로여도 메뉴 이름이 유지됩니다.
+        current.name=ex.name;
+        current.desc=ex.desc;
         current.categoryGroup=ex.categoryGroup;
         current.order=ex.order;
+        if(ex.hidden)current.hidden=true;
+        if(ex.mergedInto)current.mergedInto=ex.mergedInto;
       }else{
         db.exams.push({...ex,external:true});
       }
@@ -49,7 +55,8 @@ function groupExams(exams){
  }).join('');
 }
 catCards=function(){
- let exams=db.exams.slice().sort((a,b)=>(a.order??999)-(b.order??999));
+ // hidden 시험 분야는 다른 메뉴로 통합된 레거시 항목이라 홈·전체보기 어디에도 표시하지 않습니다.
+ let exams=db.exams.filter(e=>!e.hidden).slice().sort((a,b)=>(a.order??999)-(b.order??999));
  if(S.view==='home'){
   let picked=featuredIds.map(id=>exams.find(e=>e.id===id)).filter(Boolean);
   if(!picked.length)picked=exams.slice(0,6);
