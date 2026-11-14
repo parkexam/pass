@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_accounting_2024_national_gah",
+ "title": "2024 국가직 9급 회계학 가책형",
+ "year": 2024,
+ "source": "2024년도 국가공무원 9급 공채 필기시험 회계학 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_8",
+ "questions": [
+  {
+   "id": "civil2024-national-accounting-gah-q01",
+   "paperId": "paper_civil_accounting_2024_national_gah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2024/national-gah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n4월 1일부터 12월 31일까지 9개월분 이자에 대해 (차) 미수수익 (대) 이자수익 분개를 해야 하는데 이를 누락하면 자산인 미수수익이 계상되지 않아 자산이 과소계상되고, 이자수익이 빠져 당기순이익도 과소계상된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "자산은 과소계상되고 당기순이익도 과소계상되므로 부채 무영향만 맞고 순이익 방향이 틀렸다.",
+    "미수수익을 계상하지 않아 자산이 과소계상되고, 이자수익 누락으로 당기순이익도 과소계상된다. 정답입니다.",
+    "이자수익을 누락했으므로 당기순이익은 과소계상이고 자산도 과소계상이다.",
+    "자산·자본 과소계상은 맞지만 당기순이익은 과소계상이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-accounting-gah-q02",
+   "paperId": "paper_civil_accounting_2024_national_gah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting/2024/national-gah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n재무제표의 표시와 분류는 계속성을 유지하는 것이 원칙이지만, 회계기준이 표시방법의 변경을 요구하거나 기업의 사업 내용이 크게 변한 경우에는 표시와 분류를 변경한다. 변경을 요구하는 경우에도 매기 동일하여야 한다고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "경영진은 재무제표 작성 시 계속기업 존속가능성을 평가하여야 한다.",
+    "현금흐름 정보를 제외하고는 발생기준 회계를 사용한다.",
+    "당기 재무제표를 이해하는 데 목적적합하면 서술형 정보도 비교정보로 포함한다.",
+    "표시의 계속성은 원칙일 뿐이고 회계기준이 변경을 요구하면 표시방법을 바꿀 수 있다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-accounting-gah-q03",
+   "paperId": "paper_civil_accounting_2024_national_gah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2024/national-gah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n선수임대료는 기초잔액에 현금 수취액을 더하고 수익으로 인식한 금액을 빼서 기말잔액이 된다. 16,000+50,000-임대료수익=24,000이므로 당기 임대료수익은 42,000원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "16,000+50,000-24,000=42,000원이다. 정답입니다.",
+    "현금 수취액 전부를 수익으로 본 값이다.",
+    "선수임대료 증가분을 더한 값이다.",
+    "기초 선수임대료만 더하고 기말 선수임대료를 빼지 않은 값이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-accounting-gah-q04",
+   "paperId": "paper_civil_accounting_2024_national_gah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting/2024/national-gah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사채할인발행차금 상각액은 유효이자(장부금액×유효이자율)에서 액면이자를 뺀 금액이다. 할인발행 사채는 장부금액이 매년 늘어 유효이자도 커지므로 상각액은 매년 증가한다. 매년 감소한다고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "시장이자율이 액면이자율보다 높으면 사채는 할인발행된다.",
+    "할인발행 사채의 이자비용은 장부금액이 커져 매년 증가한다.",
+    "사채할증발행차금은 상각되어 잔액이 매년 감소한다.",
+    "할인발행차금 상각액은 유효이자가 커져 매년 증가하므로 감소한다고 한 부분이 틀렸다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-accounting-gah-q05",
+   "paperId": "paper_civil_accounting_2024_national_gah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2024/national-gah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n무형자산은 내용연수가 유한하면 그 기간에 걸쳐 상각하고, 비한정이면 상각하지 않는 대신 매년 손상검사를 한다. 연구단계와 개발단계를 구분할 수 없으면 연구단계 지출로 보아 비용 처리하고, 유한한 무형자산의 상각은 사용을 중단해도 계속한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "내용연수가 유한한 무형자산은 상각하고 비한정인 무형자산은 상각하지 않는다. 정답입니다.",
+    "연구·개발단계를 구분할 수 없으면 모두 연구단계 지출로 보아 비용으로 처리한다.",
+    "표준적 성능 유지에 필요한 수준을 넘는 미래지출 계획이 있다는 이유로 내용연수를 비한정으로 판단할 수 없다.",
+    "유한한 무형자산의 상각은 매각예정 분류나 제거 시에 중지되고, 단순히 사용하지 않는 때에는 중지하지 않는다."
+   ]
+  },
+  {
+   "id": "civil2024-national-accounting-gah-q06",
+   "paperId": "paper_civil_accounting_2024_national_gah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2024/national-gah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공정가치는 측정일에 시장참여자 사이의 정상거래에서 자산을 매도할 때 받거나 부채를 이전할 때 지급할 가격, 즉 유출가격이다. 자산을 매입할 때 지급할 가격이라고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "역사적 원가는 거래나 사건의 가격에서 도출한 정보를 사용한다.",
+    "현행가치는 측정일의 조건을 반영한 갱신 정보를 사용한다.",
+    "공정가치는 자산을 매도할 때 받거나 부채를 이전할 때 지급할 가격이므로 매입·차입이라고 한 부분이 틀렸다. 정답입니다.",
+    "현행원가는 측정일 현재 동등한 자산의 원가로 거래원가를 포함한다."
+   ]
+  },
+  {
+   "id": "civil2024-national-accounting-gah-q07",
+   "paperId": "paper_civil_accounting_2024_national_gah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting/2024/national-gah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기타포괄손익의 구성요소와 관련된 재분류조정은 당기손익으로 재분류될 때 그 금액을 공시하여야 한다. 공시할 필요가 없다고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "유동·비유동 구분 표시 시 이연법인세자산·부채는 유동으로 분류하지 않는다.",
+    "영업주기는 영업활동을 위한 자산의 취득부터 현금 회수까지의 기간이다.",
+    "수익·비용 항목을 특별손익 항목으로 표시할 수 없다.",
+    "기타포괄손익의 재분류조정은 당기손익으로 재분류되는 시점에 공시하여야 한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-accounting-gah-q08",
+   "paperId": "paper_civil_accounting_2024_national_gah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2024/national-gah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n재고자산의 순실현가능가치가 상승하면 최초 장부금액을 초과하지 않는 범위에서 평가손실을 환입하고, 환입 후 장부금액은 취득원가와 수정된 순실현가능가치 중 작은 금액이 된다. 큰 금액이라고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "재고자산은 취득원가와 순실현가능가치 중 낮은 금액으로 측정한다.",
+    "저가법은 항목별로 적용하되 비슷하거나 관련된 항목은 통합할 수 있다.",
+    "환입 후 장부금액은 취득원가와 수정된 순실현가능가치 중 '작은' 금액이다. 정답입니다.",
+    "평가손실 환입은 환입이 발생한 기간에 비용으로 인식된 재고자산 금액의 차감액으로 인식한다."
+   ]
+  },
+  {
+   "id": "civil2024-national-accounting-gah-q09",
+   "paperId": "paper_civil_accounting_2024_national_gah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2024/national-gah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n안전이나 환경상의 이유로 취득하는 유형자산은 그 자체로 직접적인 효익이 없더라도 다른 자산에서 미래경제적 효익을 얻는 데 필요하면 유형자산으로 인식한다. 자산으로 인식하지 않는다고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "일상적인 수선·유지 원가는 유형자산의 장부금액에 포함하지 않는다.",
+    "안전·환경 설비도 다른 자산의 효익 확보에 필요하면 유형자산으로 인식한다. 정답입니다.",
+    "유형자산 인식 요건으로 미래경제적 효익의 유입 가능성이 높아야 한다.",
+    "유형자산 인식 요건으로 원가를 신뢰성 있게 측정할 수 있어야 한다."
+   ]
+  },
+  {
+   "id": "civil2024-national-accounting-gah-q10",
+   "paperId": "paper_civil_accounting_2024_national_gah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting/2024/national-gah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n어떤 자본개념을 선택하든 그 개념에 따라 이익을 결정하는 목표는 정해진다. 측정의 어려움이 있다는 이유로 이익 결정 목표를 알 수 없다고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "자본은 자산에서 모든 부채를 차감한 잔여지분이다.",
+    "재무적 자본개념에서 자본은 순자산·지분과 같은 뜻으로 쓰인다.",
+    "이용자가 명목 투하자본이나 그 구매력 유지에 관심이 있으면 재무적 자본개념을 채택한다.",
+    "자본개념을 선택하면 그에 따른 이익 결정 목표는 정해지므로 알 수 없다고 한 부분이 틀렸다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-accounting-gah-q11",
+   "paperId": "paper_civil_accounting_2024_national_gah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2024/national-gah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n받을어음의 위험과 보상을 은행에 이전했으므로 매각으로 처리하고, 만기까지 남은 3개월분 할인료를 뺀 금액을 받는다. 무이자부어음의 만기금액은 액면 100,000원이므로 할인료는 100,000×10%×3/12=2,500원이고, 이 금액이 매출채권처분손실이 된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "위험과 보상을 이전한 매각거래이므로 할인료만큼 처분손실이 발생한다.",
+    "100,000×10%×3/12=2,500원이 처분손실이다. 정답입니다.",
+    "할인 기간은 만기까지 남은 3개월이므로 3,000원이 되지 않는다.",
+    "어음의 전체 기간 6개월에 할인율을 적용한 값이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-accounting-gah-q12",
+   "paperId": "paper_civil_accounting_2024_national_gah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2024/national-gah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n계약으로 식별하려면 계약의 결과로 기업의 미래 현금흐름의 위험·시기·금액이 변동될 것으로 예상되어야 한다. 변동되지 않을 것으로 예상된다고 한 설명이 상업적 실질 요건과 반대이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "당사자들이 계약을 승인하고 각자의 의무를 수행하기로 확약하여야 한다.",
+    "계약의 결과로 미래 현금흐름의 위험·시기·금액이 변동될 것으로 예상되어야 한다. 정답입니다.",
+    "이전할 재화나 용역과 관련한 각 당사자의 권리와 지급조건을 식별할 수 있어야 한다.",
+    "받을 권리를 갖게 될 대가의 회수 가능성이 높아야 한다."
+   ]
+  },
+  {
+   "id": "civil2024-national-accounting-gah-q13",
+   "paperId": "paper_civil_accounting_2024_national_gah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2024/national-gah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n매출원가는 매출액 200×80%=160이고, 매입액은 160-기초재고 30+기말재고 20=150이다. 이 중 외상매입이 60%인 90이므로, 매입채무 기초 50+외상매입 90-현금지급액=기말 60에서 현금지급액은 80원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "매입채무 기초 50+90-지급액=기말 60에서 지급액은 80원이다. 정답입니다.",
+    "외상매입액 90을 그대로 지급액으로 본 값이다.",
+    "매입채무 지급액 80에 현금매입 60을 더한 값이다.",
+    "당기 매입액 150을 그대로 지급액으로 본 값이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-accounting-gah-q14",
+   "paperId": "paper_civil_accounting_2024_national_gah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2024/national-gah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n가중평균법에서 완성품 수량은 300+2,200-500=2,000단위이다. 직접재료원가 환산량은 2,000+500=2,500단위로 단위당 25,000÷2,500=10원, 가공원가 환산량은 2,000+500×40%=2,200단위로 단위당 44,000÷2,200=20원이다. 완성품원가는 2,000×(10+20)=60,000원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "2,000단위×(10+20)=60,000원이다. 정답입니다.",
+    "기말재공품 배분액을 반영하지 않아 나오지 않는 금액이다.",
+    "기말재공품의 가공원가 몫을 빼지 않은 값이다.",
+    "기말재공품의 재료원가 몫을 빼지 않은 값이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-accounting-gah-q15",
+   "paperId": "paper_civil_accounting_2024_national_gah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2024/national-gah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nA와 B의 공헌이익은 각각 90-70=20, 140-100=40이고 판매배합은 80:20=4:1이다. 한 묶음(A 4개+B 1개)의 공헌이익은 4×20+40=120이므로 손익분기점은 3,000÷120=25묶음이고, A제품의 판매수량은 25×4=100개이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "현재 판매량을 그대로 쓴 값이다.",
+    "묶음 공헌이익 120으로 고정원가를 나누어 A제품 100개를 계산한다. 정답입니다.",
+    "배합과 공헌이익으로는 나오지 않는 수량이다.",
+    "B의 공헌이익을 20으로 잘못 본 경우의 값이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-accounting-gah-q16",
+   "paperId": "paper_civil_accounting_2024_national_gah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2024/national-gah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n변동원가계산에서 제품원가는 변동제조원가(직접재료원가·직접노무원가·변동제조간접원가)만이고, 변동판매관리비는 기간비용이다. 변동판매관리비까지 제품원가로 분류한다고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "변동원가계산은 내부 의사결정용 보고목적으로 유용하다.",
+    "변동판매관리비는 제품원가가 아니라 기간비용이다. 정답입니다.",
+    "고정제조간접원가를 제품원가에 넣지 않아 전부원가계산보다 제품원가가 작다.",
+    "고정제조간접원가를 기간비용으로 처리해 수익·비용대응 원칙에 어긋난다."
+   ]
+  },
+  {
+   "id": "civil2024-national-accounting-gah-q17",
+   "paperId": "paper_civil_accounting_2024_national_gah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2024/national-gah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n관련원가는 대안 간에 차이가 나는 미래원가이다. 이미 발생한 과거원가는 매몰원가로서 의사결정과 관련이 없으므로 과거원가라고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "매몰원가는 이미 발생한 과거원가로 의사결정에 영향을 주지 못한다.",
+    "총변동원가는 조업도에 따라 변하고 총고정원가는 관련 범위 내에서 일정하다.",
+    "관련원가는 대안 간에 차이가 나는 미래원가이므로 '과거원가'라고 한 부분이 틀렸다. 정답입니다.",
+    "기초원가는 직접재료원가+직접노무원가, 가공원가는 직접노무원가+제조간접원가이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-accounting-gah-q18",
+   "paperId": "paper_civil_accounting_2024_national_gah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2024/national-gah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n재정운영순원가는 프로그램순원가 11,500원에 관리운영비 40,000원과 비배분비용 500원을 더하고 비배분수익 1,000원을 빼서 51,000원이 된다. 51,500원은 비배분수익을 빼지 않은 금액이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "프로그램총원가 31,500-프로그램수익 20,000=11,500원이다.",
+    "행정운영성경비인 인건비 40,000원은 관리운영비로 표시한다.",
+    "11,500+40,000+500-1,000=51,000원이므로 51,500원이라고 한 부분이 틀렸다. 정답입니다.",
+    "재정운영순원가 51,000-비교환수익 1,000=50,000원이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-accounting-gah-q19",
+   "paperId": "paper_civil_accounting_2024_national_gah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting/2024/national-gah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국가회계실체 사이의 관리전환은 유상거래이면 공정가액을, 무상거래이면 장부가액을 취득원가로 한다. 유상거래일 때 장부가액을 취득원가로 한다고 한 설명이 서로 바뀐 것이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "기타 유동자산에는 미수수익·선급금·선급비용·재고자산 등이 있다.",
+    "중앙관서·기금의 순자산변동표는 기초순자산, 재정운영결과, 재원의 조달 및 이전, 조정항목, 기말순자산으로 표시한다.",
+    "무주부동산 취득, 교환, 기부채납 등으로 취득한 자산은 취득 당시 공정가액을 취득원가로 한다.",
+    "관리전환은 유상이면 공정가액, 무상이면 장부가액이 취득원가이므로 서로 바꾼 설명이 틀렸다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-accounting-gah-q20",
+   "paperId": "paper_civil_accounting_2024_national_gah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2024/national-gah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n매출액은 평균 매출채권 (450+550)/2=500에 회전율 5회를 곱해 2,500원이고, 매출원가는 평균 재고자산 (360+440)/2=400에 회전율 4회를 곱해 1,600원이다. 매출총이익은 2,500-1,600=900원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "매출원가를 1,800원으로 계산한 경우의 값이다.",
+    "매출액을 2,400원으로 계산한 경우의 값이다.",
+    "매출액 2,500-매출원가 1,600=900원이다. 정답입니다.",
+    "매출원가를 1,500원으로 계산한 경우의 값이다."
+   ]
+  }
+ ]
+}

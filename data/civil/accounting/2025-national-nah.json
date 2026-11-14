@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_accounting_2025_national_nah",
+ "title": "2025 국가직 9급 회계학 나책형",
+ "year": 2025,
+ "source": "2025년도 국가공무원 9급 공채 필기시험 회계학 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_8",
+ "questions": [
+  {
+   "id": "civil2025-national-accounting-nah-q01",
+   "paperId": "paper_civil_accounting_2025_national_nah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting/2025/national-nah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국가회계기준상 순자산은 기본순자산·적립금 및 잉여금·순자산조정으로 구분되고, 기본순자산은 순자산에서 적립금 및 잉여금과 순자산조정을 뺀 금액이다. 순자산과 기본순자산의 위치를 바꾸어 적은 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "지방자치단체 재정상태표의 부채는 유동부채·장기차입부채·기타비유동부채로 분류한다.",
+    "국가 재정상태표의 충당부채는 지출시기·금액이 불확실한 부채로 연금·퇴직수당·보증·보험·기타 충당부채가 있다.",
+    "지방자치단체의 일반순자산은 순자산에서 고정순자산과 특정순자산을 제외한 금액이다.",
+    "국가의 기본순자산이 순자산에서 적립금 및 잉여금과 순자산조정을 뺀 금액이므로 순자산과 기본순자산을 바꾼 설명이 틀렸다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting-nah-q02",
+   "paperId": "paper_civil_accounting_2025_national_nah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2025/national-nah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n고객이 자산을 통제하는지 판단할 때에는 재매입 약정이 있는지를 반드시 고려한다. 재매입 약정이 있으면 고객이 자산을 자유롭게 사용·처분할 수 없어 통제가 이전되지 않은 것으로 보기 때문이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "약속한 자산을 이전해 고객이 통제하게 될 때 또는 기간에 걸쳐 이행하는 대로 수익을 인식한다.",
+    "재매입 약정은 통제 이전 여부를 판단할 때 고려해야 하므로 '고려하지 않는다'가 틀렸다. 정답입니다.",
+    "수행의무가 기간에 걸쳐 이행되지 않으면 한 시점에 이행되는 의무이다.",
+    "진행률을 합리적으로 측정할 수 있어야 기간에 걸친 수행의무에 대한 수익을 인식한다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting-nah-q03",
+   "paperId": "paper_civil_accounting_2025_national_nah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2025/national-nah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n충당부채는 미래의 사업행위와 관계없이 과거 사건으로 인한 현재의무가 존재할 때 인식한다. 미래 행위와 관련하여 존재하는 과거 사건에서 생긴 의무만을 인식한다는 설명은 현재의무와 미래 지출을 혼동한 것이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "현재의무에는 법적 의무뿐 아니라 의제 의무도 포함된다.",
+    "충당부채는 미래 행위로 피할 수 있는 지출이 아니라, 미래 행위와 관계없이 존재하는 현재의무에 대해 인식한다. 정답입니다.",
+    "의무 이행에 경제적 효익이 있는 자원의 유출 가능성이 높아야 한다.",
+    "의무 이행에 필요한 금액을 신뢰성 있게 추정할 수 있어야 한다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting-nah-q04",
+   "paperId": "paper_civil_accounting_2025_national_nah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2025/national-nah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n개별적으로 취득한 특허권은 무형자산으로 인식하지만, 내부적으로 창출한 영업권·브랜드·고객 목록은 원가를 신뢰성 있게 측정할 수 없어 인식이 금지되고, 연구단계에서 발생하는 지출은 발생 시 비용으로 인식한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "개별 취득한 특허권(ㄱ)만 무형자산으로 인식한다. 정답입니다.",
+    "연구단계 지출(ㄷ)은 비용으로 인식하므로 포함할 수 없다.",
+    "내부창출 영업권(ㄴ)과 브랜드·고객 목록(ㄹ)은 무형자산으로 인식하지 않는다.",
+    "ㄴ·ㄷ·ㄹ은 모두 인식할 수 없고 인식 대상인 ㄱ이 빠졌다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting-nah-q05",
+   "paperId": "paper_civil_accounting_2025_national_nah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2025/national-nah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n외부에서 매입하여 재판매하기 위해 보유하는 상품은 재고자산의 대표적인 예이다. 재고자산은 판매 목적 보유·생산 중인 자산, 생산이나 용역 제공에 사용될 원재료·소모품이며, 부동산매매업의 토지처럼 영업 목적에 따라 토지도 재고자산이 될 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "통상적인 영업과정에서 판매를 위해 보유하거나 생산 중인 자산은 재고자산이다.",
+    "생산이나 용역제공에 사용될 원재료·소모품도 재고자산이다.",
+    "매입하여 재판매하기 위해 보유하는 상품은 재고자산에 해당한다. 정답입니다.",
+    "토지도 기업의 주된 영업활동에 따라 재고자산이 될 수 있다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting-nah-q06",
+   "paperId": "paper_civil_accounting_2025_national_nah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2025/national-nah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n묶음판매가액은 100명×(95,000+5,000)×98%=9,800,000이고, 개별 판매가격 기준으로 배분하면 1인당 게임접근권 몫은 98,000×5,000/100,000=4,900이다. 접근권은 1년간 기간에 걸쳐 이행되므로 20×1년에는 10월~12월 3개월분인 4,900×100명×3/12=122,500원을 수익으로 인식한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "고객 1명의 판매가격 합계만 계산해 할인·인원·기간을 반영하지 않았다.",
+    "4,900×100명×3/12=122,500원이다. 정답입니다.",
+    "20×2년에 인식할 남은 9개월분을 계산한 금액이다.",
+    "1년치 전액을 20×1년 수익으로 인식한 금액이다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting-nah-q07",
+   "paperId": "paper_civil_accounting_2025_national_nah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2025/national-nah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n1년치 임대료 360,000원 중 20×1년 3월~12월 10개월분 300,000원은 수익, 나머지 60,000원은 선수수익(부채)이다. 1년분 보험료 240,000원 중 9월~12월 4개월분 80,000원은 비용, 남은 8개월분 160,000원은 선급비용(자산)이다. 자산은 현금 120,000원과 선급비용 160,000원이 늘어 280,000원 증가하고, 이익은 300,000-80,000=220,000원 증가한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "현금 증가만 계산해 자산 증가액이 적다.",
+    "자산 280,000원 증가, 이익 220,000원 증가가 맞다. 정답입니다.",
+    "부채는 60,000원 늘지만 임대료 전액을 수익으로 본 이익 계산이 틀렸다.",
+    "선급비용을 부채로 보고 임대료 전액을 수익으로 계산한 금액이다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting-nah-q08",
+   "paperId": "paper_civil_accounting_2025_national_nah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2025/national-nah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n간접법에서는 현금 유출이 없는 비용을 더하고 영업자산의 증가나 영업부채의 감소를 차감한다. 재고자산 증가(ㄴ)는 현금이 재고로 묶인 것이고 매입채무 감소(ㄹ)는 채무를 갚아 현금이 나간 것이므로 차감한다. 감가상각비와 매출채권 감소는 더하는 항목이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "감가상각비(ㄱ)는 현금 유출이 없는 비용이어서 더한다.",
+    "감가상각비(ㄱ)와 매출채권 감소(ㄷ)는 모두 더하는 항목이다.",
+    "재고자산 증가(ㄴ)와 매입채무 감소(ㄹ)는 법인세비용차감전순이익에서 차감한다. 정답입니다.",
+    "매출채권 감소(ㄷ)는 회수로 현금이 들어온 것이어서 더한다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting-nah-q09",
+   "paperId": "paper_civil_accounting_2025_national_nah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2025/national-nah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국가회계기준상 수익은 국세수익·이전수익·국가운영수익으로 구분되고, 국가운영수익은 재정활동과 관련하여 발생한 수익 중 국세수익과 이전수익을 제외한 수익이다. 재무제표에는 현금흐름표가 포함되고, 지분증권은 공정가액을 신뢰성 있게 측정할 수 있으면 공정가액으로 평가하며, 유산자산은 자산으로 인식하지 않고 주석으로 공시한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "국가운영수익은 국세수익과 이전수익을 제외한 수익이다. 정답입니다.",
+    "재무제표는 재정상태표·재정운영표·순자산변동표·현금흐름표와 주석으로 구성된다.",
+    "지분증권은 공정가액을 신뢰성 있게 측정할 수 있으면 공정가액으로 평가한다.",
+    "유산자산은 자산으로 인식하지 않고 그 종류와 현황을 주석으로 공시한다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting-nah-q10",
+   "paperId": "paper_civil_accounting_2025_national_nah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2025/national-nah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n연수합계법에서 내용연수 4년의 연수합계는 10이고 3년차 상각률은 2/10이다. (취득원가-잔존가치 50,000)×2/10=10,000이므로 상각대상금액은 50,000이고 취득원가는 100,000원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "(취득원가-50,000)×2/10=10,000에서 취득원가는 100,000원이다. 정답입니다.",
+    "200,000이면 3년차 상각비가 30,000원이 되어 맞지 않는다.",
+    "300,000이면 3년차 상각비가 50,000원이 된다.",
+    "400,000이면 3년차 상각비가 70,000원이 된다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting-nah-q11",
+   "paperId": "paper_civil_accounting_2025_national_nah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2025/national-nah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사채할인발행차금을 상각하면 그 상각액이 이자비용에 가산되어 당기순이익이 줄어 자본이 감소하고, 사채에서 차감하던 할인발행차금이 줄어 사채의 장부금액인 부채는 증가한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "자본은 감소하지만 부채도 증가하므로 부채의 증가를 놓쳤다.",
+    "자본은 감소하고 부채는 증가하므로 두 방향이 모두 틀렸다.",
+    "이자비용 증가로 자본이 감소하고 할인발행차금 감소로 부채가 증가한다. 정답입니다.",
+    "자본 감소는 맞지만 사채 장부금액은 증가하므로 부채 감소가 틀렸다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting-nah-q12",
+   "paperId": "paper_civil_accounting_2025_national_nah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting/2025/national-nah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기초 손실충당금 10,000원에서 제거한 매출채권 20,000원을 상계하면 충당금이 10,000원 부족해진다. 기말 목표 충당금 40,000원을 설정하려면 40,000+10,000=50,000원을 손상차손으로 인식해야 한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "제거액을 더하지 않고 빼서 계산한 금액이다.",
+    "제거한 매출채권을 손상차손으로 본 금액이다.",
+    "기말 충당금 잔액을 그대로 손상차손으로 본 금액이다.",
+    "부족해진 충당금 10,000원과 기말 목표 40,000원을 합한 50,000원을 손상차손으로 인식한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting-nah-q13",
+   "paperId": "paper_civil_accounting_2025_national_nah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2025/national-nah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n활동별 배부율은 총원가를 최대활동량으로 나누어 제품준비 200,000÷100=2,000원, 기계이용 600,000÷200=3,000원, 검사 400,000÷200=2,000원이다. 제품 A에 배부되는 원가는 20회×2,000+20시간×3,000+10회×2,000=120,000원이고, 기초원가 20,000원을 더하면 총원가 140,000원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "활동별 배부액을 모두 더하지 않은 금액이다.",
+    "배부액 합계가 105,000원이 되어야 하는데 실제 배부액은 120,000원이다.",
+    "40,000+60,000+20,000=120,000원에 기초원가 20,000원을 더해 140,000원이다. 정답입니다.",
+    "배부율과 사용량의 조합으로 나오지 않는 금액이다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting-nah-q14",
+   "paperId": "paper_civil_accounting_2025_national_nah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2025/national-nah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n종합원가계산은 표준화된 작업공정을 통해 소수 종류의 제품을 대량생산하는 환경에 적합하고, 개별원가계산은 주문별로 다른 제품을 생산할 때 적합하다. 결합원가계산은 동일 공정에서 여러 제품이 동시에 생산되는 경우, 활동기준원가계산은 활동별 원가동인으로 간접원가를 배부하는 방법이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "개별원가계산은 주문·제품별로 원가를 집계하는 방법으로 대량 단일제품 생산에 적합하지 않다.",
+    "표준화된 공정에서 단일 제품을 대량생산하는 경우에는 종합원가계산이 적합하다. 정답입니다.",
+    "결합원가계산은 하나의 공정에서 여러 제품이 동시에 생산되는 경우에 사용한다.",
+    "활동기준원가계산은 활동별 원가동인에 따라 간접원가를 배부하는 방법이다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting-nah-q15",
+   "paperId": "paper_civil_accounting_2025_national_nah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2025/national-nah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n회계상 거래는 자산·부채·자본의 변동을 가져오는 거래이다. 장래에 사무실을 임차하기로 하는 계약을 체결한 것만으로는 아직 재무상태에 아무런 변동이 없으므로 회계상 거래가 아니다. 비품의 재해 파손, 기계장치의 사용, 수선 청구서 수령은 모두 자산·비용의 변동을 일으킨다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "단순한 임차 계약 체결은 재무상태의 변동이 없어 회계상 거래가 아니다. 정답입니다.",
+    "자연재해로 비품이 파손되면 자산과 손실이 변동하는 회계상 거래이다.",
+    "기계장치 사용은 감가상각을 통해 비용이 발생하는 회계상 거래이다.",
+    "수선 후 청구서를 받으면 수선비 채무가 발생하는 회계상 거래이다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting-nah-q16",
+   "paperId": "paper_civil_accounting_2025_national_nah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2025/national-nah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n경제적 자원과 청구권은 채무상품·지분상품의 발행 같은 재무성과 외의 사유로도 변동한다. 이익이나 손실 외에 소유주에 의한 출자·배당 등도 변동 원인이 되므로 '변동되지 않는다'고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "경제적 자원과 청구권 정보는 재무적 강점과 약점을 식별하는 데 도움을 준다.",
+    "재무성과 정보는 창출한 수익을 이해하는 데 도움을 준다.",
+    "경제적 자원과 청구권은 채무·지분상품 발행 등 재무성과 외의 사유로도 변동한다. 정답입니다.",
+    "현금흐름 정보는 미래 순현금유입 창출 능력과 수탁책임을 평가하는 자료가 된다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting-nah-q17",
+   "paperId": "paper_civil_accounting_2025_national_nah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2025/national-nah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n선급비용이 2,000원에서 1,000원으로 줄면 1,000원을 비용으로 인식하고, 미지급비용이 2,000원에서 3,000원으로 늘면 비용 1,000원이 추가된다. 선수수익이 1,500원에서 2,500원으로 늘면 수익 1,000원이 이연되고 미수수익이 3,000원에서 4,000원으로 늘면 수익 1,000원이 추가되어 수익 변동은 상쇄된다. 비용만 2,000원 늘어 당기순이익은 2,000원 감소한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "비용·수익 변동을 모두 반영하지 않아 차액이 적다.",
+    "비용 증가 2,000원, 수익 변동 0원이므로 당기순이익은 2,000원 감소한다. 정답입니다.",
+    "선수수익과 미수수익의 변동이 상쇄되는 것을 반영하지 않았다.",
+    "수익 변동만 계산한 금액이다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting-nah-q18",
+   "paperId": "paper_civil_accounting_2025_national_nah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting/2025/national-nah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n수익이 비용보다 커서 집합손익 계정의 잔액이 100,000원(대변)이면, 집합손익을 차변에 기록하고 이익잉여금을 대변에 기록하여 그 이익을 이익잉여금으로 이전한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "수익 계정을 집합손익에 대체하는 분개로, 집합손익의 마감분개가 아니다.",
+    "순손실이 발생한 경우의 분개로 방향이 반대이다.",
+    "비용 계정을 집합손익에 대체하는 분개이며 집합손익 마감분개가 아니다.",
+    "집합손익 100,000원을 차변에, 이익잉여금 100,000원을 대변에 기록한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting-nah-q19",
+   "paperId": "paper_civil_accounting_2025_national_nah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2025/national-nah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n예정배부율은 10,000원÷100시간=100원/시간이므로 실제 직접노무시간 120시간에 대한 배부액은 12,000원이다. 과소배부액이 1,000원이란 실제 발생액이 배부액보다 1,000원 많다는 뜻이므로 실제 발생액은 12,000+1,000=13,000원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "과소배부액을 반영하지 않은 배부액과 같은 금액이다.",
+    "배부액에 과소배부액을 더하지 않은 금액이다.",
+    "배부액 12,000원에 과소배부액 1,000원을 더해 실제 발생액 13,000원이다. 정답입니다.",
+    "과소배부액을 두 번 더한 금액이다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting-nah-q20",
+   "paperId": "paper_civil_accounting_2025_national_nah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2025/national-nah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n당기제품제조원가는 기초재공품에 당기총제조원가를 더하고 기말재공품을 뺀 금액이다. 500,000=150,000+당기총제조원가-300,000에서 당기총제조원가는 650,000원이고, 여기서 기초원가 350,000원을 빼면 제조간접원가는 300,000원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "기말재공품과 기초재공품의 차액만 고려하지 않은 금액이다.",
+    "500,000+300,000-150,000-350,000=300,000원이다. 정답입니다.",
+    "기초원가를 빼지 않은 금액이다.",
+    "기말재공품을 더하고 기초재공품을 빼서 계산한 금액이다."
+   ]
+  }
+ ]
+}

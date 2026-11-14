@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_accounting_2023_local_B",
+ "title": "2023 지방직 9급 회계학 B책형",
+ "year": 2023,
+ "source": "2023년도 지방공무원 9급 등 공개경쟁임용 필기시험 회계학 B책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_8",
+ "questions": [
+  {
+   "id": "civil2023-local-accounting-B-q01",
+   "paperId": "paper_civil_accounting_2023_local_B",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2023/local-B/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n7월 초부터 12월 말까지 6개월분 이자 10,000×10%×6/12=500원을 미수이자로 인식하고 이자수익을 계상하여야 하는데 이를 누락하였다. 따라서 자산인 미수이자와 당기순이익이 모두 500원씩 과소계상된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "미수이자 500원을 계상하지 않아 자산과 당기순이익이 모두 500원 과소계상된다. 정답입니다.",
+    "누락으로 자산과 이익이 과대계상되는 것이 아니라 과소계상된다.",
+    "1년치 이자 1,000원으로 계산한 금액이다.",
+    "금액도 1년치로 잘못 계산했고 이익의 방향도 반대이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-accounting-B-q02",
+   "paperId": "paper_civil_accounting_2023_local_B",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2023/local-B/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기말자본은 기초자본 1,500,000에 당기순이익 700,000, 기타포괄이익 50,000, 유상증자 1,250,000을 더하고 현금배당 300,000을 빼서 3,200,000이다. 기말부채는 기말자산 4,000,000-기말자본 3,200,000=800,000원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "4,000,000-3,200,000=800,000원이다. 정답입니다.",
+    "기타포괄이익을 빠뜨려 자본을 작게 본 값이다.",
+    "기말자본을 그대로 쓴 값이다.",
+    "기타포괄이익을 빠뜨린 기말자본이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-accounting-B-q03",
+   "paperId": "paper_civil_accounting_2023_local_B",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2023/local-B/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n액면이자율 12%가 유효이자율 10%보다 높으므로 할증발행이며, 3년간 액면이자 총액은 360,000원, 총이자비용은 310,263원이다. 할증액은 360,000-310,263=49,737원이므로 발행가액은 1,000,000+49,737=1,049,737원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "1,000,000+49,737=1,049,737원이다. 정답입니다.",
+    "총이자비용을 발행가액에 더한 값이다.",
+    "액면금액에 액면이자 총액을 더한 값이다.",
+    "액면이자 총액과 총이자비용을 모두 더한 값이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-accounting-B-q04",
+   "paperId": "paper_civil_accounting_2023_local_B",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting/2023/local-B/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기타포괄손익-공정가치 측정 지분상품은 취득 시 매입수수료를 취득원가에 포함하므로 장부금액은 10,500원이다. 기말 공정가치 8,000원과의 차이 2,500원을 기타포괄손익으로 인식하므로 금융자산평가손실(기타포괄손익) 2,500원이 된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "평가손익을 당기손익으로 인식한다고 한 부분과 금액이 모두 틀렸다.",
+    "매입수수료를 취득원가에 포함하지 않아 금액이 틀렸다.",
+    "금액은 맞지만 평가손익은 기타포괄손익으로 인식한다.",
+    "원가 10,500원과 공정가치 8,000원의 차이 2,500원을 기타포괄손익으로 인식한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-accounting-B-q05",
+   "paperId": "paper_civil_accounting_2023_local_B",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting/2023/local-B/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기존 대출계약 조건에 따라 보고기간 후 12개월 이상 차환하거나 연장할 재량권이 있으면 보고기간 후 12개월 이내에 만기가 도래하더라도 비유동부채로 분류한다. 유동부채로 분류한다고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "유동성 순서법을 적용하면 모든 자산·부채를 유동성 순서로 표시한다.",
+    "금융회사는 유동성 순서에 따른 표시가 더 목적적합할 수 있다.",
+    "영업주기가 명확한 기업은 유동·비유동으로 구분해 표시한다.",
+    "12개월 이상 차환·연장할 재량권이 있으면 비유동부채로 분류한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-accounting-B-q06",
+   "paperId": "paper_civil_accounting_2023_local_B",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2023/local-B/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공손은 800+4,200-3,500-1,000=500단위이다. 검사시점 50%를 통과한 수량은 당기 완성품 중 기초재공품을 제외한 2,700단위와 50%를 넘는 기말재공품 1,000단위를 합한 3,700단위이므로 정상공손은 370단위, 나머지 130단위가 비정상공손이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "완성품 3,500단위를 그대로 합격품으로 본 값이다.",
+    "합격품 3,700단위의 10%인 370단위가 정상공손, 나머지 130단위가 비정상공손이다. 정답입니다.",
+    "당기착수량을 합격품으로 본 값이다.",
+    "기초재공품까지 합격품에 포함한 값이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-accounting-B-q07",
+   "paperId": "paper_civil_accounting_2023_local_B",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2023/local-B/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지방자치단체 회계기준에 관한 규칙상 부채의 가액은 지급의무를 지는 채무액이고, 채무액은 규칙에서 정한 경우를 제외하고 만기상환가액으로 하는 것이 원칙이다. 부채는 유동부채·장기차입부채·기타비유동부채로 구분하며, 가치 이전의 의무로 인식하는 것은 비교환거래 비용이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "장기충당부채라는 분류는 없고 유동부채·장기차입부채·기타비유동부채로 나눈다.",
+    "시설 투자액에서 장기차입금을 뺀 것은 특정순자산이 아니라 고정순자산이다.",
+    "부채는 원칙적으로 만기상환가액으로 평가한다. 정답입니다.",
+    "가치의 이전에 대한 의무로 인식하는 것은 교환거래가 아닌 비교환거래 비용이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-accounting-B-q08",
+   "paperId": "paper_civil_accounting_2023_local_B",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting/2023/local-B/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n매출액 200단위×1,000원=200,000원, 공헌이익 40%는 80,000원이다. 영업레버리지도 5는 공헌이익÷영업이익이므로 영업이익은 16,000원이고 고정원가는 64,000원이다. 손익분기점 매출액은 64,000÷0.4=160,000원이므로 판매량은 160단위이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "공헌이익률만으로 계산한 잘못된 값이다.",
+    "영업레버리지도를 반영하지 않은 값이다.",
+    "고정원가를 다르게 계산한 값이다.",
+    "고정원가 64,000÷단위당 공헌이익 400원=160단위이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-accounting-B-q09",
+   "paperId": "paper_civil_accounting_2023_local_B",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2023/local-B/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n20×1년 감가상각비는 (100,000-20,000)×4/10×3/12=8,000원이고 장부금액은 92,000원이다. 20×2년 초 자본적 지출 30,000원을 더하면 122,000원이 되고, 내용연수 10년·잔존가치 50,000원의 정액법으로 바꾸면 (122,000-50,000)÷10=7,200원이 20×2년 감가상각비이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "(122,000-50,000)÷10=7,200원이다. 정답입니다.",
+    "자본적 지출을 반영하지 않은 값이다.",
+    "잔존가치를 반영하지 않은 값이다.",
+    "연수합계법을 계속 적용한 값이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-accounting-B-q10",
+   "paperId": "paper_civil_accounting_2023_local_B",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2023/local-B/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n보유자의 선택에 따라 보통주나 현금으로 결제되는 계약은 주식결제와 현금결제 중 희석효과가 더 큰 방법으로 결제된다고 가정하여 희석주당이익을 계산한다. 옵션의 행사 가정에서는 직전 기말이 아니라 기간의 평균시장가격을 사용하고, 주식분할·무상증자 등은 비교표시 주당이익을 소급 수정하며, 중단영업의 주당이익도 표시·공시한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "옵션 행사 시 현금유입액은 평균시장가격 기준으로 발행된 것으로 가정한다.",
+    "주식결제와 현금결제 중 희석효과가 더 큰 방법으로 결제된다고 가정한다. 정답입니다.",
+    "무상증자·주식분할 등이 있으면 비교표시 주당이익을 소급하여 수정한다.",
+    "중단영업의 기본·희석주당이익도 표시하거나 주석으로 공시한다."
+   ]
+  },
+  {
+   "id": "civil2023-local-accounting-B-q11",
+   "paperId": "paper_civil_accounting_2023_local_B",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2023/local-B/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n장부잔액 160,000원에서 부도수표 30,000원을 빼고 거래처 입금 20,000원을 더하며 은행수수료 40,000원을 빼면 장부의 수정 후 잔액은 110,000원이다. 은행 측 잔액에서 미지급제시 수표 10,000원을 빼고 미입금 20,000원을 더하면 110,000원이 되어야 하므로 은행 측 수정 전 잔액은 100,000원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "은행 측 조정 항목을 반대로 적용한 값이다.",
+    "장부 수정 후 110,000원에서 미제시 수표 10,000원을 빼고 미입금 20,000원을 더하면 100,000원이다. 정답입니다.",
+    "장부 수정 전 잔액을 그대로 쓴 값이다.",
+    "부도수표와 수수료를 반영하지 않은 값이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-accounting-B-q12",
+   "paperId": "paper_civil_accounting_2023_local_B",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2023/local-B/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n고정제조간접원가 예산은 기준조업도 10,000시간×50원=500,000원이다. 조업도차이는 (실제 허용 표준조업도 12,000-기준조업도 10,000)×50원=100,000원으로 배부가 예산보다 많아 유리한 차이이고, 예산차이는 실제발생 660,000-예산 500,000=160,000원으로 불리한 차이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "조업도차이와 예산차이의 금액을 모두 잘못 계산한 값이다.",
+    "금액과 방향이 모두 법문과 맞지 않다.",
+    "조업도차이 100,000원 유리, 예산차이 160,000원 불리이다. 정답입니다.",
+    "조업도차이의 방향이 반대로, 실제 조업도가 기준보다 높아 배부가 많으므로 유리한 차이이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-accounting-B-q13",
+   "paperId": "paper_civil_accounting_2023_local_B",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2023/local-B/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기말 장부상 재고자산은 110단위×1,000원=110,000원이고, 감모 10단위 중 원가성 있는 60%인 6,000원과 평가손실 5,000원이 매출원가에 포함되어 있다. 매입액은 매출원가 651,000-기초 50,000+기말 장부 110,000-원가성 감모 6,000-평가손실 5,000=700,000원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "감모와 평가손실을 두 번 차감한 값이다.",
+    "원가성 감모를 한 번 더 차감한 값이다.",
+    "651,000-50,000+110,000-6,000-5,000=700,000원이다. 정답입니다.",
+    "원가성 감모 비율을 거꾸로 적용한 값이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-accounting-B-q14",
+   "paperId": "paper_civil_accounting_2023_local_B",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2023/local-B/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기초 손실충당금 30,000원에서 회수불능으로 확정된 매출채권 60,000원을 상계하면 30,000원이 부족해진다. 기말 기대신용손실 20,000원을 설정하려면 부족액 30,000원과 기말 목표 20,000원을 합한 50,000원을 손상차손으로 인식한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "기말 기대신용손실만 반영한 값이다.",
+    "기초 잔액만 반영한 값이다.",
+    "20,000+30,000=50,000원을 손상차손으로 인식한다. 정답입니다.",
+    "제거한 매출채권 전액을 손상차손으로 본 값이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-accounting-B-q15",
+   "paperId": "paper_civil_accounting_2023_local_B",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2023/local-B/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n적격자산을 의도된 용도로 사용·판매 가능하게 하는 데 필요한 활동에는 물리적인 제작활동뿐 아니라 그 이전 단계의 기술 및 관리상의 활동도 포함된다. 포함하지 않는다고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "물리적으로 완성되면 일상적 후속 관리업무가 남아도 사용 가능한 것으로 본다.",
+    "필요한 활동에는 이전 단계의 기술·관리상 활동도 포함된다. 정답입니다.",
+    "부분별로 완성된 경우 그 부분의 사용 가능 시점에 자본화를 종료한다.",
+    "적격자산 지출은 정부보조금 등을 차감한 금액으로 한다."
+   ]
+  },
+  {
+   "id": "civil2023-local-accounting-B-q16",
+   "paperId": "paper_civil_accounting_2023_local_B",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2023/local-B/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n변동원가계산에서 제품원가는 단위당 변동제조원가 500+400+300=1,200원이고, 판매량 4,000단위의 변동제조원가는 4,800,000원, 변동판매관리비는 800,000원이다. 매출 8,000,000원에서 변동원가 5,600,000원을 빼면 공헌이익 2,400,000원이고, 고정제조간접원가 350,000원과 고정판매관리비 150,000원을 빼면 영업이익은 1,900,000원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "고정원가를 반영하지 않은 값이다.",
+    "8,000,000-5,600,000-500,000=1,900,000원이다. 정답입니다.",
+    "변동판매관리비를 제품원가로 본 값이다.",
+    "매출 전액을 그대로 쓴 값이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-accounting-B-q17",
+   "paperId": "paper_civil_accounting_2023_local_B",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2023/local-B/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n회계추정의 변경효과가 미래기간에도 영향을 미치면 그 기간에도 당기손익으로 전진적으로 인식한다. 미래기간의 효과를 기타포괄손익으로 인식한다고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "투입변수나 측정기법의 변경 영향은 전기오류수정이 아닌 한 회계추정치 변경이다.",
+    "의도대로 표시하기 위해 오류를 포함한 재무제표는 기준에 따라 작성된 것으로 볼 수 없다.",
+    "미래기간에도 회계추정 변경효과는 당기손익으로 전진 인식한다. 정답입니다.",
+    "당기 잠재적 오류는 발행승인 전에 수정하고, 중요한 전기오류는 비교정보를 재작성해 수정한다."
+   ]
+  },
+  {
+   "id": "civil2023-local-accounting-B-q18",
+   "paperId": "paper_civil_accounting_2023_local_B",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2023/local-B/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n프로그램순원가는 사업총원가 200,000-사업수익 70,000=130,000원이고, 여기에 관리운영비 50,000원과 비배분비용 30,000원을 더하고 비배분수익 20,000원을 빼면 재정운영순원가 190,000원이 된다. 여기서 일반수익 40,000원을 빼면 재정운영결과는 150,000원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "비배분 항목을 반영하지 않은 값이다.",
+    "130,000+50,000+30,000-20,000-40,000=150,000원이다. 정답입니다.",
+    "재정운영순원가를 계산한 값이다.",
+    "사업수익과 일반수익을 모두 더한 값이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-accounting-B-q19",
+   "paperId": "paper_civil_accounting_2023_local_B",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2023/local-B/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n자산총계 28,000원 중 비유동자산이 16,000원이므로 유동자산은 12,000원이고, 유동비율 150%이므로 유동부채는 8,000원이다. 당좌비율 120%이면 당좌자산은 9,600원이므로 매출채권은 9,600-2,000=7,600원이고, 재고자산 A는 12,000-9,600=2,400원이다. 부채총계는 28,000-13,000=15,000원이므로 장기차입금 B는 15,000-8,000=7,000원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "재고자산 2,400원, 장기차입금 7,000원이다. 정답입니다.",
+    "장기차입금을 8,000원으로 보아 유동부채가 7,000원이 되면 유동비율이 맞지 않는다.",
+    "재고자산과 매출채권의 위치를 바꾼 값이다.",
+    "재고자산과 장기차입금을 모두 잘못 계산한 값이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-accounting-B-q20",
+   "paperId": "paper_civil_accounting_2023_local_B",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2023/local-B/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n예정배부율은 150,000÷3,000=50원/시간이므로 실제 3,200시간에 대한 배부액은 160,000원이다. 5,000원이 과소배부되었다는 것은 실제 발생액이 배부액보다 5,000원 많다는 뜻이므로 실제 발생액은 165,000원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "배부액에서 과소배부액을 빼서 계산한 값이다.",
+    "160,000+5,000=165,000원이다. 정답입니다.",
+    "예정배부율을 잘못 계산한 값이다.",
+    "배부액에 과소배부액을 두 번 더한 값이다."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_tax_2026_national_gah",
+ "title": "2026 국가직 9급 세법개론 가책형",
+ "year": 2026,
+ "source": "2026년도 국가공무원 9급 공채 필기시험 세법개론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_7",
+ "questions": [
+  {
+   "id": "civil2026-national-tax-gah-q01",
+   "paperId": "paper_civil_tax_2026_national_gah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/tax/2026/national-gah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국세기본법상 교부에 의한 송달에서 송달받을 자가 정당한 사유 없이 수령을 거부하면 송달할 장소에 서류를 두는 방법(유치송달)으로 송달한 것으로 보며, 공시송달은 주소·거소·영업소를 알 수 없거나 서류를 받을 자가 없는 때 등 법정 사유에 한하여 인정되는 예외적인 방법이다. 전자송달은 송달받을 자가 지정한 전자우편주소에 입력되거나 국세정보통신망에 저장된 때 도달한 것으로 본다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "상속이 개시되어 상속재산관리인이 있으면 그 관리인의 주소 또는 영업소에 송달하는 것이 맞다.",
+    "연대납세의무자에게 납부의 고지와 독촉에 관한 서류를 보낼 때에는 연대납세의무자 모두에게 각각 송달하여야 한다.",
+    "수령을 거부한 경우에는 송달할 장소에 서류를 두는 유치송달에 의하고, 공시송달은 이 경우의 방법이 아니다. 정답입니다.",
+    "전자송달은 지정된 전자우편주소에 입력된 때(국세정보통신망에 저장된 때) 도달한 것으로 본다."
+   ]
+  },
+  {
+   "id": "civil2026-national-tax-gah-q02",
+   "paperId": "paper_civil_tax_2026_national_gah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/tax/2026/national-gah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n법인세법 시행령상 장기할부조건은 판매금액을 월부·연부 등의 방법으로 2회 이상 분할하여 수입하는 것으로서 목적물의 인도일 다음날부터 최종 할부금의 지급기일까지의 기간이 1년 이상인 경우를 말한다. 분할 횟수와 기간 요건을 함께 갖추어야 하며, 요건을 갖춘 경우 회수기준으로 손익을 인식할 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "시용판매는 상대방이 구입 의사를 표시한 날이 원칙이고, 기간 만료로 판매가 확정되는 특약이 있으면 그 기간의 만료일이 귀속사업연도가 된다.",
+    "대금 청산 전에 소유권 이전등기·인도·사용수익이 이루어지면 그 중 빠른 날이 속하는 사업연도에 손익을 인식한다.",
+    "분할 횟수는 2회 이상이면 충분하고, 기간은 인도일의 다음날부터 최종 할부금 지급기일까지를 계산한다. 3회 이상으로 한정한 설명이 틀렸다. 정답입니다.",
+    "중소기업인 법인은 결산에 반영하지 않았더라도 회수기준을 선택해 각 사업연도의 익금과 손금에 산입할 수 있다."
+   ]
+  },
+  {
+   "id": "civil2026-national-tax-gah-q03",
+   "paperId": "paper_civil_tax_2026_national_gah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/tax/2026/national-gah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n영세율은 과세대상 거래에 세율 0%를 적용하는 것으로 영세율 적용사업자도 부가가치세법상 사업자이지만, 면세사업자는 부가가치세 납세의무가 면제되는 사업자이다. 우표(수집용 우표 제외)·인지·증지·복권·공중전화는 부가가치세법이 열거한 면세 재화이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "영세율 적용대상자는 과세사업자로서 사업자 지위를 가지며, 면세사업자도 부가가치세법상 사업자에 해당하므로 둘 다 사업자가 아니라는 설명은 틀렸다.",
+    "우표(수집용 우표는 제외), 인지, 증지, 복권 및 공중전화는 부가가치세가 면제되는 재화로 열거되어 있다. 정답입니다.",
+    "국내사업장이 없는 외국법인에게 용역을 공급하고 그 대금을 외국환은행에서 원화로 받으면 외화획득으로 보아 영세율을 적용한다.",
+    "외국항행용역은 국내에서 국외로, 국외에서 국내로, 국외에서 국외로 수송하는 것을 모두 포함하므로 국외에서 국외로 가는 수송을 제외한다는 설명이 틀렸다."
+   ]
+  },
+  {
+   "id": "civil2026-national-tax-gah-q04",
+   "paperId": "paper_civil_tax_2026_national_gah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/tax/2026/national-gah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n부가가치세법상 세금계산서의 필요적 기재사항은 공급하는 사업자의 등록번호와 성명 또는 명칭, 공급받는 자의 등록번호, 공급가액과 부가가치세액, 작성 연월일의 네 가지이다. 공급자의 주소는 필요적 기재사항이 아니므로 이를 필요적 기재사항이라고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "공급하는 사업자의 주소는 세금계산서의 필요적 기재사항이 아니다. 정답입니다.",
+    "전자세금계산서 의무발급 사업자는 발급일의 다음 날까지 발급명세를 국세청장에게 전송하여야 한다.",
+    "위탁판매의 경우 수탁자가 인도하면 수탁자가 위탁자 명의로, 위탁자가 직접 인도하면 위탁자가 세금계산서를 발급한다.",
+    "수정신고 등으로 공급가액 합계액이 8천만 원 이상이 되면 그 수정신고일이 속하는 과세기간의 다음 과세기간 개시일부터 전자세금계산서를 발급하여야 한다."
+   ]
+  },
+  {
+   "id": "civil2026-national-tax-gah-q05",
+   "paperId": "paper_civil_tax_2026_national_gah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/tax/2026/national-gah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국세징수법상 압류의 요건은 납세자가 독촉을 받고 독촉장에서 정한 기한까지 국세를 완납하지 아니한 경우와, 납부기한 전 징수에 따른 납부고지를 받고 단축된 기한까지 완납하지 아니한 경우의 두 가지이다. 납부기한 연장을 받은 뒤 분납금을 내지 않은 경우는 압류 요건으로 열거되어 있지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "독촉장에서 정한 기한까지 완납하지 않은 경우와 납부기한 전 징수 고지의 단축기한까지 완납하지 않은 경우가 압류 요건에 해당한다. 정답입니다.",
+    "분납금 미납은 압류의 요건으로 규정되어 있지 않으므로 ㄷ을 포함할 수 없다.",
+    "ㄱ(독촉 후 미납)이 빠졌으므로 압류 요건을 모두 고른 조합이 아니다.",
+    "ㄷ(분납금 미납)은 압류 요건이 아니므로 세 가지를 모두 고를 수 없다."
+   ]
+  },
+  {
+   "id": "civil2026-national-tax-gah-q06",
+   "paperId": "paper_civil_tax_2026_national_gah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/tax/2026/national-gah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n부가가치세법상 사업자는 장부와 세금계산서·수입세금계산서·전자세금계산서·영수증을 거래사실이 속하는 과세기간의 확정신고기한 후 5년간 보존하여야 한다. 보존기간을 3년으로 적은 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "거래사실을 장부에 기록해 사업장에 갖추어 두어야 한다는 설명은 맞다.",
+    "과세공급과 면세공급을 함께 하는 경우 각각 구분하여 장부에 기록하여야 한다.",
+    "장부와 증빙의 보존기간은 확정신고기한 후 5년이므로 3년이라고 한 부분이 틀렸다. 정답입니다.",
+    "법인세법·소득세법에 따른 장부기록의무를 이행하면 부가가치세법상 장부기록의무도 이행한 것으로 본다."
+   ]
+  },
+  {
+   "id": "civil2026-national-tax-gah-q07",
+   "paperId": "paper_civil_tax_2026_national_gah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/tax/2026/national-gah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n양도소득 과세표준 예정신고를 한 거주자라도 토지 또는 건물을 2회 이상 양도하여 기본공제를 적용하면 당초 신고한 양도소득산출세액이 달라지는 경우에는 확정신고를 하여야 한다. 예정신고는 양도일이 속하는 달의 말일부터 2개월 이내에 하는 것이고, 양도소득에는 결손금액을 이유로 확정신고를 면제하는 규정이 없다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "예정신고는 양도일이 속하는 달의 말일부터 2개월 이내에 하므로 '양도일로부터 2개월'이라는 기산점이 틀렸다.",
+    "2회 이상 양도로 기본공제를 적용해 산출세액이 달라지면 예정신고를 했더라도 확정신고 의무가 있다. 정답입니다.",
+    "양도소득 확정신고는 예정신고를 한 경우 등 법정 사유로 면제될 뿐, 과세표준이 없거나 결손금액이 있다는 것만으로 면제되지 않는다.",
+    "경정·결정 후 탈루나 오류가 발견되면 그 결정·경정을 한 날부터 2개월 이내에 다시 경정하는 것이므로 '발견된 날'부터라는 기산점이 틀렸다."
+   ]
+  },
+  {
+   "id": "civil2026-national-tax-gah-q08",
+   "paperId": "paper_civil_tax_2026_national_gah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/tax/2026/national-gah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n소득세법 시행령은 사택을 제공받아 얻는 이익을 원칙적으로 근로소득에 포함시키면서, 주주·출자자가 아닌 임원, 소액주주인 임원, 임원이 아닌 종업원 등이 제공받는 사택의 이익은 근로소득에서 제외한다. 따라서 소액주주인 임원의 사택 제공 이익을 과세된다고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "공무원이 공무 수행과 관련하여 받는 상금과 부상 중 연 240만 원 이내의 금액은 비과세 근로소득이다.",
+    "주권상장법인의 소액주주인 임원이 사택을 제공받아 얻는 이익은 근로소득에서 제외된다. 정답입니다.",
+    "종업원이 주택 구입자금을 무상으로 대여받아 얻는 이익은 근로소득으로 과세된다.",
+    "법률에 따라 동원된 사람이 동원 직장에서 받는 급여는 비과세 근로소득이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-tax-gah-q09",
+   "paperId": "paper_civil_tax_2026_national_gah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/tax/2026/national-gah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n거주자의 납세지는 주소지(주소지가 없으면 거소지)이고, 비거주자는 국내사업장(여럿이면 주된 사업장) 소재지, 국내사업장이 없으면 국내원천소득이 발생하는 장소이다. 납세지가 변경되면 변경된 날부터 15일 이내에 변경 후의 납세지 관할 세무서장에게 신고하여야 한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "거주자의 납세지는 주소지, 주소지가 없으면 거소지로 한다.",
+    "비거주자의 납세지는 주된 국내사업장 소재지, 국내사업장이 없으면 국내원천소득 발생 장소로 한다.",
+    "납세지 지정 사유가 소멸하면 국세청장 또는 지방국세청장은 지정을 취소하여야 한다.",
+    "납세지 변경 신고는 변경 후의 납세지 관할 세무서장에게 하므로 '변경 전'이라고 한 부분이 틀렸다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-tax-gah-q10",
+   "paperId": "paper_civil_tax_2026_national_gah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/tax/2026/national-gah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기업업무추진비 손금한도는 기본한도 1,200만 원에 수입금액 기준 한도를 더해 계산한다. 일반수입금액 100억 원에 0.3%를 적용해 3,000만 원, 특수관계인 거래분 50억 원에는 0.2%를 적용한 1,000만 원의 10%인 100만 원을 더하면 한도는 4,300만 원이다. 영수증 수취분 중 1회 3만 원 초과분 500만 원을 먼저 손금불산입하면 남은 지출 4,500만 원 중 한도 초과액 200만 원이 추가로 부인되어 합계 700만 원이 손금불산입된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "3만 원 초과분 500만 원만 부인한 금액으로, 한도 초과액 200만 원이 빠졌다.",
+    "1,200만 원+3,000만 원+150만 원으로 한도를 잘못 계산한 경우에 해당한다.",
+    "손금불산입액 = 1회 3만 원 초과분 500만 원 + 한도 초과액 200만 원 = 700만 원이다. 정답입니다.",
+    "한도를 4,200만 원으로 보아 초과액을 300만 원으로 계산한 경우의 금액이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-tax-gah-q11",
+   "paperId": "paper_civil_tax_2026_national_gah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/tax/2026/national-gah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n법인세법은 감사인에 의한 감사를 받아야 하는 내국법인이 감사가 끝나지 않아 결산이 확정되지 않은 경우 신고기한 연장을 신청하면 1개월의 범위에서 신고기한을 연장할 수 있도록 하고 있다. 연장할 수 없다고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "법인세 신고기한은 사업연도 종료일이 속하는 달의 말일부터 3개월(성실신고확인서 제출 법인은 4개월)이다.",
+    "감사 미종결로 결산이 확정되지 않은 경우에는 신고기한 연장을 신청할 수 있다. 정답입니다.",
+    "수시부과 사유가 있어 법인세를 포탈할 우려가 있으면 수시로 부과할 수 있다.",
+    "납부할 세액이 1천만 원을 초과하면 1개월(중소기업 2개월) 이내에 분납할 수 있다."
+   ]
+  },
+  {
+   "id": "civil2026-national-tax-gah-q12",
+   "paperId": "paper_civil_tax_2026_national_gah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/tax/2026/national-gah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n세무조사는 적정하고 공평한 과세의 실현을 위하여 필요한 최소한의 범위에서 하여야 하고 다른 목적을 위하여 조사권을 남용해서는 안 된다. '필요한 최대한의 범위'라고 한 부분이 법문과 반대이므로 이것이 옳지 않은 설명이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "세무조사를 시작할 때 조사원증을 제시하고 납세자권리헌장을 교부·낭독하며 조사사유와 권리구제 절차를 설명하여야 한다.",
+    "거래상대방에 대한 조사가 필요한 경우에는 같은 세목·같은 과세기간이라도 재조사를 할 수 있다.",
+    "세금탈루 혐의가 포착되거나 조세범칙조사를 개시하는 경우에는 세무조사 기간을 연장할 수 있다.",
+    "조사 범위는 '최소한'이어야 하는데 '최대한의 범위'라고 하여 법문과 반대이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-tax-gah-q13",
+   "paperId": "paper_civil_tax_2026_national_gah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/tax/2026/national-gah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n고유목적사업준비금을 손금에 산입한 비영리내국법인이 사업에 관한 모든 권리·의무를 다른 비영리내국법인에 포괄적으로 양도하고 해산하면 해산등기일 현재의 준비금 잔액은 그 양수 법인이 승계할 수 있다. 승계할 수 없다고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "고유목적사업에 지출한 금액은 먼저 계상한 사업연도의 준비금부터 차례로 상계한다.",
+    "포괄양도 후 해산하는 경우 준비금 잔액은 양수 법인이 승계할 수 있으므로 '승계할 수 없다'가 틀렸다. 정답입니다.",
+    "퇴직급여충당금을 손금에 산입한 법인이 퇴직금을 지급하면 그 충당금에서 먼저 지급한 것으로 본다.",
+    "대손금은 대손충당금과 먼저 상계하고 남은 충당금은 다음 사업연도 익금에 산입한다."
+   ]
+  },
+  {
+   "id": "civil2026-national-tax-gah-q14",
+   "paperId": "paper_civil_tax_2026_national_gah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/tax/2026/national-gah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n종합부동산세는 재산세 과세기준일을 과세기준일로 하고, 토지분 세액은 종합합산세액과 별도합산세액을 합해 계산한다. 주택은 원칙적으로 합산 대상이지만 주택건설사업자가 건축하여 소유하는 미분양주택 등은 합산배제 주택으로 과세표준 합산대상에서 제외된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "종합부동산세의 과세기준일은 재산세 과세기준일인 6월 1일로 한다.",
+    "토지분 종합부동산세 세액은 종합합산세액과 별도합산세액을 합한 금액이다.",
+    "국내사업장이 없고 국내원천소득이 없는 외국법인이 주택을 둘 이상 소유하면 공시가격이 가장 높은 주택의 소재지를 납세지로 한다.",
+    "주택건설사업자가 건축하여 소유하는 미분양주택은 합산배제 대상이어서 합산대상 주택에 포함되지 않는다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-tax-gah-q15",
+   "paperId": "paper_civil_tax_2026_national_gah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/tax/2026/national-gah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n주사업장 총괄납부는 각 사업장의 납부세액과 환급세액을 통산해 주된 사업장에서 납부하는 제도로, 신고는 각 사업장별로 하여야 한다. 신고까지 주된 사업장에서 총괄하는 제도는 사업자 단위 과세이므로 두 제도를 섞은 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "주사업장 총괄납부에서 총괄되는 것은 납부(환급)이고 신고는 사업장별로 하므로 '신고·납부'를 함께 총괄한다는 설명이 틀렸다. 정답입니다.",
+    "재화의 보관·관리 시설만 갖춘 하치장으로 신고된 장소는 사업장으로 보지 않는다.",
+    "신규사업자는 주된 사업장의 사업자등록증을 받은 날부터 20일까지 총괄납부 신청서를 제출한다.",
+    "사업자 단위 과세를 포기하려면 납부하려는 과세기간 개시 20일 전까지 포기신고서를 제출한다."
+   ]
+  },
+  {
+   "id": "civil2026-national-tax-gah-q16",
+   "paperId": "paper_civil_tax_2026_national_gah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/tax/2026/national-gah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n업무용승용차는 정액법·내용연수 5년으로 감가상각하고 연간 감가상각비 한도는 800만 원이며, 처분손실 중 800만 원 초과액은 이월해 손금에 산입한다. 운행기록을 작성·비치하지 않으면 업무사용비율은 관련비용이 1,500만 원 이하인 경우 100%, 1,500만 원을 넘으면 1,500만 원을 관련비용으로 나눈 비율로 한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "업무용승용차는 정액법, 내용연수 5년으로 감가상각한다.",
+    "유류비·보험료·수선비·자동차세·통행료·금융리스부채 이자비용은 모두 업무용승용차 관련비용이다.",
+    "처분손실 중 업무용승용차별 800만 원 초과액은 이월하여 손금에 산입한다.",
+    "관련비용이 1,500만 원 이하이면 업무사용비율을 100분의 100으로 보므로 100분의 80이라고 한 부분이 틀렸다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-tax-gah-q17",
+   "paperId": "paper_civil_tax_2026_national_gah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/tax/2026/national-gah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국세징수법상 '체납'은 국세를 지정납부기한까지 납부하지 아니하는 것을 말한다. 법정납부기한은 법률이 정한 기한이고, 지정납부기한은 세무서장이 납부고지를 하면서 지정한 기한으로 구분된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "체납자란 국세를 체납한 자를 말한다.",
+    "체납액은 체납된 국세와 강제징수비를 말한다.",
+    "체납의 기준은 지정납부기한이므로 '법정납부기한'이라고 한 부분이 틀렸다. 정답입니다.",
+    "지정납부기한은 확정된 국세(가산세 포함)를 납부할 기한으로서 세무서장이 납부고지 시 지정한 기한이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-tax-gah-q18",
+   "paperId": "paper_civil_tax_2026_national_gah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/tax/2026/national-gah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n같은 세목·같은 과세기간에 대한 재조사는 원칙적으로 금지되지만, 2개 이상의 과세기간과 관련하여 잘못이 있는 경우와 과세관청 외의 기관이 직무상 목적을 위해 작성·취득해 제공한 자료의 처리를 위한 조사 등은 예외적으로 허용된다. 성실도 분석 결과 불성실 혐의는 재조사가 아니라 조사기간 연장 사유에 해당한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "성실도 분석에 따른 불성실 혐의는 재조사 허용 사유가 아니므로 ㄴ을 포함할 수 없다.",
+    "2개 이상의 과세기간에 걸친 잘못(ㄱ)과 외부기관 제공자료 처리(ㄷ)는 재조사가 허용되는 사유이다. 정답입니다.",
+    "ㄱ이 빠졌으므로 재조사 사유를 모두 고른 조합이 아니다.",
+    "ㄴ은 조사기간 연장 사유이지 재조사 사유가 아니므로 세 가지를 모두 고를 수 없다."
+   ]
+  },
+  {
+   "id": "civil2026-national-tax-gah-q19",
+   "paperId": "paper_civil_tax_2026_national_gah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/tax/2026/national-gah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n심판청구에 대한 결정이 있으면 해당 행정청은 결정의 취지에 따라 즉시 필요한 처분을 하여야 한다. 재조사 결정에 따른 처분만 결정서를 받은 날부터 60일 이내에 하도록 정하고 있을 뿐, 90일 이내라고 한 설명은 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "담당 조세심판관은 필요하면 심판사항을 병합하거나 분리할 수 있다.",
+    "조세심판원장은 주심조세심판관 1명과 배석조세심판관 2명 이상을 지정해 조세심판관회의를 구성하게 한다.",
+    "결정 후 처분은 '즉시' 하여야 하므로 90일 이내라고 한 부분이 틀렸다. 정답입니다.",
+    "조세심판관은 조사·심리 결과와 과세의 형평을 고려해 자유심증으로 사실을 판단한다."
+   ]
+  },
+  {
+   "id": "civil2026-national-tax-gah-q20",
+   "paperId": "paper_civil_tax_2026_national_gah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/tax/2026/national-gah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n둘 이상의 거주자가 같은 사람을 서로 자기 공제대상가족으로 신고한 경우, 그 사람이 한 거주자의 공제대상배우자이면서 다른 거주자의 공제대상부양가족에 해당하면 배우자 공제를 먼저 적용한다. 장애인 추가공제는 1명당 연 200만 원이고, 배우자 공제는 소득금액 합계액이 100만 원(근로소득만 있으면 총급여 500만 원) 이하인 경우에 받을 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "중복 신고 시 배우자 공제가 부양가족 공제에 우선하므로 배우자로 한다. 정답입니다.",
+    "장애인 추가공제는 1명당 연 200만 원이므로 100만 원이라고 한 부분이 틀렸다.",
+    "배우자의 소득금액 합계액이 500만 원이면 공제대상 배우자가 될 수 없다.",
+    "중도에 사망하거나 영주 목적으로 출국한 거주자의 공제대상가족으로서 상속인 등 다른 거주자의 공제대상가족에 해당하는 사람은 오히려 피상속인 또는 출국한 거주자의 공제대상가족으로 한다. "
+   ]
+  }
+ ]
+}

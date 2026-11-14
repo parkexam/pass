@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_accounting_2025_local_B",
+ "title": "2025 지방직 9급 회계학 B책형",
+ "year": 2025,
+ "source": "2025년도 지방공무원 9급 등 공개경쟁임용 필기시험 회계학 B책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_8",
+ "questions": [
+  {
+   "id": "civil2025-local-accounting-B-q01",
+   "paperId": "paper_civil_accounting_2025_local_B",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting/2025/local-B/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n계속기록법에서는 재고자산을 판매할 때마다 판매가액과 함께 팔린 재고의 원가를 매출원가로 대체한다. 외상판매이므로 (차) 매출채권 100,000, 매출원가 60,000 / (대) 매출 100,000, 재고자산 60,000으로 분개한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "외상판매인데 현금으로 기록하고 매출원가 대체도 빠졌다.",
+    "매출원가의 상대계정은 재고자산이고 매출은 판매가액으로 기록한다.",
+    "판매가액만 기록하고 매출원가 대체분개를 빠뜨렸다.",
+    "(차) 매출채권 100,000, 매출원가 60,000 / (대) 매출 100,000, 재고자산 60,000이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-local-accounting-B-q02",
+   "paperId": "paper_civil_accounting_2025_local_B",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2025/local-B/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기타포괄손익-공정가치 측정 금융자산은 매 보고기간 말 공정가치로 재측정하고 그 변동액을 기타포괄손익으로 인식한다. 공정가치 25,000,000원과 장부금액 20,000,000원의 차이 5,000,000원이 기타포괄이익으로 반영되고 자산도 25,000,000원으로 증가한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "평가이익을 당기손익으로 인식하는 것은 당기손익-공정가치 측정 금융자산이다.",
+    "공정가치 변동 5,000,000원을 기타포괄이익으로 인식한다. 정답입니다.",
+    "공정가치로 측정하므로 장부금액이 변한다.",
+    "자산 가치가 오른 것이므로 부채는 증가하지 않는다."
+   ]
+  },
+  {
+   "id": "civil2025-local-accounting-B-q03",
+   "paperId": "paper_civil_accounting_2025_local_B",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting/2025/local-B/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n회계상 거래는 자산·부채·자본의 변동을 가져오는 거래이다. 공급계약을 체결하기만 하고 아직 제품을 인도하거나 대금이 오가지 않았다면 재무상태에 변동이 없으므로 회계상 거래가 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "현금 분실은 자산 감소와 손실 발생을 가져오는 회계상 거래이다.",
+    "차입은 자산과 부채가 함께 증가하는 회계상 거래이다.",
+    "화재로 건물이 소멸하면 자산 감소와 손실이 발생하는 회계상 거래이다.",
+    "공급계약 체결만으로는 재무상태가 변하지 않아 회계상 거래가 아니다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-local-accounting-B-q04",
+   "paperId": "paper_civil_accounting_2025_local_B",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2025/local-B/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n감가상각대상금액은 100,000,000-10,000,000=90,000,000원이고 연 감가상각비는 9,000,000원이다. 20×1년 초에 취득해 20×3년 말까지 3년이 지났으므로 장부금액은 100,000,000-27,000,000=73,000,000원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "잔존가치를 빼지 않고 계산한 값이다.",
+    "100,000,000-9,000,000×3=73,000,000원이다. 정답입니다.",
+    "2년분만 상각한 값이다.",
+    "취득원가 그대로이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-accounting-B-q05",
+   "paperId": "paper_civil_accounting_2025_local_B",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2025/local-B/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n수익인식 5단계는 고객과의 계약 식별, 수행의무 식별, 거래가격 산정, 거래가격을 수행의무에 배분, 수행의무 이행 시 수익 인식 순이다. 계약 식별과 수행의무 식별의 순서를 바꾼 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "수행의무는 계약서에 기재된 것에 한정되지 않을 수 있다.",
+    "고객에게 재화나 용역을 이전하지 않는 계약 준비활동은 수행의무가 아니다.",
+    "5단계는 계약 식별이 먼저이고 수행의무 식별이 그다음이다. 정답입니다.",
+    "거래가격에는 제삼자를 대신해 회수한 금액을 포함하지 않는다."
+   ]
+  },
+  {
+   "id": "civil2025-local-accounting-B-q06",
+   "paperId": "paper_civil_accounting_2025_local_B",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2025/local-B/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n재무상태와 관련된 요소는 자산·부채·자본이고, 수익과 비용은 재무성과와 관련된 요소이다. 수익·비용을 재무상태와 관련된 요소라고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "수익과 비용은 재무성과와 관련된 요소이며 재무상태 요소가 아니다. 정답입니다.",
+    "자본청구권 보유자의 출자는 수익이 아니고 그에 대한 분배는 비용이 아니다.",
+    "수익은 자산 증가나 부채 감소로 인한 자본 증가이며 출자와 관련된 것은 제외한다.",
+    "수익·비용을 특성별로 나눠 제공하면 재무성과를 이해하는 데 도움이 된다."
+   ]
+  },
+  {
+   "id": "civil2025-local-accounting-B-q07",
+   "paperId": "paper_civil_accounting_2025_local_B",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting/2025/local-B/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n오류가 없는 서술은 현상의 기술에 오류나 누락이 없고 정보 생산 절차에 오류가 없다는 뜻이지, 서술의 모든 면이 완벽하게 정확하다는 의미는 아니다. 완벽한 정확성을 요구한다고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "중립적 서술은 정보의 선택이나 표시에 편의가 없는 것이다.",
+    "유용한 정보는 목적적합성과 충실한 표현을 모두 갖춰야 한다.",
+    "완전한 서술은 이용자가 현상을 이해하는 데 필요한 모든 정보를 포함한다.",
+    "오류가 없다는 것은 모든 면에서 완벽하게 정확하다는 뜻이 아니다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-local-accounting-B-q08",
+   "paperId": "paper_civil_accounting_2025_local_B",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2025/local-B/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n선입선출법에서 7월 매출 200개는 기초 100개(1,000원)와 4월 매입분 100개(1,100원)로 나가고, 9월 매출 450개는 4월 매입 잔량 400개와 8월 매입분 50개로 나간다. 따라서 기말재고는 8월 매입분 250개×1,400원=350,000원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "후입선출법으로 계산한 값이다.",
+    "기말재고 전부를 4월 단가로 평가한 값이다.",
+    "8월 매입분 250개×1,400원=350,000원이다. 정답입니다.",
+    "어느 방법으로도 나오지 않는 값이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-accounting-B-q09",
+   "paperId": "paper_civil_accounting_2025_local_B",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2025/local-B/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n평균총자산은 (400,000+200,000)÷2=300,000원이고, 총자산회전율 5회이므로 매출액은 1,500,000원이다. 매출액순이익률 20%를 적용하면 당기순이익은 300,000원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "매출액과 회전율이 맞지 않는 값이다.",
+    "기말총자산을 평균으로 사용한 값이다.",
+    "300,000×5×20%=300,000원이다. 정답입니다.",
+    "매출액이 평균총자산의 5배와 맞지 않는 값이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-accounting-B-q10",
+   "paperId": "paper_civil_accounting_2025_local_B",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2025/local-B/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n선급보험료로 인식한 360,000원 중 10월~12월 3개월분에 해당하는 360,000×3/12=90,000원을 비용으로 인식해야 한다. (차) 보험료 90,000 / (대) 선급보험료 90,000으로 수정분개한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "경과한 3개월분 90,000원을 보험료로 인식한다. 정답입니다.",
+    "차변과 대변이 반대이다.",
+    "270,000원은 아직 경과하지 않은 9개월분이다.",
+    "지급 시 이미 선급보험료로 처리했으므로 360,000원을 되돌리는 분개가 아니다."
+   ]
+  },
+  {
+   "id": "civil2025-local-accounting-B-q11",
+   "paperId": "paper_civil_accounting_2025_local_B",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2025/local-B/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사채발행비는 발행금액에서 차감하므로 순수취액은 9,700-200=9,500원이다. 사채할인발행차금은 액면금액 10,000-순수취액 9,500=500원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "발행비를 차감하지 않고 할인액에서 뺀 값이다.",
+    "발행비를 반영하지 않은 값이다.",
+    "10,000-9,500=500원이다. 정답입니다.",
+    "연간 액면이자 금액이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-accounting-B-q12",
+   "paperId": "paper_civil_accounting_2025_local_B",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2025/local-B/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n주식배당은 이익잉여금을 자본금으로 대체하면서 신주를 교부하므로 발행주식수와 자본금이 모두 증가한다. 자본금이 불변이라고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "주식배당은 발행주식수와 자본금이 모두 증가한다. 정답입니다.",
+    "무상감자는 주식수와 자본금이 모두 감소한다.",
+    "무상증자는 주식수와 자본금이 모두 증가한다.",
+    "주식분할은 주식수만 증가하고 자본금은 변하지 않는다."
+   ]
+  },
+  {
+   "id": "civil2025-local-accounting-B-q13",
+   "paperId": "paper_civil_accounting_2025_local_B",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2025/local-B/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n수정전시산표의 소모품 150,000원 중 기말 실제 재고가 120,000원이므로 차액 30,000원을 소모품비로 인식한다. 따라서 비용 30,000원이 발생하고 소모품(자산)은 120,000원으로 감소하며 당기순이익도 30,000원 줄어든다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "차액 30,000원이 소모품비로 인식된다. 정답입니다.",
+    "자산은 증가하지 않고 30,000원 감소한다.",
+    "기말 소모품은 실제 재고 120,000원으로 계상한다.",
+    "비용이 발생하므로 당기순이익이 감소한다."
+   ]
+  },
+  {
+   "id": "civil2025-local-accounting-B-q14",
+   "paperId": "paper_civil_accounting_2025_local_B",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2025/local-B/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n20×1년 감가상각비는 900,000×5/15×6/12=150,000원이다. 20×2년에는 1~6월분 900,000×5/15×6/12=150,000원과 7~9월분 900,000×4/15×3/12=60,000원을 합한 210,000원을 상각해 장부금액이 1,000,000-150,000-210,000=640,000원이 되고, 700,000원에 처분해 처분이익 60,000원이 발생한다. 순효과는 210,000-60,000=150,000원 감소이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "처분이익만 계산하고 감가상각비를 반영하지 않았다.",
+    "계산 흐름과 맞지 않는 값이다.",
+    "감가상각비 210,000-처분이익 60,000=150,000원 감소이다. 정답입니다.",
+    "감가상각비만 계산한 값에 가까운 금액이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-accounting-B-q15",
+   "paperId": "paper_civil_accounting_2025_local_B",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2025/local-B/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지방자치단체의 부채는 유동부채, 장기차입부채, 기타비유동부채로만 분류하고 장기충당부채라는 분류는 없다. 퇴직급여충당부채는 기타비유동부채에 포함된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "장기충당부채 분류는 없고 부채는 세 가지로 나뉜다. 정답입니다.",
+    "비화폐성 외화부채는 부담 당시의 환율로 평가한다.",
+    "부채는 규칙에 정한 경우를 제외하고 만기상환가액으로 평가한다.",
+    "장기연불조건 거래의 채무는 명목가액과 현재가치의 차이가 중요하면 현재가치로 평가한다."
+   ]
+  },
+  {
+   "id": "civil2025-local-accounting-B-q16",
+   "paperId": "paper_civil_accounting_2025_local_B",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting/2025/local-B/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국가회계기준상 무형자산은 정액법으로 상각하며, 상각기간은 법령·계약에서 정한 경우를 제외하고 20년을 넘지 못한다. 정액법 또는 생산량비례법이라고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "투자증권은 매입가액에 부대비용을 더하고 총평균법 등으로 산정한 가액을 취득원가로 한다.",
+    "주민편의시설은 건설원가나 매입가액에 부대비용을 더한 취득원가로 평가한다.",
+    "재정상태표에 기록하는 자산은 취득원가를 기초로 계상한다.",
+    "국가회계기준상 무형자산은 정액법으로만 상각한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-local-accounting-B-q17",
+   "paperId": "paper_civil_accounting_2025_local_B",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting/2025/local-B/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nS1 원가 100,000원을 S2에 30%, P1에 40%, P2에 30%로 배부하면 P1에는 40,000원이 간다. 이어 S2는 200,000+30,000=230,000원이 되고 이를 P1과 P2에 30:30으로 나누면 각각 115,000원이므로, P1의 원가합계는 300,000+40,000+115,000=455,000원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "단계배부 결과로 나오지 않는 값이다.",
+    "S2 배부액을 잘못 계산한 값이다.",
+    "S2의 배부비율에 S1에 줄 몫까지 포함해 계산한 값이다.",
+    "300,000+40,000+115,000=455,000원이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-local-accounting-B-q18",
+   "paperId": "paper_civil_accounting_2025_local_B",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2025/local-B/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n매몰원가는 이미 발생해 회수할 수 없는 원가로 어떤 대안을 선택하든 달라지지 않으므로 의사결정과 관련이 없다. 통제 가능하고 의사결정과 관련 있는 원가라고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "기초원가와 전환원가에 공통으로 포함되는 것은 직접노무원가이다.",
+    "매몰원가는 통제할 수 없고 의사결정과 무관한 원가이다. 정답입니다.",
+    "변동·고정원가의 구분은 관련범위 내에서만 유효하다.",
+    "원가대상별 추적 가능성에 따라 직접원가와 간접원가로 분류한다."
+   ]
+  },
+  {
+   "id": "civil2025-local-accounting-B-q19",
+   "paperId": "paper_civil_accounting_2025_local_B",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2025/local-B/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n선입선출법에서 품질검사 시점 50%를 통과한 합격품은 당기 완성품 중 기초재공품을 제외한 13,000개와 완성도 70%인 기말재공품 3,000개를 합한 16,000개이다. 정상공손은 합격품의 10%이므로 1,600개이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "완성품 전체에 공손률을 적용한 값이다.",
+    "합격품 16,000개×10%=1,600개이다. 정답입니다.",
+    "착수량을 기준으로 계산한 값이다.",
+    "기초재공품까지 합격품에 포함한 값이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-accounting-B-q20",
+   "paperId": "paper_civil_accounting_2025_local_B",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2025/local-B/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기초원가 30,000원은 직접재료원가와 직접노무원가의 합이고, 전환원가는 직접노무원가와 제조간접원가 6,000원의 합으로 직접재료원가의 50%이다. 이를 풀면 직접재료원가 24,000원, 직접노무원가 6,000원이므로 당기총제조원가는 30,000+6,000=36,000원이다. 당기제품제조원가는 36,000+기초재공품 3,500-기말재공품 2,500=37,000원이고, 매출원가는 37,000+기초제품 4,000-기말제품 6,000=35,000원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "재공품 조정을 반영하지 않은 값이다.",
+    "제품재고 변동을 반영하지 않은 값이다.",
+    "36,000+1,000+1,000-2,000=35,000원이다. 정답입니다.",
+    "제품재고 변동의 방향을 반대로 적용한 값이다."
+   ]
+  }
+ ]
+}

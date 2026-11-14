@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_tax_2024_national_gah",
+ "title": "2024 국가직 9급 세법개론 가책형",
+ "year": 2024,
+ "source": "2024년도 국가공무원 9급 공채 필기시험 세법개론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_7",
+ "questions": [
+  {
+   "id": "civil2024-national-tax-gah-q01",
+   "paperId": "paper_civil_tax_2024_national_gah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/tax/2024/national-gah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국세는 강제징수비·우선변제 임금채권 다음에, 법정기일에 따라 담보권 등과 순위를 다툰다. 소득세의 법정기일은 납세고지서 발송일(2022.5.30.)이므로 그 이전인 2021.5.20.에 설정된 저당권이 소득세보다 우선한다. 매각대금 5,000만 원에서 강제징수비 500만 원, 임금채권 2,000만 원, 저당권 1,000만 원을 빼면 1,500만 원을 소득세에 배분할 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "5,000만 원에서 강제징수비 500만 원, 임금 2,000만 원, 저당권 1,000만 원을 차례로 빼면 1,500만 원이다. 정답입니다.",
+    "강제징수비 500만 원을 공제하지 않은 금액이다.",
+    "저당권 설정일이 고지서 발송일보다 앞서므로 저당권 채권이 소득세보다 먼저 변제받는다.",
+    "강제징수비만 빼고 우선변제 임금채권과 저당권 채권을 모두 국세 뒤로 돌린 금액이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-tax-gah-q02",
+   "paperId": "paper_civil_tax_2024_national_gah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/tax/2024/national-gah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국세기본법의 실질과세 원칙은 소득·재산의 귀속이 명의와 다를 때 실질적으로 귀속되는 자를 납세의무자로 한다. 명의수탁자인 乙은 양도소득이 실제로 甲에게 귀속되었음을 이유로 실질과세 원칙을 들어 자신의 납세의무를 다툴 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "소득이 명의자와 다른 자에게 귀속된 경우 실질귀속자에게 과세하는 실질과세 원칙을 주장할 수 있다. 정답입니다.",
+    "신의성실 원칙은 납세자와 세무공무원이 성실의무를 다하도록 하는 원칙으로 귀속자 판단과 직접 관련이 없다.",
+    "재량의 한계는 세법 적용의 원칙으로, 소득의 귀속자를 가리는 문제와 관계없다.",
+    "조세감면의 사후관리는 감면세액의 사용·운용에 관한 원칙으로 이 사안과 무관하다."
+   ]
+  },
+  {
+   "id": "civil2024-national-tax-gah-q03",
+   "paperId": "paper_civil_tax_2024_national_gah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/tax/2024/national-gah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n제2차 납세의무는 청산인(분배·인도한 재산가액 한도), 잔여재산을 받은 자(각자가 받은 가액 한도), 무한책임사원, 사업양수인 등이 진다. 사업을 양도한 경우 제2차 납세의무를 지는 자는 양도인이 아니라 양수인이고 한도는 양수한 재산의 가액이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "청산인의 제2차 납세의무 한도는 분배하거나 인도한 재산의 가액이다.",
+    "잔여재산을 분배받은 자는 각자가 받은 재산가액을 한도로 제2차 납세의무를 진다.",
+    "사업양도인이 아니라 사업양수인이 양수한 재산가액을 한도로 제2차 납세의무를 진다. 정답입니다.",
+    "합명회사 사원은 납세의무 성립일 현재 사원이면 부족액에 대하여 제2차 납세의무를 진다."
+   ]
+  },
+  {
+   "id": "civil2024-national-tax-gah-q04",
+   "paperId": "paper_civil_tax_2024_national_gah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/tax/2024/national-gah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n간이과세자는 직전 연도 공급대가 합계액이 기준금액에 미달하는 개인사업자이지만, 부동산매매업·전기·가스·수도사업·과세유흥장소 등 일정 업종은 공급대가와 관계없이 간이과세가 배제된다. 도배·실내장식사업은 배제 업종에 해당하지 않고 공급대가 7천만 원도 기준금액에 미달하므로 간이과세자가 된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "부동산매매업은 공급대가와 관계없이 간이과세 배제 업종이다.",
+    "전기·가스사업은 규모와 관계없이 간이과세 배제 업종이다.",
+    "도배·실내장식사업은 배제 업종이 아니고 공급대가 7천만 원으로 기준금액 미만이어서 간이과세자에 해당한다. 정답입니다.",
+    "특별시에서 경영하는 과세유흥장소는 간이과세 배제 업종이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-tax-gah-q05",
+   "paperId": "paper_civil_tax_2024_national_gah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/tax/2024/national-gah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사업상 증여는 원칙적으로 재화의 공급으로 보지만 특별재난지역에 공급하는 물품은 공급으로 보지 않는다. 집합투자업자가 다른 집합투자업자에게 위탁자의 지위를 이전하는 것은 신탁재산의 공급으로 보지 않는다. 반면 사업 개시 전에 등록한 자가 사업을 시작하지 않아 남은 재화는 자기에게 공급한 것으로 본다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "특별재난지역 공급물품(ㄱ)은 공급이 아니지만 ㄴ은 공급으로 보므로 모두 고를 수 없다.",
+    "특별재난지역 공급물품(ㄱ)과 위탁자 지위 이전(ㄷ)은 모두 재화의 공급으로 보지 않는다. 정답입니다.",
+    "ㄷ은 공급이 아니지만 ㄴ은 자기에게 공급한 것으로 보며 ㄱ이 빠졌다.",
+    "ㄱ·ㄷ은 공급이 아니지만 ㄴ은 공급으로 보므로 세 가지를 모두 고를 수 없다."
+   ]
+  },
+  {
+   "id": "civil2024-national-tax-gah-q06",
+   "paperId": "paper_civil_tax_2024_national_gah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/tax/2024/national-gah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n미납국세 열람 대상에는 신고 후 납부하지 않은 국세, 납부고지서를 발급한 후 지정납부기한이 아직 오지 않은 국세, 체납액이 포함된다. 임대차 목적 건물의 열람은 보증금 1천만 원 초과 임차인이 계약 후 임대인 동의 없이 신청할 수 있고, 종합소득세는 신고기한부터 60일이 지나야 열람할 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "고지서를 발급했지만 지정납부기한이 아직 도래하지 않은 국세도 열람 대상에 포함된다. 정답입니다.",
+    "계약 전에는 임대인의 동의가 있어야 열람을 신청할 수 있다.",
+    "보증금 1천만 원을 초과하는 임차인은 임대인 동의 없이 열람을 신청할 수 있다.",
+    "종합소득세는 신고기한부터 30일이 아니라 60일이 지나야 열람할 수 있다."
+   ]
+  },
+  {
+   "id": "civil2024-national-tax-gah-q07",
+   "paperId": "paper_civil_tax_2024_national_gah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/tax/2024/national-gah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n제품은 평가방법 변경신고를 사업연도 종료일 이전 3개월이 되는 날(2023.9.30.)까지 했어야 하는데 2023.10.4.에 했으므로 임의변경으로 보아 선입선출법(1,800,000원)과 당초 신고한 후입선출법 중 큰 금액인 1,800,000원으로 평가한다. 회사 계상액 1,500,000원과의 차이 300,000원은 익금산입(유보)이고, 반제품은 신고한 총평균법 500,000원으로 조정해 100,000원 손금산입(△유보)한다. 순액은 익금산입 200,000원(유보)이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "반제품 차이 100,000원을 익금으로 더한 금액이다.",
+    "제품 300,000원 익금과 반제품 100,000원 손금을 상계한 200,000원을 익금산입(유보)한다. 정답입니다.",
+    "제품 조정액만 반영하고 반제품 손금산입을 빠뜨렸다.",
+    "반제품은 회사 계상액이 신고 방법보다 큰 경우이므로 차액이 손금산입 대상이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-tax-gah-q08",
+   "paperId": "paper_civil_tax_2024_national_gah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/tax/2024/national-gah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n10년 이내에 직계존비속으로부터 증여받은 토지를 양도하면 이월과세가 적용되어 증여자의 취득가액을 기준으로 양도차익을 계산하고, 특수관계인과의 거래로 조세부담을 부당하게 감소시키면 그 계산을 부인할 수 있다. 증여 후 우회양도로 보는 것은 증여일부터 10년 이내에 양도한 경우에 한한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "이월과세(ㄱ)와 특수관계인 거래에 대한 부당행위계산 부인(ㄴ)이 모두 옳다. 정답입니다.",
+    "증여일부터 15년이 지나 양도한 경우에는 우회양도로 보지 않으므로 ㄷ이 틀렸다.",
+    "ㄷ이 틀렸고 옳은 ㄴ이 빠졌다.",
+    "ㄷ은 10년이 지난 양도여서 우회양도 부인 대상이 아니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-tax-gah-q09",
+   "paperId": "paper_civil_tax_2024_national_gah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/tax/2024/national-gah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n받을어음을 배서양도하거나 자산유동화 방법으로 양도하는 경우 손익의 귀속사업연도는 기업회계기준에 따른 손익인식방법에 따른다. 유형자산의 평가손실은 손금불산입이고, 공채 매입가액과 현재가치의 차액은 취득가액에 포함한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "받을어음 배서양도 시 손익 귀속시기는 기업회계기준의 손익인식방법에 따른다. 정답입니다.",
+    "법령에 따른 유형자산 평가증만 인정되고 평가손실은 손금에 산입하지 않는다.",
+    "기업회계기준에 따라 공채 매입가액과 현재가치의 차액을 계상하면 그 차액은 취득가액에 포함한다.",
+    "가상자산은 개별법이 아니라 법인세법령이 정한 방법(시가)으로 평가한다."
+   ]
+  },
+  {
+   "id": "civil2024-national-tax-gah-q10",
+   "paperId": "paper_civil_tax_2024_national_gah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/tax/2024/national-gah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n주식을 빌려주고 같은 종류·같은 양의 주식을 반환받는 조건으로 차입자로부터 받는 배당 상당액은 배당소득에 포함된다. 배당소득은 필요경비를 인정하지 않으며, 자기주식소각이익의 자본전입은 소각 당시 시가가 취득가액을 넘지 않고 2년이 지나 전입한 경우 의제배당에서 제외된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "주식 대여 후 차입자로부터 받는 배당 상당액은 배당소득에 포함된다. 정답입니다.",
+    "시가가 취득가액을 초과하지 않고 소각일부터 2년이 지나 자본전입한 자기주식소각이익은 배당으로 보지 않는다.",
+    "배당소득은 필요경비를 공제하지 않고 총수입금액이 곧 소득금액이 된다.",
+    "출자전환 시 시가를 초과해 발행한 주식발행초과금은 의제배당 제외 대상에서 빠지므로 자본전입하면 배당으로 본다."
+   ]
+  },
+  {
+   "id": "civil2024-national-tax-gah-q11",
+   "paperId": "paper_civil_tax_2024_national_gah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/tax/2024/national-gah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n정률법에서 제22기 상각범위액은 1억 원×0.2=2,000만 원이고 계상액 3,000만 원 중 1,000만 원이 손금불산입되어 미상각잔액은 1억 원-2,000만 원=8,000만 원이 된다. 제23기 상각범위액은 8,000만 원×0.2=1,600만 원이므로 계상액 2,000만 원과의 차이 400만 원을 손금불산입(유보)한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "손금불산입이라는 방향이 반대이고 금액도 다르다.",
+    "제23기 상각범위액 1,600만 원을 초과한 계상액 400만 원을 손금불산입(유보)한다. 정답입니다.",
+    "전기에 부인한 1,000만 원을 미상각잔액에 더하지 않아 한도를 1,400만 원으로 계산했고 방향도 반대이다.",
+    "미상각잔액을 장부상 금액인 7,000만 원으로 보아 한도를 1,400만 원으로 계산한 금액이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-tax-gah-q12",
+   "paperId": "paper_civil_tax_2024_national_gah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/tax/2024/national-gah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n자본잉여금을 자본에 전입해 주주가 주식을 취득하는 경우 원칙적으로 의제배당이 아니지만, 자기주식을 보유한 상태에서 감자차익을 자본전입해 다른 주주의 지분율이 높아지면 그 증가분은 의제배당으로 본다. 주식의 포괄적 교환차익을 자본전입해 취득하는 주식은 의제배당으로 보지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "주식 소각·감자로 취득한 재산이 취득원가를 초과하는 금액은 의제배당이다.",
+    "자기주식 보유 상태에서 감자차익을 자본전입해 지분율이 증가하면 그 증가분은 의제배당이다.",
+    "해산으로 잔여재산 분배액이 취득원가를 초과하는 금액은 의제배당이다.",
+    "포괄적 교환차익을 자본전입해 취득한 주식은 의제배당으로 보지 않는다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-tax-gah-q13",
+   "paperId": "paper_civil_tax_2024_national_gah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/tax/2024/national-gah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n재조사 결정에 따른 처분에 대해서는 전심 절차를 거치지 않고 바로 행정소송을 제기할 수 있지만, 재조사 후의 처분에 대하여 다시 심판청구를 거쳐 소송을 제기하는 경우에는 그 심판청구 결정 통지를 받은 날부터 90일 이내에 제기하여야 한다. 재조사는 결정일부터 60일 이내에 결정서 주문에 기재된 범위로 한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "재조사 결정에 따른 처분은 심판청구를 거치지 않고도 행정소송을 제기할 수 있다.",
+    "재조사 결과 청구인의 주장과 확인된 사실관계가 다르면 당초 처분을 취소·경정하지 않을 수 있다.",
+    "재조사 기간은 결정일부터 90일이 아니라 60일 이내이다.",
+    "재조사 후 처분에 대한 심판청구 결정 통지를 받은 날부터 90일 이내에 행정소송을 제기하여야 한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-tax-gah-q14",
+   "paperId": "paper_civil_tax_2024_national_gah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/tax/2024/national-gah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n부분조사는 경정청구 처리를 위한 확인, 재조사 결정에 따른 사실관계 확인, 명의위장·차명계좌를 이용한 탈루 혐의 확인 등 사유가 있을 때 같은 세목·같은 과세기간에 2회를 넘지 않게 실시할 수 있다. 납세자가 자료를 기한까지 제출하지 않은 것은 조사기간 연장 사유이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "자료 미제출(ㄴ)은 부분조사 사유가 아니고 명의위장·차명계좌(ㄹ)가 빠졌다.",
+    "ㄴ이 잘못 포함되었고 재조사 결정에 따른 확인(ㄷ)이 빠졌다.",
+    "경정청구 처리(ㄱ), 재조사 결정에 따른 확인(ㄷ), 명의위장·차명계좌 탈루 혐의(ㄹ)가 부분조사 사유이다. 정답입니다.",
+    "자료 미제출(ㄴ)은 부분조사 사유가 아니고 경정청구 처리(ㄱ)가 빠졌다."
+   ]
+  },
+  {
+   "id": "civil2024-national-tax-gah-q15",
+   "paperId": "paper_civil_tax_2024_national_gah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/tax/2024/national-gah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n납세담보로 제공하는 납세보증보험증권은 보험기간이 담보를 필요로 하는 기간에 30일을 더한 기간 이상이어야 한다. 금전·유가증권은 공탁하고 공탁수령증을 제출하지만, 납세보증서는 그 서류 자체를 제출하고 담보로 세금을 직접 낼 수는 없다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "납세보증서는 공탁이 아니라 그 서류를 세무서장에게 제출한다.",
+    "보험에 든 등기 건물의 담보가액은 보험금액이 아니라 상속세 및 증여세법에 따라 평가한 가액이다.",
+    "납세보증서로 담보한 국세를 직접 납부할 수는 없고, 기한 내에 납부하지 않으면 보증인으로부터 징수한다.",
+    "납세보증보험증권의 보험기간은 담보가 필요한 기간에 30일을 더한 기간 이상이어야 한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-tax-gah-q16",
+   "paperId": "paper_civil_tax_2024_national_gah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/tax/2024/national-gah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사업소득 결손금은 근로·연금·기타·이자·배당소득금액 순으로 공제하고, 부동산임대업 결손금은 다른 소득에서 공제하지 않으나 주거용 건물 임대업의 결손금은 예외적으로 공제한다. 같은 과세기간의 결손금을 이월결손금보다 먼저 공제하며, 국세부과 제척기간이 지난 뒤 확인된 이월결손금은 공제하지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "공제 순서는 근로·연금·기타·이자·배당소득금액 순이므로 이자·배당이 맨 뒤가 아니라 순서가 다르다.",
+    "주거용 건물 임대업에서 발생한 결손금은 다른 소득에서 공제할 수 있다.",
+    "해당 과세기간의 결손금을 이월결손금보다 먼저 공제한다.",
+    "제척기간이 지난 후 확인된 그 이전 과세기간의 이월결손금은 공제하지 않는다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-tax-gah-q17",
+   "paperId": "paper_civil_tax_2024_national_gah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/tax/2024/national-gah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n신탁재산과 관련된 재화·용역을 공급하면 수탁자가 신탁재산별로 별도의 납세의무자가 되지만, 위탁자가 신탁재산을 실질적으로 지배·통제하는 투자신탁의 경우에는 위탁자가 납세의무자이다. 위탁자 명의로 공급하면 위탁자가, 위탁자 지위 이전을 공급으로 보는 경우에는 기존 위탁자가 납세의무자이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "위탁자 명의로 공급하는 경우에는 수탁자가 아니라 위탁자가 납세의무자이다.",
+    "신탁재산 공급의 원칙적 납세의무자는 위탁자가 아니라 수탁자이다.",
+    "위탁자 지위 이전을 공급으로 보면 기존 위탁자가 새 위탁자에게 공급한 것이므로 기존 위탁자가 납세의무자이다.",
+    "위탁자가 신탁재산을 실질적으로 지배·통제하는 투자신탁은 위탁자가 납세의무자이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-tax-gah-q18",
+   "paperId": "paper_civil_tax_2024_national_gah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/tax/2024/national-gah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n부당행위계산 유형인 금전 대여·차용에서 시가는 원칙적으로 가중평균차입이자율이고, 이를 적용할 수 없거나 대여기간이 5년을 초과하는 경우 등에는 당좌대출이자율을 시가로 한다. 당좌대출이자율을 선택하면 그 사업연도와 이후 2개 사업연도에 계속 적용한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "차입금 전액이 채권자 불분명 사채여서 가중평균차입이자율을 적용할 수 없으면 그 차입금에 한정해 당좌대출이자율을 쓴다.",
+    "특수관계인으로부터의 차입금만 있으면 가중평균차입이자율을 계산할 수 없어 당좌대출이자율을 쓴다.",
+    "당좌대출이자율을 적용하는 대여금은 대여일부터 사업연도 종료일까지 5년을 초과하는 경우이므로 3년이라고 한 부분이 틀렸다. 정답입니다.",
+    "당좌대출이자율을 선택하면 선택한 사업연도와 이후 2개 사업연도에 계속 적용한다."
+   ]
+  },
+  {
+   "id": "civil2024-national-tax-gah-q19",
+   "paperId": "paper_civil_tax_2024_national_gah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/tax/2024/national-gah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n상속세 과세가액에서는 피상속인이 상속인에게 진 증여채무는 공제하지 않고, 상속인이 아닌 자에게 진 증여채무만 상속개시일 전 5년 이내분을 공제한다. 신고가 없으면 일괄공제 5억 원이 적용되고, 정당법상 정당에 유증한 재산은 비과세되며, 과세표준이 50만 원 미만이면 과세하지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "신고가 없으면 기초공제 등 대신 일괄공제 5억 원을 공제한다.",
+    "정당법에 따른 정당에 유증한 재산은 상속세를 부과하지 않는다.",
+    "과세표준이 50만 원 미만이면 상속세를 부과하지 않는다.",
+    "상속개시일 전 10년 이내에 상속인에게 진 증여채무는 공제 대상 채무에서 제외된다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-tax-gah-q20",
+   "paperId": "paper_civil_tax_2024_national_gah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/tax/2024/national-gah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n수출재화의 공급시기는 선적일이고, 외화로 받은 대금의 과세표준 환산은 공급시기 전에 원화로 환가한 경우 환가한 금액에 의한다. 선적 전인 2023.1.12.에 수령해 환가했으므로 그 환율 1,150원을 적용해 1,000달러×1,150원=1,150,000원이 과세표준이 된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "제조일 환율은 과세표준 환산과 관계없다.",
+    "공급시기 전에 환가한 금액 1,150,000원이 과세표준이다. 정답입니다.",
+    "선적일 기준환율은 공급시기 이후에 대금을 받거나 외화를 보유한 경우에 적용한다.",
+    "미국 도착일은 공급시기와 무관하고 그 환율도 적용되지 않는다."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_localtax_2026_local_D",
+ "title": "2026 지방직 9급 지방세법 D책형",
+ "year": 2026,
+ "source": "2026년도 지방공무원 9급 공개경쟁임용 등 필기시험 지방세법 D책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_9",
+ "questions": [
+  {
+   "id": "civil2026-local-localtax-D-q01",
+   "paperId": "paper_civil_localtax_2026_local_D",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/localtax/2026/local-D/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n표준세율은 지방자치단체가 지방세를 부과할 때 통상 적용하되 재정상·특별한 사유가 있으면 달리 정할 수 있는 세율이고, 지방자치단체의 징수금은 지방세와 체납처분비를 합한 금액이다. 특별징수는 징수하기 편한 자에게 징수하게 하는 제도이고, 납세자는 연대·제2차 납세의무자, 보증인, 특별징수의무자를 포함하는 개념이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "표준세율(ㄱ)과 지방자치단체의 징수금(ㄴ)의 설명이 모두 맞다. 정답입니다.",
+    "납세자는 납세의무자보다 넓은 개념이므로 ㄹ이 틀렸다.",
+    "특별징수는 세무공무원이 고지서로 징수하는 보통징수가 아니므로 ㄷ이 틀렸다.",
+    "ㄷ은 보통징수의 뜻이고 ㄹ은 납세의무자의 뜻이어서 둘 다 틀렸다."
+   ]
+  },
+  {
+   "id": "civil2026-local-localtax-D-q02",
+   "paperId": "paper_civil_localtax_2026_local_D",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/localtax/2026/local-D/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n재산세는 고지서 1장당 세액이 2천 원 미만이면 징수하지 않는다. 토지분 납기는 9월 16일부터 9월 30일까지이고, 물납은 납부세액이 1천만 원을 초과하고 관할 구역 안에 있는 부동산에 한하여 허가할 수 있으며, 공부상 현황과 사실상 현황이 다르면 과세기준일부터 15일 이내에 신고하여야 한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "토지분 재산세 납기는 9월 16일부터 30일까지이다.",
+    "고지서 1장당 2천 원 미만이면 징수하지 않는다. 정답입니다.",
+    "물납은 세액 1천만 원 초과이고 관할 구역 안의 부동산에만 허가할 수 있다.",
+    "사실상 소유자의 신고기한은 과세기준일부터 15일 이내이다."
+   ]
+  },
+  {
+   "id": "civil2026-local-localtax-D-q03",
+   "paperId": "paper_civil_localtax_2026_local_D",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/localtax/2026/local-D/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n감사원법에 따라 심사청구를 한 처분에 대하여는 지방세기본법에 따른 이의신청이나 심판청구를 할 수 없다. 할 수 있다고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "과세전적부심사 청구에 대한 처분은 이의신청·심판청구의 대상이 아니다.",
+    "이의신청을 거친 심판청구는 기각결정 통지를 받은 날부터 90일 이내에 한다.",
+    "바로 심판청구하는 경우에도 처분을 안 날부터 90일 이내에 한다.",
+    "감사원법에 따라 심사청구를 한 처분에는 이의신청·심판청구를 할 수 없다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-local-localtax-D-q04",
+   "paperId": "paper_civil_localtax_2026_local_D",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/localtax/2026/local-D/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n등록면허세의 납세지는 등록 대상이 있는 곳이 원칙이다. 영업의 허가 등록은 주사무소 소재지가 아니라 영업소 소재지가 납세지이므로 이를 주사무소 소재지라고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "부동산 등기분의 납세지는 부동산 소재지이다.",
+    "영업의 허가 등록은 영업소 소재지가 납세지이다. 정답입니다.",
+    "광업권·조광권 등록분은 광구 소재지가 납세지이다.",
+    "상표·서비스표 등록분은 주사무소 소재지가 납세지이다."
+   ]
+  },
+  {
+   "id": "civil2026-local-localtax-D-q05",
+   "paperId": "paper_civil_localtax_2026_local_D",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/localtax/2026/local-D/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n임시흥행장·공사현장사무소 등 임시건축물의 취득은 원칙적으로 취득세 비과세이지만, 존속기간이 1년을 초과하면 취득세를 부과한다. 부과하지 않는다고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "존속기간이 1년을 초과하는 임시건축물은 취득세를 부과한다. 정답입니다.",
+    "지목이 묘지인 토지에 관한 등기에는 등록면허세를 부과하지 않는다.",
+    "담배를 제품개발·품질검사·연구 용도로 제공하면 담배소비세를 면제한다.",
+    "종업원분 주민세는 월평균 급여총액이 기준금액 이하이면 부과하지 않는다."
+   ]
+  },
+  {
+   "id": "civil2026-local-localtax-D-q06",
+   "paperId": "paper_civil_localtax_2026_local_D",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/localtax/2026/local-D/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n표준세율이 적용되고 신고납부하는 세목은 부동산 등기분 등록면허세이다. 지방소비세는 특별징수의무자가 납입하고, 재산세는 보통징수로 부과하며, 레저세는 신고납부하지만 세율이 단일하여 조례로 가감하는 표준세율 세목이 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "부동산 등기분 등록면허세(ㄷ)만 두 조건을 모두 충족한다. 정답입니다.",
+    "지방소비세와 재산세는 신고납부 세목이 아니다.",
+    "레저세는 표준세율이 적용되는 세목이 아니다.",
+    "ㄱ·ㄴ은 신고납부가 아니고 ㄹ은 표준세율 세목이 아니다."
+   ]
+  },
+  {
+   "id": "civil2026-local-localtax-D-q07",
+   "paperId": "paper_civil_localtax_2026_local_D",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/localtax/2026/local-D/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n체납처분은 납부를 촉구하는 독촉(제2차 납세의무자에게는 최고)으로 시작해 재산을 압류하고, 압류재산을 공매한 뒤 그 대금을 체납액과 채권에 배분하는 청산 순서로 진행된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "공매 뒤에는 채권추심이 아니라 청산(배분)이 온다.",
+    "독촉 또는 최고 → 재산압류 → 공매 → 청산(배분) 순이다. 정답입니다.",
+    "공매는 압류한 재산을 파는 절차이므로 압류보다 먼저 올 수 없다.",
+    "독촉 다음 단계는 채권추심이 아니라 재산압류이다."
+   ]
+  },
+  {
+   "id": "civil2026-local-localtax-D-q08",
+   "paperId": "paper_civil_localtax_2026_local_D",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/localtax/2026/local-D/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n특별징수의무자가 납입하여야 할 금액보다 지방소비세환급금이 많으면 그 초과액은 다음 달로 이월한다. 이월하지 않는다고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "지방소비세의 과세대상은 부가가치세법을 준용한 재화·용역의 공급과 재화의 수입이다.",
+    "과세표준은 부가가치세 납부세액에서 감면·공제세액을 빼고 가산세를 더한 세액이다.",
+    "세액은 과세표준에 1천분의 253을 적용해 계산한다.",
+    "초과된 지방소비세환급금은 다음 달로 이월한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-local-localtax-D-q09",
+   "paperId": "paper_civil_localtax_2026_local_D",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/localtax/2026/local-D/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지방세특례제한법을 제외한 다른 법률의 조세 면제 규정은 자동차세에 관한 지방자치단체의 징수금에 적용하지 않는다. 적용한다고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "공매 대금을 낸 매수인은 이전등록 전이라도 자동차세 납세의무를 진다.",
+    "과세기간 중 이전등록하면 소유기간에 따라 일할계산해 양도인과 양수인에게 각각 부과한다.",
+    "자동차 관련 지방세가 체납되면 독촉절차 없이 즉시 체납처분할 수 있다.",
+    "다른 법률의 조세 면제 규정은 자동차세에는 적용하지 않는다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-local-localtax-D-q10",
+   "paperId": "paper_civil_localtax_2026_local_D",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/localtax/2026/local-D/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n재산세는 과세기준일인 매년 6월 1일에, 법인지방소득세는 법인세의 납세의무가 성립하는 때에 성립한다. 담배소비세는 제조장·보세구역에서 반출하거나 국내로 반입하는 때 성립하고, 주행분 자동차세는 교통·에너지·환경세의 납세의무가 성립하는 때 성립한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "담배소비세의 성립시기에 관한 ㄱ이 틀렸다.",
+    "ㄱ·ㄹ이 모두 틀렸다.",
+    "재산세(ㄴ)와 법인지방소득세(ㄷ)의 성립시기가 맞다. 정답입니다.",
+    "주행분 자동차세(ㄹ)의 성립시기가 틀렸다."
+   ]
+  },
+  {
+   "id": "civil2026-local-localtax-D-q11",
+   "paperId": "paper_civil_localtax_2026_local_D",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/localtax/2026/local-D/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공시송달은 서류의 주요 내용을 공고한 날부터 14일이 지나면 송달된 것으로 본다. 서류의 효력은 도달한 때 발생하고, 수령을 거부하면 송달할 장소에 두는 유치송달을 하며, 연대납세의무자에게는 납세의 고지·독촉 서류를 모두에게 각각 송달한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "서류는 도달한 때부터 효력이 발생한다.",
+    "수령을 거부하면 송달할 장소에 서류를 둘 수 있다.",
+    "공고한 날부터 14일이 지나면 송달된 것으로 본다. 정답입니다.",
+    "연대납세의무자에게 납세의 고지·독촉 서류를 보낼 때에는 모두에게 각각 송달한다."
+   ]
+  },
+  {
+   "id": "civil2026-local-localtax-D-q12",
+   "paperId": "paper_civil_localtax_2026_local_D",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/localtax/2026/local-D/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n종합소득에 대한 개인지방소득세의 세율은 조례로 표준세율의 100분의 50 범위에서 가감할 수 있다. 100분의 10 범위라고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "본세가 비과세되는 소득에는 지방소득세도 과세하지 않는다.",
+    "법인의 사업장이 둘 이상이면 안분해 각 소재지 지방자치단체에 신고납부한다.",
+    "개인지방소득세의 세액공제는 지방세특례제한법이 정하고, 공제세액이 산출세액을 초과하면 그 초과분은 없는 것으로 본다.",
+    "개인지방소득세율은 표준세율의 100분의 50 범위에서 가감할 수 있다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-local-localtax-D-q13",
+   "paperId": "paper_civil_localtax_2026_local_D",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/localtax/2026/local-D/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n납세협력의무를 이행하지 않은 것은 세무조사를 시작할 수 있는 사유이지, 같은 세목·같은 과세연도에 대한 재조사 사유로 열거되어 있지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "탈루 혐의를 인정할 만한 명백한 자료가 있으면 재조사할 수 있다.",
+    "서면조사만 한 뒤 경정을 다시 할 필요가 있으면 재조사 사유이다.",
+    "납세협력의무 미이행은 재조사 사유가 아니라 조사 착수 사유이다. 정답입니다.",
+    "부분조사 후 그에 포함되지 않은 부분을 조사하는 것은 재조사 사유이다."
+   ]
+  },
+  {
+   "id": "civil2026-local-localtax-D-q14",
+   "paperId": "paper_civil_localtax_2026_local_D",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/localtax/2026/local-D/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n취득세 신고·납부기한이 남아 있더라도 그 기한 안에 등기·등록하려면 등기·등록 신청서를 접수하는 날까지 취득세를 신고·납부하여야 한다. 상속 취득은 상속개시일이 속하는 달의 말일부터 6개월 이내에 신고납부한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "상속 취득의 신고납부기한은 상속개시일이 속하는 달의 말일부터 6개월이다.",
+    "레저세의 장부 비치의무 위반 가산세는 산출세액의 100분의 10이다.",
+    "등기·등록 신청서를 접수하는 날까지 취득세를 신고·납부하여야 한다. 정답입니다.",
+    "담배 반출신고를 하지 않으면 산출세액의 100분의 30을 가산한다."
+   ]
+  },
+  {
+   "id": "civil2026-local-localtax-D-q15",
+   "paperId": "paper_civil_localtax_2026_local_D",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/localtax/2026/local-D/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n창업일 당시 업종의 사업을 계속 영위하기 위하여 취득한 부동산을 취득일부터 3년 이내에 다른 용도로 사용하거나 매각·증여하면 경감된 취득세를 추징한다. 법인전환과 폐업 후 같은 종류 사업의 재개는 창업으로 보지 않으며, 창업중소기업의 사업용 부동산은 취득세의 100분의 75를 경감한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "취득일부터 3년 이내에 다른 용도로 사용하거나 매각하면 취득세를 추징한다. 정답입니다.",
+    "개인이 하던 사업을 법인으로 전환하는 것은 창업으로 보지 않는다.",
+    "폐업 후 같은 종류의 사업을 다시 하는 것은 창업으로 보지 않는다.",
+    "창업중소기업의 사업용 부동산 취득세 경감률은 100분의 75이다."
+   ]
+  },
+  {
+   "id": "civil2026-local-localtax-D-q16",
+   "paperId": "paper_civil_localtax_2026_local_D",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/localtax/2026/local-D/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지역자원시설세율은 조례로 표준세율의 100분의 50 범위에서 가감할 수 있지만, 원자력발전·화력발전에 대한 세율은 가감할 수 없다. 가감할 수 있다고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "지하수분은 조례로 정하면 보통징수할 수 있다.",
+    "컨테이너분은 신고납부로 징수한다.",
+    "소방분은 지방자치단체의 장이 세액을 산정해 보통징수로 부과·징수한다.",
+    "원자력·화력발전분의 세율은 조례로 가감할 수 없다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-local-localtax-D-q17",
+   "paperId": "paper_civil_localtax_2026_local_D",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/localtax/2026/local-D/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n행정안전부령으로 정하는 납부서를 받은 사람이 기재된 세액을 신고기한까지 납부하면 소득세법에 따른 확정신고와 납부를 한 것으로 본다. 납부서 발송은 재량이고, 관할이 아닌 지방자치단체에 신고해도 효력이 있으며, 분할납부는 납부할 세액이 100만 원을 초과하는 경우에 할 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "납부서 발송은 '발송할 수 있다'는 재량이다.",
+    "납부서 기재 세액을 기한까지 납부하면 확정신고·납부를 한 것으로 본다. 정답입니다.",
+    "관할이 아닌 지방자치단체의 장에게 한 신고도 효력에 영향이 없다.",
+    "분할납부는 50만 원이 아니라 100만 원을 초과할 때 할 수 있다."
+   ]
+  },
+  {
+   "id": "civil2026-local-localtax-D-q18",
+   "paperId": "paper_civil_localtax_2026_local_D",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/localtax/2026/local-D/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n수시부과하는 경우 적용하지 않는 것은 무신고·과소신고가산세이고, 납부지연가산세와 특별징수 납부지연가산세는 그대로 적용된다. 적용하지 않는다고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "장기 휴업으로 포탈 우려가 있으면 수시부과할 수 있다.",
+    "조세 포탈 우려에 상당한 이유가 있으면 수시부과할 수 있다.",
+    "수시부과 때도 납부지연가산세는 적용되며 배제되는 것은 무신고·과소신고가산세이다. 정답입니다.",
+    "수시부과기간에는 직전 과세기간을 포함할 수 있다."
+   ]
+  },
+  {
+   "id": "civil2026-local-localtax-D-q19",
+   "paperId": "paper_civil_localtax_2026_local_D",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/localtax/2026/local-D/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n토지의 지목을 사실상 변경하여 가액이 증가하면 취득으로 보며, 환지방식 도시개발사업에서는 환지는 조합원이, 체비지·보류지는 사업시행자가 취득한 것으로 본다. 직계존속과의 부동산 교환은 증여가 아닌 유상취득으로 보고, 환지 토지는 승계취득, 시설대여 건설기계는 대여업자가 취득한 것으로 본다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "직계존속과 등기가 필요한 부동산을 교환하면 유상취득으로 본다.",
+    "환지계획에 따라 공급받는 토지는 승계취득으로 본다.",
+    "시설대여업자가 이용자 명의로 등록해도 대여업자가 취득한 것으로 본다.",
+    "토지의 지목을 사실상 변경해 가액이 증가하면 취득으로 보고, 보류지·체비지는 사업시행자가 취득한 것으로 본다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-local-localtax-D-q20",
+   "paperId": "paper_civil_localtax_2026_local_D",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/localtax/2026/local-D/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n토지를 연부로 취득하는 경우 취득세의 과세표준은 매회 사실상 지급되는 연부금액이며 취득금액에 포함되는 계약보증금도 포함한다. 차량의 무상취득은 시가표준액이 기준이고, 특수관계인 거래로 조세부담을 부당하게 줄이면 시가인정액을 취득가액으로 결정한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "차량의 무상취득은 시가인정액이 아니라 시가표준액을 과세표준으로 한다.",
+    "판매용 차량의 최초 취득일은 인도일과 잔금지급일 중 빠른 날이다.",
+    "연부취득의 과세표준은 매회 지급되는 연부금액(계약보증금 포함)이다. 정답입니다.",
+    "특수관계인 거래로 조세부담을 부당하게 줄이면 시가인정액을 취득가액으로 결정할 수 있다."
+   ]
+  }
+ ]
+}

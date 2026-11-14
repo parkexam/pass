@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_tax_2025_national_nah",
+ "title": "2025 국가직 9급 세법개론 나책형",
+ "year": 2025,
+ "source": "2025년도 국가공무원 9급 공채 필기시험 세법개론 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_7",
+ "questions": [
+  {
+   "id": "civil2025-national-tax-nah-q01",
+   "paperId": "paper_civil_tax_2025_national_nah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/tax/2025/national-nah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n심판청구에 대한 결정은 관계 행정청을 기속하고, 행정청은 결정의 취지에 따라 즉시 필요한 처분을 하여야 한다. 심사청구와 심판청구는 선택적인 불복 절차로서 동일한 처분에 대하여 두 절차를 거듭 제기하는 중복 제기는 허용되지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "결정이 있으면 행정청은 결정의 취지에 따라 즉시 필요한 처분을 하여야 한다.",
+    "심사청구를 보정할 필요가 있으면 20일 이내의 기간을 정해 보정을 요구할 수 있고 경미한 사항은 직권 보정할 수 있다.",
+    "동일한 처분에 대하여 심사청구와 심판청구를 중복하여 제기할 수는 없다. 정답입니다.",
+    "심판청구를 한 처분 외의 처분에 대하여는 취소·변경하거나 새로운 처분을 결정하지 못한다."
+   ]
+  },
+  {
+   "id": "civil2025-national-tax-nah-q02",
+   "paperId": "paper_civil_tax_2025_national_nah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/tax/2025/national-nah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국세징수법은 납세자가 국세를 납부하지 아니하면 독촉장을 발급하도록 하면서, 물적납세의무를 부담하는 경우, 체납된 국세가 1만 원 미만인 경우, 납부기한 전에 징수하는 경우 등에는 독촉장을 발급하지 아니할 수 있게 하고 있다. 세 가지가 모두 이에 해당한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "납부기한 전 징수에 해당하는 ㄷ이 빠져 세 가지를 모두 고른 조합이 아니다.",
+    "1만 원 미만 체납(ㄴ)이 빠져 독촉장 생략 사유를 모두 고른 조합이 아니다.",
+    "물적납세의무를 부담하는 경우(ㄱ)가 빠져 모두 고른 조합이 아니다.",
+    "물적납세의무자(ㄱ), 1만 원 미만 체납(ㄴ), 납부기한 전 징수(ㄷ) 모두 독촉장을 발급하지 않을 수 있다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-tax-nah-q03",
+   "paperId": "paper_civil_tax_2025_national_nah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/tax/2025/national-nah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n회생계획인가 결정이나 면책결정으로 회수불능이 확정된 채권은 그 사유가 발생한 날이 속하는 사업연도의 손금에 산입하는 신고조정 대손금이다. 손금에 산입하지 않는다고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "회생계획인가·면책결정으로 회수불능이 확정된 채권은 해당 사업연도의 손금에 산입한다. 정답입니다.",
+    "소멸시효가 완성된 수표는 손금으로 산입하는 대손사유이다.",
+    "회수할 수 없는 부가가치세 매출세액미수금은 대손세액공제를 받지 않은 것에 한정해 손비에 포함된다.",
+    "채권 재조정에 따라 장부가액과 현재가치의 차액을 대손금으로 계상하면 손금 산입하고, 환입분은 기업회계기준에 따라 익금에 산입한다."
+   ]
+  },
+  {
+   "id": "civil2025-national-tax-nah-q04",
+   "paperId": "paper_civil_tax_2025_national_nah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/tax/2025/national-nah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기타소득의 필요경비는 안분율(의제경비율)과 실제 소요된 경비 중 큰 금액을 인정하는 것이 원칙이고, 원고료·주택입주 지체상금·서화·골동품 등은 안분율이 각각 60%, 80%, 90%로 정해져 있다. 슬롯머신 등 사행성 기구 당첨금은 당첨 당시 그 기구에 투입한 금액을 필요경비로 한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "서화·골동품의 양도소득은 받은 금액의 100분의 80이 아니라 100분의 90과 실제 경비 중 큰 금액을 필요경비로 한다.",
+    "원고료는 받은 금액의 100분의 60을 필요경비로 하되 실제 경비가 더 많으면 그 초과액도 필요경비에 산입한다.",
+    "주택입주 지체상금은 받은 금액의 100분의 80을 필요경비로 하고 실제 경비가 더 많으면 초과액도 인정한다.",
+    "슬롯머신 등 당첨금품은 당첨 당시 투입한 금액을 필요경비로 한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-tax-nah-q05",
+   "paperId": "paper_civil_tax_2025_national_nah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/tax/2025/national-nah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n전자세금계산서 의무발급 대상이 된 개인사업자에게는 관할 세무서장이 발급의무가 시작되는 날 1개월 전까지 그 사실을 통지하여야 한다. 통지 기한을 10일 전으로 적은 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "세관장은 부가가치세를 징수하는 수입재화에 대하여 수입하는 자에게 세금계산서를 발급한다.",
+    "월별 합계 세금계산서는 공급일이 속하는 달의 다음 달 10일(공휴일·토요일이면 다음 영업일)까지 발급할 수 있다.",
+    "의무발급 통지는 발급의무 개시일 1개월 전까지 하여야 하므로 10일 전이라고 한 부분이 틀렸다. 정답입니다.",
+    "위탁매입·대리인 매입의 경우 공급자가 위탁자·본인을 공급받는 자로 하여 발급하고 수탁자·대리인의 등록번호를 덧붙인다."
+   ]
+  },
+  {
+   "id": "civil2025-national-tax-nah-q06",
+   "paperId": "paper_civil_tax_2025_national_nah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/tax/2025/national-nah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n양도담보권자에게 납부고지가 있은 후 담보채무 불이행으로 담보재산이 확정적으로 귀속되어 양도담보권이 소멸하더라도, 납부고지 당시의 양도담보재산은 계속 존속하는 것으로 의제하여 물적납세의무를 유지한다. '존속하는 것으로 보지 않는다'고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "양도담보재산은 납세자의 다른 재산으로 징수해도 부족한 경우에만 징수할 수 있고, 국세 법정기일 전에 담보된 재산은 제외된다.",
+    "납부고지 후 담보재산이 확정귀속되어 담보권이 소멸해도 납부고지 당시의 재산은 계속 양도담보재산으로 존속하는 것으로 본다. 정답입니다.",
+    "양도담보재산은 계약에 따라 납세자가 재산을 양도할 때 실질적으로 채권담보 목적이 된 재산을 말한다.",
+    "체납액을 양도담보권자로부터 징수할 때에는 과세기간·세목·세액·산출근거·납부기한 등을 적은 납부고지서를 발급한다."
+   ]
+  },
+  {
+   "id": "civil2025-national-tax-nah-q07",
+   "paperId": "paper_civil_tax_2025_national_nah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/tax/2025/national-nah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n법인세 과세표준에서 공제하는 이월결손금은 각 사업연도 개시일 전 15년 이내에 개시한 사업연도의 결손금이고, 공제한도는 원칙적으로 소득의 80%이지만 중소기업과 회생계획 이행 법인은 100%까지 공제한다. 비과세소득·소득공제액은 이월공제되지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "공제되지 않은 비과세소득과 소득공제액은 다음 사업연도로 이월해 공제할 수 없다.",
+    "이월결손금은 개시일 전 15년 이내에 개시한 사업연도의 결손금이므로 7년이라고 한 부분이 틀렸다.",
+    "회생계획 이행 법인의 이월결손금은 소득의 100분의 100까지 공제하므로 80%라고 한 부분이 틀렸다.",
+    "중소기업이 아닌 법인이 결손금 소급공제로 환급받으면 이자상당액을 더해 결손금 발생 사업연도의 법인세로 징수한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-tax-nah-q08",
+   "paperId": "paper_civil_tax_2025_national_nah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/tax/2025/national-nah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n간이과세는 직전 연도 공급대가 합계액이 1억 400만 원 미만인 개인사업자에게 적용되고 법인은 대상이 아니다. 신규로 사업을 개시한 사업자는 최초 사업개시일이 속하는 해의 다음 해 7월 1일부터 그 다음 해 6월 30일까지 간이과세 적용 여부가 정해진다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "간이과세자는 개인사업자에 한하므로 법인은 공급대가가 기준 미만이더라도 간이과세자가 될 수 없다.",
+    "신규 사업자는 최초 사업을 개시한 해의 다음 해 7월 1일부터 그 다음 해 6월 30일까지를 단위로 간이과세 적용 여부를 판정한다. 정답입니다.",
+    "일반과세자 규정을 적용받는 사업장을 신규 개설하면 그 사업장뿐 아니라 해당 사업자 전체가 그 과세기간부터 일반과세가 적용된다.",
+    "간이과세 포기는 적용받으려는 달의 마지막 날까지가 아니라 그 전에 신고해야 하며, 포기 후에는 일정 기간 재적용이 제한된다."
+   ]
+  },
+  {
+   "id": "civil2025-national-tax-nah-q09",
+   "paperId": "paper_civil_tax_2025_national_nah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/tax/2025/national-nah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n상속재산에 가산하는 사전증여재산은 상속개시일이 아니라 증여일 현재의 시가로 평가한다. 상속개시일 현재의 시가로 평가한다고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "상속재산에 가산하는 증여재산의 가액은 증여일 현재의 시가에 따르므로 상속개시일 현재의 시가라고 한 부분이 틀렸다. 정답입니다.",
+    "피상속인이 신탁의 이익을 받을 권리를 가진 경우 그 이익에 상당하는 가액은 상속재산에 포함한다.",
+    "피상속인이 보험계약자인 생명보험의 사망보험금은 상속재산으로 본다.",
+    "국민연금법에 따라 지급되는 유족연금은 상속재산으로 보지 않는다."
+   ]
+  },
+  {
+   "id": "civil2025-national-tax-nah-q10",
+   "paperId": "paper_civil_tax_2025_national_nah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/tax/2025/national-nah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n과세전적부심사는 원칙적으로 모든 과세예고통지에 대해 청구할 수 있지만, 납부기한 전 징수·수시부과 사유가 있는 경우, 조세조약 상대국이 상호합의절차 개시를 요청한 경우, 제척기간 만료일까지의 기간이 3개월 이하인 경우 등은 청구할 수 없다. 업무감사 결과에 따른 과세는 청구가 가능하다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "업무감사 결과에 따른 과세는 청구할 수 있고 상호합의 개시 요청(ㄷ)·제척기간 3개월 이하(ㄹ)가 빠졌다.",
+    "납부기한 전 징수·수시부과 사유(ㄱ)도 청구할 수 없는 경우인데 빠졌다.",
+    "업무감사 결과에 따른 과세(ㄴ)는 청구할 수 있으므로 포함할 수 없고, ㄷ이 빠졌다.",
+    "납부기한 전 징수·수시부과 사유(ㄱ), 상호합의절차 개시 요청(ㄷ), 제척기간 3개월 이하(ㄹ)는 청구할 수 없다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-tax-nah-q11",
+   "paperId": "paper_civil_tax_2025_national_nah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/tax/2025/national-nah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n연근해어업에서 발생하는 소득은 연 5천만 원까지, 농어민이 부업으로 경영하는 민박 소득은 연 3천만 원까지 비과세된다. 임목의 벌채·양도 소득은 조림기간이 5년 이상이어야 하고, 논·밭은 작물 생산에 쓰는 경우에만 비과세되며, 전통주는 수도권 밖 읍·면에서 제조한 경우에 비과세된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "연근해어업 4천만 원(ㄱ)과 농가부업 민박 3천만 원(ㄷ)은 비과세 한도 안에 있어 비과세된다. 정답입니다.",
+    "조림기간 3년인 임지의 임목 벌채·양도 소득(ㄴ)은 조림기간 5년 요건을 채우지 못해 과세된다.",
+    "밭을 주차장으로 이용하게 한 소득(ㄹ)은 작물 생산에 제공한 것이 아니고, 수도권에서 제조한 전통주(ㅁ)도 비과세 대상이 아니다.",
+    "ㄴ·ㄹ·ㅁ은 모두 과세되며, 비과세인 ㄱ·ㄷ이 빠져 있다."
+   ]
+  },
+  {
+   "id": "civil2025-national-tax-nah-q12",
+   "paperId": "paper_civil_tax_2025_national_nah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/tax/2025/national-nah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n인적공제는 기본공제(1명당 150만 원)에 추가공제를 더해 계산한다. 배우자는 총급여 500만 원 이하이므로 공제되고, 부친(80세)·모친(68세)·장모(68세)·딸(18세)도 공제대상이며, 아들은 사업소득금액 300만 원으로 소득요건을 넘어 공제대상이 아니다. 70세 이상인 부친은 경로우대 추가공제 100만 원이 적용된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "기본공제 6명 900만 원만 계산하고 경로우대 추가공제 100만 원을 빠뜨린 금액이다.",
+    "기본공제 6명 900만 원 + 부친 경로우대 추가공제 100만 원 = 1,000만 원이다. 정답입니다.",
+    "장애인 추가공제 200만 원을 더한 경우이나, 아들은 소득금액이 300만 원으로 공제대상 요건을 충족하지 못한다.",
+    "기본공제 대상이 아닌 아들을 포함해 계산한 금액이다."
+   ]
+  },
+  {
+   "id": "civil2025-national-tax-nah-q13",
+   "paperId": "paper_civil_tax_2025_national_nah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/tax/2025/national-nah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사업자는 사업 개시일부터 20일 이내에 사업자등록을 신청하고, 세무서장은 사업장시설·사업현황 확인이 필요하면 발급기한을 5일 이내에서 연장해 조사한 사실에 따라 등록증을 발급할 수 있다. 보정기간은 발급기간에 산입하지 않고, 등록 전 매입세액은 과세기간 종료 후 20일 이내에 등록을 신청한 경우에 공제된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "사업자등록 신청기한은 사업 개시일부터 25일이 아니라 20일이다.",
+    "보정기간은 사업자등록증 발급기간에 산입하지 않는다.",
+    "사업장시설·사업현황 확인이 필요하면 발급기한을 5일 이내에서 연장하고 조사 결과에 따라 등록증을 발급할 수 있다. 정답입니다.",
+    "등록 전 매입세액은 과세기간이 끝난 후 1개월이 아니라 20일 이내에 등록을 신청한 경우에 공제된다."
+   ]
+  },
+  {
+   "id": "civil2025-national-tax-nah-q14",
+   "paperId": "paper_civil_tax_2025_national_nah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/tax/2025/national-nah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n세무조사 기간은 원칙적으로 20일을 넘지 않고 연장도 제한되지만, 역외거래를 이용한 탈루, 거짓계약서·미등기양도 등 부동산 투기 탈루, 상속세·증여세 조사·주식변동 조사·범칙사건 조사·동시조사 등은 기간 제한이 적용되지 않는다. 거래처 조사나 현지확인은 기간 연장 사유일 뿐 제한 배제 사유가 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "상속세·증여세·주식변동·범칙사건·동시조사(ㄹ)가 빠져 제한 배제 사유를 모두 고르지 못했다.",
+    "거래처 조사·현지확인(ㄴ)은 기간 연장 사유에 해당할 뿐 제한 배제 사유가 아니고, ㄱ·ㄷ이 빠졌다.",
+    "역외거래 탈루(ㄱ), 부동산 투기 탈루(ㄷ), 상속세·증여세·주식변동·범칙·동시조사(ㄹ)는 기간 제한을 받지 않는다. 정답입니다.",
+    "거래처 조사(ㄴ)가 잘못 포함되었고 역외거래 탈루(ㄱ)가 빠졌다."
+   ]
+  },
+  {
+   "id": "civil2025-national-tax-nah-q15",
+   "paperId": "paper_civil_tax_2025_national_nah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/tax/2025/national-nah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n익금은 순자산을 증가시키는 거래에서 발생한 이익으로서 자본·출자의 납입과 법이 익금에서 제외한 금액은 제외한다. 감자차익은 자본거래에서 생긴 이익이어서 익금불산입 항목이고, 국세·지방세 과오납금의 환급금 이자도 익금불산입이다. 주식 소각 시 취득금액을 초과하는 금액은 의제배당으로 본다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "익금의 범위를 정한 설명으로 맞다.",
+    "감자차익은 자본거래로 인한 수익으로 익금불산입 대상이므로 익금에 산입한다고 한 부분이 틀렸다. 정답입니다.",
+    "주식 소각으로 취득한 금액이 취득원가를 초과하면 그 초과액은 의제배당으로 본다.",
+    "지방세 과오납금 환급금에 대한 이자는 익금불산입 항목이다."
+   ]
+  },
+  {
+   "id": "civil2025-national-tax-nah-q16",
+   "paperId": "paper_civil_tax_2025_national_nah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/tax/2025/national-nah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n장기할부조건으로 자산을 취득하면서 발생한 채무를 현재가치로 평가해 현재가치할인차금을 계상한 경우 그 차금은 자산의 취득가액에 포함하지 않는다. 금융회사의 화폐성외화자산은 사업연도 종료일 매매기준율로 평가하고, 유가증권 평가방법을 신고하지 않으면 총평균법, 재고자산 평가방법 변경신고는 사업연도 종료일 이전 3개월이 되는 날까지 하여야 한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "금융회사 등의 화폐성외화자산은 사업연도 종료일 현재 매매기준율로 평가하며 취득일 환율과 선택할 수 없다.",
+    "유가증권의 평가방법을 신고하지 않으면 총평균법으로 평가한다.",
+    "재고자산 평가방법 변경신고는 사업연도 종료일 이전 3개월이 되는 날까지 제출한다.",
+    "장기할부 취득 채무의 현재가치할인차금은 자산의 취득가액에 포함하지 않는다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-tax-nah-q17",
+   "paperId": "paper_civil_tax_2025_national_nah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/tax/2025/national-nah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n종합소득 확정신고 세액이 1천만 원을 초과하면 납부기한을 넘긴 날부터 1개월(중소기업 2개월) 이내에 일정 금액을 분납할 수 있다. 세액 2천만 원 이하인 경우 분납할 수 있는 금액은 1천만 원을 초과하는 금액이므로 1,800만 원 중 800만 원까지 분납할 수 있고, 기한은 납부기한인 2025년 5월 31일부터 2개월이 되는 7월 31일이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "분납기한은 납부기한 후 2개월이므로 6월 30일은 틀렸다.",
+    "최대 분납액은 1,000만 원 초과분인 800만 원이고 기한은 2025년 7월 31일이다. 정답입니다.",
+    "1,800만 원의 절반인 900만 원이 아니라 1,000만 원을 초과하는 금액인 800만 원이 분납 한도이다.",
+    "분납 금액과 기한을 모두 잘못 계산한 경우이다."
+   ]
+  },
+  {
+   "id": "civil2025-national-tax-nah-q18",
+   "paperId": "paper_civil_tax_2025_national_nah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/tax/2025/national-nah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n부가가치세의 과세표준은 공급가액의 합계액이고, 재화의 수입은 관세 과세가격에 관세·개별소비세·주세·교육세·농어촌특별세·교통에너지환경세를 더한 금액이다. 대가를 받지 않고 타인에게 용역을 공급하는 것은 원칙적으로 용역의 공급으로 보지 않으며, 특수관계인에게 무상으로 공급할 때만 시가를 공급가액으로 본다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "공급가액의 합계액을 과세표준으로 한다는 설명은 맞다.",
+    "수입재화의 과세표준에 관세와 내국세를 합한다는 설명은 맞다.",
+    "공급가액에 부가가치세를 포함하지 않는다는 설명은 맞다.",
+    "무상 용역 공급은 원칙적으로 공급으로 보지 않으므로 이를 공급으로 보아 시가를 과세표준으로 한다는 설명이 틀렸다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-tax-nah-q19",
+   "paperId": "paper_civil_tax_2025_national_nah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/tax/2025/national-nah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n과세자료 해명통지를 받는 등 경정이 있을 것을 미리 알고 수정신고기한 내에 사외유출금액을 회수하고 익금에 산입해 신고하면 사내유보로 처분하는 것이 원칙이지만, 세무조사 결과 통지나 과세자료 해명통지에 따라 경정이 있을 것을 미리 안 경우에는 사내유보로 처분하지 않고 사외유출로 본다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "사외유출된 금액의 귀속자가 직원이면 상여로 처분한다.",
+    "특례기부금 한도를 초과해 익금에 산입한 금액은 기타 사외유출로 처분한다.",
+    "귀속이 불분명한 경우에는 대표자에게 귀속된 것으로 본다.",
+    "과세자료 해명통지를 받아 경정이 있을 것을 미리 안 경우에는 사내유보가 아니라 사외유출로 처분한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-tax-nah-q20",
+   "paperId": "paper_civil_tax_2025_national_nah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/tax/2025/national-nah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n압류금지재산에는 공표되지 않은 발명·저작에 관한 것, 체납자와 동거가족에게 필요한 3개월간의 식료품·연료 등이 있다. 퇴직금 등 급여채권은 총액의 2분의 1을 초과하는 부분만 압류할 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "공표되지 않은 발명·저작에 관한 것은 압류할 수 없으므로 ㄱ이 틀렸고, 옳은 ㄷ이 빠졌다.",
+    "공표되지 않은 발명·저작(ㄱ)이 잘못 포함되었고, 퇴직금 2분의 1 압류금지(ㄴ)가 빠졌다.",
+    "퇴직금 등 급여채권은 총액의 2분의 1을 압류하지 못하고, 동거가족에게 필요한 3개월간의 식료품·연료도 압류할 수 없다. 정답입니다.",
+    "ㄴ·ㄷ은 옳지만 공표되지 않은 발명·저작은 압류금지재산이므로 ㄱ이 잘못 포함되었다."
+   ]
+  }
+ ]
+}

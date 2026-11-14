@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_accounting_2022_local_A",
+ "title": "2022 지방직 9급 회계학 A책형",
+ "year": 2022,
+ "source": "2022년도 지방공무원 9급 등 공개경쟁임용 필기시험 회계학 A책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_8",
+ "questions": [
+  {
+   "id": "civil2022-local-accounting-A-q01",
+   "paperId": "paper_civil_accounting_2022_local_A",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting/2022/local-A/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n유형자산의 원가는 자산을 의도한 방식으로 가동할 수 있는 장소와 상태에 이르게 하는 데 직접 관련되는 지출로 구성된다. 자산을 해체·제거하거나 부지를 복구할 의무는 취득 시점에 이미 발생하므로 그 최초 추정원가를 유형자산 원가에 포함하고 복구충당부채를 인식한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "새로운 시설 개설원가는 자산을 사용 가능한 상태로 만드는 원가가 아니어서 비용으로 처리한다.",
+    "시험가동 중 생산한 재화의 매각금액과 원가는 유형자산 원가에서 차감하지 않고 당기손익으로 인식한다.",
+    "가동 가능한 상태가 된 뒤 미사용·저조업으로 발생한 원가는 유형자산 원가에 포함하지 않는다.",
+    "해체·제거·복구 의무의 최초 추정원가는 유형자산의 원가에 포함된다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-local-accounting-A-q02",
+   "paperId": "paper_civil_accounting_2022_local_A",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2022/local-A/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n자산은 대손충당금과 감가상각누계액을 차감한 2,000+2,200+3,000+9,000=16,200이고, 부채는 선수수익 800을 포함한 1,500+800=2,300이다. 자본은 16,200-2,300=13,900이므로 자본금 4,000을 빼면 이익잉여금은 9,900이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "자산 16,200-부채 2,300-자본금 4,000=9,900이다. 정답입니다.",
+    "선수수익 800을 부채에서 빠뜨린 값이다.",
+    "선수수익과 대손충당금을 모두 반영하지 않은 값이다.",
+    "차감계정과 선수수익을 모두 반영하지 않은 값이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-accounting-A-q03",
+   "paperId": "paper_civil_accounting_2022_local_A",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2022/local-A/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n판매 시점에 500대×50원=25,000원의 제품보증비를 충당부채로 인식하고, 당해 실제로 지출한 보증비 10,000원을 충당부채와 상계한다. 따라서 기말 제품보증충당부채는 25,000-10,000=15,000원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "설정액에서 지출액을 두 번 뺀 값이다.",
+    "25,000-10,000=15,000원이 기말 제품보증충당부채이다. 정답입니다.",
+    "실제 지출액을 차감하지 않은 설정액 그대로이다.",
+    "설정액에 지출액을 더한 값이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-accounting-A-q04",
+   "paperId": "paper_civil_accounting_2022_local_A",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2022/local-A/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n순매출은 총매출 215,000-매출에누리 20,000-매출환입 15,000=180,000이고, 매출총이익률 25%이므로 매출원가는 180,000×75%=135,000이다. 순매입은 140,000-매입환출 5,000-매입할인 13,000+매입운임 10,000=132,000이므로 판매가능액은 18,000+132,000=150,000이고, 기말재고 추정액은 150,000-135,000=15,000원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "매입운임을 순매입에 포함하지 않은 값이다.",
+    "계산 흐름에서 나오지 않는 금액이다.",
+    "순매출 180,000의 75%=매출원가 135,000을 판매가능액 150,000에서 빼면 15,000원이다. 정답입니다.",
+    "매입환출을 차감하지 않은 값이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-accounting-A-q05",
+   "paperId": "paper_civil_accounting_2022_local_A",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2022/local-A/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n직접노무원가 임률차이는 (실제임률-표준임률)×실제시간이므로 실제원가 364,800에서 불리한 임률차이 9,600을 빼면 실제시간×표준임률=355,200이다. 이를 실제시간 960시간으로 나누면 시간당 표준임률은 370원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "임률차이를 시간 차이로 나눈 값이다.",
+    "능률차이를 이용해 역산한 값이다.",
+    "355,200÷960=370원이 표준임률이다. 정답입니다.",
+    "실제원가를 실제시간으로 나눈 실제임률이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-accounting-A-q06",
+   "paperId": "paper_civil_accounting_2022_local_A",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2022/local-A/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n매출액 7,500원을 매출원가의 50%를 가산해 판매했으므로 매출원가는 7,500÷1.5=5,000원이다. 매입액은 5,000+기말재고 1,000-기초재고 2,000=4,000원이고, 매입채무가 500원에서 3,000원으로 2,500원 늘었으므로 현금유출액은 4,000-2,500=1,500원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "4,000-2,500=1,500원이 상품매입을 위한 현금유출액이다. 정답입니다.",
+    "매입채무 증가액을 그대로 쓴 값이다.",
+    "기말 매입채무 잔액이다.",
+    "매출원가를 그대로 쓴 값이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-accounting-A-q07",
+   "paperId": "paper_civil_accounting_2022_local_A",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2022/local-A/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n묶음당 공헌이익은 A 3단위×(500-300)=600원과 B 2단위×(800-700)=200원을 합한 800원이다. 고정원가 총액 960,000원을 800원으로 나누면 손익분기점은 1,200묶음이므로 A는 3,600단위, B는 2,400단위이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "묶음 구성비를 무시한 값이다.",
+    "A와 B의 수량이 뒤바뀐 값이다.",
+    "1,200묶음×3단위=3,600단위, 1,200묶음×2단위=2,400단위이다. 정답입니다.",
+    "B의 수량을 묶음 구성과 다르게 계산한 값이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-accounting-A-q08",
+   "paperId": "paper_civil_accounting_2022_local_A",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2022/local-A/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n비용을 기능별로 분류하는 것이 성격별 분류보다 목적적합한 정보를 제공하지만, 기능별 분류에는 자의적인 배분과 상당한 판단이 개입된다. 성격별 분류가 더 목적적합하다고 한 설명이 반대이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "보고기간 후 발행승인일 전 합의만으로는 유동부채 분류를 바꾸지 않는다.",
+    "기타포괄손익 항목과 관련한 법인세비용은 포괄손익계산서나 주석에 공시한다.",
+    "기능별 분류가 더 목적적합하고 자의적 배분이 개입되므로 성격별 분류라는 설명이 틀렸다. 정답입니다.",
+    "재분류조정은 포괄손익계산서나 주석에 표시할 수 있다."
+   ]
+  },
+  {
+   "id": "civil2022-local-accounting-A-q09",
+   "paperId": "paper_civil_accounting_2022_local_A",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2022/local-A/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n20×1년 상각비는 1,200,000÷3×6/12=200,000이므로 장부금액 1,000,000과 회수가능액 600,000의 차이 400,000을 손상차손으로 인식한다. 20×2년 상각비는 600,000÷2.5년=240,000이므로 20×2년 말 장부금액은 360,000이고, 손상이 없었을 경우의 장부금액 600,000을 한도로 하므로 환입액은 600,000-360,000=240,000원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "손상 미인식 시 장부금액 600,000에서 20×2년 말 장부금액 360,000을 뺀 240,000원이 환입액이다. 정답입니다.",
+    "회수가능액 700,000과 장부금액 360,000의 차이를 그대로 쓴 값으로 환입 한도를 넘는다.",
+    "20×1년에 인식한 손상차손 금액이다.",
+    "20×2년 말 회수가능액을 그대로 쓴 값이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-accounting-A-q10",
+   "paperId": "paper_civil_accounting_2022_local_A",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2022/local-A/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n회계추정의 변경은 전진적으로 적용하여 변경한 회계연도와 미래 회계연도에 영향을 주고, 비교표시되는 직전 회계연도의 기초순자산을 소급 조정하지 않는다. 소급 조정한다고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "회계정책·회계추정을 변경하면 변경내용·사유·영향을 주석으로 표시한다.",
+    "회계추정의 변경은 전진적으로 적용하므로 직전 회계연도를 소급 조정하지 않는다. 정답입니다.",
+    "오류의 수정은 회계기준적용·추정·계정분류·계산상 오류와 사실의 누락·오용을 수정하는 것이다.",
+    "중대한 오류를 수정하면 판단 근거, 과거기간 수정금액, 비교재무제표 재작성 사실을 주석으로 포함한다."
+   ]
+  },
+  {
+   "id": "civil2022-local-accounting-A-q11",
+   "paperId": "paper_civil_accounting_2022_local_A",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2022/local-A/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n무상증자는 발행주식수가 증가한 것으로 기간 전체에 소급해 반영하므로 기초 유통주식수는 6,000+500=6,500주가 된다. 9월 1일 유상증자 900주는 4개월분만 반영하므로 가중평균유통보통주식수는 6,500+900×4/12=6,800주이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "무상증자를 소급 반영하지 않은 값이다.",
+    "6,500+300=6,800주이다. 정답입니다.",
+    "무상증자와 유상증자를 모두 기간 전체로 반영한 값이다.",
+    "유상증자를 12개월로 반영한 값이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-accounting-A-q12",
+   "paperId": "paper_civil_accounting_2022_local_A",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting/2022/local-A/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n직접재료원가는 3,000+35,000-2,000=36,000이고, 직접노무원가는 현금지급 25,000+기말 미지급 10,000-기초 미지급 5,000=30,000이며, 제조간접원가는 22,000이다. 당기총제조원가 88,000에 기초재공품 6,000을 더하고 기말재공품 2,000을 빼면 당기제품제조원가 92,000이고, 여기에 기초제품 9,000을 더하고 기말제품 8,000을 빼면 매출원가는 93,000원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "미지급임금 변동을 반영하지 않은 값이다.",
+    "노무원가와 재공품 조정을 일부만 반영한 값이다.",
+    "제품재고 변동을 반영하지 않은 값이다.",
+    "36,000+30,000+22,000+6,000-2,000+9,000-8,000=93,000원이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-local-accounting-A-q13",
+   "paperId": "paper_civil_accounting_2022_local_A",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting/2022/local-A/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n미지급배당을 결제할 때 분배된 비현금자산의 장부금액과 미지급배당의 장부금액에 차이가 있으면 이를 당기손익으로 인식한다. 인식하지 않는다고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "분배를 선언하고 자산을 분배할 의무를 부담할 때 미지급배당을 부채로 인식한다.",
+    "미지급배당은 분배될 비현금자산의 공정가치로 측정한다.",
+    "매 보고기간말 미지급배당 장부금액을 검토·조정하고 그 변동은 분배금액 조정으로 자본에 인식한다.",
+    "결제 시 장부금액 차이는 당기손익으로 인식한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-local-accounting-A-q14",
+   "paperId": "paper_civil_accounting_2022_local_A",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2022/local-A/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nC는 추가가공원가 60,000원을 투입해 120,000원에 판매하므로 분리점에서의 순실현가치는 60,000원이고, A·B·C의 분리점 판매가치는 100,000원, 80,000원, 60,000원으로 합계 240,000원이다. 총매출 300,000원에서 결합원가 120,000원과 추가가공원가 60,000원을 뺀 120,000원이 총이익이므로 이익률은 40%이고, C의 총원가는 120,000×60%=72,000원이다. 여기서 추가가공원가 60,000원을 빼면 C에 배부될 결합원가는 12,000원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "72,000-60,000=12,000원이 C에 배부될 결합원가이다. 정답입니다.",
+    "판매가치 비율법으로 배분한 경우의 값이다.",
+    "추가가공원가를 빼지 않은 C의 총원가이다.",
+    "이익을 고려하지 않고 배분한 값이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-accounting-A-q15",
+   "paperId": "paper_civil_accounting_2022_local_A",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2022/local-A/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n재무자본유지개념(불변구매력단위)에서 기말에 유지해야 할 자본은 기초자본 50,000×150/100=75,000이고 기말자본은 300,000-150,000=150,000이므로 이익은 75,000이다. 실물자본유지개념에서는 기초 재고 50단위(1,000원 기준)를 유지해야 하므로 기초자본 50,000×2,000/1,000=100,000이 필요하고 이익은 50,000이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "재무자본유지 개념의 이익 75,000, 실물자본유지 개념의 이익 50,000이 맞다. 정답입니다.",
+    "실물자본유지 개념의 이익을 잘못 계산한 값이다.",
+    "불변구매력단위 적용을 하지 않은 값이다.",
+    "물가와 재고가격 상승을 모두 반영하지 않은 값이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-accounting-A-q16",
+   "paperId": "paper_civil_accounting_2022_local_A",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2022/local-A/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n생물자산을 최초에 원가로 측정한 경우에도 그 이후 공정가치를 신뢰성 있게 측정할 수 있게 되면 공정가치에서 처분부대원가를 뺀 금액으로 측정한다. 측정방법을 변경하지 않는다고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "수확물은 수확시점에 공정가치에서 처분부대원가를 뺀 금액으로 측정한다.",
+    "추정 매각부대원가를 차감하므로 최초 인식시점에 손실이 발생할 수 있다.",
+    "공정가치를 신뢰성 있게 측정할 수 있게 되면 공정가치 측정으로 바꾼다. 정답입니다.",
+    "조건이 없는 생물자산 관련 정부보조금은 수취할 수 있게 되는 시점에 당기손익으로 인식한다."
+   ]
+  },
+  {
+   "id": "civil2022-local-accounting-A-q17",
+   "paperId": "paper_civil_accounting_2022_local_A",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2022/local-A/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n취득원가 300주×2,000원=600,000원에서 배당 300주×50원=15,000원을 빼고, 지분법으로 지분손실 200,000원×30%=60,000원을 반영하면 관계기업투자주식은 600,000-15,000-60,000=525,000원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "600,000-15,000-60,000=525,000원이다. 정답입니다.",
+    "배당을 반영하지 않은 값이다.",
+    "지분손실을 반영하지 않은 값이다.",
+    "배당과 지분손실을 모두 반영하지 않은 취득원가이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-accounting-A-q18",
+   "paperId": "paper_civil_accounting_2022_local_A",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2022/local-A/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n중앙관서 내 국가회계실체가 발행한 국채를 같은 중앙관서 내 다른 국가회계실체가 취득하면 중앙관서 재무제표 작성 시 해당 투자증권을 자기국채로 대체한다. 내부거래로 생긴 수익과 비용은 제거하고, 중앙관서 간 일반유형자산 취득·처분·관리전환도 내부거래 제거대상이며, 재원의 조달 및 이전은 국가 재정운영표의 재정운영순원가에 반영하지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "국채 투자증권을 자기국채로 대체한다는 설명이 맞다. 정답입니다.",
+    "내부거래로 상호 발생한 수익과 비용은 제거하여야 한다.",
+    "중앙관서 간 내부거래도 내부거래 제거대상에 포함된다.",
+    "재원의 조달 및 이전은 국가 재정운영표의 재정운영순원가에 반영하지 않는다."
+   ]
+  },
+  {
+   "id": "civil2022-local-accounting-A-q19",
+   "paperId": "paper_civil_accounting_2022_local_A",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2022/local-A/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n상호배부법에서는 보조부문 상호 간 용역을 인식해 방정식으로 원가를 구한다. X=100,000+0.5Y, Y=120,000+0.4X를 풀면 X=200,000원, Y=200,000원이고, P1에는 X의 300/1,000과 Y의 200/1,000인 60,000+40,000=100,000원, P2에는 60,000+60,000=120,000원이 배부된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "배부액 계산에서 반올림이나 배부기준을 다르게 적용한 값이다.",
+    "P1 100,000원, P2 120,000원이 배부된다. 정답입니다.",
+    "P1과 P2의 배부액이 뒤바뀐 값이다.",
+    "배부기준을 반대로 적용한 값이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-accounting-A-q20",
+   "paperId": "paper_civil_accounting_2022_local_A",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting/2022/local-A/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사용가치와 이행가치는 자산의 사용과 궁극적 처분, 부채의 이행에서 발생할 것으로 기대되는 현금흐름의 현재가치로, 궁극적인 처분이나 이행에서 발생할 거래원가도 고려한다. 포함하지 않는다고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "역사적 원가는 손상이나 손실부담에 따른 변동을 제외하고는 가치 변동을 반영하지 않는다.",
+    "현행가치 측정기준에는 공정가치, 사용가치, 이행가치, 현행원가가 포함된다.",
+    "공정가치 정보는 예측가치를 가질 수 있다.",
+    "사용가치와 이행가치는 궁극적 처분·이행 시 발생할 거래원가를 고려하므로 포함하지 않는다고 한 부분이 틀렸다. 정답입니다."
+   ]
+  }
+ ]
+}

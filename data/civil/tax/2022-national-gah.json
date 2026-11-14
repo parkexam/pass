@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_tax_2022_national_gah",
+ "title": "2022 국가직 9급 세법개론 가책형",
+ "year": 2022,
+ "source": "2022년도 국가공무원 9급 공개경쟁채용 필기시험 세법개론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_7",
+ "questions": [
+  {
+   "id": "civil2022-national-tax-gah-q01",
+   "paperId": "paper_civil_tax_2022_national_gah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/tax/2022/national-gah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n재화의 수입시기는 관세법에 따른 수입신고가 수리된 때이고, 수입재화의 과세표준은 관세의 과세가격에 관세·개별소비세·주세·교육세·농어촌특별세·교통에너지환경세를 합한 금액이다. 외국에서 국가·지방자치단체에 기증되는 재화는 수입이 면세된다. 다만 수입하는 자의 납세지는 수입자의 주소지가 아니라 수입을 신고하는 세관의 소재지이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "재화의 수입시기는 수입신고가 수리된 때이다.",
+    "외국에서 국가·지방자치단체에 기증되는 재화의 수입은 부가가치세를 면제한다.",
+    "수입재화의 과세표준은 관세 과세가격에 관세와 내국세를 합한 금액이다.",
+    "수입하는 자의 납세지는 수입자의 주소지가 아니라 관세법에 따라 수입을 신고하는 세관 소재지이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-tax-gah-q02",
+   "paperId": "paper_civil_tax_2022_national_gah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/tax/2022/national-gah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n원천징수하는 소득세는 과세기간이 끝나는 때가 아니라 소득금액이나 수입금액을 지급하는 때에 납세의무가 성립한다. 청산소득에 대한 법인세는 해산 시, 소득세·법인세는 신고가 없으면 정부 결정 시 확정되며, 납세조합이 징수·납부하는 소득세는 성립과 동시에 확정된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "청산소득에 대한 법인세는 법인이 해산하는 때 성립한다.",
+    "원천징수하는 소득세는 소득금액을 지급하는 때 성립하므로 과세기간 종료 시라고 한 부분이 틀렸다. 정답입니다.",
+    "신고가 없으면 정부가 결정하는 때 그 결정에 따라 확정된다.",
+    "납세조합이 징수하는 소득세는 특별한 절차 없이 성립과 동시에 확정된다."
+   ]
+  },
+  {
+   "id": "civil2022-national-tax-gah-q03",
+   "paperId": "paper_civil_tax_2022_national_gah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/tax/2022/national-gah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국세기본법상 납세자는 납세의무자와 세법에 따라 국세를 징수하여 납부할 의무를 지는 자를 말하고, 납세의무자에는 연대납세의무자도 포함된다. 연대납세의무자를 제외한다고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "납세자에는 연대납세의무자가 포함되므로 이를 제외한다고 한 부분이 틀렸다. 정답입니다.",
+    "원천징수는 원천징수의무자가 국세를 징수하는 것이고 그에 관한 가산세는 제외된다.",
+    "보증인은 납세자의 국세 또는 강제징수비 납부를 보증한 자이다.",
+    "제2차 납세의무자는 납세자가 납세의무를 이행할 수 없을 때 납세자를 갈음하여 의무를 지는 자이다."
+   ]
+  },
+  {
+   "id": "civil2022-national-tax-gah-q04",
+   "paperId": "paper_civil_tax_2022_national_gah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/tax/2022/national-gah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n일용근로자에게는 1일 15만 원의 근로소득공제가 적용되고, 원천징수할 때에도 산출세액의 100분의 55를 근로소득세액공제로 공제한다. 원천징수 시 근로소득세액공제를 적용하지 않는다고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "근로소득금액은 총급여액에서 근로소득공제를 빼서 계산한다.",
+    "일용근로자에게는 1일 15만 원의 근로소득공제를 적용한다.",
+    "근로소득세액공제는 종합소득산출세액에서 공제하되 총급여액에 따라 한도가 정해져 있다.",
+    "일용근로자의 근로소득도 원천징수 시 산출세액의 100분의 55를 근로소득세액공제로 공제한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-tax-gah-q05",
+   "paperId": "paper_civil_tax_2022_national_gah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/tax/2022/national-gah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n수출신고가 수리된 물품이라도 아직 선적되지 않은 물품을 보세구역에서 반입하는 것은 재화의 수입에 해당하지 않는다. 재화·용역의 공급은 계약상·법률상 모든 원인에 따른 인도·양도 또는 역무 제공·재화 사용이 대상이고, 고용관계에 따른 근로 제공은 용역의 공급으로 보지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "재화의 공급은 계약상 또는 법률상 모든 원인에 따른 인도·양도를 말한다.",
+    "용역의 공급은 역무 제공과 시설물·권리 등 재화를 사용하게 하는 것을 말한다.",
+    "수출신고가 수리되었으나 선적되지 않은 물품을 보세구역에서 반입하는 것은 재화의 수입에서 제외된다. 정답입니다.",
+    "고용관계에 따라 근로를 제공하는 것은 용역의 공급으로 보지 않는다."
+   ]
+  },
+  {
+   "id": "civil2022-national-tax-gah-q06",
+   "paperId": "paper_civil_tax_2022_national_gah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/tax/2022/national-gah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n양도소득은 토지·건물, 부동산에 관한 권리 중 등기·등록된 것, 그 밖에 법에 열거된 자산의 양도로 발생한다. 토지·건물의 양도는 양도소득이고, 등기되지 않은 부동산임차권의 양도는 양도소득이 아니며, 지상권의 양도는 양도소득에 포함되고, 영업권만 단독으로 양도한 소득은 기타소득이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "토지·건물의 양도로 발생하는 소득은 양도소득에 포함된다. 정답입니다.",
+    "등기되지 않은 부동산임차권의 양도는 양도소득이 아니고, 지상권 양도는 양도소득에 포함되어 두 설명 모두 옳지 않다.",
+    "지상권의 양도는 양도소득에 포함되고, 영업권 단독 양도는 기타소득이므로 두 설명 모두 옳지 않다.",
+    "미등기 부동산임차권의 양도(ㄴ)와 영업권 단독 양도(ㄹ)는 양도소득이 아니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-tax-gah-q07",
+   "paperId": "paper_civil_tax_2022_national_gah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/tax/2022/national-gah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n천재지변 이재민을 위한 구호금품 같은 법정기부금을 금전 외의 자산으로 제공하면 그 가액은 기부했을 때의 시가가 아니라 장부가액으로 산정한다. 시가에 따른다고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "직원이 조직한 단체가 법인인 경우 그 단체에 지출한 복리시설비는 접대비로 본다.",
+    "주주가 부담할 성질의 접대비를 법인이 지출한 것은 접대비로 보지 않는다.",
+    "현물로 제공한 법정기부금은 기부할 때의 장부가액으로 평가하므로 시가라고 한 부분이 틀렸다. 정답입니다.",
+    "기부금을 미지급금으로 계상한 경우 실제로 지출할 때까지는 기부금으로 보지 않는다."
+   ]
+  },
+  {
+   "id": "civil2022-national-tax-gah-q08",
+   "paperId": "paper_civil_tax_2022_national_gah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/tax/2022/national-gah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n손금에 산입하지 않은 법인세를 환급받은 금액, 감자차익, 채무면제이익 중 이월결손금 보전에 충당한 금액은 익금불산입이고, 외국자회사 수입배당금에 대응하는 외국법인세액 중 세액공제 대상 금액은 익금으로 본다. 법인세 환급액을 익금에 산입한다고 한 ㄱ이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "법인세 환급액은 익금불산입이므로 ㄱ이 틀렸고 옳은 ㄷ·ㄹ이 빠졌다.",
+    "ㄱ이 틀렸고 옳은 ㄴ·ㄹ이 빠졌다.",
+    "ㄷ·ㄹ은 옳지만 감자차익을 익금에 산입하지 않는다는 ㄴ도 옳은데 빠졌다.",
+    "감자차익 익금불산입(ㄴ), 외국법인세액 익금간주(ㄷ), 이월결손금 보전 채무면제이익 익금불산입(ㄹ)이 모두 옳다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-tax-gah-q09",
+   "paperId": "paper_civil_tax_2022_national_gah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/tax/2022/national-gah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n법령에 근거하지 않은 임의평가이익 1천만 원은 익금불산입하고, 소액주주인 임원의 사택 유지비, 우리사주조합 운영비, 비상근 임원 보수는 모두 손금으로 인정된다. 따라서 각 사업연도의 소득금액은 당기순이익 1억 원에서 평가이익 1천만 원을 뺀 9천만 원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "평가이익 1천만 원만 익금에서 빼면 9천만 원이다. 정답입니다.",
+    "비상근 임원 보수 1백만 원을 손금불산입한 금액이다.",
+    "임의평가이익을 익금에서 빼지 않은 금액이다.",
+    "사택 유지비와 비상근 임원 보수를 손금불산입한 금액이다."
+   ]
+  },
+  {
+   "id": "civil2022-national-tax-gah-q10",
+   "paperId": "paper_civil_tax_2022_national_gah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/tax/2022/national-gah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n세무조사는 세목을 통합해 실시하는 것이 원칙이고, 세금탈루 혐의나 조세채권 확보를 위해 긴급히 조사할 필요가 있을 때 특정 세목만 조사할 수 있다. 경정청구 처리나 재조사 결정에 따른 확인을 위한 부분조사는 횟수 제한을 받지 않지만, 명의위장·차명계좌 혐의 확인을 위한 부분조사는 같은 세목·같은 과세기간에 2회를 초과할 수 없다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "세금탈루 혐의 등을 고려해 특정 세목만 조사할 수 있다.",
+    "조세채권 확보를 위해 특정 세목만 긴급히 조사할 수 있다.",
+    "명의위장·차명계좌 혐의 확인을 위한 부분조사도 같은 세목·같은 과세기간에 2회를 초과할 수 없다. 정답입니다.",
+    "경정 등의 청구 처리를 위해 확인이 필요하면 부분조사를 실시할 수 있다."
+   ]
+  },
+  {
+   "id": "civil2022-national-tax-gah-q11",
+   "paperId": "paper_civil_tax_2022_national_gah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/tax/2022/national-gah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n재해를 입은 자산의 외장 복구·도장, 유리 삽입은 원래 상태를 유지하는 수익적 지출이어서 자본적 지출이 아니다. 수선비가 개별자산별로 600만 원 미만이면 손비 계상 시 자본적 지출로 보지 않고, 시설 개체·기술 낙후로 설비 일부를 폐기하면 장부가액에서 1천 원을 공제한 금액을 손금에 산입할 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "개별자산별 수선비가 600만 원 미만이고 손비로 계상하면 자본적 지출에 포함하지 않는다.",
+    "자본적 지출은 내용연수를 연장하거나 자산가치를 증가시키는 수선비이다.",
+    "재해 자산의 외장 복구·도장·유리 삽입은 수익적 지출이므로 자본적 지출에 포함한다고 한 부분이 틀렸다. 정답입니다.",
+    "시설 개체·기술 낙후로 생산설비 일부를 폐기하면 장부가액에서 1천 원을 공제한 금액을 손금에 산입할 수 있다."
+   ]
+  },
+  {
+   "id": "civil2022-national-tax-gah-q12",
+   "paperId": "paper_civil_tax_2022_national_gah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/tax/2022/national-gah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n납세담보는 금전, 유가증권, 납세보증보험증권, 납세보증서, 토지·건물 등 법이 열거한 것으로 한정되므로 보석이나 자동차처럼 자산적 가치가 있어도 열거되지 않은 것은 담보로 인정되지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "증권시장에 상장되어 매매사실이 있는 유가증권은 납세담보로 인정된다.",
+    "납세담보는 법이 열거한 종류로 한정되므로 보석·자동차는 담보로 인정되지 않는다. 정답입니다.",
+    "금전을 제공한 자는 그 금전으로 담보한 국세 및 강제징수비를 납부할 수 있다.",
+    "담보기간에 납부되지 않으면 납세보증서는 보증인으로부터 징수절차에 따라 징수한다."
+   ]
+  },
+  {
+   "id": "civil2022-national-tax-gah-q13",
+   "paperId": "paper_civil_tax_2022_national_gah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/tax/2022/national-gah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공적연금소득의 수입시기는 연금을 지급받은 날이 아니라 연금을 지급받기로 한 날이다. 지급받은 날은 그 밖의 연금소득의 수입시기이다. 잉여금 처분에 의한 배당은 처분결의일, 금융보험업의 이자·할인액은 실제 수입일, 임원 퇴직소득 한도초과금액은 지급받거나 지급받기로 한 날이 수입시기이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "잉여금 처분에 의한 배당의 수입시기는 잉여금 처분결의일이다.",
+    "금융보험업에서 발생하는 이자·할인액은 실제로 수입된 날이 수입시기이다.",
+    "임원의 퇴직소득금액 중 한도초과금액은 지급받거나 지급받기로 한 날이 수입시기이다.",
+    "공적연금소득은 지급받기로 한 날이 수입시기이므로 '지급받은 날'이라고 한 부분이 틀렸다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-tax-gah-q14",
+   "paperId": "paper_civil_tax_2022_national_gah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/tax/2022/national-gah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n소득세의 과세기간은 신규사업개시자나 폐업자도 1월 1일부터 12월 31일까지이고, 과세기간이 달라지는 것은 거주자가 사망하거나 출국하는 경우이다. 신규사업개시자의 과세기간을 사업개시일부터, 폐업자의 과세기간을 폐업일까지로 설명한 부분이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "내국법인의 최초 사업연도 개시일은 설립등기일이다.",
+    "사업연도 신고를 하지 않으면 1월 1일부터 12월 31일까지가 사업연도가 된다.",
+    "소득세 과세기간은 신규개업·폐업과 관계없이 1월 1일부터 12월 31일까지이다. 정답입니다.",
+    "사업연도를 변경하려면 직전 사업연도 종료일부터 3개월 이내에 신고하여야 한다."
+   ]
+  },
+  {
+   "id": "civil2022-national-tax-gah-q15",
+   "paperId": "paper_civil_tax_2022_national_gah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/tax/2022/national-gah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지정납부기한의 연장은 국세징수권 소멸시효의 정지 사유이지 중단 사유가 아니다. 소멸시효의 중단 사유는 납부고지·독촉·교부청구·압류 등이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "지정납부기한이 지난 후의 납부지연가산세는 납부고지서를 발급하지 않고 징수할 수 있다.",
+    "물적납세의무를 부담하는 경우에는 독촉장을 발급하지 않을 수 있다.",
+    "고지서가 늦게 도달해 이미 기한이 지났으면 도달한 날부터 14일이 지난 날을 지정납부기한으로 한다.",
+    "지정납부기한의 연장은 소멸시효의 정지 사유이므로 '중단된다'고 한 부분이 틀렸다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-tax-gah-q16",
+   "paperId": "paper_civil_tax_2022_national_gah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/tax/2022/national-gah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n부도발생일부터 6개월 이상 지난 어음상의 채권은 결산조정 대손사유이므로 사유가 발생한 날이 아니라 손비로 계상한 날이 속하는 사업연도의 손금이 된다. 소멸시효 완성 대여금은 신고조정 사유이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "민법상 소멸시효가 완성된 대여금은 사유가 발생한 날이 속하는 사업연도의 손금으로 한다.",
+    "부도 후 6개월이 지난 어음은 결산조정 사유이므로 손비로 계상한 날이 속하는 사업연도에 손금으로 한다. 정답입니다.",
+    "채무자의 파산으로 회수할 수 없는 채권은 사유가 발생해 손비로 계상한 날이 속하는 사업연도의 손금으로 한다.",
+    "회수기일이 6개월 이상 지난 30만 원 이하 소액채권은 손비로 계상한 날이 속하는 사업연도의 손금으로 한다."
+   ]
+  },
+  {
+   "id": "civil2022-national-tax-gah-q17",
+   "paperId": "paper_civil_tax_2022_national_gah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/tax/2022/national-gah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n과세사업과 면세사업을 겸영하면 면세사업에만 관련된 매입세액은 전액 공제되지 않고, 실지귀속이 불분명한 공통매입세액은 면세공급가액 비율로 안분한 금액을 공제하지 않는다. 면세사업 매입세액 10만 원 전액과 공통매입세액 20만 원×200/500=8만 원을 더한 18만 원을 공제받을 수 없다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "공통매입세액의 면세분 8만 원만 계산한 금액이다.",
+    "면세사업 전용 매입세액 10만 원만 계산한 금액이다.",
+    "면세사업 매입세액 10만 원 + 공통매입세액 안분액 8만 원 = 18만 원을 공제받을 수 없다. 정답입니다.",
+    "공통매입세액 전액을 불공제한 금액이다."
+   ]
+  },
+  {
+   "id": "civil2022-national-tax-gah-q18",
+   "paperId": "paper_civil_tax_2022_national_gah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/tax/2022/national-gah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n정전이나 통신 장애로 국세정보통신망이 멈춰 납부기한 만료일에 전자납부를 할 수 없으면 그 장애가 복구되어 납부할 수 있게 된 날의 다음 날을 기한으로 한다. 세무조사 결과 서면통지를 받은 경우 과세전적부심사 청구기간은 30일이고, 부담부증여의 양도 간주 부분 예정신고는 3개월 이내이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "수시부과 후 추가 발생 소득이 없으면 그 소득에 대한 확정신고를 하지 않아도 된다.",
+    "부담부증여 중 양도로 보는 부분은 양도일이 속하는 달의 말일부터 3개월 이내에 예정신고한다.",
+    "세무조사 결과 통지를 받은 날부터 90일이 아니라 30일 이내에 과세전적부심사를 청구할 수 있다.",
+    "전자납부 장애가 복구되어 납부할 수 있게 된 날의 다음 날이 기한이 된다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-tax-gah-q19",
+   "paperId": "paper_civil_tax_2022_national_gah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/tax/2022/national-gah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n용역의 공급시기는 역무의 제공이 완료되는 때 또는 대가를 받기로 한 때이고, 상표권 사용대가를 일시불로 미리 받고 둘 이상의 과세기간에 걸쳐 계속 용역을 제공하면 예정신고기간 또는 과세기간 종료일을 공급시기로 본다. 공급시기 전에 세금계산서를 발급하고 7일 이내에 대가를 받으면 발급한 때가 공급시기이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "역무 제공 완료나 대가 수령 시점을 공급시기로 볼 수 없으면 역무 제공이 완료되어 공급가액이 확정되는 때가 공급시기이다.",
+    "공급시기 전에 세금계산서를 발급하고 7일 이내에 대가를 받으면 대가를 받은 때가 아니라 발급한 때가 공급시기이다.",
+    "상표권 사용대가를 일시불로 받고 여러 과세기간에 걸쳐 용역을 제공하면 예정신고기간 또는 과세기간 종료일을 공급시기로 본다. 정답입니다.",
+    "완성도기준지급조건부 용역은 역무 제공이 완료되는 날 이후에 받기로 한 대가 부분도 역무 제공 완료일이 공급시기이다."
+   ]
+  },
+  {
+   "id": "civil2022-national-tax-gah-q20",
+   "paperId": "paper_civil_tax_2022_national_gah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/tax/2022/national-gah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기타소득금액은 받은 금액에서 의제경비율에 따른 필요경비와 실제 필요경비 중 큰 금액을 빼서 계산한다. 산업재산권 양도 300만 원과 원고료 300만 원은 각각 60%인 180만 원, 강연료 400만 원은 60%인 240만 원을 경비로 빼 120+120+160=400만 원이 된다. 퇴직 후 받은 직무발명보상금 400만 원은 연 500만 원 이하로 비과세된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "필요경비를 잘못 계산해 40만 원이 적은 금액이다.",
+    "120만 원+120만 원+160만 원=400만 원이고 직무발명보상금은 비과세되어 종합과세 기타소득금액은 400만 원이다. 정답입니다.",
+    "필요경비 합계액을 소득금액으로 착각한 금액이다.",
+    "비과세되는 직무발명보상금 400만 원까지 소득에 넣은 금액이다."
+   ]
+  }
+ ]
+}

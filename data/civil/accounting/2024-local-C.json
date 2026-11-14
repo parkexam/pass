@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_accounting_2024_local_C",
+ "title": "2024 지방직 9급 회계학 C책형",
+ "year": 2024,
+ "source": "2024년도 지방공무원 9급 등 공개경쟁임용 필기시험 회계학 C책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_8",
+ "questions": [
+  {
+   "id": "civil2024-local-accounting-C-q01",
+   "paperId": "paper_civil_accounting_2024_local_C",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting/2024/local-C/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n시산표는 차변 합계와 대변 합계가 일치하는지를 검증하므로, 한쪽에만 금액을 기록해 대차가 틀어진 경우에 그 오류를 발견할 수 있다. 분개를 두 번 기록하거나 거래를 전부 누락하거나 계정만 잘못 선택한 경우에는 대차가 맞아 발견되지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "같은 분개를 두 번 기록하면 차변·대변이 함께 늘어 대차가 맞으므로 발견되지 않는다.",
+    "거래를 전혀 기록하지 않으면 양변이 함께 빠져 대차가 맞으므로 발견되지 않는다.",
+    "계정 선택의 오류는 금액이 맞으므로 시산표로 발견되지 않는다.",
+    "차변에만 현금 증가 8,000원을 기록하면 차변 합계가 커져 시산표에서 발견된다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-local-accounting-C-q02",
+   "paperId": "paper_civil_accounting_2024_local_C",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2024/local-C/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n개념체계는 회계기준이 아니어서 어떤 회계기준보다 우선하지 않는다. 개념체계와 특정 회계기준이 다르면 회계기준인 기준서의 요구사항을 따른다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "개념체계는 회계기준이 아니며 회계기준보다 우선하지 않는다. 정답입니다.",
+    "개념체계는 모든 이해관계자가 회계기준을 이해하고 해석하는 데 도움을 준다.",
+    "한국회계기준위원회가 일관된 개념에 따라 기준서를 제정·개정하도록 돕는다.",
+    "재무정보는 목적적합성과 충실한 표현을 갖춰야 유용하다."
+   ]
+  },
+  {
+   "id": "civil2024-local-accounting-C-q03",
+   "paperId": "paper_civil_accounting_2024_local_C",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2024/local-C/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n당기손익-공정가치 측정 금융자산인 A주식은 거래수수료 5,000원을 비용으로 인식하고 기말 공정가치 117,000원이 장부금액 120,000원보다 낮아 3,000원의 평가손실이 발생한다. 기타포괄손익-공정가치 측정 금융자산인 B주식은 거래원가 2,000원을 취득원가에 포함해 장부금액 92,000원이 되고, 평가이익 7,000원은 기타포괄손익으로 인식하므로 당기순이익에는 영향을 주지 않는다. 따라서 당기순이익은 8,000원 감소한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "평가손실을 이익으로 보고 수수료도 빠뜨린 값이다.",
+    "A주식 수수료를 빠뜨리고 B주식 평가이익을 당기손익으로 본 값이다.",
+    "A주식 수수료 5,000원과 평가손실 3,000원을 합해 8,000원 감소한다. 정답입니다.",
+    "B주식 거래원가는 취득원가에 포함하므로 비용이 아니다."
+   ]
+  },
+  {
+   "id": "civil2024-local-accounting-C-q04",
+   "paperId": "paper_civil_accounting_2024_local_C",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting/2024/local-C/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n당기 발생 이자는 100,000×12%×2/12=2,000원이다. 미지급이자는 기초 190,000+당기 발생 2,000-현금 지급액=기말 160,000이므로 현금 지급액은 32,000원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "11월·12월 두 달분 이자를 더하지 않은 값이다.",
+    "기초와 기말의 차이만 계산한 값이다.",
+    "이자를 한 달분만 더한 값이다.",
+    "190,000+2,000-160,000=32,000원이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-local-accounting-C-q05",
+   "paperId": "paper_civil_accounting_2024_local_C",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2024/local-C/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n20×1년 말 재평가로 2,000,000원이 재평가잉여금으로 쌓여 있고, 20×2년 말 공정가치가 9,000,000원으로 3,000,000원 떨어졌다. 하락분은 먼저 재평가잉여금 2,000,000원을 없애고, 남은 1,000,000원을 재평가손실로 인식한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "(차) 재평가잉여금 2,000,000, 재평가손실 1,000,000 / (대) 토지 3,000,000으로 처리한다. 정답입니다.",
+    "쌓여 있는 재평가잉여금이 2,000,000원뿐이므로 3,000,000원을 모두 잉여금에서 뺄 수 없다.",
+    "재평가잉여금 2,000,000원을 먼저 없애야 한다.",
+    "토지는 3,000,000원 줄어야 하는데 1,000,000원만 줄였다."
+   ]
+  },
+  {
+   "id": "civil2024-local-accounting-C-q06",
+   "paperId": "paper_civil_accounting_2024_local_C",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2024/local-C/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n교환거래에 의한 수익은 수익창출활동이 끝나고 그 금액을 합리적으로 측정할 수 있을 때 인식한다. 청구권이 발생하고 금액을 측정할 수 있을 때 인식한다는 것은 비교환거래 수익의 인식기준이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "교환거래 수익은 수익창출활동이 끝나야 인식하며, 청구권 발생 요건은 비교환거래 수익의 기준이다. 정답입니다.",
+    "사업순원가는 총원가에서 사업수익을 빼서 표시한다.",
+    "수익은 재원조달 원천에 따라 자체조달수익·정부간이전수익·기타수익으로 구분한다.",
+    "재정운영순원가는 사업순원가에 관리운영비·비배분비용을 더하고 비배분수익을 뺀다."
+   ]
+  },
+  {
+   "id": "civil2024-local-accounting-C-q07",
+   "paperId": "paper_civil_accounting_2024_local_C",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2024/local-C/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n손익분기점 매출액은 총고정원가 2,000,000÷공헌이익률 0.4=5,000,000원이다. 안전한계율은 (실제 매출액-손익분기점 매출액)÷실제 매출액=(10,000,000-5,000,000)÷10,000,000=50%이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "자료로 나오지 않는 값이다.",
+    "공헌이익률을 그대로 쓴 값이다.",
+    "(10,000,000-5,000,000)÷10,000,000=50%이다. 정답입니다.",
+    "변동비율을 답으로 쓴 값이다."
+   ]
+  },
+  {
+   "id": "civil2024-local-accounting-C-q08",
+   "paperId": "paper_civil_accounting_2024_local_C",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting/2024/local-C/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n연구단계 비용 300,000원은 전액 비용이고, 개발단계 비용 1,000,000원 중 요건을 충족한 400,000원만 개발비로 자산화되어 나머지 600,000원이 비용이다. 자산화한 개발비는 4월 1일부터 사용 가능하므로 20×1년 상각비 400,000÷10×9/12=30,000원이 비용에 추가되어 총비용은 930,000원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "자산화한 개발비까지 비용으로 본 값이다.",
+    "자산화한 개발비 전액과 상각액을 함께 비용으로 본 값이다.",
+    "개발비 상각액을 빠뜨린 값이다.",
+    "300,000+600,000+30,000=930,000원이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-local-accounting-C-q09",
+   "paperId": "paper_civil_accounting_2024_local_C",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2024/local-C/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n가중평균법의 재료원가 환산량은 완성품 1,500+기말재공품 500=2,000단위이고, 가공원가 환산량은 1,500+500×60%=1,800단위이다. 선입선출법에서는 재료원가 환산량이 당기 투입분인 1,800단위(당기착수분)이고, 가공원가 환산량은 기초재공품 추가작업 140단위+당기착수완성 1,300단위+기말 300단위=1,740단위이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "1,800단위는 선입선출법의 재료원가 환산량이다.",
+    "가공원가 환산량은 1,800단위이다.",
+    "선입선출법의 재료원가 환산량은 당기착수량 1,800단위이다. 정답입니다.",
+    "선입선출법의 가공원가 환산량은 1,740단위이다."
+   ]
+  },
+  {
+   "id": "civil2024-local-accounting-C-q10",
+   "paperId": "paper_civil_accounting_2024_local_C",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2024/local-C/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n장부수량 1,100개 중 실지수량 1,000개이므로 감모수량이 100개이고, 감모손실 50,000원÷100개=500원이 단위당 원가이다. 평가손실 40,000원을 실지수량 1,000개로 나누면 단위당 40원이므로 순실현가능가치는 500-40=460원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "단위당 평가손실을 그대로 쓴 값이다.",
+    "500-40=460원이 단위당 순실현가능가치이다. 정답입니다.",
+    "단위당 취득원가이다.",
+    "평가손실을 더한 값이다."
+   ]
+  },
+  {
+   "id": "civil2024-local-accounting-C-q11",
+   "paperId": "paper_civil_accounting_2024_local_C",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2024/local-C/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n고정순자산은 사회기반시설 투자액 900,000+무형자산 투자액 100,000-투자재원 차입금 450,000=550,000원이고, 특정순자산은 적립성기금 원금 150,000원, 일반순자산은 300,000원이다. 순자산 합계 1,000,000원에 부채 2,000,000원을 더하면 자산총계는 3,000,000원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "무형자산 투자액을 빠뜨린 값이다.",
+    "550,000+150,000+300,000+2,000,000=3,000,000원이다. 정답입니다.",
+    "관련 차입금을 고정순자산에서 차감하지 않은 값이다.",
+    "관련 차입금을 더한 값이다."
+   ]
+  },
+  {
+   "id": "civil2024-local-accounting-C-q12",
+   "paperId": "paper_civil_accounting_2024_local_C",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2024/local-C/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n과소배부 150,000원은 실제 발생액 600,000원이 배부액보다 150,000원 많다는 뜻이므로 배부액은 450,000원이다. 예정배부율은 450,000÷실제 45,000시간=10원이고, 예정기계가동시간은 예산 500,000÷10=50,000시간이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "500,000÷10=50,000시간이다. 정답입니다.",
+    "실제 발생액을 배부율로 나눈 값이다.",
+    "자료로 나오지 않는 값이다.",
+    "과대배부로 잘못 본 경우에도 나오지 않는 값이다."
+   ]
+  },
+  {
+   "id": "civil2024-local-accounting-C-q13",
+   "paperId": "paper_civil_accounting_2024_local_C",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2024/local-C/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기초자본은 자산 5,000,000-부채 2,000,000=3,000,000원이다. 현금배당 100,000원을 빼고 유상증자 80,000원을 더하며 자기주식 취득 21,000원을 빼고 처분 15,000원을 더한 뒤 총포괄이익 30,000원을 더하면 3,004,000원이다. 이익준비금 적립은 이익잉여금 내부의 대체로 자본총계에 영향을 주지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "이익준비금 적립을 자본 감소로 본 값이다.",
+    "3,000,000-100,000+80,000-21,000+15,000+30,000=3,004,000원이다. 정답입니다.",
+    "자기주식 처분이익을 자본에 가산하지 않은 값이다.",
+    "배당과 자기주식 거래를 반영하지 않은 값이다."
+   ]
+  },
+  {
+   "id": "civil2024-local-accounting-C-q14",
+   "paperId": "paper_civil_accounting_2024_local_C",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2024/local-C/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n20×1년 감가상각비 100,000원을 계상해 장부금액 900,000원이 되고, 회수가능액 630,000원과의 차이 270,000원을 손상차손으로 인식해 이익이 370,000원 감소한다. 20×2년 감가상각비는 630,000÷9년=70,000원이고, 회수가능액 880,000원과 장부금액 560,000원의 차이 320,000원 중 손상 미인식 시 장부금액 800,000원을 한도로 240,000원을 환입하므로 이익은 -70,000+240,000=170,000원 증가한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "20×1년 감가상각비를 빠뜨린 값이다.",
+    "20×2년 환입을 한도 없이 계산한 값이다.",
+    "20×1년 370,000원 감소, 20×2년 170,000원 증가이다. 정답입니다.",
+    "20×2년 환입 한도를 적용하지 않은 값이다."
+   ]
+  },
+  {
+   "id": "civil2024-local-accounting-C-q15",
+   "paperId": "paper_civil_accounting_2024_local_C",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2024/local-C/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n직접재료 사용액은 6,000+10,000-4,000=12,000원이고 가공원가 20,000원을 더한 당기총제조원가에 재공품 증감(-2,000원)을 반영하면 당기제품제조원가 30,000원이다. 제품재고가 50,000원에서 40,000원으로 줄었으므로 매출원가는 40,000원이고, 매출총이익률 60%이므로 매출액은 40,000÷0.4=100,000원이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "매출원가를 그대로 매출액으로 본 값이다.",
+    "자료로 나오지 않는 값이다.",
+    "매출원가 40,000÷(1-0.6)=100,000원이다. 정답입니다.",
+    "매출총이익률을 잘못 적용한 값이다."
+   ]
+  },
+  {
+   "id": "civil2024-local-accounting-C-q16",
+   "paperId": "paper_civil_accounting_2024_local_C",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2024/local-C/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기계장치는 인도 시점에 통제가 이전되므로 거래가격 중 기계장치 몫 450,000원을 한꺼번에 인식한다. 설치용역은 기간에 걸쳐 이전되는 수행의무이므로 50,000원×40%=20,000원을 인식하여 합계 470,000원의 수익을 인식한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "총대가 전액에 진행률을 곱한 값이다.",
+    "기계장치 몫만 인식한 값이다.",
+    "450,000+20,000=470,000원이다. 정답입니다.",
+    "설치용역 전액을 인식한 값이다."
+   ]
+  },
+  {
+   "id": "civil2024-local-accounting-C-q17",
+   "paperId": "paper_civil_accounting_2024_local_C",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting/2024/local-C/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n식별가능한 순자산의 공정가치는 자산 54,000-부채 7,000=47,000원이다. 이전대가 60,000원이 순자산 공정가치를 초과하는 13,000원이 영업권으로 인식된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "자료로 나오지 않는 값이다.",
+    "부채를 차감하지 않은 값이다.",
+    "60,000-47,000=13,000원이 영업권이다. 정답입니다.",
+    "순자산 공정가치가 아닌 자산 평가차액만 뺀 값이다."
+   ]
+  },
+  {
+   "id": "civil2024-local-accounting-C-q18",
+   "paperId": "paper_civil_accounting_2024_local_C",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting/2024/local-C/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n실제 발생 직접재료원가 3,000원과 kg당 실제구입원가 30원에서 실제사용량은 100kg이다. 가격차이 (표준가격-30)×100=1,000(유리)에서 표준가격은 40원이고, 수량차이 (표준허용량-100)×40=800(유리)에서 표준허용량은 120kg이다. 개당 표준투입량이 10kg이므로 실제 생산량은 12개이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "실제 사용량을 표준투입량으로 나눈 값이다.",
+    "표준허용량 120kg÷10kg=12개이다. 정답입니다.",
+    "kg당 실제구입원가를 생산량으로 쓴 값이다.",
+    "표준가격을 생산량으로 착각한 값이다."
+   ]
+  },
+  {
+   "id": "civil2024-local-accounting-C-q19",
+   "paperId": "paper_civil_accounting_2024_local_C",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting/2024/local-C/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n20×2년 이자비용은 장부금액 95,000×유효이자율 10%=9,500원이고, 액면이자 8,000원을 지급한 뒤 할인발행차금 1,500원이 상각되어 장부금액은 96,500원이 된다. 이를 98,000원에 상환하므로 사채상환손실 1,500원이 추가로 발생해 당기순이익은 9,500+1,500=11,000원 감소한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "액면이자만 계산한 값이다.",
+    "이자비용만 계산한 값이다.",
+    "이자비용을 액면금액에 곱해 계산한 값이다.",
+    "이자비용 9,500+상환손실 1,500=11,000원 감소한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-local-accounting-C-q20",
+   "paperId": "paper_civil_accounting_2024_local_C",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting/2024/local-C/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n회계실체 간 재산 이관이나 물품 소관의 전환으로 취득한 자산은 유상·무상을 가리지 않고 직전 회계실체의 장부가액을 취득원가로 한다. 유상거래이면 공정가액, 무상거래이면 장부가액으로 구분한다고 한 설명이 틀렸다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "재산 이관·물품 소관 전환 자산은 유상·무상 구분 없이 직전 회계실체의 장부가액이 취득원가이다. 정답입니다.",
+    "자산 감액은 회수가능가액과의 차이가 중요할 때 장부가액에서 직접 차감하고 주석으로 공시한다.",
+    "장기연불조건 거래의 채권·채무는 명목가액과 현재가치의 차이가 중요하면 현재가치로 평가한다.",
+    "우발손실은 발생이 확실하고 금액을 합리적으로 추정할 수 있으면 재무제표에 반영하고 주석으로 표시한다."
+   ]
+  }
+ ]
+}
