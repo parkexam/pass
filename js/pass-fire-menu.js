@@ -90,7 +90,7 @@
       `<section class="catalog-list-section" data-catalog-section><h2 class="catalog-section-title">${esc(name)} <span class="catalog-muted-count">${rows.length}</span></h2><div class="catalog-list">${rows.map(trackTile).join('')}</div></section>`).join('');
     return `${appHeader()}<button class="back back-exams" data-act="backExams">← 시험 분야</button><h1 class="titleline">${esc(e ? e.name : '소방 공무원')}</h1><p class="description">직렬을 선택하면 해당 직렬의 시험과목이 열립니다.</p>
  ${searchBox('직렬·과목 검색')}${sections || '<div class="empty">등록된 직렬이 없습니다.</div>'}
- <p class="catalog-footnote">소방사 공개채용은 2024~2026년 소방학개론·소방관계법규·행정법총론 기출(과목당 25문항)이 등록되어 있습니다. 소방간부후보생·경력채용은 과목 안내만 제공하며 기출은 준비 중입니다. 직렬·연도에 따라 시험과목이 다를 수 있으니 해당 연도 공고를 확인해 주세요.</p>`;
+ <p class="catalog-footnote">소방사 공개채용은 2022~2026년 소방학개론·소방관계법규·행정법총론 기출이 등록되어 있습니다. 2023·2024·2025·2026년은 과목당 25문항, 2022년은 과목당 20문항입니다. 소방간부후보생·경력채용은 과목 안내만 제공하며 기출은 준비 중입니다. 직렬·연도에 따라 시험과목이 다를 수 있으니 해당 연도 공고를 확인해 주세요.</p>`;
   }
 
   function linkedRow(name) {
@@ -116,7 +116,7 @@
       ? `<section class="catalog-list-section"><h2 class="catalog-section-title">${sectionTitle}</h2><div class="catalog-list">${rows.join('')}</div></section>`
       : `<section class="catalog-list-section"><h2 class="catalog-section-title">${sectionTitle}</h2><div class="catalog-pending">과목 안내·기출 준비 중</div></section>`;
     const note = linked
-      ? '소방학개론·소방관계법규·행정법총론 기출을 2024~2026년까지 등록했습니다. 과목을 누르면 시험지와 문제풀이로 이어집니다.'
+      ? '소방학개론·소방관계법규·행정법총론 기출을 2022~2026년까지 등록했습니다. 과목을 누르면 시험지와 문제풀이로 이어집니다.'
       : '이 직렬의 기출은 아직 준비 중입니다. 표시된 과목은 안내용이며, 해당 연도 공고의 시험과목을 확인해 주세요.';
     return `${appHeader()}
       <button class="back back-exams" data-act="fireReturn">← ${esc(fireExam() ? fireExam().name : '소방 공무원')}</button>

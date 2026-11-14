@@ -1,0 +1,489 @@
+{
+  "id": "paper_fire_science_2022",
+  "title": "2022 소방학개론 (소방사 공개채용)",
+  "year": 2022,
+  "source": "2022년 4월 9일 시행 2022년 소방공무원 공개경쟁채용시험 소방학개론 문제지 및 확정답안(2022년 소방공무원 공개경쟁채용시험 확정답안) 기준 · 자체 해설 초안(검수 필요)",
+  "subjectId": "sub_fire_science",
+  "questions": [
+    {
+      "id": "fire2022-science-q01",
+      "paperId": "paper_fire_science_2022",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/fire/science/2022/q01.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n화재조사는 화재 사실을 인지하는 즉시 실시하고, 관계인의 동의 없이도 출입·조사할 수 있는 강제성이 있으며 여러 각도에서 살피는 프리즘식으로 진행한다. 화재원인조사에는 발화원인·연소상황·피난상황과 함께 소방·방화시설의 조사도 포함된다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1,
+      "optionExplanations": [
+        "화재조사는 증거가 사라지기 전에 해야 하므로 인지 즉시 실시하므로 옳은 설명이다.",
+        "화재조사는 강제성을 지니고 프리즘식으로 진행하므로 옳은 설명이다.",
+        "건축·구조물 화재의 소실정도는 입체면적에 대한 비율로 구분하므로 옳은 설명이다.",
+        "화재원인조사에 소방·방화시설의 조사도 포함되므로, 포함되지 않는다는 서술은 옳지 않다. 정답입니다."
+      ]
+    },
+    {
+      "id": "fire2022-science-q02",
+      "paperId": "paper_fire_science_2022",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/fire/science/2022/q02.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n재난현장에서 임무를 직접 수행하는 기관의 행동조치 절차를 구체적으로 수록한 문서는 현장조치 행동매뉴얼이다. 위기관리 표준매뉴얼은 국가적 차원의 재난관리 체계와 기관별 임무를, 위기대응 실무매뉴얼은 표준매뉴얼에 따른 실제 대응 조치와 절차를 정한 문서다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1,
+      "optionExplanations": [
+        "재난대응 활동계획은 재난관리책임기관이 기능별로 세우는 계획으로 현장 기관의 행동절차 문서가 아니므로 옳지 않다.",
+        "현장조치 행동매뉴얼이 재난현장에서 임무를 직접 수행하는 기관의 행동조치 절차를 담은 문서이므로 옳다. 정답입니다.",
+        "위기대응 실무매뉴얼은 표준매뉴얼이 정한 기능과 역할에 따라 실제 대응에 필요한 조치사항과 절차를 정한 문서이므로 옳지 않다.",
+        "위기관리 표준매뉴얼은 국가적 차원의 재난관리 체계와 관계 기관의 임무·역할을 정한 문서이므로 옳지 않다."
+      ]
+    },
+    {
+      "id": "fire2022-science-q03",
+      "paperId": "paper_fire_science_2022",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/fire/science/2022/q03.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n그림의 A는 증기압 곡선이 연소하한계와 만나는 인화점이다. 인화점은 외부 점화원이라는 에너지 조건과 하한계 농도의 증기라는 물질 조건이 함께 갖춰져 불이 붙기 시작하는 가장 낮은 온도이고, 화학양론비는 연료와 산소가 정확히 맞는 농도다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1,
+      "optionExplanations": [
+        "외부에너지에 의해 발화하기 시작하는 최저연소온도라는 설명은 인화점의 정의로 옳다.",
+        "물질적 조건과 에너지 조건이 만나는 최저연소온도라는 설명도 인화점의 정의로 옳다.",
+        "A는 연소하한계 농도에 해당하는 온도이고 화학양론비는 하한계와 상한계 사이에서 연료와 산소가 딱 맞게 섞인 농도이므로 옳지 않다. 정답입니다.",
+        "가연성 혼합기를 형성하는 최저연소온도라는 설명도 인화점의 정의로 옳다."
+      ]
+    },
+    {
+      "id": "fire2022-science-q04",
+      "paperId": "paper_fire_science_2022",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/fire/science/2022/q04.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n화재가혹도는 화재실의 최고온도와 그 지속시간으로 판단하며, 화재강도와 화재하중, 개구부 면적과 높이로 정해지는 환기요소의 영향을 받는다. 벽과 천장의 단열성이 높을수록 열이 빠져나가지 못해 실내 온도가 올라가므로 화재가혹도도 커진다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1,
+      "optionExplanations": [
+        "화재가혹도는 화재강도와 화재하중의 영향을 받으므로 옳은 설명이다.",
+        "화재실의 최고온도와 지속시간은 화재가혹도를 판단하는 중요한 인자이므로 옳은 설명이다.",
+        "개구부 면적과 높이로 정해지는 환기요소가 화재가혹도에 영향을 주므로 옳은 설명이다.",
+        "단열성이 높을수록 열이 빠져나가지 못해 화재가혹도가 커지므로, 영향을 받지 않는다는 서술은 옳지 않다. 정답입니다."
+      ]
+    },
+    {
+      "id": "fire2022-science-q05",
+      "paperId": "paper_fire_science_2022",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/fire/science/2022/q05.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n최소산소농도는 연소하한계에 완전연소식의 산소 몰수를 곱해 구한다. 메틸알코올은 상한계 37퍼센트에서 연소범위 폭 30퍼센트를 빼면 하한계가 7퍼센트이고, CH3OH+1.5O2→CO2+2H2O에서 산소 1.5몰을 곱하면 10.5퍼센트가 된다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1,
+      "optionExplanations": [
+        "하한계 7퍼센트에 1.5를 곱해야 하는데 1보다 작은 값을 적용한 셈이어서 나올 수 없는 값이다.",
+        "8.5는 하한계에 약 1.2를 곱한 값으로 메틸알코올의 산소 몰수 1.5와 맞지 않는다.",
+        "하한계 7퍼센트에 산소 1.5몰을 곱한 10.5퍼센트가 옳다. 정답입니다.",
+        "14.0은 산소 몰수를 2로 잡은 값으로, 메틸알코올의 완전연소에 필요한 산소는 1.5몰이다."
+      ]
+    },
+    {
+      "id": "fire2022-science-q06",
+      "paperId": "paper_fire_science_2022",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/fire/science/2022/q06.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n분해폭발은 공기나 산소와 섞이지 않아도 물질 자체가 분해하면서 내는 열로 일어나는 폭발로, 아세틸렌·산화에틸렌·히드라진 등이 대표적이다. 반응폭주는 화학반응의 발열이 제어되지 않고 급격히 진행되는 현상이다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1,
+      "optionExplanations": [
+        "아세틸렌과 산화에틸렌은 분해열이 커서 산소 없이도 분해폭발을 일으키기 쉬우므로 옳은 설명이다. 정답입니다.",
+        "중유는 인화점이 높아 상온에서 유출되어도 폭발할 만큼의 증기가 생기지 않으므로 옳지 않다.",
+        "가스폭발은 가연성가스가 폭발범위를 이룰 때 일어나고 조연성가스는 스스로 타지 않으므로 옳지 않다.",
+        "고온물질이 물속에 들어가 물이 급격히 상변화하며 터지는 것은 수증기폭발이고 반응폭주가 아니므로 옳지 않다."
+      ]
+    },
+    {
+      "id": "fire2022-science-q07",
+      "paperId": "paper_fire_science_2022",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/fire/science/2022/q07.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n수용성 액체인 아세톤은 일반 포를 녹여 소화막을 깨뜨리므로 이에 견디는 알콜형포를 사용한다. 탄화칼슘은 물과 반응해 아세틸렌을 내고, 나트륨은 할론이 효과가 없으며, 마그네슘은 이산화탄소를 분해해 계속 탄다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1,
+      "optionExplanations": [
+        "탄화칼슘은 물과 만나 가연성 아세틸렌을 내므로 물을 뿌려 소화할 수 없다.",
+        "아세톤은 수용성이라 일반 포가 녹으므로 내알코올성인 알콜형포로 소화한다. 정답입니다.",
+        "나트륨 같은 금속화재에는 할론이 효과가 없고 마른모래나 팽창질석으로 덮어 소화한다.",
+        "마그네슘은 이산화탄소와 반응해 산소를 빼앗으므로 이산화탄소로 소화할 수 없다."
+      ]
+    },
+    {
+      "id": "fire2022-science-q08",
+      "paperId": "paper_fire_science_2022",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/fire/science/2022/q08.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n제1석유류는 인화점이 21℃ 미만이고 연소하한계도 낮아 상온에서 적은 증기로도 불이 붙을 위험이 크다. 제1류 질산염류는 산화성 고체로 스스로 타지 않고 연소를 돕는다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2,
+      "optionExplanations": [
+        "제1류 질산염류는 산화성 고체로 스스로 폭발적으로 타지 않으므로 옳지 않다.",
+        "황린은 자연발화성 물질로 물속에 저장하며, 분해되어 산소를 내는 성질은 제1류에 해당하므로 옳지 않다.",
+        "제1석유류는 인화점과 연소하한계가 낮아 적은 양으로도 화재 위험이 크므로 옳은 설명이다. 정답입니다.",
+        "유기과산화물은 가열·충격으로 분해·폭발하는 제5류이고 공기나 물에 닿아 발화하는 것은 제3류의 성질이므로 옳지 않다."
+      ]
+    },
+    {
+      "id": "fire2022-science-q09",
+      "paperId": "paper_fire_science_2022",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/fire/science/2022/q09.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n자동기동방식 옥내소화전설비에는 기동용수압개폐장치와 동력제어반이 필요하고, 체절운전 시 수온 상승을 막기 위한 릴리프밸브가 있다. 펌프가 수원 수위보다 높은 곳에 설치되면 흡입관에 물을 채우는 물올림장치가 필요하다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2,
+      "optionExplanations": [
+        "ㄱ·ㄴ·ㅁ에는 펌프를 기동·정지하는 동력제어반이 빠져 있다.",
+        "ㄷ·ㄹ·ㅁ은 기동용수압개폐장치와 릴리프밸브가 빠졌고 솔레노이드밸브는 옥내소화전 구성요소가 아니다.",
+        "ㄱ·ㄴ·ㄷ·ㄹ은 솔레노이드밸브를 넣고 정작 필요한 물올림장치를 뺐다.",
+        "기동용수압개폐장치·릴리프밸브·동력제어반과 수원보다 높은 곳의 펌프에 필요한 물올림장치가 모두 포함되어 있다. 정답입니다."
+      ]
+    },
+    {
+      "id": "fire2022-science-q10",
+      "paperId": "paper_fire_science_2022",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/fire/science/2022/q10.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n대비단계에는 국가재난관리기준의 제정·운용, 재난안전통신망의 구축·운영 등이 속한다. 재난 예보·경보체계의 구축·운영은 대응단계, 재난안전분야 종사자 교육은 예방단계의 활동이다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2,
+      "optionExplanations": [
+        "재난 예보·경보체계 구축·운영은 대응단계이므로 ㄱ·ㄴ은 대비단계가 아니다.",
+        "국가재난관리기준의 제정·운용(ㄱ)과 재난안전통신망의 구축·운영(ㄹ)이 대비단계에 해당한다. 정답입니다.",
+        "ㄱ·ㄹ은 맞지만 대응단계인 예보·경보체계 구축·운영(ㄴ)이 끼어 있다.",
+        "ㄹ만 대비단계이고 ㄴ은 대응단계, ㄷ은 예방단계다."
+      ]
+    },
+    {
+      "id": "fire2022-science-q11",
+      "paperId": "paper_fire_science_2022",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/fire/science/2022/q11.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n탄화알루미늄은 물과 반응해 메탄을 발생시키고, 아세틸렌을 발생시키는 것은 탄화칼슘이다. 인화칼슘은 포스핀, 금속수소화물은 수소, 트리에틸알루미늄은 에테인을 발생시킨다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2,
+      "optionExplanations": [
+        "탄화알루미늄은 물과 반응해 메탄을 내므로 아세틸렌이라는 짝이 옳지 않다. 정답입니다.",
+        "인화칼슘은 물과 반응해 포스핀을 내므로 옳은 짝이다.",
+        "수소화알루미늄리튬은 물과 반응해 수소를 내므로 옳은 짝이다.",
+        "트리에틸알루미늄은 물과 격렬히 반응해 에테인을 내므로 옳은 짝이다."
+      ]
+    },
+    {
+      "id": "fire2022-science-q12",
+      "paperId": "paper_fire_science_2022",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/fire/science/2022/q12.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n황 1킬로그램은 1/32킬로몰이고 연소하면 같은 몰수의 이산화황이 생긴다. 0℃·1기압에서 1킬로몰이 22.4㎥이므로 22.4/32=0.7㎥이고, 절대온도 비로 800℃(1,073K)를 보정하면 0.7×1,073/273≒2.75㎥가 된다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2,
+      "optionExplanations": [
+        "2.00은 이산화황의 질량(킬로그램)이지 부피가 아니다.",
+        "2.35는 온도 보정 배율이 모자란 값이다.",
+        "2.50도 온도 보정이 부족한 값으로 800℃의 배율은 약 3.93이다.",
+        "0.7㎥에 1,073/273을 곱한 2.75㎥가 옳다. 정답입니다."
+      ]
+    },
+    {
+      "id": "fire2022-science-q13",
+      "paperId": "paper_fire_science_2022",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/fire/science/2022/q13.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n중질유화재에 무상주수(안개상 물분무)를 하면 물이 기화하면서 산소를 차단하는 질식효과와, 기름 표면에 물이 섞여 에멀션을 만드는 유화효과를 얻는다. 부촉매나 타격 효과는 무상주수와 관계없다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2,
+      "optionExplanations": [
+        "부촉매소화는 할론·분말 약제의 효과로 무상주수와 관계없다.",
+        "수증기에 의한 질식과 에멀션 형성에 의한 유화효과를 함께 기대할 수 있다. 정답입니다.",
+        "유화효과는 맞지만 타격소화는 굵은 물줄기를 쏠 때의 효과다.",
+        "피복소화와 타격소화 모두 무상주수의 효과가 아니다."
+      ]
+    },
+    {
+      "id": "fire2022-science-q14",
+      "paperId": "paper_fire_science_2022",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/fire/science/2022/q14.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n분산관리는 재난의 종류나 유형에 따라 대응방식과 책임기관을 달리 정하는 방식이어서 기관 간 중복 대응이나 조정의 어려움이 생길 수 있다. 재난이 달라도 유사한 자원동원 체계가 필요하다는 점은 통합관리를 뒷받침하는 논리다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2,
+      "optionExplanations": [
+        "재난 종류에 따라 대응방식과 책임기관을 달리 배정하는 것이 분산관리이므로 옳은 설명이다.",
+        "분산관리에서는 유관기관 간 중복 대응이 생길 수 있으므로 옳은 설명이다.",
+        "재난 유형에 따라 소관부처별로 업무가 나뉘는 것이 분산관리이므로 옳은 설명이다.",
+        "유사한 자원동원 체계와 자원유형이 필요하다는 것은 통합관리의 근거이지 분산관리의 설명이 아니다. 정답입니다."
+      ]
+    },
+    {
+      "id": "fire2022-science-q15",
+      "paperId": "paper_fire_science_2022",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/fire/science/2022/q15.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n가연성 물질은 비열·비점·인화점·발화점·표면장력이 낮을수록, 연소열·연소속도·연소범위가 클수록 위험하다. 증발열은 작을수록 증기가 쉽게 생겨 위험하다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3,
+      "optionExplanations": [
+        "연소열은 클수록 위험하므로 작을수록 위험하다는 서술은 옳지 않다.",
+        "증발열은 작을수록 쉽게 증기가 되어 위험하므로 옳지 않다.",
+        "표면장력과 인화점·발화점이 낮을수록 위험하므로 옳은 설명이다. 정답입니다.",
+        "비중과 융점은 낮을수록 위험하므로 옳지 않다."
+      ]
+    },
+    {
+      "id": "fire2022-science-q16",
+      "paperId": "paper_fire_science_2022",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/fire/science/2022/q16.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n역화는 연소속도가 분출속도보다 빠를 때 불꽃이 노즐 안으로 들어가 타는 현상이고, 선화는 연소속도가 느릴 때 불꽃이 노즐 위로 들뜨는 현상이다. 공기량이 부족하면 황염이 생기고, 난류 확산화염의 높이는 분출속도와 거의 무관하다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3,
+      "optionExplanations": [
+        "ㄱ·ㄴ은 옳지만 공기가 모자랄 때 황염이 생긴다는 ㄷ이 빠졌다.",
+        "ㄷ은 옳지만 난류 확산화염의 높이가 분출속도에 비례한다는 ㄹ이 틀렸다.",
+        "역화(ㄱ)와 선화(ㄴ)의 설명이 옳고, 황염(ㄷ)도 공기량이 적을 때 생기므로 옳다. 난류 화염 높이는 분출속도와 무관해 ㄹ만 틀리다. 정답입니다.",
+        "ㄹ이 포함되어 틀렸다."
+      ]
+    },
+    {
+      "id": "fire2022-science-q17",
+      "paperId": "paper_fire_science_2022",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/fire/science/2022/q17.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n화재조사 및 보고규정상 한 건의 화재로 취급하는 경우는 한 곳에서 발생한 화재, 지진·낙뢰 등 자연환경에 의한 여러 화재, 동일범의 방화·불장난으로 2개소 이상에서 발생한 화재 등이다. 누전으로 2개소 이상에서 불이 난 경우에는 누전점이 같아야 한 건으로 본다. 이 문항은 2022년 확정답안에서 정답이 없는 문항(전항정답)으로 처리되었으며, 앱에서는 가장 문제된 ②를 기준으로 채점한다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3,
+      "optionExplanations": [
+        "한 곳에서 발생한 화재는 한 건으로 취급하므로 옳은 기준이다.",
+        "누전점이 다른 2개소 이상의 화재는 각각 별개의 화재로 보아야 하므로 한 건 기준으로 옳지 않다. 확정답안은 이 문항을 정답 없음으로 처리하였고, 앱에서는 ②를 정답으로 채점합니다.",
+        "지진·낙뢰 등 자연환경에 의해 발생한 여러 화재는 한 건으로 취급하므로 옳은 기준이다.",
+        "동일범의 방화·불장난으로 2개소 이상에서 발생한 화재는 한 건으로 취급하므로 옳은 기준이다."
+      ]
+    },
+    {
+      "id": "fire2022-science-q18",
+      "paperId": "paper_fire_science_2022",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/fire/science/2022/q18.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n할로겐화합물 소화약제는 사람이 있는 곳에도 쓰이므로 독성이 적고, 지구온난화지수와 오존파괴지수가 낮을수록 좋다. 대기 중 잔존 시간이 길면 오존층과 온난화에 오래 영향을 주므로 짧을수록 좋다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3,
+      "optionExplanations": [
+        "독성이 적을수록 좋으므로 옳은 조건이다.",
+        "지구온난화에 끼치는 영향이 적을수록 좋으므로 옳은 조건이다.",
+        "대기 중 잔존 시간이 길수록 환경에 오래 영향을 주므로 짧을수록 좋으므로, 길수록 좋다는 서술은 옳지 않다. 정답입니다.",
+        "오존층 파괴에 끼치는 영향이 적을수록 좋으므로 옳은 조건이다."
+      ]
+    },
+    {
+      "id": "fire2022-science-q19",
+      "paperId": "paper_fire_science_2022",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/fire/science/2022/q19.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n불화단백포와 수성막포는 기름에 오염되지 않아 탱크 아래에서 주입해 기름층을 통과해 떠오르게 하는 표면하 주입방식에 쓸 수 있다. 단백포는 유동성은 나쁘지만 내화성이 좋고, 비누화현상은 알콜형포가 아니라 제1종 분말에서 일어난다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3,
+      "optionExplanations": [
+        "불화단백포와 수성막포는 기름에 오염되지 않아 표면하 주입방식에 사용할 수 있으므로 옳은 설명이다. 정답입니다.",
+        "불소를 함유한 합성계면활성제포는 물과 기름을 모두 밀어내는 성질 때문에 유동성과 내유성이 좋은 것이지 친수성 때문이 아니다.",
+        "단백포는 유동성은 나쁘지만 내화성은 좋으므로 서술이 반대다.",
+        "비누화현상은 제1종 분말소화약제가 식용유와 반응할 때 일어나는 현상이므로 옳지 않다."
+      ]
+    },
+    {
+      "id": "fire2022-science-q20",
+      "paperId": "paper_fire_science_2022",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/fire/science/2022/q20.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n이산화탄소소화설비의 기동용기 가스는 선택밸브와 저장용기를 여는 데 쓰이고, 압력스위치와 자동폐쇄장치는 방출된 이산화탄소의 압력으로 작동한다. 저장용기는 직사광선과 빗물을 피해 설치하고, 전역방출방식에서는 방사 전에 환기장치를 멈추고 음향경보장치와 방출표시등을 갖춘다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3,
+      "optionExplanations": [
+        "기동용기 가스는 압력스위치·자동폐쇄장치가 아니라 선택밸브와 저장용기를 여는 역할을 하므로 옳지 않다. 정답입니다.",
+        "저장용기는 직사광선 및 빗물이 침투할 우려가 없는 곳에 설치하므로 옳은 설명이다.",
+        "전역방출방식에서 환기장치는 이산화탄소가 방사되기 전에 정지되어야 하므로 옳은 설명이다.",
+        "전역방출방식에서는 음향경보장치와 방출표시등이 필요하므로 옳은 설명이다."
+      ]
+    }
+  ]
+}

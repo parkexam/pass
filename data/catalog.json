@@ -1409,6 +1409,66 @@
       "questionCount": 25,
       "dataFile": "data/fire/admin_law/2024.json",
       "external": true
+    },
+    {
+      "id": "paper_fire_science_2023",
+      "subjectId": "sub_fire_science",
+      "title": "2023 소방학개론 (소방사 공개채용)",
+      "year": 2023,
+      "source": "2023년 3월 18일 시행 2023년 소방공무원 공개경쟁채용시험 소방학개론 문제지 및 확정답안(2023년 소방공무원 채용시험 필기시험 확정답안) 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 25,
+      "dataFile": "data/fire/science/2023.json",
+      "external": true
+    },
+    {
+      "id": "paper_fire_law_2023",
+      "subjectId": "sub_fire_law",
+      "title": "2023 소방관계법규 (소방사 공개채용)",
+      "year": 2023,
+      "source": "2023년 3월 18일 시행 2023년 소방공무원 공개경쟁채용시험 소방관계법규 문제지 및 확정답안(2023년 소방공무원 채용시험 필기시험 확정답안) 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 25,
+      "dataFile": "data/fire/law/2023.json",
+      "external": true
+    },
+    {
+      "id": "paper_fire_admin_law_2023",
+      "subjectId": "sub_fire_admin_law",
+      "title": "2023 행정법총론 (소방사 공개채용)",
+      "year": 2023,
+      "source": "2023년 3월 18일 시행 2023년 소방공무원 공개경쟁채용시험 행정법총론 문제지 및 확정답안(2023년 소방공무원 채용시험 필기시험 확정답안) 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 25,
+      "dataFile": "data/fire/admin_law/2023.json",
+      "external": true
+    },
+    {
+      "id": "paper_fire_science_2022",
+      "subjectId": "sub_fire_science",
+      "title": "2022 소방학개론 (소방사 공개채용)",
+      "year": 2022,
+      "source": "2022년 4월 9일 시행 2022년 소방공무원 공개경쟁채용시험 소방학개론 문제지 및 확정답안(2022년 소방공무원 공개경쟁채용시험 확정답안) 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/fire/science/2022.json",
+      "external": true
+    },
+    {
+      "id": "paper_fire_law_2022",
+      "subjectId": "sub_fire_law",
+      "title": "2022 소방관계법규 (소방사 공개채용)",
+      "year": 2022,
+      "source": "2022년 4월 9일 시행 2022년 소방공무원 공개경쟁채용시험 소방관계법규 문제지 및 확정답안(2022년 소방공무원 공개경쟁채용시험 확정답안) 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/fire/law/2022.json",
+      "external": true
+    },
+    {
+      "id": "paper_fire_admin_law_2022",
+      "subjectId": "sub_fire_admin_law",
+      "title": "2022 행정법총론 (소방사 공개채용)",
+      "year": 2022,
+      "source": "2022년 4월 9일 시행 2022년 소방공무원 공개경쟁채용시험 행정법총론 문제지 및 확정답안(2022년 소방공무원 공개경쟁채용시험 확정답안) 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/fire/admin_law/2022.json",
+      "external": true
     }
   ]
 }
