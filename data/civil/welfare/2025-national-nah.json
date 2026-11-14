@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_welfare_2025_national_nah",
+ "title": "2025 국가직 9급 사회복지학개론 나책형",
+ "year": 2025,
+ "source": "2025년도 국가공무원 9급 공채 필기시험 사회복지학개론 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_6",
+ "questions": [
+  {
+   "id": "civil2025-national-welfare-nah-q01",
+   "paperId": "paper_civil_welfare_2025_national_nah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/welfare/2025/national-nah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n길버트와 스펙트는 사회의 필수 기능을 수행하는 사회제도로 사회화 기능-가족제도, 경제적 기능-경제제도, 사회통합 기능-종교제도, 사회통제 기능-정치제도를 제시하였다. 따라서 사회통제 기능은 정치제도와 짝지어진다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "사회화 기능은 사회복지제도가 아니라 가족제도가 담당한다.",
+    "상부상조 기능은 경제제도가 아니라 상부상조 조직이나 가족 등이 담당한다.",
+    "사회통합 기능은 가족제도가 아니라 종교제도와 짝지어진다.",
+    "사회통제 기능을 정치제도가 수행한다는 짝이 옳다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-welfare-nah-q02",
+   "paperId": "paper_civil_welfare_2025_national_nah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/welfare/2025/national-nah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n선별주의는 대상자를 골라 급여하는 방식으로 스티그마와 낙인을 남기기 쉽고 사회통합보다는 효율을 강조한다. 보편주의가 사회통합을 더 강조하며, 보편주의 프로그램은 행정절차가 비교적 단순하여 급여 접근이 용이하다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "현행 기초연금이 소득·연령 기준에 따라 지급되는 선별주의 제도라는 설명은 옳다.",
+    "현행 아동수당이 보편주의 제도라는 설명은 옳다.",
+    "사회통합을 더 강조하는 것은 보편주의자들이므로, 선별주의자가 더 강조한다는 설명이 옳지 않다. 정답입니다.",
+    "보편주의 프로그램의 행정절차가 더 용이하다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2025-national-welfare-nah-q03",
+   "paperId": "paper_civil_welfare_2025_national_nah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/welfare/2025/national-nah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사정은 사회복지실천과정에서 지속적으로 이루어지며, 클라이언트에 대한 이해와 개입계획의 기초를 제공하고, 사회복지사와 클라이언트의 상호작용을 매개로 이루어진다. 문제 해결을 위한 구체적 행동을 이행하는 것은 개입 단계이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "사정이 실천과정에서 지속적으로 이루어진다는 설명은 옳다.",
+    "사정이 클라이언트 이해와 개입계획의 기초를 제공한다는 설명은 옳다.",
+    "구체적인 행동을 이행하는 것은 개입 단계이므로 사정에 해당하지 않는다. 정답입니다.",
+    "사정이 사회복지사와 클라이언트의 상호작용을 매개로 이루어진다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2025-national-welfare-nah-q04",
+   "paperId": "paper_civil_welfare_2025_national_nah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/welfare/2025/national-nah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n방침관리기획(breakthrough planning)은 계획-실행-확인-조정으로 이어지는 PDCA 사이클의 절차를 하나의 프로그램 기획관리 과정으로 보는 기법이다. 간트 차트는 시간별 활동을 도표로, PERT는 일정과 소요시간을 네트워크로 관리하는 기법이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "간트 차트는 시간별 활동계획을 막대로 표시하는 도표이다.",
+    "월별활동계획카드는 월별 활동을 카드로 관리하는 기법이다.",
+    "PDCA 사이클을 프로그램 기획관리 과정으로 보는 기법은 방침관리기획이다. 정답입니다.",
+    "PERT는 활동 간 선후관계와 소요시간을 네트워크로 관리하는 기법이다."
+   ]
+  },
+  {
+   "id": "civil2025-national-welfare-nah-q05",
+   "paperId": "paper_civil_welfare_2025_national_nah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/welfare/2025/national-nah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n영국은 1601년 엘리자베스 구빈법으로 빈민을 세 유형으로 나누고 정부의 구제 책임을 인정하였고(다), 1795년 스핀햄랜드 제도로 최저생계비에 미달하는 임금을 보조하였으며(라), 1869년 런던에서 자선조직협회가 설립되었고(가), 1889년 제인 아담스가 시카고에 헐 하우스를 세웠다(나).",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "(나) 헐 하우스 설립을 (가)보다 앞에 둔 순서가 옳지 않다.",
+    "(다) → (라) → (가) → (나)의 순서가 역사적 사실과 일치한다. 정답입니다.",
+    "(라)를 가장 앞에 둔 순서는 구빈법이 1601년으로 더 이르다는 사실과 맞지 않는다.",
+    "(라)를 (다)보다 앞에 둔 순서가 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2025-national-welfare-nah-q06",
+   "paperId": "paper_civil_welfare_2025_national_nah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/welfare/2025/national-nah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사회복지조사과정은 문제제기, 조사설계, 자료수집, 자료분석, 보고서 작성의 순으로 진행된다. 따라서 (나) → (다) → (마) → (가) → (라)이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "자료분석을 문제제기보다 앞에 둔 순서가 옳지 않다.",
+    "자료수집과 자료분석의 순서가 뒤바뀌었다.",
+    "문제제기 → 조사설계 → 자료수집 → 자료분석 → 보고서 작성의 순서가 옳다. 정답입니다.",
+    "자료분석을 자료수집보다 앞에 두고 조사설계를 뒤에 둔 순서가 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2025-national-welfare-nah-q07",
+   "paperId": "paper_civil_welfare_2025_national_nah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/welfare/2025/national-nah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n현물급여는 사용 용도를 한정하여 지급하므로 목표 달성의 효율성, 즉 목표효율성이 현금급여보다 높다. 다만 현금급여는 수급자의 선택과 자기결정권을 높이고 관리운영 비용이 상대적으로 적게 든다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "현물급여가 현금급여보다 목표효율성이 높다는 설명이 옳다. 정답입니다.",
+    "현금급여는 선택의 폭이 넓어 수급자의 효용이 더 높은 것으로 본다.",
+    "현금급여가 현물급여보다 관리운영 비용이 더 소요되는 것은 아니다.",
+    "선택의 자유와 자기결정권을 높이는 것은 현금급여이므로 설명이 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2025-national-welfare-nah-q08",
+   "paperId": "paper_civil_welfare_2025_national_nah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/welfare/2025/national-nah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n한국소년보호협회는 민간이 운영하는 청소년 보호 관련 기관이다. 소년원과 보호관찰소, 소년분류심사원은 모두 국가기관(법무부)이 운영하는 시설이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "소년원은 법무부 소속 국가기관이다.",
+    "보호관찰소는 법무부 소속 국가기관이다.",
+    "소년분류심사원은 법무부 소속 국가기관이다.",
+    "민간이 운영하는 청소년 보호 관련 기관은 한국소년보호협회이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-welfare-nah-q09",
+   "paperId": "paper_civil_welfare_2025_national_nah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/welfare/2025/national-nah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n인간관계론은 비공식 집단의 영향력을 중시한 이론이므로, 이를 간과하였다는 설명은 옳지 않다. 과학적 관리론은 인간을 목표 달성의 수단으로 보았고, 관료제론은 사적 감정을 배제한 원칙과 절차를 중시하며, 제도이론은 조직을 개방체계로 보고 제도적 환경의 영향을 강조한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "인간관계론은 비공식 집단의 영향력을 중시하였으므로, 이를 간과하였다는 설명이 옳지 않다. 정답입니다.",
+    "과학적 관리론이 구성원을 목표달성의 수단으로 보았다는 설명은 옳다.",
+    "관료제론이 사적 감정을 배제하고 원칙과 절차를 중시한다는 설명은 옳다.",
+    "제도이론이 조직을 개방체계로 보고 제도적 환경을 강조한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2025-national-welfare-nah-q10",
+   "paperId": "paper_civil_welfare_2025_national_nah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/welfare/2025/national-nah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n임파워먼트는 클라이언트의 강점과 잠재력에 초점을 두고 스스로 삶을 통제하는 역량을 키우도록 돕는 접근이다. 클라이언트의 문제와 취약성을 파악하는 데 강조점을 두는 것은 병리적 관점이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "비판적 사고능력 함양을 강조한다는 설명은 옳다.",
+    "클라이언트와의 협력적 관계를 강조한다는 설명은 옳다.",
+    "문제와 취약성 파악을 강조한다는 것은 임파워먼트의 관점이 아니다. 정답입니다.",
+    "스스로 삶을 통제하고 역량을 증진하도록 강조한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2025-national-welfare-nah-q11",
+   "paperId": "paper_civil_welfare_2025_national_nah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/welfare/2025/national-nah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n인지행동모델은 클라이언트의 적극적 참여를 중시하고, 일정한 교육수준이나 지적 능력이 있는 클라이언트에게 효과적이며, 비합리적 사고를 수정하고 새로운 행동 기술을 습득하도록 원조한다. 위기상황에서 즉각적 개입이 필요한 경우에는 위기개입모델이 더 유용하다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "클라이언트의 적극적·능동적 참여가 중요하다는 설명은 옳다.",
+    "위기상황에서 즉각적 개입이 필요한 클라이언트에게 인지행동모델이 유용하다는 설명이 옳지 않으며, 이 경우 위기개입모델이 적합하다. 정답입니다.",
+    "일정한 교육수준이나 지적 능력을 가진 클라이언트에게 효과적이라는 설명은 옳다.",
+    "비합리적 사고의 수정과 새로운 행동기술 습득을 원조한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2025-national-welfare-nah-q12",
+   "paperId": "paper_civil_welfare_2025_national_nah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/welfare/2025/national-nah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n혼합모형(mixed-scanning)은 에치오니가 제시한 것으로, 합리모형과 점증모형을 절충한 모형이 아니다. 기본적 결정은 합리적으로, 세부적 결정은 점증적으로 이루어진다고 본 모형으로, 합리모형과 점증모형의 절충이라는 설명은 부정확하다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "혼합모형을 합리모형과 만족모형의 절충으로 설명한 점이 옳지 않다. 정답입니다.",
+    "점증모형이 기득권층의 이익을 반영한다는 비판을 받는다는 설명은 옳다.",
+    "합리모형이 비현실적이라는 비판을 받는다는 설명은 옳다.",
+    "쓰레기통모형에 대한 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2025-national-welfare-nah-q13",
+   "paperId": "paper_civil_welfare_2025_national_nah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/welfare/2025/national-nah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n2000년 이후 노인장기요양보험법이 제정되고, 사회보장정보시스템(행복e음)이 구축·개통되었으며, 지방자치단체의 지역사회복지계획 수립이 의무화되었다. 사회복지시설의 설치 요건이 신고제로 전환된 것은 2000년 이후의 변화로 보기 어렵다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "노인장기요양보험법이 2007년 제정되었다는 설명은 옳다.",
+    "사회복지시설 설치 요건이 신고제로 전환되었다는 것은 2000년 이후의 환경변화로 보기 어렵다. 정답입니다.",
+    "행복e음이 구축·개통되었다는 설명은 옳다.",
+    "지역사회복지계획 수립이 의무화되었다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2025-national-welfare-nah-q14",
+   "paperId": "paper_civil_welfare_2025_national_nah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/welfare/2025/national-nah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n카두신의 아동복지서비스 유형에서 입양(ㄷ)과 가정위탁(ㅁ)은 모두 대리보호서비스에 해당한다. 아동상담(ㄱ)과 가족치료(ㄹ)는 지지적·보완적 서비스이고, 보육서비스(ㄴ)는 보완적 서비스이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "아동상담서비스와 입양은 서로 다른 유형이다.",
+    "보육서비스와 입양은 서로 다른 유형이다.",
+    "보육서비스와 가족치료는 대리보호가 아니며 서로 다른 유형이다.",
+    "입양(ㄷ)과 가정위탁(ㅁ)은 모두 대리보호서비스로 같은 유형이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-welfare-nah-q15",
+   "paperId": "paper_civil_welfare_2025_national_nah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/welfare/2025/national-nah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n조지와 와일딩은 반집합주의의 핵심 가치를 자유, 불평등, 개인주의로 제시하였다. 미쉬라의 다원적 복지국가는 정부·고용주·근로자의 협력으로 이익이 통합되는 유형이 아니라 복지 공급 주체가 다원화된 유형이고, 티트무스의 제도적 재분배 모형은 시장 기여도와 무관한 보편적 급여를 지향하며, 퍼니스와 틸튼의 적극적 국가는 실질적 평등보다 전반적 삶의 질 향상을 위한 정부 개입을 뜻한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "반집합주의가 자유, 불평등, 개인주의를 핵심 가치로 삼는다는 설명이 옳다. 정답입니다.",
+    "미쉬라의 다원적 복지국가를 정부·고용주·근로자의 협력으로 이익이 통합되는 유형으로 설명한 것은 옳지 않다.",
+    "티트무스의 제도적 재분배 모형이 시장 기여도에 따라 복지 제공 정도가 달라져야 한다고 보았다는 설명은 옳지 않다.",
+    "퍼니스와 틸튼의 적극적 국가가 실질적 평등을 목적으로 한다는 설명은 옳지 않으며, 실질적 평등은 사회복지국가의 목표이다."
+   ]
+  },
+  {
+   "id": "civil2025-national-welfare-nah-q16",
+   "paperId": "paper_civil_welfare_2025_national_nah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/welfare/2025/national-nah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n단일집단사전사후조사는 무작위 배정 없이 한 집단에 사전·사후검사를 실시하는 설계이다. 무작위 배정을 통해 조사대상자를 선정한다는 설명이 옳지 않다. 통제집단사후조사, 솔로몬4집단조사, 시계열조사에 대한 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "통제집단사후조사가 사전검사의 영향을 배제하는 데 유용하다는 설명은 옳다.",
+    "솔로몬4집단조사가 내적·외적 타당도를 높이지만 실용적이지 않다는 설명은 옳다.",
+    "시계열조사가 통제집단 없이 한 집단을 여러 번 검사한다는 설명은 옳다.",
+    "단일집단사전사후조사는 무작위 배정을 하지 않으므로, 무작위 배정을 통해 대상자를 선정한다는 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-welfare-nah-q17",
+   "paperId": "paper_civil_welfare_2025_national_nah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/welfare/2025/national-nah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사회서비스 지원 및 사회서비스원 설립·운영에 관한 법률상 시·도 사회서비스원은 정관을 변경하려는 경우 보건복지부장관의 허가가 아니라 시·도지사의 허가를 받아야 한다. 나머지 설명은 법의 내용과 일치한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "정관 변경에 보건복지부장관의 허가가 필요하다는 설명이 옳지 않으며, 시·도지사의 허가 사항이다. 정답입니다.",
+    "지역 내 사회서비스 질 제고를 위한 연구·개발·교육사업을 지원할 수 있다는 설명은 옳다.",
+    "위탁받은 국공립 사회서비스 제공기관을 운영할 수 있다는 설명은 옳다.",
+    "재난 발생 시 긴급돌봄 서비스를 제공할 수 있다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2025-national-welfare-nah-q18",
+   "paperId": "paper_civil_welfare_2025_national_nah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/welfare/2025/national-nah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n산업재해보상보험은 사업주가 전액 보험료를 부담하므로 적용 대상 근로자는 보험료 납부 의무가 없다. 사회보험의 재원은 일반 조세가 아니라 보험료이며, 국민기초생활보장은 기준 중위소득을 기준으로 선정하고, 사회보장기본법상 사회보장에는 사회보험·공공부조·사회서비스 외에 관련 제도와 정책이 포함된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "사회보험의 재원이 일반 조세라는 설명은 옳지 않다.",
+    "산업재해보상보험의 적용 대상 근로자는 보험료 납부 의무가 없다는 설명이 옳다. 정답입니다.",
+    "국민기초생활보장제도는 최저생계비가 아니라 기준 중위소득을 기준으로 수급자를 선정한다.",
+    "사회보장기본법상 사회보장의 범위를 사회보험·공공부조·사회복지서비스로만 한정한 설명은 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2025-national-welfare-nah-q19",
+   "paperId": "paper_civil_welfare_2025_national_nah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/welfare/2025/national-nah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nWHO의 장애분류체계는 ICIDH, ICIDH-2, ICF 순으로 발표되었고, ICIDH는 손상·기능장애·사회적 불리로 분류하며, ICF는 기능과 장애를 개인과 상황적 맥락의 상호작용으로 설명한다. 모든 사람의 건강 관련 요소를 보편적으로 설명하는 분류체계는 ICF이므로, 이를 ICIDH-2로 설명한 점이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "ICIDH, ICIDH-2, ICF 순으로 발표되었다는 설명은 옳다.",
+    "ICF가 상황적 맥락과의 상호작용으로 기능과 장애를 설명한다는 설명은 옳다.",
+    "ICIDH가 손상·기능장애·사회적 불리를 분류한다는 설명은 옳다.",
+    "보편적 적용이 가능한 분류체계는 ICF이므로, ICIDH-2에 대한 설명으로 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-welfare-nah-q20",
+   "paperId": "paper_civil_welfare_2025_national_nah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/welfare/2025/national-nah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n노인복지법상 노인학대 신고의무자에는 다문화가족지원센터의 장과 종사자, 119구급대의 구급대원, 지역보건의료기관의 장과 종사자가 모두 포함된다. 따라서 ㄱ, ㄴ, ㄷ 모두 신고의무자이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "ㄱ만 고른 조합은 구급대원과 지역보건의료기관 종사자를 놓쳤다.",
+    "ㄱ, ㄷ만 고른 조합은 119구급대원을 놓쳤다.",
+    "ㄴ, ㄷ만 고른 조합은 다문화가족지원센터 종사자를 놓쳤다.",
+    "다문화가족지원센터(ㄱ), 119구급대원(ㄴ), 지역보건의료기관(ㄷ)이 모두 노인학대 신고의무자이다. 정답입니다."
+   ]
+  }
+ ]
+}

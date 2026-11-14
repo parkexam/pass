@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_welfare_2024_national_gah",
+ "title": "2024 국가직 9급 사회복지학개론 가책형",
+ "year": 2024,
+ "source": "2024년도 국가공무원 9급 공채 필기시험 사회복지학개론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_6",
+ "questions": [
+  {
+   "id": "civil2024-national-welfare-gah-q01",
+   "paperId": "paper_civil_welfare_2024_national_gah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/welfare/2024/national-gah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공감은 사회복지사가 클라이언트의 입장에서 클라이언트가 경험한 감정과 행동, 동기를 민감하고 주의 깊게 이해하는 기술이다. 동정은 감정이입을 넘어 연민을 표시하는 것이고, 수용은 있는 그대로 인정하는 태도, 해석은 의미를 설명하는 기술이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "클라이언트의 입장에서 감정과 동기를 이해하는 실천 기술은 공감이다. 정답입니다.",
+    "동정은 클라이언트를 불쌍히 여기는 감정으로, 전문적 공감과 구분된다.",
+    "수용은 클라이언트를 판단 없이 있는 그대로 인정하는 태도이다.",
+    "해석은 클라이언트의 말과 행동이 지니는 의미를 설명해 주는 기술이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-welfare-gah-q02",
+   "paperId": "paper_civil_welfare_2024_national_gah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/welfare/2024/national-gah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사례관리는 복합적 욕구를 가진 클라이언트의 증가, 지방분권화에 따른 서비스 공급의 탈중앙화, 탈시설화에 따른 지역사회 중심 서비스의 필요, 서비스 전문화에 따른 연계 필요성의 증가를 배경으로 등장하였다. 연계 필요성이 감소하였다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "복합적 욕구를 가진 클라이언트의 증가는 사례관리 등장 배경이다.",
+    "지방분권화에 따른 탈중앙화는 사례관리 등장 배경이다.",
+    "탈시설화에 따른 지역사회 중심 서비스의 필요는 사례관리 등장 배경이다.",
+    "서비스가 전문화될수록 연계 필요성은 커지므로, 연계 필요성이 감소하였다는 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-welfare-gah-q03",
+   "paperId": "paper_civil_welfare_2024_national_gah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/welfare/2024/national-gah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n자살 위험이 있는 클라이언트에 대해서는 자살 유발 요인을 다각도로 파악하고, 척도를 활용해 위험 정도를 평가하며, 정서적 고통과 절망감에 경청해야 한다. 자살에 대해 말할 때 화제를 전환하거나 위로만 하는 것은 위험 신호를 놓치게 하므로 적절하지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "유발 요인을 개인 및 사회환경적 차원에서 파악한다는 설명은 옳다.",
+    "척도를 활용해 자살 위험 정도를 평가한다는 설명은 옳다.",
+    "자살 언급 시 신속히 위로하고 다른 주제로 전환하는 것은 위험 신호를 다루지 못하게 하므로 옳지 않다. 정답입니다.",
+    "정서적 고통과 절망감, 무력감에 경청한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2024-national-welfare-gah-q04",
+   "paperId": "paper_civil_welfare_2024_national_gah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/welfare/2024/national-gah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사회문제를 예방하여 사회적 비용을 절감하고, 급여와 프로그램 제공으로 저소득층의 구매력을 높여 내수를 진작하는 것은 경제적 동기에 해당한다. 종교적·정치적·도덕적 동기는 각각 종교적 가치, 사회 안정과 질서, 인간의 도덕적 책임에서 비롯된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "종교적 동기는 종교적 가르침과 이웃 사랑의 실천에서 비롯된다.",
+    "사회적 비용 절감과 구매력 향상을 통한 내수 진작은 경제적 동기이다. 정답입니다.",
+    "정치적 동기는 사회의 안정과 질서 유지를 통한 체제 유지와 관련된다.",
+    "도덕적 동기는 인간으로서의 도덕적 책임과 의무에서 비롯된다."
+   ]
+  },
+  {
+   "id": "civil2024-national-welfare-gah-q05",
+   "paperId": "paper_civil_welfare_2024_national_gah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/welfare/2024/national-gah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n조정은 서비스 제공 기관들이 원활하고 조화롭게 서비스를 제공하도록 활동을 맞추어, 서비스의 중복·누락·단절을 방지하는 사례관리 기술이다. 의뢰는 다른 기관에 서비스를 요청하는 것, 중개는 클라이언트와 서비스를 연결하는 것이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "의뢰는 클라이언트의 욕구에 맞는 서비스를 제공하는 기관으로 보내는 기술이다.",
+    "서비스 제공 기관 간 활동을 조화롭게 맞추어 중복·누락·단절을 막는 기술은 조정이다. 정답입니다.",
+    "중개는 클라이언트와 서비스 제공자 사이를 연결하는 기술이다.",
+    "사정은 클라이언트의 문제와 욕구, 자원을 파악하는 과정이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-welfare-gah-q06",
+   "paperId": "paper_civil_welfare_2024_national_gah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/welfare/2024/national-gah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n간접적 개입은 클라이언트를 직접 대면하기보다 환경과 제도, 자원체계를 변화시키는 활동으로, 옹호(ㄴ)와 프로그램 개발을 통한 권한 강화(ㄹ)가 해당한다. 정보 제공(ㄱ)과 동기 부여를 위한 상담(ㄷ)은 클라이언트를 직접 만나는 직접적 개입이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "ㄱ과 ㄷ은 직접적 개입에 해당한다.",
+    "옹호(ㄴ)와 프로그램 개발을 통한 권한 강화(ㄹ)가 간접적 개입의 예이다. 정답입니다.",
+    "ㄱ과 ㄷ이 포함되어 간접적 개입만 고른 조합이 아니다.",
+    "ㄱ이 포함되어 직접적 개입이 섞여 있다."
+   ]
+  },
+  {
+   "id": "civil2024-national-welfare-gah-q07",
+   "paperId": "paper_civil_welfare_2024_national_gah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/welfare/2024/national-gah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n브래드쇼의 규범적 욕구는 전문가 등이 정해 둔 바람직한 수준과 실제 상태의 차이로 규정된다. 감지적 욕구는 당사자가 주관적으로 느끼는 욕구, 비교적 욕구는 유사한 지역·집단과의 비교로 파악되며, 표현적 욕구는 감지적 욕구가 실제 이용 행위로 나타난 것이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "규범적 욕구가 전문가가 정한 바람직한 수준과 실제 상태의 차이를 포함한다는 설명이 옳다. 정답입니다.",
+    "감지적 욕구는 주관적으로 느끼는 욕구이며, 규범적 욕구가 행위로 나타난 것은 표현적 욕구이다.",
+    "비교적 욕구는 주관적 느낌이 아니라 유사 집단과의 비교로 파악된다.",
+    "표현적 욕구는 개인의 인식 정도에 따라 달라지는 것이 아니라 실제 이용으로 드러난 욕구이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-welfare-gah-q08",
+   "paperId": "paper_civil_welfare_2024_national_gah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/welfare/2024/national-gah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n제정 연도는 국민연금법(1986), 고용보험법(1993), 노인장기요양보험법(2007), 기초연금법(2014)의 순이다. 따라서 가장 이른 것은 국민연금법이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "고용보험법은 1993년 제정되어 국민연금법보다 늦다.",
+    "국민연금법은 1986년 제정되어 제시된 법률 중 가장 이르다. 정답입니다.",
+    "기초연금법은 2014년 제정되어 가장 늦다.",
+    "노인장기요양보험법은 2007년 제정되어 국민연금법보다 늦다."
+   ]
+  },
+  {
+   "id": "civil2024-national-welfare-gah-q09",
+   "paperId": "paper_civil_welfare_2024_national_gah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/welfare/2024/national-gah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국민기초생활 보장법상 급여는 개별가구 단위로 실시하는 것이 원칙이고(ㄴ), 수급권자의 1촌의 직계혈족 및 그 배우자가 부양의무자이되 사망한 1촌의 직계혈족의 배우자는 제외된다(ㄹ). 보장기관은 국가와 지방자치단체이며(ㄱ은 옳지 않음), 급여가 다른 법령의 보호에 우선한다는 규정은 두고 있지 않다(ㄷ은 옳지 않음).",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "ㄱ에서 보장기관은 국가·지방자치단체이므로 사회복지시설이라는 설명이 옳지 않다.",
+    "급여가 개별가구 단위로 실시된다는 ㄴ과 부양의무자에 대한 ㄹ이 모두 옳다. 정답입니다.",
+    "ㄱ이 포함되어 성립하지 않는다.",
+    "ㄷ이 포함되어 성립하지 않는다."
+   ]
+  },
+  {
+   "id": "civil2024-national-welfare-gah-q10",
+   "paperId": "paper_civil_welfare_2024_national_gah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/welfare/2024/national-gah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n가치는 좋은 것, 바람직한 것에 대한 신념과 가정으로, 개인의 윤리 기준이 모여 형성되는 것이 아니라 사회·문화적 맥락 속에서 형성되는 지향이다. 윤리는 도덕적으로 옳고 그른 것을 판단하는 규범과 원칙을 포함한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "가치는 개인의 윤리 기준이 모여 형성된 행동 지침이 아니므로 옳지 않다. 정답입니다.",
+    "가치가 좋은 것과 바람직한 것에 대한 가정이자 신념이라는 설명은 옳다.",
+    "윤리가 도덕적으로 옳고 그른 것을 판단하는 규범이라는 설명은 옳다.",
+    "윤리가 인간 행동을 규제하는 기준과 원칙을 포함한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2024-national-welfare-gah-q11",
+   "paperId": "paper_civil_welfare_2024_national_gah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/welfare/2024/national-gah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n에스핑-안데르센의 복지국가 유형에서 탈상품화 정도는 사회민주주의가 가장 높고, 그다음이 조합주의(보수주의), 자유주의 순이다. 사회민주주의는 보편적 급여로 노동시장 의존을 가장 크게 줄인다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "자유주의를 가장 앞에 둔 순서는 탈상품화 정도와 반대이다.",
+    "자유주의를 앞에 두고 사회민주주의를 중간에 둔 순서가 옳지 않다.",
+    "사회민주주의 → 조합주의 → 자유주의 순이 탈상품화 정도가 큰 순서이다. 정답입니다.",
+    "조합주의와 자유주의의 순서가 뒤바뀌었다."
+   ]
+  },
+  {
+   "id": "civil2024-national-welfare-gah-q12",
+   "paperId": "paper_civil_welfare_2024_national_gah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/welfare/2024/national-gah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n명료화는 클라이언트가 사용한 표현의 의미를 구체적으로 확인하여 분명하게 만드는 기술로, '어떻게 야단쳤다는 말씀인지요', '구체적으로 설명해 주시겠습니까'와 같은 질문으로 이루어진다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "직면은 클라이언트 생각과 행동의 모순을 지적하는 기술이다.",
+    "요약은 여러 내용을 묶어 정리하는 기술이다.",
+    "모호한 표현의 의미를 확인하여 분명하게 만드는 기술은 명료화이다. 정답입니다.",
+    "재보증은 클라이언트의 불안을 줄이기 위해 안심시키는 기술이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-welfare-gah-q13",
+   "paperId": "paper_civil_welfare_2024_national_gah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/welfare/2024/national-gah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n측정 오류를 줄이려면 신뢰도와 타당도가 확보된 도구를 쓰고, 이해하기 쉬운 어휘를 사용하며, 편견이 개입될 수 있는 용어를 배제해야 한다. 조사대상자가 조사에 참여하고 있음을 의식하도록 유도하면 사회적 바람직성 편향 등 오류가 커진다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "신뢰도와 타당도가 확보된 측정 도구를 활용한다는 설명은 옳다.",
+    "조사대상자가 이해할 수 있는 어휘를 사용한다는 설명은 옳다.",
+    "조사 참여를 의식하도록 유도하는 것은 오류를 키우므로 옳지 않다. 정답입니다.",
+    "편견이 개입될 수 있는 용어를 배제한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2024-national-welfare-gah-q14",
+   "paperId": "paper_civil_welfare_2024_national_gah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/welfare/2024/national-gah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n장애인 소득보장을 위해 모든 장애아동에게 장애아동수당을 지급하는 것은 아니며, 소득과 장애 정도 등 일정 기준을 충족하는 아동에게 지급한다. 의무고용, 활동지원급여, 장애인 복지시설의 기능에 대한 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "상시 50인 이상 사업주의 장애인 의무고용에 대한 설명은 옳다.",
+    "활동지원급여에 대한 설명은 옳다.",
+    "장애인 상담·치료·지역사회재활시설의 기능에 대한 설명은 옳다.",
+    "장애아동수당은 일정 기준을 충족하는 아동에게 지급되므로, 모든 장애아동에게 지급한다는 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-welfare-gah-q15",
+   "paperId": "paper_civil_welfare_2024_national_gah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/welfare/2024/national-gah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률상 입원 유형은 자의입원, 동의입원, 보호의무자에 의한 입원, 행정입원, 응급입원이다. 정신건강전문요원에 의한 입원은 법정 입원 유형이 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "자의입원은 정신질환자가 스스로 입원을 신청하는 유형이다.",
+    "동의입원은 정신건강전문요원의 입원 필요성 판단에 따라 보호의무자의 동의로 입원하는 유형이다.",
+    "보호의무자에 의한 입원은 법정 입원 유형이다.",
+    "정신건강전문요원에 의한 입원은 법정 입원 유형이 아니다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-welfare-gah-q16",
+   "paperId": "paper_civil_welfare_2024_national_gah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/welfare/2024/national-gah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n아동복지법상 아동복지시설에는 아동생활시설, 아동상담소, 아동보호전문기관, 가정위탁지원센터, 지역아동센터, 자립지원시설 등이 있다. 입양기관은 입양특례법에 따른 기관으로 아동복지법상 아동복지시설이 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "입양기관은 입양특례법에 따른 기관이므로 아동복지법상 아동복지시설이 아니다. 정답입니다.",
+    "자립지원시설은 아동복지법상 아동복지시설이다.",
+    "지역아동센터는 아동복지법상 아동복지시설이다.",
+    "가정위탁지원센터는 아동복지법상 아동복지시설이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-welfare-gah-q17",
+   "paperId": "paper_civil_welfare_2024_national_gah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/welfare/2024/national-gah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사회복지사 윤리강령은 클라이언트의 이익을 우선하고, 서비스가 더 이상 클라이언트의 이해와 욕구에 부합하지 않으면 관계를 종결하며, 생태적 책임과 이해충돌 시 취약한 자의 권리를 우선한다고 규정한다. 클라이언트의 지불 능력에 따라 서비스를 달리 제공하는 것은 차별에 해당하여 윤리강령에 어긋난다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "서비스를 종결하는 기준에 대한 설명은 윤리강령의 내용이다.",
+    "지불 능력을 고려하여 합당한 서비스를 제공해야 한다는 내용은 윤리강령에 해당하지 않으며, 지불 능력에 따른 차별은 금지된다. 정답입니다.",
+    "인간과 자연환경, 생명에 미칠 영향을 고려해야 한다는 내용은 윤리강령의 생태적 책임에 해당한다.",
+    "이해충돌 시 취약한 자의 이해와 권리를 우선한다는 내용은 윤리강령에 해당한다."
+   ]
+  },
+  {
+   "id": "civil2024-national-welfare-gah-q18",
+   "paperId": "paper_civil_welfare_2024_national_gah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/welfare/2024/national-gah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사회보험은 세대 간 부양 방식인 부과방식으로 운영되어 완전적립이 필요하지 않으며, 오히려 민간보험이 적립을 전제로 한다. 가입의 강제성, 법령에 따른 보험료 결정, 물가 변동에 대한 보장성은 사회보험이 더 높다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "사회보험의 가입 강제성이 민간보험보다 크다는 설명은 옳다.",
+    "사회보험은 법령으로, 민간보험은 계약으로 보험료가 결정된다는 설명은 옳다.",
+    "사회보험은 부과방식으로 운영되어 완전적립이 필요하지 않으므로, 사회보험에 완전적립이 필요하다는 설명이 옳지 않다. 정답입니다.",
+    "사회보험의 물가 변동에 대한 보장성이 민간보험보다 높다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2024-national-welfare-gah-q19",
+   "paperId": "paper_civil_welfare_2024_national_gah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/welfare/2024/national-gah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n아동권리협약의 참여권은 아동 자신이 자신에게 영향을 미치는 일에 참여하고 의견을 표현할 권리이다. 보호자가 참여할 권리로 설명한 점이 옳지 않다. 생존권, 보호권, 발달권에 대한 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "생존권에 대한 설명은 옳다.",
+    "보호권에 대한 설명은 옳다.",
+    "발달권에 대한 설명은 옳다.",
+    "참여권은 아동 자신이 의견을 표현하고 참여할 권리이므로, 보호자가 참여할 권리라는 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-welfare-gah-q20",
+   "paperId": "paper_civil_welfare_2024_national_gah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/welfare/2024/national-gah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n위기개입모델은 위기 상황에서 정서적 지지와 안전 확보, 문제 해결을 위한 현실적 개입에 초점을 둔다. 피해 아동의 왜곡된 인지를 재구조화하기 위한 질문과 논박은 인지행동적 접근으로, 위기개입의 초기 국면에서 적용하는 방법으로 적절하지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "피해 아동의 불안·분노·죄책감 완화를 위한 지지는 위기개입의 방법이다.",
+    "가해자와 분리하고 안전한 장소에서 보호하는 것은 위기개입의 방법이다.",
+    "왜곡된 인지의 재구조화를 위한 질문과 논박은 인지행동 접근이므로 위기개입모델의 방법으로 옳지 않다. 정답입니다.",
+    "목격 학생들이 감정을 분출하도록 함께 이야기하고 토론하는 것은 위기개입의 지지적 방법이다."
+   ]
+  }
+ ]
+}

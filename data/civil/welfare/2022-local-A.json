@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_welfare_2022_local_A",
+ "title": "2022 지방직 9급 사회복지학개론 A책형",
+ "year": 2022,
+ "source": "2022년도 시·도 지방공무원 9급 등 임용 필기시험 사회복지학개론 A책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_6",
+ "questions": [
+  {
+   "id": "civil2022-local-welfare-A-q01",
+   "paperId": "paper_civil_welfare_2022_local_A",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/welfare/2022/local-A/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n로마니신은 사회복지가 특수성에서 보편성으로, 자선에서 시민의 권리로, 민간 지원에서 공공 지원으로, 잔여적 복지에서 제도적 복지로 변화한다고 보았다. 보편성에서 특수성으로의 변화를 제시한 것은 그의 방향과 반대이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "보편성에서 특수성으로의 변화는 로마니신이 제시한 방향과 반대이므로 옳지 않다. 정답입니다.",
+    "자선에서 시민의 권리로의 변화는 로마니신이 제시한 방향이다.",
+    "민간 지원에서 공공 지원으로의 변화는 로마니신이 제시한 방향이다.",
+    "잔여적 복지에서 제도적 복지로의 변화는 로마니신이 제시한 방향이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-welfare-A-q02",
+   "paperId": "paper_civil_welfare_2022_local_A",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/welfare/2022/local-A/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국민기초생활 보장법상 소득인정액은 보장기관이 급여의 결정 및 실시 등에 사용하기 위하여 산출한 개별가구의 소득평가액과 재산의 소득환산액을 합산한 금액이다. 기준 중위소득은 급여별 선정기준이 되는 값이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "소득평가액과 재산의 소득환산액을 합산한 금액은 소득인정액이다. 정답입니다.",
+    "최저생계비는 과거 국민기초생활보장제도의 선정기준으로 사용된 개념이다.",
+    "최저보장수준은 급여별로 보장하는 최소한의 수준을 뜻한다.",
+    "기준 중위소득은 전체 가구를 소득순으로 배열했을 때 중간에 해당하는 가구의 소득이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-welfare-A-q03",
+   "paperId": "paper_civil_welfare_2022_local_A",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/welfare/2022/local-A/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n카두신의 아동복지서비스 중 보충적 서비스는 부모의 역할을 사회가 일부 대행하여 부모 역할이 충족되도록 돕는 서비스로, 부모의 실업·질병·장애 등에 대처하기 위한 보육서비스와 가정봉사원 파견 서비스가 해당한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "지지적 서비스는 부모의 능력을 강화하여 가족 기능을 유지하도록 돕는 서비스이다.",
+    "사회가 부모 역할을 일부 대행하여 부모 역할을 보충하는 서비스는 보충적 서비스이다. 정답입니다.",
+    "대리적 서비스는 가정에서 양육이 어려울 때 부모를 대신하여 보호하는 서비스이다.",
+    "기능적 서비스는 카두신의 분류에 포함되지 않는다."
+   ]
+  },
+  {
+   "id": "civil2022-local-welfare-A-q04",
+   "paperId": "paper_civil_welfare_2022_local_A",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/welfare/2022/local-A/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n노인복지법상 노인주거복지시설에는 양로시설, 노인공동생활가정, 노인복지주택이 있다. 노인요양공동생활가정은 노인의료복지시설에 해당하므로 노인주거복지시설이 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "양로시설은 노인주거복지시설이다.",
+    "노인복지주택은 노인주거복지시설이다.",
+    "노인공동생활가정은 노인주거복지시설이다.",
+    "노인요양공동생활가정은 노인의료복지시설이므로 노인주거복지시설이 아니다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-local-welfare-A-q05",
+   "paperId": "paper_civil_welfare_2022_local_A",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/welfare/2022/local-A/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n밀착가족은 가족성원 간 경계가 지나치게 약하여 과도하게 밀착된 가족으로 상호작용이 과다하고 자율성이 보장되지 않는다. 유리가족은 경계가 지나치게 경직되어 충성심과 보호 기능이 약하다. 상호작용이 부족하다는 설명은 유리가족에 대한 것이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "밀착가족은 상호작용이 부족한 것이 아니라 과도하게 밀착되어 있으므로 옳지 않다. 정답입니다.",
+    "밀착가족은 가족성원의 자율성이 보장되지 않는다는 설명은 옳다.",
+    "유리가족은 가족성원 간 충성심이 부족하다는 설명은 옳다.",
+    "유리가족은 보호 기능을 수행하기 어렵다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-local-welfare-A-q06",
+   "paperId": "paper_civil_welfare_2022_local_A",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/welfare/2022/local-A/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n엔트로피는 체계가 외부로부터 에너지를 충분히 받지 못해 조직과 기능이 점차 약화되는 현상이다. 에너지가 유입되어 유용하지 않은 에너지가 감소한다는 설명은 엔트로피가 아니라 네겐트로피에 대한 설명이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "홀론에 대한 설명은 옳다.",
+    "상호성에 대한 설명은 옳다.",
+    "항상성에 대한 설명은 옳다.",
+    "엔트로피는 체계의 조직과 기능이 약화하는 현상이므로, 유용하지 않은 에너지가 감소한다는 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-local-welfare-A-q07",
+   "paperId": "paper_civil_welfare_2022_local_A",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/welfare/2022/local-A/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n행동가는 사회문제 해결을 위해 적극적으로 행동하고 사회운동에 참여하는 역할이다. 한부모가족 청소년이 방과후 서비스를 이용할 수 있도록 기관을 연계한 것은 중개자(연계자)의 역할이므로 짝이 바르지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "옹호자의 사례에 대한 설명은 옳다.",
+    "기관 연계는 행동가가 아니라 중개자(연계자)의 역할이므로, 행동가와의 짝이 바르지 않다. 정답입니다.",
+    "중재자의 사례에 대한 설명은 옳다.",
+    "교육가의 사례에 대한 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-local-welfare-A-q08",
+   "paperId": "paper_civil_welfare_2022_local_A",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/welfare/2022/local-A/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n학습·정서·행동상의 장애가 있는 청소년에게 적합한 치료·교육·재활을 종합적으로 지원하는 거주형 시설은 청소년치료재활센터이다. 청소년쉼터는 가정 밖 청소년의 보호, 청소년자립지원관은 자립 지원, 청소년회복지원시설은 학교 밖 청소년의 회복 지원 시설이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "청소년쉼터는 가정 밖 청소년을 일정 기간 보호하는 시설이다.",
+    "청소년자립지원관은 자립 능력과 여건을 갖추도록 지원하는 시설이다.",
+    "치료·교육·재활을 종합적으로 지원하는 거주형 시설은 청소년치료재활센터이다. 정답입니다.",
+    "청소년회복지원시설은 학교 밖 청소년의 회복을 지원하는 시설이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-welfare-A-q09",
+   "paperId": "paper_civil_welfare_2022_local_A",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/welfare/2022/local-A/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n아동수당은 아동 양육의 경제적 부담을 경감하기 위해 지급되지만, 지급 대상은 만 18세 미만의 모든 아동이 아니라 시행 당시 만 8세 미만의 아동이었다. 보호아동 자립지원, 디딤씨앗통장, 드림스타트에 대한 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "보호아동 자립지원에 대한 설명은 옳다.",
+    "디딤씨앗통장에 대한 설명은 옳다.",
+    "드림스타트에 대한 설명은 옳다.",
+    "아동수당의 지급 대상은 만 18세 미만 전체 아동이 아니므로 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-local-welfare-A-q10",
+   "paperId": "paper_civil_welfare_2022_local_A",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/welfare/2022/local-A/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n고려시대에는 흑창, 제위보, 혜민국, 의창 등이 구빈제도로 운영되었다. 사창은 조선시대에 운영된 구빈제도이므로 고려시대의 구빈제도로 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "사창은 조선시대의 구빈제도이므로 고려시대의 제도로 옳지 않다. 정답입니다.",
+    "제위보는 고려시대 빈민 구제를 위해 설치된 기관이다.",
+    "혜민국은 고려시대 질병 치료와 구제를 담당한 기관이다.",
+    "흑창은 고려 초기 빈민 구제를 위한 곡식 창고였다."
+   ]
+  },
+  {
+   "id": "civil2022-local-welfare-A-q11",
+   "paperId": "paper_civil_welfare_2022_local_A",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/welfare/2022/local-A/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n1960년대에는 생활보호법(1961)과 군인연금법(1963) 등이 제정되었다. 사회보장에 관한 법률과 모자복지법은 1960년대(1963, 1989), 사회복지사업법은 1970년, 사회복지공동모금회법은 1998년, 노인복지법은 1981년, 사회보장기본법은 1995년에 제정되어 나머지 조합은 연대와 맞지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "1960년대에 생활보호법과 군인연금법이 제정되었다는 짝이 옳다. 정답입니다.",
+    "모자복지법은 1989년 제정되어 1970년대 조합이 옳지 않다.",
+    "사회복지공동모금회법은 1998년 제정되어 1980년대 조합이 옳지 않다.",
+    "노인복지법은 1981년 제정되어 1990년대 조합이 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2022-local-welfare-A-q12",
+   "paperId": "paper_civil_welfare_2022_local_A",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/welfare/2022/local-A/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n조지와 윌딩의 이념 구분에서 소극적 집합주의는 반집합주의와 페이비언 사회주의의 중간에 위치하며, 자본주의 체제의 조절 능력을 인정하여 복지국가에 소극적으로 찬성한다. 시장을 중시하며 복지국가에 반대하는 것은 반집합주의이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "반집합주의가 시장경제의 효율성을 이유로 복지국가에 찬성하지 않는다는 설명은 옳다.",
+    "페이비언 사회주의에 대한 설명은 옳다.",
+    "소극적 집합주의는 복지국가에 소극적으로 찬성하므로, 복지국가에 반대한다는 설명이 옳지 않다. 정답입니다.",
+    "마르크스주의에 대한 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-local-welfare-A-q13",
+   "paperId": "paper_civil_welfare_2022_local_A",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/welfare/2022/local-A/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사회구성주의는 외적으로 동일한 현상도 개인의 믿음·전통·관습에 따라 다르게 인식된다고 보고(ㄱ), 현실에 대한 사회적 구성이 주로 대화를 통해 이루어진다고 본다(ㄷ). 과거의 객관적 실체와 사실관계 파악이 문제 해결의 기초라고 전제하는 것은 객관주의적 관점이다(ㄴ은 옳지 않음).",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "ㄴ이 포함되어 사회구성주의의 관점과 맞지 않는다.",
+    "동일한 현상의 다르게 인식됨(ㄱ)과 대화를 통한 사회적 구성(ㄷ)이 모두 사회구성주의의 관점이다. 정답입니다.",
+    "ㄴ이 포함되어 성립하지 않는다.",
+    "ㄴ이 포함되어 성립하지 않는다."
+   ]
+  },
+  {
+   "id": "civil2022-local-welfare-A-q14",
+   "paperId": "paper_civil_welfare_2022_local_A",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/welfare/2022/local-A/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n등간척도는 속성들 간의 거리를 일정한 간격으로 구분한 척도이다(ㄴ). 비수량적이고 상호 배타적인 속성을 나타내는 것은 명명척도이고(ㄱ은 옳지 않음), 절대 0값이 존재하는 것은 비율척도이다(ㄷ은 옳지 않음).",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "ㄱ은 명명척도에 대한 설명이다.",
+    "속성 간 거리를 일정 간격으로 구분한 것이 등간척도이다. 정답입니다.",
+    "ㄱ과 ㄷ이 모두 등간척도의 설명이 아니다.",
+    "ㄷ의 절대 0값은 비율척도의 특징이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-welfare-A-q15",
+   "paperId": "paper_civil_welfare_2022_local_A",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/welfare/2022/local-A/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n파펠과 로스먼의 세 모델 중 사회적 목표 모델은 지역사회 문제 해결과 사회변화를 목표로 하며, 기술과 정보를 제공하고 교육·강의 중심으로 구성되는 것은 사회교육 모델이다. 치료 모델과 상호작용 모델에 대한 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "치료 모델에 대한 설명은 옳다.",
+    "치료 모델이 임상에서 사용된다는 설명은 옳다.",
+    "기술·정보 제공과 교육·강의 중심은 사회교육 모델의 특징이므로, 사회적 목표 모델에 대한 설명으로 옳지 않다. 정답입니다.",
+    "상호작용 모델에 대한 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-local-welfare-A-q16",
+   "paperId": "paper_civil_welfare_2022_local_A",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/welfare/2022/local-A/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n문제중심기록은 문제영역을 목록화하고 각 문제에 대해 주관적 정보, 객관적 정보, 사정, 계획(SOAP)을 기록하는 방식이다. 과정기록은 면접의 모든 과정을 상세히 기록하며, 요약기록은 핵심 내용을 중심으로 정리한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "문제중심기록이 문제영역을 목록화하여 주관적·객관적 정보, 사정, 계획을 기록한다는 설명이 옳다. 정답입니다.",
+    "이야기체기록은 대화 형태로 기록하는 방식이지만, 모든 일을 그대로 옮기는 것은 과정기록에 가깝다.",
+    "과정기록은 자료를 선택하여 핵심만 기록하는 것이 아니라 면접 과정을 상세히 기록한다.",
+    "면접 내용과 슈퍼바이저 코멘트를 구분하여 기록하는 것은 슈퍼비전 기록의 형식이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-welfare-A-q17",
+   "paperId": "paper_civil_welfare_2022_local_A",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/welfare/2022/local-A/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지역사회보장에 관한 계획은 4년마다 수립한다(ㄴ). 계획은 시·군·구 지역사회보장협의체의 심의를 거치며(ㄱ은 옳지 않음), 시·도지사를 거쳐 보건복지부장관에게 제출하는 것으로, 시·군·구 의회 보고 절차를 요하지 않는다(ㄷ은 옳지 않음).",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "ㄱ은 시·군·구 생활보장위원회가 아니라 지역사회보장협의체의 심의 사항이다.",
+    "지역사회보장에 관한 계획을 4년마다 수립한다는 설명이 옳다. 정답입니다.",
+    "ㄱ과 ㄷ이 모두 옳지 않다.",
+    "ㄱ과 ㄷ이 모두 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2022-local-welfare-A-q18",
+   "paperId": "paper_civil_welfare_2022_local_A",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/welfare/2022/local-A/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기초연금은 노인의 소득 기반을 제공하기 위한 별도의 제도로, 국민연금의 급여 유형 중 하나가 아니다. 목적, 공무원연금 퇴직연금 수급자에 대한 지급 제한, 기준연금액의 물가변동 반영에 대한 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "기초연금의 목적에 대한 설명은 옳다.",
+    "기초연금은 국민연금의 급여 유형이 아니므로 옳지 않다. 정답입니다.",
+    "공무원연금법에 따른 퇴직연금을 받는 사람에게 지급하지 않는다는 설명은 옳다.",
+    "기준연금액에 전국소비자물가변동률을 반영하여 매년 고시한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-local-welfare-A-q19",
+   "paperId": "paper_civil_welfare_2022_local_A",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/welfare/2022/local-A/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n시·군·구 지역사회보장협의체는 사회보장급여 제공에 관한 사항, 지역사회보장지표에 관한 사항, 읍·면·동 단위 지역사회보장협의체의 구성 및 운영에 관한 사항 등을 심의·자문한다. 사회복지시설의 평가 기준 제정은 협의체의 업무로 명시되어 있지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "사회보장급여 제공에 관한 사항은 협의체의 업무이다.",
+    "지역사회보장지표에 관한 사항은 협의체의 업무이다.",
+    "사회복지시설 평가 기준 제정은 협의체의 업무로 명시되어 있지 않다. 정답입니다.",
+    "읍·면·동 단위 협의체의 구성 및 운영에 관한 사항은 협의체의 업무이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-welfare-A-q20",
+   "paperId": "paper_civil_welfare_2022_local_A",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/welfare/2022/local-A/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사회복지법인 및 사회복지시설 재무·회계 규칙상 거주자가 받은 개인결연후원금은 본인이 관리능력이 없을 경우 시설의 장이 관리할 수 있고(ㄱ), 후원금의 수입 및 사용내용을 연 1회 이상 후원자에게 통보하여야 하며(ㄴ), 후원금의 수입과 지출을 예산으로 편성하여 사용한다(ㄷ).",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "ㄱ과 ㄴ만 고른 조합은 후원금의 예산 편성(ㄷ)을 놓쳤다.",
+    "ㄱ과 ㄷ만 고른 조합은 후원금 사용내용의 통보(ㄴ)를 놓쳤다.",
+    "ㄴ과 ㄷ만 고른 조합은 개인결연후원금 관리(ㄱ)를 놓쳤다.",
+    "후원금 관리에 관한 ㄱ, ㄴ, ㄷ이 모두 규칙의 내용과 일치한다. 정답입니다."
+   ]
+  }
+ ]
+}

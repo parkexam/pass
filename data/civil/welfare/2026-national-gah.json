@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_welfare_2026_national_gah",
+ "title": "2026 국가직 9급 사회복지학개론 가책형",
+ "year": 2026,
+ "source": "2026년도 국가공무원 9급 공채 필기시험 사회복지학개론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_6",
+ "questions": [
+  {
+   "id": "civil2026-national-welfare-gah-q01",
+   "paperId": "paper_civil_welfare_2026_national_gah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/welfare/2026/national-gah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n논리모형에서 산출(output)은 프로그램 활동의 직접적인 결과물로, 제공된 서비스의 크기와 범위 등이 구체적이고 양적인 수치로 표현되는 요소이다. 성과는 산출이 가져온 변화, 투입은 프로그램에 투입되는 자원, 활동은 실제 수행되는 프로그램의 내용이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "프로그램 활동의 직접적 결과물을 양적으로 표현한 구성요소는 산출이다. 정답입니다.",
+    "성과(outcome)는 산출로 인해 발생한 변화와 효과를 뜻한다.",
+    "투입(input)은 프로그램에 제공되는 인력·예산 등 자원을 뜻한다.",
+    "활동(activity)은 프로그램에서 실제로 수행하는 개입과 서비스 내용을 뜻한다."
+   ]
+  },
+  {
+   "id": "civil2026-national-welfare-gah-q02",
+   "paperId": "paper_civil_welfare_2026_national_gah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/welfare/2026/national-gah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지역사회보장협의체는 지역밀착형 서비스를 제공하고, 네트워크를 바탕으로 합리적으로 운영하며, 지역주민의 복합적 복지문제를 조기에 발견·예방하도록 노력한다. 지방자치단체장의 책무가 중요하더라도 민간의 참여를 배제하는 것이 아니라 민관 협력이 핵심이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "지역밀착형 서비스를 제공한다는 설명은 운영원칙에 해당한다.",
+    "네트워크를 바탕으로 합리적 방법으로 운영한다는 설명은 운영원칙에 해당한다.",
+    "민간의 참여를 배제한다는 설명은 지역사회보장협의체의 민관 협력 원칙과 맞지 않으므로 옳지 않다. 정답입니다.",
+    "복지문제를 조기에 발견하고 예방하도록 노력한다는 설명은 운영원칙에 해당한다."
+   ]
+  },
+  {
+   "id": "civil2026-national-welfare-gah-q03",
+   "paperId": "paper_civil_welfare_2026_national_gah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/welfare/2026/national-gah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n비에스텍이 제시한 관계의 기본 원칙은 개별화, 의도적 감정표현, 통제된 정서적 관여, 수용, 비심판적 태도, 클라이언트의 자기결정, 비밀보장이다. 네트워크 역량은 이 원칙에 포함되지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "개별화는 비에스텍이 제시한 관계의 원칙이다.",
+    "비밀보장은 비에스텍이 제시한 관계의 원칙이다.",
+    "비심판적 태도는 비에스텍이 제시한 관계의 원칙이다.",
+    "네트워크 역량은 비에스텍이 제시한 관계의 원칙이 아니다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-welfare-gah-q04",
+   "paperId": "paper_civil_welfare_2026_national_gah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/welfare/2026/national-gah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n장애인차별금지 및 권리구제 등에 관한 법률은 교육책임자의 입학 거부를 금지하고, 장애인의 자기선택권을 인정하며, 장애나 장애경력 등을 이유로 한 차별을 금지한다. 사용자가 채용 이전에 장애 여부를 조사하기 위한 의학적 검사를 실시하여야 한다는 규정은 없다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "교육책임자가 장애인의 입학 지원 및 입학을 거부할 수 없다는 설명은 옳다.",
+    "사용자가 채용 이전에 의학적 검사를 실시하여야 한다는 설명은 옳지 않으며, 이는 차별에 해당한다. 정답입니다.",
+    "장애인이 자신의 생활 전반에 관하여 스스로 선택·결정할 권리를 가진다는 설명은 옳다.",
+    "장애나 장애경력, 장애 추측을 이유로 차별을 금지한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-welfare-gah-q05",
+   "paperId": "paper_civil_welfare_2026_national_gah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/welfare/2026/national-gah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사례관리는 복합적이고 다양한 욕구를 가진 클라이언트를 대상으로 서비스의 중복과 분절을 해결하고 탈시설화에 따른 지역사회 돌봄 수요에 대응하는 실천이다. 클라이언트의 참여를 최소화하는 것이 아니라 당사자의 참여와 자기결정을 중시한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "서비스의 중복과 분절을 해결한다는 설명은 옳다.",
+    "복합적이고 다양한 욕구를 가진 클라이언트를 대상으로 한다는 설명은 옳다.",
+    "사례관리는 클라이언트의 참여를 최소화하는 것이 아니라 참여를 촉진하므로, 이를 최소화해야 한다는 설명이 옳지 않다. 정답입니다.",
+    "탈시설화로 인한 지역사회 돌봄 수요 증가가 도입 배경 중 하나라는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-welfare-gah-q06",
+   "paperId": "paper_civil_welfare_2026_national_gah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/welfare/2026/national-gah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사례에서는 클라이언트의 걱정에 공감하고, 관찰한 아드님의 행동을 긍정적으로 다르게 규정하며, 학업 걱정의 구체적 내용을 명료화하는 질문을 하였다. 클라이언트의 생각과 행동의 모순을 지적하는 직면은 사용되지 않았다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "클라이언트의 말과 행동의 모순을 지적하는 직면은 이 사례에서 사용되지 않았다. 정답입니다.",
+    "걱정이 많으시겠다는 반응은 공감에 해당한다.",
+    "학업 걱정의 구체적 내용을 확인하는 질문은 명료화에 해당한다.",
+    "소극적이 아니라 신중한 것 같다고 다르게 이름 붙이는 것은 재명명에 해당한다."
+   ]
+  },
+  {
+   "id": "civil2026-national-welfare-gah-q07",
+   "paperId": "paper_civil_welfare_2026_national_gah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/welfare/2026/national-gah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n선별적 서비스는 소득·자격 기준에 따라 대상자를 선정한다. 장애아동수당(ㄴ)과 국민기초생활보장제도(ㄷ)가 선별적 제도이며, 국민건강보험(ㄱ)과 2019년 이후 아동수당(ㄹ)은 보편적 제도이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "국민건강보험이 포함된 조합은 보편적 제도를 섞은 것이다.",
+    "국민건강보험과 아동수당이 모두 보편적 제도이므로 성립하지 않는다.",
+    "장애아동수당(ㄴ)과 국민기초생활보장제도(ㄷ)가 선별적 사회복지서비스이다. 정답입니다.",
+    "아동수당(ㄹ)은 보편적 제도이므로 성립하지 않는다."
+   ]
+  },
+  {
+   "id": "civil2026-national-welfare-gah-q08",
+   "paperId": "paper_civil_welfare_2026_national_gah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/welfare/2026/national-gah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사회복지법인은 사업 운영에 필요한 재산을 소유하여야 하고, 설립하려면 시·도지사의 허가를 받아야 하며, 사회복지법인이 아닌 자는 그 명칭을 사용할 수 없다. 해산한 법인의 남은 재산은 정관으로 정하는 바에 따라 국가나 지방자치단체 등에 귀속되며 대표에게 귀속되지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "사회복지법인이 사업 운영에 필요한 재산을 소유하여야 한다는 설명은 옳다.",
+    "남은 재산이 해산한 법인의 대표에게 귀속된다는 설명은 옳지 않다. 정답입니다.",
+    "설립 시 시·도지사의 허가를 받아야 한다는 설명은 옳다.",
+    "사회복지법인이 아닌 자의 명칭 사용 금지에 대한 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-welfare-gah-q09",
+   "paperId": "paper_civil_welfare_2026_national_gah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/welfare/2026/national-gah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n인보관 운동은 지식인이 지역사회와 함께하는 활동을 전개한 운동이며, 개별 사회사업(케이스워크)의 효시는 자선조직협회이다. 비스마르크의 사회보험 도입 배경, 베버리지 보고서의 제안, 신구빈법의 열등처우 원칙에 대한 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "비스마르크가 노동운동을 진정시키기 위해 사회보험을 도입하였다는 설명은 옳다.",
+    "인보관 운동이 개별 사회사업의 효시가 되었다는 설명이 옳지 않으며, 개별 사회사업의 효시는 자선조직협회이다. 정답입니다.",
+    "베버리지 보고서가 기본적 욕구를 사회보험으로 충족할 것을 제안하였다는 설명은 옳다.",
+    "신구빈법의 열등처우 원칙에 대한 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-welfare-gah-q10",
+   "paperId": "paper_civil_welfare_2026_national_gah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/welfare/2026/national-gah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기초연금법은 2014년 제정되어 기초노령연금법을 대체하였으므로, 2020년 기초노령연금법 제정과 함께 폐지되었다는 설명이 옳지 않다. 아동복지법, 국민연금법, 장애인복지법으로의 전부개정에 대한 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "아동복리법이 1981년 아동복지법으로 전부개정되었다는 설명은 옳다.",
+    "국민복지연금법이 1986년 국민연금법으로 전부개정되었다는 설명은 옳다.",
+    "기초연금법은 2014년 제정되었으므로, 2020년 기초노령연금법 제정과 함께 폐지되었다는 설명이 옳지 않다. 정답입니다.",
+    "심신장애자복지법이 1989년 장애인복지법으로 전부개정되었다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-welfare-gah-q11",
+   "paperId": "paper_civil_welfare_2026_national_gah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/welfare/2026/national-gah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사회복지사업법상 사회복지사업의 범위에는 국민기초생활 보장법, 아동복지법, 노인복지법, 장애인복지법, 의료급여법, 보호관찰 등에 관한 법률, 스토킹방지 및 피해자보호 등에 관한 법률 등이 포함된다. 학교 밖 청소년 지원에 관한 법률은 이 범위에 열거되어 있지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "의료급여법은 사회복지사업의 범위에 포함되는 법률이다.",
+    "보호관찰 등에 관한 법률은 사회복지사업의 범위에 포함되는 법률이다.",
+    "학교 밖 청소년 지원에 관한 법률은 사회복지사업의 범위에 포함되지 않는다. 정답입니다.",
+    "스토킹방지 및 피해자보호 등에 관한 법률은 사회복지사업의 범위에 포함되는 법률이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-welfare-gah-q12",
+   "paperId": "paper_civil_welfare_2026_national_gah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/welfare/2026/national-gah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n종단적 조사는 동일한 조사대상을 일정 기간에 걸쳐 반복 관찰하여 변화를 파악하는 조사이다. 시점과 상관없이 선행지식이 희박할 때 실시하는 예비적 조사는 탐색적 조사이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "기술적 조사에 대한 설명은 옳다.",
+    "횡단적 조사에 대한 설명은 옳다.",
+    "설명적 조사에 대한 설명은 옳다.",
+    "종단적 조사를 예비적 조사로 설명한 점이 옳지 않으며, 이는 탐색적 조사에 대한 설명이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-welfare-gah-q13",
+   "paperId": "paper_civil_welfare_2026_national_gah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/welfare/2026/national-gah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n현상학은 대상자의 경험 자체의 의미를 드러내는 연구방법으로, 현실기반이론이라 불리며 연구자가 오랜 기간 함께 생활하며 문화공유집단의 생활방식을 기술하는 것은 문화기술지(에스노그래피)이다. 참여행동조사, 사례연구, 근거이론에 대한 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "참여행동조사연구의 목적이 사회변화와 임파워먼트라는 설명은 옳다.",
+    "사례연구의 사례에 대한 설명은 옳다.",
+    "근거이론에 대한 설명은 옳다.",
+    "현실기반이론이자 문화공유집단의 생활방식을 기술하는 방법은 문화기술지이므로, 현상학에 대한 설명으로 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-welfare-gah-q14",
+   "paperId": "paper_civil_welfare_2026_national_gah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/welfare/2026/national-gah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n엔트로피는 주로 폐쇄체계에서 나타나며 시간이 흐를수록 조직과 기능이 약화하는 현상이고(ㄴ), 비슷한 환경에서 성장한 아이들도 서로 다른 발달 결과를 보이는 것은 다중종결성의 예이다(ㄹ). 항상성은 균형을 유지하려는 상태로 투입이 없는 상태가 아니며(ㄱ은 옳지 않음), 위기에서 회복하는 경향은 항상성의 예이다(ㄷ은 옳지 않음).",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "ㄱ에서 항상성은 투입이 없는 상태가 아니므로 설명이 옳지 않다.",
+    "ㄹ만 옳고 ㄱ이 옳지 않으므로 성립하지 않는다.",
+    "ㄷ에서 회복 경향은 항상성의 예이므로 홀론에 대한 설명이 옳지 않다.",
+    "엔트로피(ㄴ)와 다중종결성(ㄹ)에 대한 설명이 모두 옳다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-welfare-gah-q15",
+   "paperId": "paper_civil_welfare_2026_national_gah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/welfare/2026/national-gah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n로웬버그와 돌고프의 최소 해악의 원칙은 어느 대안을 선택하더라도 해악이 발생할 때 그 해악을 최소화하는 선택을 하도록 한다. 원가정 보호와 분리조치가 각각 다른 위험을 낳는 상황에서 두 대안의 해악을 비교하여 최소 해악을 선택하는 것이 이 원칙에 해당한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "두 대안의 해악을 비교하여 더 적은 해악을 선택하는 것은 최소 해악의 원칙이다. 정답입니다.",
+    "평등과 불평등의 원칙은 자원 배분의 평등 문제를 다룬다.",
+    "진실성과 정보 개방의 원칙은 정보를 정확하고 충분히 제공하는 것과 관련된다.",
+    "사생활 보호와 비밀보장의 원칙은 정보의 비밀 유지와 관련된다."
+   ]
+  },
+  {
+   "id": "civil2026-national-welfare-gah-q16",
+   "paperId": "paper_civil_welfare_2026_national_gah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/welfare/2026/national-gah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n롤즈는 균등한 자유의 원칙이 다른 원칙에 의해 제약될 수 없다고 보았으므로, 최소수혜자에게 이익을 주기 위해서라도 균등한 자유의 원칙을 제약할 수 있다는 설명이 옳지 않다. 기회의 평등, 비례적 평등, 수량적 평등에 대한 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "기회의 평등에 대한 설명은 옳다.",
+    "비례적 평등에 대한 설명은 옳다.",
+    "수량적 평등에 대한 설명은 옳다.",
+    "롤즈는 균등한 자유의 원칙이 우선하여 제약될 수 없다고 보았으므로, 이를 제약할 수 있다는 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-welfare-gah-q17",
+   "paperId": "paper_civil_welfare_2026_national_gah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/welfare/2026/national-gah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n아동복지법상 국가와 지방자치단체는 보호 대상 아동의 자립을 지원하기 위하여 자립정착금·자립수당 지급, 자립에 관한 실태조사·연구, 자립에 필요한 자산 형성·관리 지원 등의 조치를 시행한다. 지역사회 청소년통합지원체계의 구축은 아동복지법상 자립지원 조치가 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "자립정착금 및 자립수당 지급은 자립지원 조치에 해당한다.",
+    "자립에 관한 실태조사 및 연구는 자립지원 조치에 해당한다.",
+    "지역사회 청소년통합지원체계의 구축은 아동복지법상 자립지원 조치가 아니다. 정답입니다.",
+    "자립에 필요한 자산의 형성 및 관리 지원은 자립지원 조치에 해당한다."
+   ]
+  },
+  {
+   "id": "civil2026-national-welfare-gah-q18",
+   "paperId": "paper_civil_welfare_2026_national_gah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/welfare/2026/national-gah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n신사회 위험은 후기산업사회로 이행하면서 저출산·고령화, 노동시장 유연화 등으로 나타나는 새로운 사회적 위험으로, 전통적 소득이전 프로그램 외에 다양한 사회서비스의 필요성을 증대시켰다. 탈상품화 개념은 구사회 위험에 대응하는 사회보험 체제를 설명하는 개념이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "저출산·고령화 문제가 신사회 위험에 해당한다는 설명은 옳다.",
+    "다양한 사회서비스의 필요성을 증대시켰다는 설명은 옳다.",
+    "탈상품화 개념은 구사회 위험과 사회보험 체제를 설명하는 개념이므로, 신사회 위험을 반영한다는 설명이 옳지 않다. 정답입니다.",
+    "후기산업사회 이행 과정에서 직면하는 사회적 위험이라는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-welfare-gah-q19",
+   "paperId": "paper_civil_welfare_2026_national_gah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/welfare/2026/national-gah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사회양심론은 빈곤층의 복지에 대한 사회적 관심과 양심이 복지정책을 발전시켰다고 본다. 빈곤계층의 복지를 사회적 권리로 보게 되면서 복지정책이 발전하였다는 설명은 시민권이론(마셜)에 해당한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "수렴이론에 대한 설명은 옳다.",
+    "확산이론에 대한 설명은 옳다.",
+    "음모이론에 대한 설명은 옳다.",
+    "사회적 권리로 보게 되면서 복지정책이 발전하였다는 것은 시민권이론이므로 사회양심론에 대한 설명으로 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-welfare-gah-q20",
+   "paperId": "paper_civil_welfare_2026_national_gah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/welfare/2026/national-gah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n청소년복지 지원법상 청소년상담복지센터는 청소년의 상담·복지 지원을 위한 시설로, 감호 위탁 처분을 받은 청소년을 보호자가 아닌 자가 보호하는 것은 청소년회복지원시설 등에 해당한다. 청소년쉼터, 청소년치료재활센터, 청소년자립지원관에 대한 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "청소년쉼터에 대한 설명은 옳다.",
+    "감호 위탁 처분을 받은 청소년을 보호자가 아닌 자가 보호하는 시설은 청소년상담복지센터가 아니므로 옳지 않다. 정답입니다.",
+    "청소년치료재활센터에 대한 설명은 옳다.",
+    "청소년자립지원관에 대한 설명은 옳다."
+   ]
+  }
+ ]
+}

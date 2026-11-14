@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_welfare_2023_local_B",
+ "title": "2023 지방직 9급 사회복지학개론 B책형",
+ "year": 2023,
+ "source": "2023년도 지방공무원 9급 등 공개경쟁임용 필기시험 사회복지학개론 B책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_6",
+ "questions": [
+  {
+   "id": "civil2023-local-welfare-B-q01",
+   "paperId": "paper_civil_welfare_2023_local_B",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/welfare/2023/local-B/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사정은 환경 속의 인간이라는 맥락에 기초하여 사회복지사와 클라이언트가 협력적으로 수행하며, 클라이언트의 욕구와 문제를 이해하는 과정이다. 개입의 성과를 확인하는 것은 평가 단계의 과업이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "환경 속의 인간이라는 맥락에 기초한다는 설명은 옳다.",
+    "개입의 성과를 확인하는 것은 평가 단계이므로 사정에 대한 설명으로 옳지 않다. 정답입니다.",
+    "사회복지사와 클라이언트의 상호협력적 활동이라는 설명은 옳다.",
+    "클라이언트의 욕구와 문제를 이해하는 과정이라는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2023-local-welfare-B-q02",
+   "paperId": "paper_civil_welfare_2023_local_B",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/welfare/2023/local-B/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n질적조사방법은 주관성, 귀납적 방법, 일반화의 한계 등의 특징을 지니며, 연구절차가 비교적 유연하고 개방적이다. 연구절차가 경직되어 있다는 것은 절차와 통제를 중시하는 양적조사의 특징이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "주관성은 질적조사의 특징이다.",
+    "귀납적 방법은 질적조사의 특징이다.",
+    "일반화의 한계는 질적조사의 특징이다.",
+    "연구절차의 경직성은 양적조사의 특징이므로 질적조사에 대한 설명으로 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-welfare-B-q03",
+   "paperId": "paper_civil_welfare_2023_local_B",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/welfare/2023/local-B/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n베버리지 보고서는 사회보험 운영의 기본 원칙으로 정액 급여, 정액 기여, 행정책임의 통합, 급여의 충분성, 포괄성, 보편성 등을 제시하였다. 열등처우의 원칙은 신구빈법의 원칙으로 베버리지 보고서의 원칙이 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "급여 충분성의 원칙은 베버리지 보고서의 원칙이다.",
+    "열등처우의 원칙은 신구빈법의 원칙이므로 베버리지 보고서의 원칙이 아니다. 정답입니다.",
+    "정액 급여의 원칙은 베버리지 보고서의 원칙이다.",
+    "행정책임 통합의 원칙은 베버리지 보고서의 원칙이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-welfare-B-q04",
+   "paperId": "paper_civil_welfare_2023_local_B",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/welfare/2023/local-B/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n잔여적 관점에서는 가족과 시장경제가 개인의 욕구를 충족시키지 못할 때에만 사회복지 서비스를 잔여적으로 제공한다. 제도적 관점은 사회복지를 필수적인 제도로 보며 보편적 급여를 지향하고, 국가의 시혜가 아니라 수급자의 권리로 보는 것도 제도적 관점이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "자산조사를 통한 선별적 급여는 잔여적 관점에 해당한다.",
+    "급여를 국가의 시혜가 아닌 권리로 보는 것은 제도적 관점이다.",
+    "사회복지를 일시적·보충적 기능으로 보는 것은 잔여적 관점이다.",
+    "가족이나 시장이 욕구를 충족하지 못할 때만 서비스를 제공한다는 설명이 잔여적 관점에 해당한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-welfare-B-q05",
+   "paperId": "paper_civil_welfare_2023_local_B",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/welfare/2023/local-B/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n길버트법은 노동능력이 있는 빈민에게도 원외구제를 허용하여 구빈행정을 완화한 법이다. 비인도적 처우 강화나 요보호 아동의 강제 도제는 엘리자베스 구빈법, 우애방문원의 역할 강조는 자선조직협회에 대한 설명이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "비인도적 빈민처우를 강화한 것은 길버트법이 아니라 엘리자베스 구빈법의 성격이다.",
+    "길버트법이 노동능력이 있는 빈민에게 원외구제를 허용하였다는 설명이 옳다. 정답입니다.",
+    "요보호 아동에게 강제적 도제수습을 받도록 한 것은 엘리자베스 구빈법이다.",
+    "우애방문원의 역할을 강조한 것은 자선조직협회이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-welfare-B-q06",
+   "paperId": "paper_civil_welfare_2023_local_B",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/welfare/2023/local-B/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n노인복지법상 방문요양과 주·야간보호 서비스는 재가노인복지시설에서 제공하는 서비스이다. 노인여가복지시설은 경로당, 노인교실, 노인복지관 등이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "방문요양과 주·야간보호는 재가노인복지시설의 서비스이므로, 노인여가복지시설이 제공한다는 설명이 옳지 않다. 정답입니다.",
+    "노인의료복지시설에 노인요양시설과 노인요양공동생활가정이 있다는 설명은 옳다.",
+    "노인주거복지시설에 양로시설, 노인공동생활가정, 노인복지주택이 있다는 설명은 옳다.",
+    "지역노인보호전문기관이 노인학대 예방교육을 담당한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2023-local-welfare-B-q07",
+   "paperId": "paper_civil_welfare_2023_local_B",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/welfare/2023/local-B/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사례관리 과정은 접수(intake) 이후 사정, 계획, 실행, 점검, 평가의 순으로 진행된다. 점검은 개입이 계획대로 진행되는지 확인하는 과정이고, 평가는 최종 성과를 판단하는 과정이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "계획을 사정보다 앞에 둔 순서가 옳지 않다.",
+    "계획을 사정보다 앞에 두고 점검을 평가보다 뒤에 둔 순서가 옳지 않다.",
+    "사정 → 계획 → 실행 → 점검 → 평가의 순서가 옳다. 정답입니다.",
+    "평가를 실행보다 앞에 둔 순서가 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2023-local-welfare-B-q08",
+   "paperId": "paper_civil_welfare_2023_local_B",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/welfare/2023/local-B/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사회서비스 바우처는 특정 재화나 서비스의 수요자에게 구매권을 제공하는 수요자 재정지원방식으로, 공급자 간 경쟁을 촉진하고 이용자의 선택을 가능하게 한다. 공급자 재정지원방식이라는 설명이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "바우처는 수요자 재정지원방식이므로 공급자 재정지원방식이라는 설명이 옳지 않다. 정답입니다.",
+    "공급자 간 경쟁을 촉진한다는 설명은 옳다.",
+    "수요자에게 일정 금액의 구매권을 제공한다는 설명은 옳다.",
+    "용도 내에서 소비자의 선택이 가능하다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2023-local-welfare-B-q09",
+   "paperId": "paper_civil_welfare_2023_local_B",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/welfare/2023/local-B/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n요약은 면담 내용 전체를 간추려 정리하는 기술이다. 클라이언트의 모호한 말을 더 이해하기 쉬운 말로 정리하는 것은 명료화이므로, 요약에 대한 설명으로 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "모호한 말을 이해하기 쉬운 말로 정리하는 것은 명료화이므로 요약에 대한 설명으로 옳지 않다. 정답입니다.",
+    "재명명에 대한 설명은 옳다.",
+    "재보증에 대한 설명은 옳다.",
+    "해석에 대한 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2023-local-welfare-B-q10",
+   "paperId": "paper_civil_welfare_2023_local_B",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/welfare/2023/local-B/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n우리나라 사회복지사 윤리강령은 한국사회복지사협회가 제정한 것으로, 법률에 준하는 강제적 효력이 있거나 보건복지부장관이 고시하는 것이 아니며 이용료 부과를 전면 금지하지도 않는다. 슈퍼바이저가 전문적 기준에 따라 공정하게 평가하고 결과를 슈퍼바이지와 공유한다는 내용은 윤리강령에 포함된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "윤리강령은 보건복지부장관이 고시하는 것이 아니다.",
+    "윤리강령은 법률에 준하는 강제적 효력이 없다.",
+    "윤리강령은 이용료 부과를 일률적으로 금지하지 않는다.",
+    "슈퍼바이저의 전문적·공정한 슈퍼비전과 평가 결과 공유에 대한 설명이 옳다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-welfare-B-q11",
+   "paperId": "paper_civil_welfare_2023_local_B",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/welfare/2023/local-B/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n인권은 인간의 욕구 충족을 위한 법적 권리로서 국제법과 국제규약, 각국의 국내법에 의해 규정된다(ㄱ, ㄴ). 인권은 문화에 따라 동일하게 규정되는 것이 아니라 보편성과 문화적 다양성이 함께 논의되며, 사회복지실천에서는 인권과 윤리를 상호 연관된 것으로 다룬다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "인권이 욕구 충족을 위한 법적 권리이고 국제법과 국내법에 의해 규정된다는 ㄱ, ㄴ이 옳다. 정답입니다.",
+    "ㄷ에서 인권은 문화를 초월해 각국마다 동일하게 규정된다고 단정할 수 없다.",
+    "ㄹ에서 사회복지실천은 인권과 윤리를 명확히 구분하기보다 함께 다룬다.",
+    "ㄷ과 ㄹ이 모두 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2023-local-welfare-B-q12",
+   "paperId": "paper_civil_welfare_2023_local_B",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/welfare/2023/local-B/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n장애인활동 지원에 관한 법률상 활동지원급여의 종류는 활동보조, 방문목욕, 방문간호, 주간보호, 단기거주시설, 활동보조인 대체 등이며 편의시설 설치는 포함되지 않는다(ㄱ은 옳지 않음). 활동보조는 신체활동·가사활동·이동보조 등을 포함하고(ㄴ), 급여는 장애인이 지역사회 구성원으로 살아갈 수 있도록 제공되어야 한다(ㄷ).",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "ㄱ에서 편의시설 설치는 활동지원급여의 종류가 아니므로 옳지 않다.",
+    "ㄴ만 고른 조합은 급여 제공의 기본이념(ㄷ)을 놓쳤다.",
+    "ㄱ이 포함되어 성립하지 않는다.",
+    "활동보조의 내용(ㄴ)과 급여 제공의 이념(ㄷ)에 대한 설명이 모두 옳다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-welfare-B-q13",
+   "paperId": "paper_civil_welfare_2023_local_B",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/welfare/2023/local-B/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n의료급여제도는 공공부조에 해당하며, 입양특례법에 따라 국내에 입양된 18세 미만의 아동은 수급권자에 해당한다(ㄱ). 의료급여는 사회보험이 아니므로 소득 재분배를 통한 사회보험이라는 설명(ㄴ)과 강제 가입·보험료 납부의 강제성(ㄷ)은 해당하지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "입양된 18세 미만 아동이 수급권자에 해당한다는 ㄱ이 옳다. 정답입니다.",
+    "ㄴ에서 의료급여는 사회보험이 아니므로 성립하지 않는다.",
+    "ㄴ과 ㄷ이 모두 사회보험에 대한 설명이다.",
+    "ㄴ과 ㄷ이 모두 의료급여제도의 성격과 맞지 않는다."
+   ]
+  },
+  {
+   "id": "civil2023-local-welfare-B-q14",
+   "paperId": "paper_civil_welfare_2023_local_B",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/welfare/2023/local-B/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사회보장기본법상 사회보험에 드는 비용은 사용자·피용자·자영업자가 부담하는 것을 원칙으로 하되 관계 법령에 따라 국가가 일부를 부담할 수 있고(가), 공공부조와 일정 소득 이하 국민에 대한 사회서비스 비용은 국가와 지방자치단체가 부담하며(나), 부담 능력이 있는 국민에 대한 사회서비스 비용은 수익자가 부담하되 국가와 지방자치단체가 일부를 부담할 수 있다(다).",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "(나)를 국가로만 본 조합이 옳지 않다.",
+    "국가(가) - 국가와 지방자치단체(나) - 국가와 지방자치단체(다)의 연결이 옳다. 정답입니다.",
+    "(가)와 (나)의 연결이 옳지 않다.",
+    "(가)를 국가와 지방자치단체로, (나)를 국가로 본 연결이 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2023-local-welfare-B-q15",
+   "paperId": "paper_civil_welfare_2023_local_B",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/welfare/2023/local-B/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n강점관점은 모든 개인과 집단, 가족, 지역사회가 강점을 지니고 있으며, 클라이언트의 주변 환경에도 활용 가능한 자원이 존재한다고 본다. 환경의 자원이 매우 부족하다고 보는 것은 결핍 중심의 관점이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "모든 개인과 집단이 강점을 지닌다는 설명은 옳다.",
+    "클라이언트의 주변 환경에 활용 가능한 자원이 부족하다고 보는 것은 강점관점과 반대이므로 옛지 않다. 정답입니다.",
+    "사회복지사와 클라이언트의 협력을 강조한다는 설명은 옳다.",
+    "외상과 질병이 도전과 기회의 원천이 되기도 한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2023-local-welfare-B-q16",
+   "paperId": "paper_civil_welfare_2023_local_B",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/welfare/2023/local-B/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공공부조제도는 자산조사를 통해 저소득층에 급여를 제공하므로 사회보험에 비해 재분배 기능이 높다. 아동수당은 비기여·비자산조사, 기초연금은 비기여·자산조사, 장애인연금은 비기여 방식의 공공부조 성격 제도이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "아동수당은 비기여·비자산조사 프로그램이므로 옳지 않다.",
+    "기초연금은 비기여·자산조사 프로그램이므로 옳지 않다.",
+    "공공부조제도가 사회보험에 비해 재분배 기능이 높다는 설명이 옳다. 정답입니다.",
+    "장애인연금은 사회보험이 아니라 비기여 방식의 급여이므로 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2023-local-welfare-B-q17",
+   "paperId": "paper_civil_welfare_2023_local_B",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/welfare/2023/local-B/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n노인장기요양보험법상 장기요양급여는 재가급여, 시설급여, 특별현금급여로 구분된다. 의료급여는 장기요양급여의 종류가 아니므로 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "장기요양보험 가입자를 국민건강보험법상 가입자로 한다는 설명은 옳다.",
+    "장기요양급여에 의료급여가 포함된다는 설명이 옳지 않으며, 재가급여·시설급여·특별현금급여가 그 종류이다. 정답입니다.",
+    "보험자가 국민건강보험공단이라는 설명은 옳다.",
+    "재원에 대한 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2023-local-welfare-B-q18",
+   "paperId": "paper_civil_welfare_2023_local_B",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/welfare/2023/local-B/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사례관리에서 적격 여부를 확인하여 기관의 클라이언트로 확정하는 과정은 접수(intake) 단계이다. 사정은 욕구·자원·장애물 등을 파악하는 단계이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "사정의 영역에 욕구, 자원, 장애물이 포함된다는 설명은 옳다.",
+    "예기치 않은 과정에서 다양한 이유로 종결될 수 있다는 설명은 옳다.",
+    "적격 여부 확인과 클라이언트 확정은 접수 단계이므로, 이를 사정단계라고 한 설명이 옳지 않다. 정답입니다.",
+    "직접적·간접적 활동을 함께 제공한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2023-local-welfare-B-q19",
+   "paperId": "paper_civil_welfare_2023_local_B",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/welfare/2023/local-B/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률상 정신요양시설은 정신질환자를 입소시켜 급식·요양 등 편의를 제공하고 사회복귀를 촉진하기 위한 생활지도를 하는 시설이다. 각종 훈련과 생활지도를 통한 사회적응 지원은 정신재활시설의 기능이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "정신요양시설은 사회복귀를 위한 생활지도 시설이므로, 각종 훈련을 통한 사회적응 지원을 정신요양시설의 기능으로 설명한 점이 옳지 않다. 정답입니다.",
+    "국가계획·지역계획에 생애주기 및 성별에 따른 정신건강증진사업이 포함되어야 한다는 설명은 옳다.",
+    "정신건강증진시설의 범위에 대한 설명은 옳다.",
+    "중독관리통합지원센터의 설치·운영에 대한 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2023-local-welfare-B-q20",
+   "paperId": "paper_civil_welfare_2023_local_B",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/welfare/2023/local-B/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n청소년복지 지원법상 청소년쉼터는 가정 밖 청소년을 보호하며 상담·주거·학업·자립을 지원하고(ㄱ), 청소년자립지원관은 쉼터 등에서 지원을 받았어도 복귀가 어려운 청소년의 자립을 지원하며(ㄴ), 청소년치료재활센터는 학습·정서·행동상의 장애가 있는 청소년에게 치료·교육·재활을 종합 지원하는 거주형 시설이다(ㄷ).",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "ㄱ, ㄴ만 고른 조합은 청소년치료재활센터(ㄷ)의 옳은 설명을 놓쳤다.",
+    "ㄱ, ㄷ만 고른 조합은 청소년자립지원관(ㄴ)의 옳은 설명을 놓쳤다.",
+    "ㄴ, ㄷ만 고른 조합은 청소년쉼터(ㄱ)의 옳은 설명을 놓쳤다.",
+    "청소년쉼터(ㄱ), 청소년자립지원관(ㄴ), 청소년치료재활센터(ㄷ)에 대한 설명이 모두 옳다. 정답입니다."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_edu_2024_national_gah",
+ "title": "2024 국가직 9급 교육학개론 가책형",
+ "year": 2024,
+ "source": "2024년도 국가공무원 9급 공채 필기시험 교육학개론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_5",
+ "questions": [
+  {
+   "id": "civil2024-national-edu-gah-q01",
+   "paperId": "paper_civil_edu_2024_national_gah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/edu/2024/national-gah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n반복 측정에서 결과가 일관되면 신뢰도는 높지만, 측정하려는 것을 충실히 측정하지 못하면 타당도는 낮다. 신뢰도는 타당도의 필요조건이지 충분조건이 아니므로 두 개념은 따로 판단해야 한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "실용도는 검사의 경제성·편의성과 관련된 개념으로, 이 사례에서 문제가 된 것은 타당도이다.",
+    "결과의 일관성은 신뢰도가 높음을, 측정하려는 것을 측정하지 못함은 타당도가 낮음을 뜻한다. 정답입니다.",
+    "타당도가 높다는 설명 자체가 사례와 맞지 않으며, 난이도는 문항의 쉬움·어려움을 뜻한다.",
+    "사례는 신뢰도가 높고 타당도가 낮은 경우이므로, 타당도가 높고 신뢰도가 낮다는 설명은 반대이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-edu-gah-q02",
+   "paperId": "paper_civil_edu_2024_national_gah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/edu/2024/national-gah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n부버는 인간이 세계와 맺는 관계를 나-너의 관계와 나-그것의 관계로 구분하였다. 나-그것의 관계에서 세계는 경험과 인식과 이용의 대상이 되고, 나-너의 관계는 직접적이고 인격적인 관계로 만남이 이루어진다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "나-너와 나-그것의 관계를 구분하고 만남의 교육을 강조한 사상가는 부버이다. 정답입니다.",
+    "프뢰벨은 놀이와 유희를 통한 아동 발달과 유치원 교육을 강조한 사상가이다.",
+    "피터스는 교육개념의 분석과 도덕적 교육을 논한 분석철학자이다.",
+    "헤르바르트는 교육목적과 교수단계설로 교육학을 체계화한 사상가이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-edu-gah-q03",
+   "paperId": "paper_civil_edu_2024_national_gah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/edu/2024/national-gah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n켈러의 ARCS 동기설계 모형은 주의집중(Attention), 관련성(Relevance), 자신감(Confidence), 만족감(Satisfaction)의 네 요소로 구성된다. 자율성은 ARCS의 구성 요소가 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "관련성(Relevance)은 ARCS 모형의 요소이다.",
+    "만족감(Satisfaction)은 ARCS 모형의 요소이다.",
+    "자신감(Confidence)은 ARCS 모형의 요소이다.",
+    "자율성은 자기결정성 이론의 요소로, ARCS 모형의 네 요소에 포함되지 않는다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-edu-gah-q04",
+   "paperId": "paper_civil_edu_2024_national_gah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/edu/2024/national-gah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n아학편은 조선 후기 실학자 정약용이 아동용 한자 학습서로 편찬한 교재이다. 천자문은 중국에서 전래된 학습서, 동몽선습은 조선 전기의 아동 교재, 입학도설은 권근의 성리학 입문서이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "아학편은 정약용이 직접 편찬한 한자 학습용 교재이다. 정답입니다.",
+    "천자문은 중국 양나라 주흥사가 지은 것으로, 조선 후기 실학자가 편찬한 교재가 아니다.",
+    "동몽선습은 박세무가 지은 조선 전기의 아동용 교재이다.",
+    "입학도설은 권근이 지은 성리학 입문서로, 한자 학습용 교재가 아니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-edu-gah-q05",
+   "paperId": "paper_civil_edu_2024_national_gah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/edu/2024/national-gah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n생활지도는 모든 학생을 대상으로 하며, 문제의 치료·교정보다 예방에 초점을 두고, 인지적 발달뿐 아니라 정의적·신체적 발달을 함께 도모해야 한다. ㄱ, ㄴ, ㄷ 모두 생활지도의 기본 원리에 해당한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "ㄱ과 ㄴ만으로는 정의적·신체적 발달 도모라는 원리가 빠져 있다.",
+    "ㄱ과 ㄷ만으로는 예방 중심의 원리가 빠져 있다.",
+    "ㄴ과 ㄷ만으로는 모든 학생을 대상으로 한다는 원리가 빠져 있다.",
+    "모든 학생 대상, 예방 중심, 전인적 발달의 세 원리가 모두 생활지도의 원리이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-edu-gah-q06",
+   "paperId": "paper_civil_edu_2024_national_gah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/edu/2024/national-gah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n카텔과 혼이 구분한 유동지능은 유전적·신경생리적 영향을 받으며 기계적 암기, 지각, 일반적 추리 능력과 관련되고 청소년기까지 증가하다가 성인기 이후 쇠퇴한다. 결정지능은 경험과 학습에 의해 축적되어 성인기 이후에도 유지·증가한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "결정지능은 문화적 경험과 교육을 통해 습득되는 지능으로, 노년기까지 유지되는 경향이 있다.",
+    "다중지능은 가드너가 제시한 독립적인 여러 지능 영역을 뜻한다.",
+    "성공지능은 스턴버그가 제시한 분석적·창의적·실천적 지능의 조합을 뜻한다.",
+    "유전적·신경생리적 영향으로 청소년기까지 증가하다 쇠퇴하는 지능은 유동지능이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-edu-gah-q07",
+   "paperId": "paper_civil_edu_2024_national_gah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/edu/2024/national-gah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n마샤의 정체성 지위 중 유예(moratorium)는 위기를 경험하며 자신의 정체성을 적극적으로 탐색하고 있으나 아직 구체적인 과업에 전념하지 못한 상태이다. 성취는 탐색 후 전념, 상실(조기완료)은 탐색 없이 전념, 혼미는 탐색과 전념이 모두 없는 상태이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "정체성 동요는 마샤의 지위 구분에서 사용하는 표준 용어가 아니며, 탐색과 전념의 조합으로 설명되지 않는다.",
+    "정체성 상실(조기완료)은 탐색 없이 부모나 주변의 기대를 그대로 받아들여 전념하는 상태이다.",
+    "위기 속에서 적극적으로 탐색하지만 아직 전념하지 못한 상태는 정체성 유예이다. 정답입니다.",
+    "정체성 혼미는 탐색도 전념도 없이 방향을 정하지 못한 상태이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-edu-gah-q08",
+   "paperId": "paper_civil_edu_2024_national_gah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/edu/2024/national-gah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n와이너의 귀인 이론은 원인의 소재(내부·외부), 안정성(안정·불안정), 통제가능성(통제 가능·불가능)의 세 차원으로 귀인을 설명한다. 내부적이고 불안정하며 통제 가능한 귀인은 일시적인 노력이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "과제난이도는 외부적·안정적·통제 불가능한 귀인이다.",
+    "교사의 편견은 외부적 요인에 해당한다.",
+    "내부적·불안정적·통제 가능한 귀인은 일시적인 노력이다. 정답입니다.",
+    "시험 당일의 기분은 내부적·불안정적이지만 통제가 어려운 귀인이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-edu-gah-q09",
+   "paperId": "paper_civil_edu_2024_national_gah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/edu/2024/national-gah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n참모조직은 계선조직을 지원하여 연구·조사·계획 등의 기능을 수행하는 자문·지원 조직이고, 계선조직은 명령과 집행의 계층적 구조를 지닌 조직이다. 명령·집행·결정의 권한은 계선조직에 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "직접적인 명령·집행·결정을 행사하는 것은 계선조직이며, 참모조직은 자문·지원 기능을 담당한다.",
+    "계선조직은 권한과 책임의 체계가 비교적 명확한 조직이다.",
+    "참모조직이 계선조직의 역할 수행을 돕기 위해 연구·조사·계획 기능을 수행한다는 설명이 옳다. 정답입니다.",
+    "계선조직은 수직적 계층구조를, 참모조직은 자문·지원의 성격을 지니므로 설명이 뒤바뀌었다."
+   ]
+  },
+  {
+   "id": "civil2024-national-edu-gah-q10",
+   "paperId": "paper_civil_edu_2024_national_gah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/edu/2024/national-gah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n조하리의 창에서 은폐(hidden) 영역은 자기는 알지만 다른 사람은 모르는 정보로 구성된다. 마음의 문을 닫고 자신을 노출하지 않으면서 상대방의 정보만 얻으려는 태도가 이 영역을 넓힌다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "개방 영역은 자기도 알고 타인도 아는 정보로 구성된다.",
+    "무지 영역은 타인은 알지만 자신은 모르는 정보로 구성된다.",
+    "미지 영역은 자신도 타인도 모르는 정보로 구성된다.",
+    "자기만 알고 타인은 모르는 정보로 구성되며 자기노출을 피할 때 커지는 영역은 은폐 영역이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-edu-gah-q11",
+   "paperId": "paper_civil_edu_2024_national_gah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/edu/2024/national-gah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n헌법 제31조는 능력에 따른 균등한 교육을 받을 권리, 의무교육과 무상교육, 교육의 자주성·전문성·정치적 중립성 및 대학의 자율성 보장, 평생교육의 진흥을 규정하고 있다. 특별한 교육적 배려가 필요한 사람의 교육 지원은 교육기본법 제4조에 규정된 내용이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "평생교육의 진흥은 헌법 제31조 제5항에 명문화되어 있다.",
+    "능력에 따라 균등하게 교육을 받을 권리는 헌법 제31조 제1항에 규정되어 있다.",
+    "교육의 자주성·전문성·정치적 중립성 및 대학의 자율성 보장은 헌법 제31조 제4항에 규정되어 있다.",
+    "특별한 교육적 배려가 필요한 사람의 교육 지원 시책은 교육기본법 제4조의 내용으로, 헌법에 명문화된 내용이 아니다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-edu-gah-q12",
+   "paperId": "paper_civil_edu_2024_national_gah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/edu/2024/national-gah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n적도집권의 원리는 집권과 분권을 적절히 조화시켜 조직을 운영하는 원리이다. 분권을 중심으로 운영하는 것을 원리로 제시한 설명은 적도집권의 의미와 맞지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "적도집권은 분권 중심이 아니라 집권과 분권의 조화를 뜻하므로 옳지 않다. 정답입니다.",
+    "분업의 원리는 업무를 직능·특성별로 구분하여 분담시키는 원리이다.",
+    "조정의 원리는 구성원의 노력을 결집하고 업무 간 관계를 조화시키는 원리이다.",
+    "계층의 원리는 권한과 책임의 정도에 따라 직위를 수직적으로 서열화하는 원리이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-edu-gah-q13",
+   "paperId": "paper_civil_edu_2024_national_gah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/edu/2024/national-gah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n표준교육비는 일정 규모의 단위학교가 현재의 교육목표와 교육과정을 유지하면서 정상적인 교육활동을 수행하는 데 필요한 최소한의 교육비로, 최저소요교육비라고도 한다. 직접교육비·간접교육비는 비용의 성격에 따른 분류이고, 공부담교육비는 부담 주체에 따른 분류이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "간접교육비는 교육을 받지 않음으로써 포기한 소득 등 간접적으로 발생하는 비용이다.",
+    "직접교육비는 교육활동에 직접 지출되는 비용을 뜻하는 분류이다.",
+    "정상적 교육활동에 필요한 최소한의 교육비로 최저소요교육비라고도 하는 것은 표준교육비이다. 정답입니다.",
+    "공부담교육비는 국가나 지방자치단체가 부담하는 교육비를 뜻하는 분류이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-edu-gah-q14",
+   "paperId": "paper_civil_edu_2024_national_gah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/edu/2024/national-gah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n타일러는 학습경험을 효과적으로 조직하기 위한 준거로 계속성, 계열성, 통합성을 제시하였다. 범위는 교육과정이 다루는 내용의 넓이를 뜻하는 개념으로, 타일러가 제시한 조직의 준거에는 포함되지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "범위는 교육과정 내용의 넓이를 가리키는 개념으로, 타일러의 조직 준거에 포함되지 않는다. 정답입니다.",
+    "계속성은 동일한 요소를 여러 수준에서 반복·심화하는 준거이다.",
+    "계열성은 학습경험을 점차 넓고 깊게 조직하는 준거이다.",
+    "통합성은 학습경험이 서로 관련되어 통합되도록 조직하는 준거이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-edu-gah-q15",
+   "paperId": "paper_civil_edu_2024_national_gah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/edu/2024/national-gah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n번스타인은 계층에 따라 언어사용 방식이 다르다고 보고, 중류층은 정교한 언어코드, 노동자 계층은 제한된 언어코드를 많이 사용한다고 하였다. 학교교육은 정교한 언어코드를 요구하므로 제한된 코드를 사용하는 학생이 불리해진다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "학교교육에서는 정교한 언어코드가 주로 요구되므로, 제한된 코드가 많이 사용된다는 설명이 옳지 않다. 정답입니다.",
+    "학생의 출신 배경에 따라 언어방식이 다르다는 설명은 옳다.",
+    "중류층 가정의 학생이 정교한 언어코드를 많이 사용한다는 설명은 옳다.",
+    "노동자 계층 가정의 학생이 제한된 언어코드를 많이 사용한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2024-national-edu-gah-q16",
+   "paperId": "paper_civil_edu_2024_national_gah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/edu/2024/national-gah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n부르디외의 아비투스는 몸에 각인된 행동거지와 말하고 생각하고 행동하는 방식으로 계급적 배경을 반영하는 문화자본의 일종이다. 패러다임은 쿤의 과학철학 개념, 헤게모니와 이데올로기는 지배 이념과 관련된 개념이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "몸에 각인되어 계급적 배경을 반영하고 문화자본의 일종으로 기능하는 것은 아비투스이다. 정답입니다.",
+    "패러다임은 한 시대의 과학적 문제해결 방식을 규정하는 개념틀이다.",
+    "헤게모니는 지배집단이 문화와 의식을 통해 동의를 얻어내는 지배 방식이다.",
+    "이데올로기는 사회적 현실을 해석하고 정당화하는 관념 체계이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-edu-gah-q17",
+   "paperId": "paper_civil_edu_2024_national_gah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/edu/2024/national-gah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n평생교육법 제29조는 학교의 평생교육에 관한 사항을 규정하면서, 학교를 개방할 경우 개방시간 동안 시설의 관리·운영에 필요한 사항은 해당 지방자치단체의 조례로 정하도록 하고 있다. 학교의 장이 이를 임의로 정할 수 있다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "평생교육 실시를 위해 교실·도서관·체육관 등 시설을 활용하여야 한다는 설명은 옳다.",
+    "개방시간 동안 시설의 관리·운영에 필요한 사항은 지방자치단체의 조례로 정하므로, 학교의 장이 정할 수 있다는 설명은 옳지 않다. 정답입니다.",
+    "교육여건을 고려하여 지방자치단체 또는 민간(영리법인·단체 제외)에 위탁할 수 있다는 설명은 옳다.",
+    "각급학교의 장이 교육과정과 방법을 수요자 관점으로 개발·시행하고 지역문화 개발에 노력하여야 한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2024-national-edu-gah-q18",
+   "paperId": "paper_civil_edu_2024_national_gah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/edu/2024/national-gah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n2022 개정 교육과정은 학생 개개인의 인격적 성장 지원, 언어·수리·디지털 기초소양 함양, 다양한 학생 주도형 수업 활성화와 학습 과정을 중시하는 평가를 구성의 중점으로 제시하였다. 따라서 (가)는 인격적, (나)는 디지털, (다)는 학생 주도형이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "인격적·디지털·학생 주도형의 연결이 2022 개정 교육과정의 구성 중점과 일치한다. 정답입니다.",
+    "기초소양으로 제시된 것은 외국어가 아니라 디지털이며, 수업 방식도 학생 참여형이 아니라 학생 주도형이다.",
+    "인격적 성장이 강조되었으므로 통합적이라는 연결이 맞지 않는다.",
+    "통합적·외국어·학생 참여형의 연결은 모두 2022 개정 교육과정의 중점과 어긋난다."
+   ]
+  },
+  {
+   "id": "civil2024-national-edu-gah-q19",
+   "paperId": "paper_civil_edu_2024_national_gah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/edu/2024/national-gah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n문화실조론은 빈곤층 아동이 가정에서 문화적 자극을 충분히 받지 못해 학업성취가 낮아진다고 보며, 미국의 헤드스타트 프로그램의 배경이 되었다(ㄱ). 다만 원인을 가정의 문화 결핍에서 찾으므로 학교요인을 원인으로 보지 않고(ㄴ은 옳지 않음), 문화상대주의자들은 문화실조라는 개념 자체가 성립할 수 없다고 비판하였다(ㄷ).",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "ㄱ만 고른 것은 문화상대주의의 비판(ㄷ)을 놓쳤다.",
+    "헤드스타트의 배경이 되었다는 ㄱ과 문화상대주의의 비판을 나타낸 ㄷ이 모두 옳다. 정답입니다.",
+    "ㄴ은 학교요인을 원인으로 본다는 설명이어서 문화실조론과 맞지 않는다.",
+    "ㄴ이 옳지 않으므로 세 설명을 모두 고른 조합은 성립하지 않는다."
+   ]
+  },
+  {
+   "id": "civil2024-national-edu-gah-q20",
+   "paperId": "paper_civil_edu_2024_national_gah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/edu/2024/national-gah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nTPACK은 슐만의 교수내용지식(PCK)에 테크놀로지 지식을 추가한 개념으로, 교수지식·내용지식·테크놀로지 지식의 상호작용을 이해하고 수업환경에 적합한 테크놀로지를 통합하는 지식을 뜻한다. ASSURE는 교수매체 활용 모형, STAD는 협동학습 모형, WHERETO는 이해중심 교육과정의 설계 요소이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "ASSURE는 교수매체의 효과적 선정과 활용을 위한 수업설계 모형이다.",
+    "STAD는 소집단 성취 분담 협동학습 모형이다.",
+    "교수지식·내용지식·테크놀로지 지식의 상호작용을 통합하는 지식은 TPACK이다. 정답입니다.",
+    "WHERETO는 이해를 위한 교육과정 설계에서 활용하는 요소 점검 목록이다."
+   ]
+  }
+ ]
+}
