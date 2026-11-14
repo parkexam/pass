@@ -36,7 +36,8 @@ initCatalog=async function(){
       const current=db.subjects.find(s=>s.id===item.id);
       if(!current)db.subjects.push({...item,external:true});
       else if(current.external){
-        for(const key of ['kind','section','parentId','meta'])if(item[key]!==undefined)current[key]=item[key];
+        // 이름·섹션은 확장 카탈로그를 기준으로 삼아, 기기에 저장된 이전 이름이 남지 않게 합니다.
+        for(const key of ['name','kind','section','parentId','meta'])if(item[key]!==undefined)current[key]=item[key];
       }
     }
     persist();
