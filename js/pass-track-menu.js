@@ -213,7 +213,6 @@
       : `<section class="catalog-list-section"><h2 class="catalog-section-title">전공과목</h2><div class="catalog-pending">전공과목 안내·기출 준비 중</div></section>`;
     return `${appHeader()}
       <button class="back back-exams" data-act="trackReturn">← ${esc(civilExam() ? civilExam().name : '9급 공무원')}</button>
-      <div class="eyebrow">CIVIL SERVICE</div>
       <h1 class="titleline">${esc(grade)} · ${esc(track.name)}</h1>
       <p class="description">공통과목과 ${esc(track.name)} 전공과목을 한곳에서 풀어보세요.</p>
       ${commonSection}${majorSection}

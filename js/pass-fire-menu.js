@@ -120,7 +120,6 @@
       : '이 직렬의 기출은 아직 준비 중입니다. 표시된 과목은 안내용이며, 해당 연도 공고의 시험과목을 확인해 주세요.';
     return `${appHeader()}
       <button class="back back-exams" data-act="fireReturn">← ${esc(fireExam() ? fireExam().name : '소방 공무원')}</button>
-      <div class="eyebrow">FIRE / 소방 공무원</div>
       <h1 class="titleline">${esc(track.name)}</h1>
       <p class="description">${esc(track.name)}의 시험과목을 한곳에서 확인하고 풀어보세요.</p>
       ${section}

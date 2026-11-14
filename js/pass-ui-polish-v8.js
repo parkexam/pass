@@ -163,13 +163,22 @@
     });
   }
 
+  // 장식용 영문 소제목(.eyebrow)은 화면 어디에도 남기지 않습니다.
+  // 실제 시험명(LEET, TOEIC 등)은 지우지 않도록 예외로 둡니다.
+  var EXAM_NAME = /\b(LEET|MEET|DEET|M·DEET|TOEIC|TOEFL|TEPS|SAT|GRE|GMAT|JLPT|JPT|HSK|MOS|ITQ|GTQ|ERP|CISSP|SQL)\b/i;
+  function removeDecorativeEyebrows(page) {
+    page.querySelectorAll('.eyebrow').forEach(el => {
+      const t = text(el).trim();
+      if (!t) { el.remove(); return; }
+      if (EXAM_NAME.test(t)) return;
+      // 한글이 없는 영문 라벨이거나 '영문 / 한글' 형태의 장식 라벨이면 제거.
+      if (!/[가-힣]/.test(t) || t.includes('/')) el.remove();
+    });
+  }
+
   function cleanSubjectOrTrack(page) {
     // 설명/영문 라벨을 없애더라도 실제 과목 카드, 연도, 문제 제목은 남겨 둡니다.
-    page.querySelectorAll('.eyebrow').forEach(el => {
-      if (el.closest('.header, .hero, .pass-target-hero')) return;
-      const t = text(el);
-      if (t.includes('/') && /[A-Z]{2,}/.test(t)) el.remove();
-    });
+    removeDecorativeEyebrows(page);
     page.querySelectorAll('.description, .notice, p').forEach(el => {
       if (el.closest('button, .paper, .listrow, .header, .pass-target-editor, .panel, .quizhead, .question')) return;
       const t = text(el);
@@ -225,6 +234,7 @@
       const t=text(btn);
       if (t.includes('내가 푼 기출 목록') && !btn.querySelector('.grow')) btn.textContent=t.replace('내가 푼 기출 목록','풀이 완료 기록');
     });
+    removeDecorativeEyebrows(page);
     cleanBackButtons(page);
     if (S.view === 'home') cleanHome(page);
     if (S.view === 'wrong') cleanWrong(page);

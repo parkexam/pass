@@ -43,7 +43,6 @@
     const track = nursingTrack();
     return `${appHeader()}
       <button class="back back-exams" data-act="nursingReturn">← ${esc(examBy('civil')?.name || '9급 공무원')}</button>
-      <div class="eyebrow">CIVIL SERVICE</div>
       <h1 class="titleline">8급 · ${esc(track?.name || '간호')}</h1>
       <p class="description">8급 간호직입니다. 공통과목과 간호 전공과목을 한곳에서 풀어보세요.</p>
       <section class="catalog-list-section"><h2 class="catalog-section-title">공통과목</h2>

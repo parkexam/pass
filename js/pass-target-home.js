@@ -110,7 +110,7 @@
     const hasDraft = draftCount > 0 || !!db.draft?.items?.length;
     hero.classList.add('pass-target-hero');
     hero.innerHTML = `
-      <div class="pass-target-head"><span>MY STUDY</span><span>오늘 <b>${completed}</b> / ${daily}문항</span></div>
+      <div class="pass-target-head"><span>오늘 <b>${completed}</b> / ${daily}문항</span></div>
       <div class="pass-target-goal-row">
         <div class="pass-target-goal-label"><small>내 목표 시험</small><strong>${chosen ? safe(goalLabel(chosen)) : '목표 직렬을 설정해 주세요'}</strong></div>
         <button type="button" data-pass-target="change" class="pass-target-change">변경</button>
@@ -169,7 +169,7 @@
   const styles = `
     .hero.pass-target-hero{min-height:0!important;padding:17px!important;margin-top:2px!important;overflow:visible!important;border-radius:18px!important}
     .hero.pass-target-hero:after{pointer-events:none;opacity:.42}
-    .pass-target-hero .pass-target-head{display:flex;justify-content:space-between;gap:8px;align-items:center;font-size:11px;letter-spacing:.08em;color:#e2e8ff;font-weight:700;position:relative;z-index:1}
+    .pass-target-hero .pass-target-head{display:flex;justify-content:flex-end;gap:8px;align-items:center;font-size:11px;letter-spacing:.08em;color:#e2e8ff;font-weight:700;position:relative;z-index:1}
     .pass-target-head b{color:#fff;font-variant-numeric:tabular-nums}
     .pass-target-goal-row{display:flex;align-items:center;justify-content:space-between;gap:8px;margin:16px 0 12px;position:relative;z-index:1}
     .pass-target-goal-label{min-width:0;display:grid;gap:5px}

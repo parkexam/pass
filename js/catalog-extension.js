@@ -76,7 +76,7 @@ function subTile(sub){
 function catalogSearchBox(placeholder){return `<div class="catalog-search"><span aria-hidden="true">⌕</span><input id="catalogSearch" type="search" placeholder="${esc(placeholder)}" aria-label="${esc(placeholder)}" autocomplete="off"></div><div class="catalog-no-result" id="catalogNoResult" hidden>일치하는 항목이 없습니다.</div>`;}
 library=function(){
  const e=examBy(S.examId);
- if(!e){return `${appHeader()}<div class="eyebrow">QUESTION LIBRARY</div><h1 class="titleline">시험 분야</h1><p class="description">공무원 직렬부터 객관식 자격시험까지 분야별로 찾아보세요.</p>${catCards()}${window.extraCatalogError?`<div class="notice">확장 메뉴 오류: ${esc(window.extraCatalogError)}</div>`:''}`;}
+ if(!e){return `${appHeader()}<h1 class="titleline">시험 분야</h1><p class="description">공무원 직렬부터 객관식 자격시험까지 분야별로 찾아보세요.</p>${catCards()}${window.extraCatalogError?`<div class="notice">확장 메뉴 오류: ${esc(window.extraCatalogError)}</div>`:''}`;}
  const list=db.subjects.filter(s=>s.examId===e.id&&isRootSubject(s));
  const bySection=new Map();
  for(const s of list){const key=s.section||'과목·종목';if(!bySection.has(key))bySection.set(key,[]);bySection.get(key).push(s);}
@@ -94,7 +94,7 @@ subject=function(){
   const own=papersIn(s.id).slice().sort((a,b)=>(Number(b.year)||0)-(Number(a.year)||0));
   let items=children.length?`<div class="catalog-list">${children.map(subTile).join('')}</div>`:'';
   return `${appHeader()}<button class="back back-exams" data-act="backSubjects">← ${s.parentId?esc(subjectBy(s.parentId)?.name||'분야'):esc(examBy(s.examId)?.name||'시험 분야')}</button>
-   <div class="eyebrow">EXAM CATEGORY</div><h1 class="titleline">${esc(s.name)}</h1><p class="description">${own.length||children.length?'등록된 과목이나 시험지를 선택하세요.':'등록된 기출문제가 아직 없습니다.'}</p>
+   <h1 class="titleline">${esc(s.name)}</h1><p class="description">${own.length||children.length?'등록된 과목이나 시험지를 선택하세요.':'등록된 기출문제가 아직 없습니다.'}</p>
    ${items}${own.length?`<div class="sectionbar"><h2>등록된 시험지</h2></div>${own.map(paperCard).join('')}`:''}
    ${!own.length&&!children.length?'<div class="catalog-pending">기출문제 준비 중</div>':''}`;
  }
