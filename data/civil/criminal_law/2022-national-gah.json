@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_criminal_law_2022_national_gah",
+ "title": "2022 국가직 9급 형법 가책형",
+ "year": 2022,
+ "source": "2022년도 국가공무원 9급 공개경쟁채용 필기시험 형법 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_12",
+ "questions": [
+  {
+   "id": "civil2022-national-criminal_law-gah-q01",
+   "paperId": "paper_civil_criminal_law_2022_national_gah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/criminal_law/2022/national-gah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n죄형법정주의의 명확성 원칙은 구성요건에 법관의 보충적 해석이 필요한 개념을 쓰더라도, 통상의 해석방법으로 보호법익과 금지행위, 처벌의 종류·정도를 알 수 있게 규정했으면 위반되지 않는다. 유추해석 금지는 피고인에게 불리한 방향의 유추를 금지하고, 형벌불소급 원칙은 행위 후 제정·개정된 법을 소급 적용하는 것을 금지한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "도로가 아닌 곳에서의 무면허운전을 처벌하는 것은 문언의 범위를 넘는 불리한 유추해석이어서, 반하지 않는다는 설명은 옳지 않다.",
+    "보호관찰은 형벌 자체가 아니어서 개정 형법 시행 전의 범죄에 명해도 형벌불소급 원칙 위반이 아니므로, 위배된다는 설명은 옳지 않다.",
+    "가벼운 형으로 개정하면서 시행 전 범죄에 종전 법을 적용하도록 한 부칙은 오히려 행위자에게 불리하지 않아 형벌불소급 원칙에 반하지 않으므로 옳지 않다.",
+    "보충적 해석이 필요한 개념을 썼더라도 통상의 해석으로 보호법익·금지행위·처벌 정도를 알 수 있으면 명확성 원칙에 반하지 않는다는 설명은 판례에 부합한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-criminal_law-gah-q02",
+   "paperId": "paper_civil_criminal_law_2022_national_gah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/criminal_law/2022/national-gah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n부작위범은 작위 의무가 있는데도 하지 않은 경우 성립하고, 자기의 행위로 위험발생 원인을 야기한 자가 방지하지 않으면 결과에 대한 책임을 진다. 부작위에 의한 업무방해죄가 되려면 부작위가 작위에 의한 방해와 같은 정도의 형법적 가치를 가져야 하고, 퇴거불응죄는 처음부터 부작위를 구성요건으로 정한 진정부작위범이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "자기의 행위로 위험발생 원인을 야기한 자가 방지하지 않으면 결과에 의해 처벌된다는 설명은 형법 제18조와 부합한다.",
+    "형법 제18조의 부작위가 법적 기대라는 규범적 판단 요소로 사회적 중요성을 갖는 행태라는 설명은 옳다.",
+    "건축자재를 공사대금을 받을 목적으로 치우지 않은 경우에 부작위에 의한 업무방해죄가 성립한다고 한 부분이 판례와 달라 옳지 않다. 정답입니다.",
+    "퇴거불응죄가 진정부작위범이라는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-national-criminal_law-gah-q03",
+   "paperId": "paper_civil_criminal_law_2022_national_gah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/criminal_law/2022/national-gah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n상당인과관계는 행위와 결과 사이의 일반적·객관적 관련성을 기준으로 판단한다. 피해자의 특이체질로 인해 사망한 경우처럼 행위자가 예견할 수 없는 특수 사정이 개입하면 인과관계를 부정할 수 있고, 강간 피해자의 자살처럼 피해자의 결단이 개입된 경우에도 인과관계는 쉽게 인정되지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "비정상적으로 얇은 두개골 등 특수 사정으로 사망한 사안에서 인과관계를 부정한 설명은 판례에 부합한다.",
+    "피해자에게 심장질환 지병이 있었어도 폭행과 사망 사이의 상당인과관계를 부정할 수 없다는 설명은 옳다.",
+    "강간 피해자가 수치심과 절망감으로 음독자살한 경우 강간행위와 자살 사이의 인과관계를 인정할 수 있다고 한 부분이 판례와 달라 옳지 않다. 정답입니다.",
+    "폭행을 피하려다 창문 밖으로 숨으려다 떨어져 사망한 경우 폭행과 사망 사이의 인과관계가 인정된다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-national-criminal_law-gah-q04",
+   "paperId": "paper_civil_criminal_law_2022_national_gah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/criminal_law/2022/national-gah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n운전자는 다른 교통관계자가 교통법규를 준수하리라고 신뢰할 수 있는 상황에서 무단횡단까지 예견할 의무를 지지 않는다. 결과적 가중범에서 중한 결과를 예견할 수 없으면 인과관계가 있어도 중한 죄로 벌할 수 없고, 내란죄의 국헌문란 목적은 미필적 인식으로도 인정된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "교통법규 준수를 신뢰해 운행하면 족하다는 설명은 판례에 부합한다.",
+    "결과적 가중범에서 중한 결과를 예견할 수 없으면 중한 죄로 벌할 수 없다는 설명은 옳다.",
+    "내란죄의 국헌문란 목적이 확정적 인식을 요한다고 한 부분이 판례와 달라 옳지 않다. 미필적 인식으로 충분하다. 정답입니다.",
+    "상해 후 사망한 것으로 오인하고 자살로 가장하려 유기한 경우 포괄하여 상해치사죄가 된다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-national-criminal_law-gah-q05",
+   "paperId": "paper_civil_criminal_law_2022_national_gah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/criminal_law/2022/national-gah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n원인에서 자유로운 행위는 행위자가 스스로 심신장애 상태를 야기하기 전에 위험 발생을 예견하면서 자의로 심신장애를 만든 경우로, 형법 제10조 제1항·제2항의 감경이 배제된다. 음주운전을 할 의사로 만취해 운전하다 사고를 낸 경우 등이 여기에 해당한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "살해 의사로 공모한 뒤 대마초를 흡연하고 범행하면 심신장애 감경을 할 수 없다는 설명은 옳다.",
+    "음주운전 의사로 만취해 운전하다 사고를 일으키면 감경할 수 없다는 설명도 옳다.",
+    "위험 발생을 예견하고 자의로 심신장애를 야기한 자에게 제10조 제1, 2항의 적용이 배제된다는 설명은 옳다.",
+    "자신의 차로 술집에 가 술을 마신 뒤 운전하다 사고를 낸 사실만으로는 원인에서 자유로운 행위에 해당하지 않는다고 한 부분이 판례와 달라 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-criminal_law-gah-q06",
+   "paperId": "paper_civil_criminal_law_2022_national_gah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/criminal_law/2022/national-gah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n제한책임설은 위법성조각사유의 전제사실에 관한 착오를 구성요건적 착오에 준해 다루어 고의를 조각하는 견해이고, 이를 법률의 착오로 보는 것은 엄격책임설이다. 법률의 착오가 인정되려면 오인에 정당한 이유가 있어야 하며, 단순한 법률의 부지나 사적인 문의만으로는 부족하다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "제한책임설이 위법성조각사유의 전제사실에 관한 착오를 법률의 착오로 본다고 한 부분이 견해의 내용과 달라 옳지 않다. 정답입니다.",
+    "선거관리위원회 직원에게 사적으로 문의해 답변을 들은 것만으로 정당한 이유가 있다고 보기 어렵다는 설명은 옳다.",
+    "변호사의 조언이 있었다는 것만으로 법률의 착오가 인정되지 않는다는 설명도 옳다.",
+    "건축법상 허가대상인 줄 몰랐다는 것은 단순한 법률의 부지에 불과하다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-national-criminal_law-gah-q07",
+   "paperId": "paper_civil_criminal_law_2022_national_gah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/criminal_law/2022/national-gah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n자구행위는 법정절차로는 청구권을 보전할 수 없고 그 실행이 현저히 곤란해지는 경우에 상당한 이유가 있을 때 위법성이 조각된다. 긴급피난은 타인의 법익에 대한 현재의 위난을 피하기 위한 행위로 상당성이 있어야 하고, 정당방위는 자기 또는 타인의 법익에 대한 현재의 부당한 침해를 방위하는 행위이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "법정절차로 청구권을 보전할 수 없고 실행이 현저히 곤란해지는 경우의 행위를 벌하지 않는다는 설명은 형법 제23조와 부합한다.",
+    "타인의 법익에 대한 현재의 위난을 피하기 위한 행위를 상당한 이유가 있으면 벌하지 않는다는 설명은 형법 제22조와 부합한다.",
+    "권리 주장이 후에 허위로 밝혀졌더라도 묵시적 승낙이 있었던 이상 절취행위로 볼 수 없으므로, 절도죄에 해당한다는 설명은 옳지 않다. 정답입니다.",
+    "흉기로 위해를 가하려 할 때 예방을 위한 행위를 벌하지 않는다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-national-criminal_law-gah-q08",
+   "paperId": "paper_civil_criminal_law_2022_national_gah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/criminal_law/2022/national-gah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n자구행위는 법정절차에 의한 권리보전이 현저히 곤란한 경우에만 인정되고, 과잉자구행위에는 과잉방위와 달리 공포·흥분·당황에 따른 감면 규정이 없다. 타인의 청구권을 보전하기 위한 자구행위는 인정되지 않지만 청구권자로부터 위임받은 경우에는 가능하다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "과잉자구행위에는 과잉방위와 달리 공포·흥분·당황에 따른 벌하지 않는 규정이 없다는 설명은 옳다.",
+    "관리종업원이 있는 가구점의 시정장치를 절단하고 가구를 취거한 행위가 자구행위에 해당하지 않는다는 설명은 옳다.",
+    "타인의 청구권을 보전하기 위한 자구행위는 인정되지 않으나 위임받은 경우에는 가능하다는 설명도 옳다.",
+    "적법한 절차를 취하는 것이 곤란하지 않았는데도 진입로를 폐쇄한 행위가 정당행위나 자력구제에 해당한다고 한 부분이 자구행위의 요건과 달라 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-criminal_law-gah-q09",
+   "paperId": "paper_civil_criminal_law_2022_national_gah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/criminal_law/2022/national-gah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n미수범은 실행의 착수가 있어야 성립하므로 장애미수뿐 아니라 중지미수도 착수를 전제로 한다. 중지미수와 불능미수는 모두 임의적 감면사유이고, 불능미수는 실행의 수단이나 대상의 착오로 결과 발생이 처음부터 불가능한 경우를 말한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "장애미수와 중지미수 모두 실행의 착수가 필요하다는 설명은 옳다.",
+    "불능미수를 필요적 형감면사유로 서술한 부분이 형법 제27조의 임의적 감면과 달라 옳지 않다. 정답입니다.",
+    "낫을 들고 다가섰으나 제3자가 제지해 목적을 이루지 못한 경우 살인미수가 된다는 설명은 옳다.",
+    "불능미수의 '실행의 수단 또는 대상의 착오'가 처음부터 결과 발생이 불가능함을 뜻한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-national-criminal_law-gah-q10",
+   "paperId": "paper_civil_criminal_law_2022_national_gah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/criminal_law/2022/national-gah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n대향범은 두 사람의 대향적 행위로 성립하는 범죄로, 법이 한쪽만 처벌하는 경우 처벌받지 않는 상대방은 그 행위의 교사범이나 방조범이 될 수 없다. 합동범은 2인 이상이 합동해 범하는 경우를 말하고, 실행행위의 시간적·장소적 협동관계가 필요하다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "처벌받지 않는 대향자가 처벌받는 대향자의 교사범이 될 수 있다고 한 부분이 대향범의 법리와 달라 옳지 않다. 정답입니다.",
+    "형법이 절도·강도·도주의 죄에서 2인 이상 합동 범행을 규정하고 있다는 설명은 옳다.",
+    "합동범 성립에 실행행위의 시간적·장소적 협동관계가 필요하다는 설명은 옳다.",
+    "뇌물공여자와 수수자 사이에는 각자 상대방 범행에 공범규정이 적용되지 않는다는 설명도 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-national-criminal_law-gah-q11",
+   "paperId": "paper_civil_criminal_law_2022_national_gah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/criminal_law/2022/national-gah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n형의 선고를 유예할 때 재범 방지를 위해 보호관찰을 명할 수 있고, 집행유예와 함께 보호관찰·사회봉사를 명할 수 있으며, 사회봉사·수강명령은 집행유예기간 내에 집행한다. 준수사항 위반이 무거우면 집행유예를 취소할 수 있으나 취소가 반드시 필요한 것은 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "선고유예 시 보호관찰을 명할 수 있다는 설명은 옳다.",
+    "집행유예와 함께 보호관찰과 사회봉사를 함께 명할 수 있다는 설명은 옳다.",
+    "집행유예 시 내린 사회봉사·수강명령을 집행유예기간 내에 집행한다는 설명은 옳다.",
+    "준수사항 위반 정도가 무거우면 집행유예의 선고를 취소하여야 한다고 단정한 부분이 임의적 취소 규정과 달라 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-criminal_law-gah-q12",
+   "paperId": "paper_civil_criminal_law_2022_national_gah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/criminal_law/2022/national-gah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공동정범은 2인 이상이 공동가공하여 범죄를 실현하려는 의사의 결합이 있으면 성립하고, 그 의사 연락이 묵시적·간접적이어도 되며 반드시 실행 전 모의가 있어야 하는 것은 아니다. 다만 타인의 범행을 인식하면서 제지하지 않고 방관한 것만으로는 공동가공의 의사가 인정되지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "공동가공하여 범죄를 실현하려는 의사의 결합이 있으면 공모관계가 성립한다는 설명은 옳다.",
+    "공동가공의 의사가 있고 그 연락이 묵시적·간접적이어도 된다는 설명은 옳다.",
+    "실행 전 모의가 반드시 있어야 하는 것은 아니라는 설명도 옳다.",
+    "타인의 범행을 인식하면서 제지하지 않고 용인한 것만으로 공동가공의 의사가 인정된다고 한 부분이 판례와 달라 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-criminal_law-gah-q13",
+   "paperId": "paper_civil_criminal_law_2022_national_gah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/criminal_law/2022/national-gah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n형법은 벌금형의 집행유예에 일정한 금액 한도를 두고 있고, 과료를 납입하지 않은 자는 1일 이상 30일 미만의 기간 노역장에 유치해 작업에 복무하게 하며, 형의 시효가 완성되면 형의 집행이 면제된다. 가석방 기간 중의 범죄로 인한 가석방 처분의 효력에 관한 규정은 그 문구가 위와 같이 단순하지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "벌금형의 집행유예는 금액에 상관없이 할 수 있다는 서술이 법정 한도와 달라 틀렸으므로, ㄱ이 포함된 이 조합은 옳지 않다.",
+    "과료 미납 시 노역장 유치(ㄴ)와 형의 시효 완성 시 집행 면제(ㄷ)가 모두 형법 규정과 일치한다. 정답입니다.",
+    "ㄱ이 빠졌더라도 ㅁ이 형법 규정과 맞지 않아 옳지 않다.",
+    "ㄹ과 ㅁ이 모두 형법 규정과 맞지 않아 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2022-national-criminal_law-gah-q14",
+   "paperId": "paper_civil_criminal_law_2022_national_gah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/criminal_law/2022/national-gah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n성폭력처벌법 제7조는 13세 미만 아동에 대한 강제추행을 규정하는데, 아동의 신체에 직접 접촉하지 않았더라도 성적 수치심을 일으키는 행위이면 추행에 해당할 수 있다. 형법 제302조가 미성년자·심신미약자에 대한 위계·위력 간음·추행을 별도로 규정한 것도 이들의 낮은 판단능력과 대처능력 때문이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "13세 미만 아동에게 성기를 꺼내어 잡고 움직인 행위가 신체 접촉이 없고 곧 벗어날 수 있었다는 이유로 제7조의 강제추행에 해당하지 않는다고 한 부분이 판례와 달라 옳지 않다. 정답입니다.",
+    "형법 제302조가 미성년자·심신미약자의 낮은 판단능력과 대처능력 때문에 완화된 요건을 규정한 것이라는 설명은 옳다.",
+    "깊은 잠이나 약물로 정상적 판단능력을 행사할 수 없는 상태가 심신상실·항거불능에 해당한다는 설명은 옳다.",
+    "업무·고용 관계로 보호·감독을 받는 사람에 채용 절차에서 영향력 범위 안에 있는 사람도 포함된다는 설명도 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-national-criminal_law-gah-q15",
+   "paperId": "paper_civil_criminal_law_2022_national_gah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/criminal_law/2022/national-gah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n횡령죄는 타인의 재물을 보관하는 자가 그 재물을 횡령하는 범죄로, 반환을 거부했다는 사실만으로는 부족하고 반환거부의 이유와 주관적 의사 등을 종합해 횡령행위와 같다고 볼 수 있어야 한다. 회사 대표이사가 적법한 절차 없이 회사 자금을 사적 용도로 인출·사용하면 횡령죄가 된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "대표이사가 적법한 절차 없이 회사 자금을 사적 용도로 인출·사용한 행위가 횡령죄를 구성한다는 설명은 옳다.",
+    "유실물인 줄 알면서 당국에 신고하지 않고 친구 집에 운반한 사실만으로는 점유이탈물횡령의 범의를 인정하기 어렵다는 설명은 옳다.",
+    "단순한 반환거부만으로는 횡령죄가 성립하지 않는다는 설명도 옳다.",
+    "주주총회나 이사회 결의가 있었더라도 회사 재산을 사적으로 처분했으면 횡령죄의 죄책을 면할 수 없으므로, 면할 수 있다는 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-criminal_law-gah-q16",
+   "paperId": "paper_civil_criminal_law_2022_national_gah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/criminal_law/2022/national-gah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n특수강간이 미수에 그쳤어도 상해 결과가 발생하면 특수강간치상죄가 성립하고, 체포의 고의로 피해자를 끌고 갔다가 일시적 자유 박탈에 그쳤다면 체포죄의 미수로 보며, 주간에 절도 목적으로 주거에 침입했으나 물건을 절취하지 못한 경우에는 주거침입죄가 성립한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "ㄱ(특수강간치상의 미수범 인정)과 ㄹ이 판례 입장과 맞지 않아, 옳지 않은 것만 모은 조합은 ㄱ·ㄹ이다.",
+    "ㄱ과 ㄹ이 판례 입장과 맞지 않으므로, 옳지 않은 것만 모은 조합은 ㄱ·ㄹ이다. 정답입니다.",
+    "ㄴ·ㄷ은 판례 입장에 부합해 옳지 않은 것에 해당하지 않는다.",
+    "ㄷ은 판례에 부합하므로 옳지 않은 것만 고른 조합이 아니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-criminal_law-gah-q17",
+   "paperId": "paper_civil_criminal_law_2022_national_gah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/criminal_law/2022/national-gah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n명예훼손죄의 공연성은 불특정 또는 다수인에게 전파될 가능성이 있으면 인정되고, 발언 상대가 가족·친척이어서 부정되지 않는다. 표현이 평균적 독자의 관점에서 의견 표명에 불과하면 사실의 적시에 해당하지 않고, 진실한 사실로서 공공의 이익을 위한 것이면 부수적 사익 목적이 있어도 형법 제310조가 적용된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "남편과 친척에게 말했더라도 다른 사람이 들을 수 있는 상황이면 공연성이 인정된다는 설명은 옳다.",
+    "'기레기'라는 댓글이 모욕적 표현이나 사회상규에 위배되지 않아 위법성이 조각된다는 설명은 판례에 부합한다.",
+    "평균적 독자의 관점에서 비평자의 주관적 의견에 해당하더라도 사실의 적시가 된다고 한 부분이 판례와 달라 옳지 않다. 정답입니다.",
+    "진실한 사실이고 공공의 이익을 위한 것이면 부수적 사익 목적이 있어도 제310조 적용이 배제되지 않는다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-national-criminal_law-gah-q18",
+   "paperId": "paper_civil_criminal_law_2022_national_gah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/criminal_law/2022/national-gah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n뇌물죄의 '직무'에는 법령상 관장하는 직무뿐 아니라 직무와 밀접한 관계가 있는 행위, 관례상·사실상 소관하는 행위, 결정자를 보좌하거나 영향을 줄 수 있는 행위도 포함된다. 임용결격자의 임용이 무효여도 외관을 갖추고 공무를 수행했다면 수뢰죄가 성립한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "투기적 사업 참여 기회를 뇌물로 받은 경우의 기수 시기와 이득 미발생의 영향에 관한 설명은 옳다.",
+    "'직무'에 관례상·사실상 소관하는 행위나 결정자를 보좌하거나 영향을 줄 수 있는 행위가 포함되지 않는다고 한 부분이 판례와 달라 옳지 않다. 정답입니다.",
+    "임용결격자의 임용이 무효라도 실제로 공무를 수행했다면 수뢰죄로 처벌할 수 있다는 설명은 옳다.",
+    "뇌물공여죄 성립에 상대방의 뇌물수수죄 성립이 반드시 필요한 것은 아니라는 설명도 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-national-criminal_law-gah-q19",
+   "paperId": "paper_civil_criminal_law_2022_national_gah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/criminal_law/2022/national-gah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n방화죄는 목적물의 독립 연소로 공공의 안전을 해하는 범죄로, 반소에 그쳐도 기수가 성립하고 방화 후 진화해도 이미 기수이다. 하나의 방화행위로 사망 결과가 발생하면 현주건조물방화치사죄 등이 성립하고 살인죄와는 상상적 경합이 된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "공동 방화 후 반소에 그쳤어도 甲과 乙 모두 방화죄의 기수범이라는 설명은 옳다.",
+    "하나의 방화행위로 부친과 형이 사망한 경우 살인죄·존속살해죄 등과의 관계를 실체적 경합범으로 본 부분이 상상적 경합의 법리와 달라 옳지 않다. 정답입니다.",
+    "사실상 기거할 수 없는 폐가를 태워 벽을 그을리게 한 경우 일반물건방화죄의 미수이나 처벌규정이 없어 불가벌이라는 설명은 옳다.",
+    "보험금 편취 목적으로 자기 거주 건물에 방화하고 아직 청구하지 않았어도 현주건조물방화죄의 기수라는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-national-criminal_law-gah-q20",
+   "paperId": "paper_civil_criminal_law_2022_national_gah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/criminal_law/2022/national-gah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n폭행은 사람의 신체에 대한 불법한 유형력 행사로, 신체 접촉이 없더라도 때릴 듯한 동작이나 물건 투척은 폭행이 된다. 다만 욕설만으로는 폭행이 되지 않고, 음향에 의한 폭행은 음량·지속시간·거리와 상황을 종합해 판단한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "신체 접촉이 없어도 때릴 듯 손발을 휘두르거나 물건을 던지는 행위가 폭행에 해당한다는 설명은 옳다.",
+    "욕설만으로 폭행이 되지 않고 대문을 찬 것도 곧바로 신체에 대한 유형력 행사가 아니라는 설명은 옳다.",
+    "집회·시위 과정에서 일시적으로 상당한 소음이 발생했다는 사정만으로 음향에 의한 폭행이 인정된다고 한 부분이 판례와 달라 옳지 않다. 정답입니다.",
+    "수화자가 고통을 느낄 정도가 아닌 전화 고성이나 녹음 재생은 유형력 행사로 보기 어렵다는 설명은 옳다."
+   ]
+  }
+ ]
+}

@@ -125,6 +125,42 @@
       "examId": "civil",
       "name": "지방세법",
       "order": 9
+    },
+    {
+      "id": "sub_civil_10",
+      "examId": "civil",
+      "name": "교정학개론",
+      "order": 10
+    },
+    {
+      "id": "sub_civil_11",
+      "examId": "civil",
+      "name": "형사소송법개론",
+      "order": 11
+    },
+    {
+      "id": "sub_civil_12",
+      "examId": "civil",
+      "name": "형법",
+      "order": 12
+    },
+    {
+      "id": "sub_civil_13",
+      "examId": "civil",
+      "name": "형사소송법",
+      "order": 13
+    },
+    {
+      "id": "sub_civil_14",
+      "examId": "civil",
+      "name": "노동법개론",
+      "order": 14
+    },
+    {
+      "id": "sub_civil_15",
+      "examId": "civil",
+      "name": "국제법개론",
+      "order": 15
     }
   ],
   "papers": [
@@ -1886,6 +1922,156 @@
       "source": "2022년도 지방공무원 9급 등 공개경쟁임용 필기시험 지방세법 A책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
       "questionCount": 20,
       "dataFile": "data/civil/localtax/2022-local-A.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_correction_2022_national_gah",
+      "subjectId": "sub_civil_10",
+      "title": "2022 국가직 9급 교정학개론 가책형",
+      "year": 2022,
+      "source": "2022년도 국가공무원 9급 공개경쟁채용 필기시험 교정학개론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/correction/2022-national-gah.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_correction_2023_national_nah",
+      "subjectId": "sub_civil_10",
+      "title": "2023 국가직 9급 교정학개론 나책형",
+      "year": 2023,
+      "source": "2023년도 국가공무원 9급 공개경쟁채용 필기시험 교정학개론 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/correction/2023-national-nah.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_correction_2024_national_gah",
+      "subjectId": "sub_civil_10",
+      "title": "2024 국가직 9급 교정학개론 가책형",
+      "year": 2024,
+      "source": "2024년도 국가공무원 9급 공개경쟁채용 필기시험 교정학개론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/correction/2024-national-gah.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_correction_2025_national_nah",
+      "subjectId": "sub_civil_10",
+      "title": "2025 국가직 9급 교정학개론 나책형",
+      "year": 2025,
+      "source": "2025년도 국가공무원 9급 공개경쟁채용 필기시험 교정학개론 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/correction/2025-national-nah.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_correction_2026_national_gah",
+      "subjectId": "sub_civil_10",
+      "title": "2026 국가직 9급 교정학개론 가책형",
+      "year": 2026,
+      "source": "2026년도 국가공무원 9급 공개경쟁채용 필기시험 교정학개론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/correction/2026-national-gah.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_crimproc_intro_2022_national_gah",
+      "subjectId": "sub_civil_11",
+      "title": "2022 국가직 9급 형사소송법개론 가책형",
+      "year": 2022,
+      "source": "2022년도 국가공무원 9급 공개경쟁채용 필기시험 형사소송법개론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/crimproc_intro/2022-national-gah.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_crimproc_intro_2023_national_nah",
+      "subjectId": "sub_civil_11",
+      "title": "2023 국가직 9급 형사소송법개론 나책형",
+      "year": 2023,
+      "source": "2023년도 국가공무원 9급 공개경쟁채용 필기시험 형사소송법개론 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/crimproc_intro/2023-national-nah.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_crimproc_intro_2024_national_gah",
+      "subjectId": "sub_civil_11",
+      "title": "2024 국가직 9급 형사소송법개론 가책형",
+      "year": 2024,
+      "source": "2024년도 국가공무원 9급 공개경쟁채용 필기시험 형사소송법개론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/crimproc_intro/2024-national-gah.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_crimproc_intro_2025_national_nah",
+      "subjectId": "sub_civil_11",
+      "title": "2025 국가직 9급 형사소송법개론 나책형",
+      "year": 2025,
+      "source": "2025년도 국가공무원 9급 공개경쟁채용 필기시험 형사소송법개론 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/crimproc_intro/2025-national-nah.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_crimproc_intro_2026_national_gah",
+      "subjectId": "sub_civil_11",
+      "title": "2026 국가직 9급 형사소송법개론 가책형",
+      "year": 2026,
+      "source": "2026년도 국가공무원 9급 공개경쟁채용 필기시험 형사소송법개론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/crimproc_intro/2026-national-gah.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_criminal_law_2022_national_gah",
+      "subjectId": "sub_civil_12",
+      "title": "2022 국가직 9급 형법 가책형",
+      "year": 2022,
+      "source": "2022년도 국가공무원 9급 공개경쟁채용 필기시험 형법 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/criminal_law/2022-national-gah.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_criminal_law_2023_national_nah",
+      "subjectId": "sub_civil_12",
+      "title": "2023 국가직 9급 형법 나책형",
+      "year": 2023,
+      "source": "2023년도 국가공무원 9급 공개경쟁채용 필기시험 형법 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/criminal_law/2023-national-nah.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_criminal_law_2024_national_gah",
+      "subjectId": "sub_civil_12",
+      "title": "2024 국가직 9급 형법 가책형",
+      "year": 2024,
+      "source": "2024년도 국가공무원 9급 공개경쟁채용 필기시험 형법 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/criminal_law/2024-national-gah.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_criminal_law_2025_national_nah",
+      "subjectId": "sub_civil_12",
+      "title": "2025 국가직 9급 형법 나책형",
+      "year": 2025,
+      "source": "2025년도 국가공무원 9급 공개경쟁채용 필기시험 형법 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/criminal_law/2025-national-nah.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_criminal_law_2026_national_gah",
+      "subjectId": "sub_civil_12",
+      "title": "2026 국가직 9급 형법 가책형",
+      "year": 2026,
+      "source": "2026년도 국가공무원 9급 공개경쟁채용 필기시험 형법 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/criminal_law/2026-national-gah.json",
       "external": true
     }
   ]

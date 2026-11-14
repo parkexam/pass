@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_criminal_law_2026_national_gah",
+ "title": "2026 국가직 9급 형법 가책형",
+ "year": 2026,
+ "source": "2026년도 국가공무원 9급 공개경쟁채용 필기시험 형법 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_12",
+ "questions": [
+  {
+   "id": "civil2026-national-criminal_law-gah-q01",
+   "paperId": "paper_civil_criminal_law_2026_national_gah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/criminal_law/2026/national-gah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n고의는 구성요건적 사실의 인식과 그 실현을 용인하는 의사로, 미필적 고의도 결과 발생 가능성의 인식과 위험의 용인을 함께 갖추어야 한다. 의료과오에서 과실은 같은 업무에 종사하는 일반적 의사의 주의 정도를 표준으로 판단하고, 살해 목적의 발사가 다른 사람에게 명중해도 살인의 고의는 조각되지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "의료과오에서 과실의 판단 기준에 관한 설명은 판례에 부합한다.",
+    "살해 목적으로 총을 발사한 이상 다른 사람에게 명중해도 살인의 고의가 조각되지 않는다는 설명은 옳다.",
+    "행정상 단속법규도 명문이 없으면 고의가 있어야 벌할 수 있다는 설명은 옳다.",
+    "미필적 고의에 위험을 용인하는 내심의 의사까지 있어야 한다고 하는 것이 판례이므로, 용인의 의사가 필요 없다는 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_law-gah-q02",
+   "paperId": "paper_civil_criminal_law_2026_national_gah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/criminal_law/2026/national-gah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n심신장애는 사물변별능력이나 의사결정능력의 결여 또는 감소를 뜻하고, 정도의 차이만 있을 뿐이다. 위험 발생을 예견하고 자의로 심신장애를 야기한 경우에는 감경이 배제되고, 소아기호증 같은 질환이 다른 심신장애 사유와 경합하면 책임능력 저하를 판단할 여지가 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "심신장애의 두 형태가 장애 정도의 강약 차이에 불과하다는 설명은 옳다.",
+    "음주운전 의사로 만취해 사고를 낸 경우 원인에서 자유로운 행위로서 감경할 수 없다는 설명은 옳다.",
+    "소아기호증이 다른 심신장애 사유와 경합된 경우에도 심신장애를 인정할 여지가 없다고 한 부분이 판례와 달라 옳지 않다. 정답입니다.",
+    "사물변별능력·의사결정능력이 사실의 인식능력이나 기억능력과 반드시 일치하지 않는다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_law-gah-q03",
+   "paperId": "paper_civil_criminal_law_2026_national_gah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/criminal_law/2026/national-gah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n형법 제16조의 법률의 착오는 자기 행위가 법령에 따라 허용된다고 오인한 경우로, 단순한 법률의 부지는 원칙적으로 포함되지 않는다. 위법성 인식에 필요한 노력의 정도는 구체적 정황과 행위자의 인식능력에 따라 달리 평가되고, 위법성 인식은 사회정의와 조리에 어긋난다는 인식으로 족하다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "법률의 부지가 법률의 착오에 포함된다고 한 부분이 형법 제16조의 해석과 달라 옳지 않다. 정답입니다.",
+    "위법성 인식에 필요한 노력의 정도가 행위정황과 인식능력에 따라 달리 평가되어야 한다는 설명은 옳다.",
+    "일시적으로 판례상 처벌 대상이 아니었던 적이 있다는 것만으로 정당한 이유가 인정되지 않는다는 설명은 옳다.",
+    "위법성 인식이 구체적 법조문까지의 인식을 요하지 않는다는 설명도 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_law-gah-q04",
+   "paperId": "paper_civil_criminal_law_2026_national_gah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/criminal_law/2026/national-gah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n보호법익과 위법상태의 계속 여부에 따라 범죄를 유형화한다. 체포죄는 계속범, 횡령죄는 위험범, 도주죄는 신분범으로 분류되고, 일반교통방해죄는 추상적 위험범으로 교통이 불가능하거나 현저히 곤란한 상태가 발생하면 기수가 된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "체포죄가 계속범이라는 설명은 옳다.",
+    "횡령죄가 위험범이라는 설명은 옳다.",
+    "도주죄가 진정신분범이라는 설명도 옳다.",
+    "일반교통방해죄를 침해범이라고 전제한 부분이 위험범이라는 법리와 달라 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_law-gah-q05",
+   "paperId": "paper_civil_criminal_law_2026_national_gah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/criminal_law/2026/national-gah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n긴급피난은 현재의 위난을 피하기 위한 행위로 보충성·균형성·상당성을 갖추어야 한다. 보전되는 이익이 침해되는 이익보다 우월해야 하고, 피해자의 승낙은 법익을 처분할 수 있는 사람의 승낙으로서 사회상규에 반하지 않아야 한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "긴급피난에서 보전이익이 침해이익보다 우월할 것까지 요하지 않는다고 한 부분이 법익균형 요건과 달라 옳지 않다. 정답입니다.",
+    "자구행위의 정의에 관한 설명은 옳다.",
+    "피해자의 승낙이 처분 가능한 법익에 대한 것이고 사회상규에 반하지 않아야 한다는 설명은 옳다.",
+    "추정적 승낙의 개념에 관한 설명도 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_law-gah-q06",
+   "paperId": "paper_civil_criminal_law_2026_national_gah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/criminal_law/2026/national-gah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n책임조각사유로는 강요된 행위와 기대불가능성이 문제된다. '저항할 수 없는 폭력'은 육체적·윤리적 강압을 포함하고, 미리 안 시험문제를 답안지에 옮기지 않기를 기대하기는 어렵지만, 상관의 명령에 대한 불문율만으로 중대·명백한 위법명령에 따른 행위가 기대불가능이 되지는 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "'저항할 수 없는 폭력'의 의미에 관한 설명은 옳다.",
+    "시험문제를 미리 안 수험생에게 답을 기재하지 않기를 기대하기 어렵다는 설명은 옳다.",
+    "병역법상 '정당한 사유'가 기대불가능성에 한정된다고 한 부분이 구체적 사정을 종합해 판단하는 법리와 달라 옳지 않다. 정답입니다.",
+    "불문율만으로 중대·명백한 위법명령에 따른 행위를 기대불가능으로 볼 수 없다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_law-gah-q07",
+   "paperId": "paper_civil_criminal_law_2026_national_gah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/criminal_law/2026/national-gah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n장애미수와 중지미수는 실행 착수 당시 행위자가 의도한 범죄의 기수가 성립할 가능성이 있었던 경우이고, 불능미수는 처음부터 결과 발생 가능성이 객관적으로 배제된 경우이다. 중지는 자의적이어야 하고, 예비·음모 단계에서는 중지범 관념이 인정되지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "중지가 사회통념상 범죄 완수에 장애가 되는 사정에 의한 것이라면 중지미수가 된다고 한 부분이 자의성 요건과 달라 옳지 않다.",
+    "예비·음모 단계에서도 중지범의 관념을 인정할 수 있다고 한 부분이 판례와 달라 옳지 않다.",
+    "장애·중지미수가 착수 당시 기수 가능성이 있었던 점에서 불능미수와 구별된다는 설명은 옳다. 정답입니다.",
+    "불능미수의 위험성을 피고인이 주관적으로 판단한다고 한 부분이 객관적 위험성 판단과 달라 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_law-gah-q08",
+   "paperId": "paper_civil_criminal_law_2026_national_gah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/criminal_law/2026/national-gah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n죄형법정주의는 판례의 변경으로 처벌 범위가 확인되더라도 곧바로 형벌불소급이나 평등원칙 위반이 되지 않고, 명확성 원칙의 요구 정도는 법률이나 조항의 성격에 따라 달라진다. 소급효 금지와 유추해석 금지, 적정성 원칙이 모두 그 내용을 이룬다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "ㄷ만 고른 조합은 ㄱ·ㄴ·ㄹ을 빠뜨렸다.",
+    "ㄱ·ㄹ만 고른 조합은 ㄴ·ㄷ을 빠뜨렸다.",
+    "ㄴ·ㄷ·ㄹ을 고른 조합은 ㄱ을 빠뜨렸다.",
+    "ㄱ(판례 변경에 따른 처벌이 형벌불소급·평등원칙에 반하지 않는다), ㄴ(명확성 원칙의 요구 정도는 조항 성격에 따라 다르다), ㄷ, ㄹ이 모두 옳은 서술이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_law-gah-q09",
+   "paperId": "paper_civil_criminal_law_2026_national_gah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/criminal_law/2026/national-gah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사회상규에 위배되지 않는 행위는 목적의 정당성, 수단의 상당성, 법익의 균형성을 종합해 판단한다. 긴급성·보충성은 수단의 상당성을 판단하는 고려요소일 뿐 '일체의 법률적 수단이 존재하지 않을 것'을 요구하는 독립적 요건은 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "긴급성과 보충성이 '일체의 법률적 적법한 수단이 존재하지 않을 것'을 의미한다고 한 부분이 판례와 달라 옳지 않다. 정답입니다.",
+    "목적의 정당성·수단의 상당성과 법익균형의 판단 위치에 관한 설명은 옳다.",
+    "긴급성·보충성이 상당성 판단의 고려요소라는 설명은 옳다.",
+    "사회상규 조항의 도입 취지에 관한 설명도 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_law-gah-q10",
+   "paperId": "paper_civil_criminal_law_2026_national_gah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/criminal_law/2026/national-gah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공동정범은 공동의 의사로 서로의 행위를 이용해 범죄를 실현하는 기능적 행위지배가 필요하고, 단순한 인식과 용인만으로는 부족하다. 과실범도 공동정범이 될 수 있으나 의사 연락이나 공동의 주의의무 위반 인식이 필요하다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "공동가공의 의사가 타인의 범행을 인식하고 용인하는 것만으로 족하다고 한 부분이 판례와 달라 옳지 않다.",
+    "과실범도 공동정범이 될 수 있으나 의사 연락과 공동의 주의의무 위반 인식이 필요하다는 설명은 옳다. 정답입니다.",
+    "결과적가중범의 공동정범에 결과를 공동으로 할 의사까지 있어야 한다고 한 부분이 옳지 않다.",
+    "공모에 의한 공동실행이 구성요건 실현을 전제로 한다고 한 부분이 기능적 행위지배의 법리와 달라 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_law-gah-q11",
+   "paperId": "paper_civil_criminal_law_2026_national_gah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/criminal_law/2026/national-gah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n교사범은 교사행위로 피교사자가 범행을 결의한 경우 성립하고, 교사자가 상해를 교사했으나 피교사자가 살인을 실행한 경우에도 사망 결과에 대한 예견가능성이 있으면 상해치사죄의 교사범 책임이 문제된다. 종범은 실행 전이나 실행 중의 방조로 성립하고 그 형은 정범보다 감경한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "상해 교사 후 살인 실행 시 상해치사죄의 교사범 책임이 문제된다는 설명은 옳다.",
+    "종범의 형을 정범보다 감경한다는 설명은 형법 제32조와 부합한다.",
+    "사후방조는 종범으로 볼 수 없다는 설명은 옳다.",
+    "피교사자의 결의가 교사행위로 생긴 것이 아니면 교사범이 성립하지 않고 형법 제31조 제3항을 곧바로 적용할 수 없으므로, 미수에 준해 처벌할 수 있다는 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_law-gah-q12",
+   "paperId": "paper_civil_criminal_law_2026_national_gah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/criminal_law/2026/national-gah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n법조경합은 하나의 행위가 외관상 여러 구성요건에 해당하지만 실질적으로는 하나의 죄로 평가되는 경우이다. 형법 제37조 후단의 경합범 제한과 불가벌적 수반행위에 관한 법리가 죄수 판단의 기준이 된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "ㄴ·ㄹ 조합은 ㄷ이 빠져 정답이 아니다.",
+    "ㄷ과 ㄹ이 모두 옳은 서술이다. 정답입니다.",
+    "ㄱ이 포함되어 있는데, 법조경합을 수죄로 보는 서술은 실질적 일죄라는 점과 달라 옳지 않다.",
+    "ㄱ이 포함되어 있어 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_law-gah-q13",
+   "paperId": "paper_civil_criminal_law_2026_national_gah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/criminal_law/2026/national-gah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n집행유예 결격사유에는 금고 이상의 형을 선고받고 집행이 종료·면제된 후 3년이 지나지 않은 경우 등이 있고, 형을 선고할 때 이미 이전 집행유예가 실효·취소된 경우도 포함된다. 임의적 감경으로 유기징역을 법률상 감경하면 상한과 하한을 모두 2분의 1로 감경한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "ㄱ이 포함된 조합은 옳지 않다.",
+    "ㄴ이 옳은 서술이다. 정답입니다.",
+    "ㄴ·ㄷ 조합은 ㄷ이 옳지 않아 정답이 아니다.",
+    "ㄱ이 포함되어 있어 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_law-gah-q14",
+   "paperId": "paper_civil_criminal_law_2026_national_gah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/criminal_law/2026/national-gah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n업무방해죄의 '업무'는 계속·반복적으로 행해지는 사무로, 일회적·일시적 사무라도 본래 업무와 밀접불가분의 관계에 있으면 업무에 해당할 수 있다. 무자격 개설 의료기관에서 고용된 의료인의 진료행위도 업무방해죄의 보호대상이 된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "ㄱ이 포함된 조합은 일회적 사무가 업무에 해당할 수 없다는 서술 때문에 옳지 않다.",
+    "ㄷ과 ㄹ이 모두 옳은 서술이다. 정답입니다.",
+    "ㄱ이 포함되어 있어 옳지 않다.",
+    "ㄱ이 포함되어 있어 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_law-gah-q15",
+   "paperId": "paper_civil_criminal_law_2026_national_gah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/criminal_law/2026/national-gah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사기죄는 기망행위, 착오, 처분행위, 재산상 이익 취득이 순차적으로 이루어져야 성립한다. 도급계약에서 편취의 고의는 계약 당시 완성할 의사나 능력이 있었는지를 기준으로 판단하고, 재물에 대한 사용·수익권은 별개의 재산상 이익이 아니라 재물의 가치에 포함된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "도급계약에서 편취 고의 판단 시점에 관한 설명은 옳다.",
+    "피기망자와 피해자가 다를 때 피기망자의 처분 권능이 필요하다는 설명은 옳다.",
+    "재물에 대한 사용·수익권이 재물과 별개의 재산상 이익으로 사기죄의 보호대상에 포함된다고 한 부분이 판례와 달라 옳지 않다. 정답입니다.",
+    "재물이 피해자의 지배 아래에 있으면 처분행위가 있었다고 볼 수 없다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_law-gah-q16",
+   "paperId": "paper_civil_criminal_law_2026_national_gah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/criminal_law/2026/national-gah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n권리행사방해죄는 타인의 점유·권리의 목적이 된 자기의 물건을 취거·은닉·손괴해 권리행사를 방해하는 범죄이다. 공유물이 제한물권이나 채권의 목적이 된 경우 공유자가 이를 취거·은닉하면 자기 물건에 대한 권리행사방해로 평가될 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "공유자가 공유물을 취거·은닉해 다른 공유자의 권리행사를 방해하면 권리행사방해죄가 성립할 수 있다는 설명은 판례에 부합한다. 정답입니다.",
+    "여러 사람의 권리의 목적이 된 물건을 한 행위로 은닉하면 권리자별로 각 죄가 성립하고 실체적 경합이 된다는 설명은 옳다.",
+    "점유자의 하자 있는 의사에 기한 점유 이전도 '취거'에 해당할 수 있다는 설명은 옳지 않다.",
+    "지배인이 직무권한 범위 내에서 법인 물건을 취거한 경우 자기의 물건을 취거한 경우에 해당하지 않는다고 한 부분은 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_law-gah-q17",
+   "paperId": "paper_civil_criminal_law_2026_national_gah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/criminal_law/2026/national-gah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n문서에 관한 죄는 문서의 진정성과 공신력을 보호한다. 여권 기재사항이 존재하지 않거나 무효사유에 해당하는 흠이 있으면 불실기재에 해당하지만, 취소사유에 불과한 흠은 취소 전까지 불실기재가 아니고, 국가유공자증 제시에 따른 공문서부정행사 여부도 본래 용도에 따른 사용인지로 판단한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "ㄱ(여권 불실기재의 구별)이 옳은 서술이다.",
+    "ㄱ과 ㄹ이 모두 옳은 서술이다. 정답입니다.",
+    "ㄴ·ㄷ 조합은 ㄱ을 빠뜨렸다.",
+    "ㄷ·ㄹ 조합은 ㄱ을 빠뜨려 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_law-gah-q18",
+   "paperId": "paper_civil_criminal_law_2026_national_gah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/criminal_law/2026/national-gah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n무고죄는 타인으로 하여금 형사처분을 받게 할 목적으로 공무소에 허위 사실을 신고해 성립한다. 신고 내용이 객관적으로 진실에 부합하면 허위 신고가 아니고, 신고 내용 자체로 형사처분 가능성이 없음이 명백하면 국가 형사권 발동의 위험이 없어 성립하지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "신고자가 허위라고 믿었어도 객관적으로 진실에 부합하면 무고죄가 성립하지 않는다는 설명은 옳다.",
+    "징계처분의 원인에 불과한 사실은 무고죄의 신고 대상이 아니라는 설명은 옳다.",
+    "고소기간이 경과해 공소를 제기할 수 없음이 신고내용 자체로 분명해도 벌칙조항이 존재하므로 무고죄가 성립한다고 한 부분이 판례와 달라 옳지 않다. 정답입니다.",
+    "고소장을 제출한 때 기수에 이르고 되돌려 받아도 성립에 영향이 없다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_law-gah-q19",
+   "paperId": "paper_civil_criminal_law_2026_national_gah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/criminal_law/2026/national-gah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n양벌규정에 따라 처벌받는 행위자가 자기 이익을 위해 증거를 인멸하면 증거인멸죄가 성립하지 않고, 강요죄는 개인적 자유 침해의 일반법이어서 간접정범 형태의 유사강간죄가 성립하면 별도로 강요죄가 성립하지 않는다. 간음 목적 유인죄는 목적한 장소에 데리고 간 때 기수가 된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "양벌규정의 행위자가 자기 이익을 위해 증거를 인멸하면 증거인멸죄가 성립하지 않는다는 설명은 옳다.",
+    "간접정범 형태의 유사강간죄가 성립하면 별도로 강요죄가 성립하지 않는다는 설명은 옳다.",
+    "간음 목적 유인죄가 기수에 이르면 이후 피해자를 풀어주어도 형을 감경할 수 없다고 한 부분이 법령의 감경 규정과 달라 옳지 않다. 정답입니다.",
+    "타인 소유물을 본래 용법대로 무단 사용·수익한 행위가 재물손괴죄에 해당하지 않는다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-criminal_law-gah-q20",
+   "paperId": "paper_civil_criminal_law_2026_national_gah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/criminal_law/2026/national-gah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n형법 제151조 제2항의 친족간 특례는 법률상 친족관계가 있어야 적용되고, 배임죄는 본인에게 손해가 있고 행위자나 제3자가 재산상 이익을 취득해야 성립한다. 장물은 재산범죄로 취득한 물건 자체를 말하고, 부동산 인도집행으로 형성된 점유는 강제집행의 효용으로 보호된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "인지하지 않은 혼인외 출생자와 생부 사이에는 친족간 특례가 적용되지 않는다는 설명은 옳다.",
+    "배임죄 성립에 재산상 이익 취득이 필요하다는 설명은 옳다.",
+    "불가벌적 사후행위로 취득한 물건도 장물이 될 수 있다는 설명은 옳다.",
+    "위법한 인도집행으로 취득한 점유는 보호가치가 없어 이후 침입이 효용침해죄에 해당하지 않는다고 한 부분이 판례와 달라 옳지 않다. 정답입니다."
+   ]
+  }
+ ]
+}
