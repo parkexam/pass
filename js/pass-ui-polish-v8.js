@@ -29,11 +29,19 @@
     #app .pass-v8-chevron { display:inline-block; font-size:25px; line-height:1; font-weight:500; vertical-align:-2px; margin-right:5px; }
     #app .page button.back, #app .page button.pass-library-home { display:inline-flex; align-items:center; gap:2px; white-space:normal; text-align:left; }
     #app .metric b .pass-v8-unit { display:inline; font-size:11px; margin-left:3px; font-weight:700; letter-spacing:0; color:var(--muted,#74829a); }
+    /* 홈 통계 카드: 라벨을 위, 숫자를 아래로. 좁은 폰 폭에서도 왼쪽 글자가 잘리지 않도록 정렬/여백 고정 */
+    #app .metrics { grid-template-columns:repeat(3,minmax(0,1fr)); gap:8px; }
+    #app .metrics .metric { display:flex; flex-direction:column-reverse; justify-content:flex-end; align-items:flex-start; gap:5px; padding:12px 12px 13px; min-width:0; max-width:100%; overflow:visible; text-align:left; }
+    #app .metrics .metric span { display:block; width:100%; max-width:100%; margin:0; color:var(--muted,#74829a); font-size:11px; line-height:1.25; letter-spacing:-.02em; white-space:normal; word-break:keep-all; overflow-wrap:break-word; }
+    #app .metrics .metric b { display:flex; align-items:baseline; width:100%; max-width:100%; margin:0; font-size:19px; line-height:1.12; letter-spacing:-.05em; white-space:nowrap; }
     #app .wrong-entry .pass-v8-paper-title { max-width:100%; white-space:normal; word-break:keep-all; overflow-wrap:anywhere; text-align:left; line-height:1.45; font-size:11px; }
     #app .sectionbar button.link { white-space:nowrap; }
     @media (max-width:389px) {
       #app .pass-v8-draft-delete { padding:7px 8px; font-size:11px; }
       #app .pass-v8-draft-item .pass-drafts-row b { font-size:12px; }
+      #app .metrics { gap:7px; }
+      #app .metrics .metric { padding:11px 10px 12px; gap:4px; }
+      #app .metrics .metric b { font-size:17.5px; }
     }
   `;
   document.head.appendChild(style);
