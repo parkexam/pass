@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_admin_law_2024_national_gah",
+ "title": "2024 국가직 9급 행정법총론 가책형",
+ "year": 2024,
+ "source": "2024년도 국가공무원 9급 공채 필기시험 행정법총론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_3",
+ "questions": [
+  {
+   "id": "civil2024-national-adminlaw-gah-q01",
+   "paperId": "paper_civil_admin_law_2024_national_gah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_law/2024/national-gah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n행정기본법은 법령등의 시행일 계산에서 공포한 날부터 일정 기간이 경과한 날부터 시행하는 경우 공포한 날을 첫날에 산입하지 않는다(제7조 제2호). 공포한 날을 첫날로 산입한다는 ③이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "행정기본법 제6조 제1항은 기간 계산에 관하여 이 법이나 다른 법령등에 특별한 규정이 없으면 민법을 준용하도록 하고 있으므로 옳다.",
+    "행정기본법 제7조 제3호는 시행일 계산에서 그 기간의 말일이 토요일 또는 공휴일인 때에도 그 말일로 기간이 만료한다고 규정하므로 옳다.",
+    "행정기본법 제7조 제2호는 공포한 날부터 일정 기간이 경과한 날부터 시행하는 경우 공포한 날을 첫날에 산입하지 않는다고 하므로, 첫날에 산입한다는 이 설명이 옳지 않다. 정답입니다.",
+    "행정기본법 제6조 제2항은 권익 제한·의무 부과 기간을 일·주·월·연으로 정한 경우 첫날을 산입하고, 그것이 국민에게 불리하면 그러하지 않도록 하므로 옳다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminlaw-gah-q02",
+   "paperId": "paper_civil_admin_law_2024_national_gah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_law/2024/national-gah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공무원 인사관계 법령에 따른 처분 가운데 행정절차법의 적용이 배제되는 것은 징계처분과 본질적으로 같은 불이익 처분이다. 판례는 진급예정자명단에 포함된 자에 대한 진급선발취소처분이 이에 해당하지 않아 의견제출의 기회를 주어야 한다고 보았으므로, 위법하지 않다고 한 ③이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "행정절차법 제30조 제1항은 청문의 공개 요건과 공개 금지 사유를 이와 같이 규정하므로 옳다.",
+    "처분의 근거와 이유를 당사자가 알 수 있을 정도로 제시하였다면 구체적 조항·내용까지 명시하지 않았어도 위법이 아니라는 것이 판례의 태도이므로 옳다.",
+    "진급선발취소처분은 징계와 본질적으로 동일한 불이익 처분으로 볼 수 없어 행정절차법 적용이 배제되지 않는다. 따라서 의견제출의 기회를 주지 않은 것은 절차상 하자가 있어 위법하다. 정답입니다.",
+    "절차·형식의 위법을 이유로 과세처분이 취소된 경우 그 기판력은 적시된 위법사유에만 미치므로, 과세관청이 그 사유를 보완하여 다시 과세처분을 할 수 있다는 것이 판례이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminlaw-gah-q03",
+   "paperId": "paper_civil_admin_law_2024_national_gah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_law/2024/national-gah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n청구기간 내에 적법하게 제기된 헌법소원을 헌법재판소 재판관이 청구기간을 오인하여 각하한 경우, 그에 대한 불복·시정절차가 없다면 국가배상책임이 인정된다는 것이 판례이다. 국가배상책임을 인정할 수 있다는 ②가 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "국가배상법상 '공무원의 직무'는 공무원이 공무로서 하는 작용을 말하며, 행정주체가 사경제 주체로서 하는 작용은 이에 포함되지 않는다.",
+    "헌법재판소 재판관의 직무집행도 국가배상의 대상이 되고, 청구기간을 오인한 각하결정에 불복·시정절차가 없으면 국가배상책임이 인정된다. 정답입니다.",
+    "군 복무 중 사망한 군인의 유족이 국가배상법에 따른 손해배상금을 받은 경우, 국가는 군인연금법상 사망보상금을 지급할 때 그 손해배상금 상당액을 공제할 수 있다(이중배상 금지).",
+    "국가배상법 제7조는 외국인이 피해자인 경우 해당 국가와 상호 보증이 있을 때에만 이 법을 적용하므로, 상호보증이 없으면 적용되지 않는다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminlaw-gah-q04",
+   "paperId": "paper_civil_admin_law_2024_national_gah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_law/2024/national-gah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n개인을 식별할 수 없도록 처리된 대학수학능력시험 원데이터를 연구목적으로 공개청구한 사안에서, 판례는 정보공개법상 비공개대상정보에 해당하지 않는다고 보았다. 비공개대상정보에 해당한다는 ③이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "학교폭력대책자치위원회 회의록은 공개될 경우 업무의 공정한 수행에 현저한 지장을 초래할 상당한 이유가 있는 정보에 해당한다는 것이 판례이다.",
+    "공개방법을 사본·출력물의 교부로 선택하여 청구한 경우, 법령이 정한 제한 사유에 해당하지 않으면 공공기관은 그 방법을 선택할 재량권이 없다는 것이 판례이다.",
+    "연구목적 공개청구라 하더라도 개인 식별이 불가능하도록 처리된 수능 원데이터는 비공개대상정보에 해당하지 않는다. 정답입니다.",
+    "공익 또는 권리구제를 위한 정보인지는 비공개로 보호되는 이익과 공개로 보호되는 이익을 비교·교량하여 구체적 사안에 따라 판단하여야 한다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminlaw-gah-q05",
+   "paperId": "paper_civil_admin_law_2024_national_gah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_law/2024/national-gah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n행정청은 행정심판이나 행정소송이 진행 중이더라도 직권으로 처분을 취소할 수 있고, 쟁송의 계속만으로 직권취소가 금지되지는 않는다. 쟁송 중에는 스스로 취소할 수 없다는 ①이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "쟁송이 계속 중이라는 사정만으로 행정청의 직권취소가 금지되지 않는다. 정답입니다.",
+    "행정기본법 제19조 제1항 제2호에 따라 사정변경으로 처분을 존속시킬 필요가 없게 되면 장래를 향하여 철회할 수 있으므로 옳다.",
+    "불가쟁력이 발생하여도 실권의 법리에 해당하지 않으면 직권취소가 가능하다는 것이 판례이다.",
+    "행정기본법 제18조 제1항은 위법·부당한 처분의 전부나 일부를 소급하여 취소하되, 신뢰보호 등 정당한 사유가 있으면 장래를 향하여 취소할 수 있다고 규정하므로 옳다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminlaw-gah-q06",
+   "paperId": "paper_civil_admin_law_2024_national_gah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_law/2024/national-gah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n행정기본법 시행령 제7조 제1항은 과징금 납부기한의 연기나 분할 납부를 신청하려면 납부기한 10일 전까지 사유를 증명하는 서류를 첨부하여 신청하도록 한다. 7일 전까지라고 한 ②가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "부당지원행위에 대한 과징금은 행정상 제재금으로서 부당이득환수적 요소가 부가되어 있을 뿐 형벌이 아니라는 것이 판례이다.",
+    "신청 기한은 납부기한 10일 전까지이므로 7일 전까지라는 설명이 옳지 않다. 정답입니다.",
+    "여러 위반행위를 인지한 경우 전부를 일괄하여 하나의 과징금 부과처분을 하는 것이 원칙이고, 일부만 우선 부과한 뒤 나머지를 나중에 부과하는 것은 허용되지 않는다는 것이 판례이다.",
+    "행정기본법 제28조 제2항은 과징금의 부과·징수 주체, 부과 사유, 상한액, 가산금, 강제징수에 관한 사항을 법률에 명확히 규정하도록 하므로 옳다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminlaw-gah-q07",
+   "paperId": "paper_civil_admin_law_2024_national_gah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_law/2024/national-gah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n토지 인도의무가 공법상 의무라고 하더라도 권리에 끼칠 현저한 손해를 피하기 위한 경우에는 그 의무를 피보전권리로 하는 민사상 명도단행가처분을 구할 수 있다. ㄷ이 옳지 않으므로 옳은 것은 ㄱ·ㄴ·ㄹ이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "ㄱ과 ㄴ만 고른 경우로, ㄹ이 옳다는 점을 반영하지 못하였다.",
+    "ㄴ과 ㄹ만 고른 경우로, ㄱ이 옳다는 점을 반영하지 못하였다.",
+    "ㄱ(토지인도명령 불이행에는 대집행 불가), ㄴ(대집행으로 실현할 수 있는 경우 민사소송 불가), ㄹ(대집행 방해 시 경찰 지원 가능)이 옳고, ㄷ(가처분 불가)만 옳지 않으므로 정답입니다.",
+    "ㄴ·ㄷ·ㄹ을 고른 경우로, 옳지 않은 ㄷ이 포함되어 있다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminlaw-gah-q08",
+   "paperId": "paper_civil_admin_law_2024_national_gah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_law/2024/national-gah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n민원예비심사 결과 '저촉사항 없음'이라는 통보는 이후 처분에 관한 공적인 견해표명으로 보기 어렵다는 것이 판례이다. 이를 공적 견해표명에 해당한다고 한 ①이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "민원예비심사 결과의 통보는 공적인 견해표명으로 보기 어려워 신뢰보호원칙을 적용하기 어렵다. 정답입니다.",
+    "도시계획 담당 공무원이 환매하겠다고 약속하고 토지소유자가 이를 믿고 협의매매한 뒤 지정해제 신청을 거부한 것은 신뢰보호원칙에 위반되거나 재량권을 남용한 위법한 처분이라는 것이 판례이다.",
+    "법률안을 심의·의결한 사실만으로는 법률로 확정되지 않은 이상 신뢰를 부여하였다고 볼 수 없다.",
+    "헌법재판소의 위헌결정은 행정청의 공적인 견해표명이 아니어서 신뢰보호원칙이 적용되지 않는다는 것이 판례이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminlaw-gah-q09",
+   "paperId": "paper_civil_admin_law_2024_national_gah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_law/2024/national-gah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n과징금 부과처분이 법정 한도액을 초과한 경우 법원은 한도액을 초과하는 부분만 취소할 수 있고, 한도액 내에서 적정한 금액을 정하는 것은 행정청의 재량이어서 법원이 감액할 수 없다. 적정 부분을 초과한 부분도 취소할 수 있다는 ①이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "법원은 한도액을 초과한 부분의 취소만 할 수 있고 적정액을 정할 수는 없으므로, 적정 부분을 초과한 부분까지 취소할 수 있다는 설명은 옳지 않다. 정답입니다.",
+    "건축물대장의 용도변경신청 거부는 권리관계에 영향을 미치는 행정처분으로 항고소송의 대상이 된다는 것이 판례이다.",
+    "공사낙찰적격심사세부기준은 공공기관의 내부규정에 불과하여 대외적 구속력이 없으므로, 이를 근거로 한 감점처분은 위법하다는 것이 판례이다.",
+    "무허가 건물에서 식품접객업 영업신고를 하면 건축법 위반 상태가 유지되므로 적법한 신고를 할 수 없다는 것이 판례이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminlaw-gah-q10",
+   "paperId": "paper_civil_admin_law_2024_national_gah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_law/2024/national-gah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n어떤 보상항목이 손실보상대상임에도 토지수용위원회가 대상이 아니라고 잘못 재결한 경우, 피보상자는 사업시행자를 상대로 보상금 증액을 구하는 소송으로 다투면 되고 재결취소소송을 제기하여야 하는 것은 아니다. ④가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "영업을 위한 투자비용이나 장래의 기대이익은 영업손실보상의 대상이 아니라는 것이 판례이다.",
+    "보상금 액수를 다투는 경우 사업시행자를 상대로 보상금 증액청구소송을 제기하여야 한다.",
+    "토지수용위원회 재결에 대한 행정소송 제기는 사업의 진행과 토지의 수용·사용을 정지시키지 않는다(공익사업법 제88조).",
+    "보상대상 여부에 관한 잘못된 재결도 보상금 증액소송으로 다툴 수 있으므로, 반드시 재결취소소송을 제기하여야 한다는 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminlaw-gah-q11",
+   "paperId": "paper_civil_admin_law_2024_national_gah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_law/2024/national-gah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n거부처분이 재결로 취소된 뒤 행정청은 동일한 사유로 다시 거부할 수 없지만, 재결 후에 발생한 새로운 사유가 있으면 다시 거부할 수 있다. 새로운 사유를 내세워 거부할 수 없다고 한 ③이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "행정심판 재결이 처분을 취소하면 별도의 처분을 기다리지 않고 처분의 효력이 소멸한다.",
+    "불복기간 경과로 확정되면 더 이상 다툴 수 없다는 의미일 뿐 판결과 같은 기판력이 인정되지는 않는다.",
+    "재결 후 새로운 사유가 발생한 경우에는 그 사유를 들어 다시 거부처분을 할 수 있으므로, 할 수 없다는 설명이 옳지 않다. 정답입니다.",
+    "교원소청심사위원회의 결정은 처분청을 기속하고, 그 기속력은 주문뿐 아니라 구체적 위법사유에 관한 판단에도 미친다는 것이 판례이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminlaw-gah-q12",
+   "paperId": "paper_civil_admin_law_2024_national_gah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_law/2024/national-gah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n음주운전 단속경찰관이 보관 중이던 차량열쇠를 반환한 뒤 사고가 난 사안에서 판례는 국가배상책임을 인정하였고, 법률상 이익은 직접적·구체적 이익에 한정되어 간접적·사실적 이해관계는 포함되지 않는다. 옳지 않은 것은 ㄴ·ㄷ이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "ㄱ·ㄴ을 고른 경우로, ㄱ은 옳은 판례이고 ㄴ도 옳지 않으므로 답이 될 수 없다.",
+    "ㄱ·ㄹ을 고른 경우로, ㄱ과 ㄹ은 모두 옳은 판례이므로 옳지 않다.",
+    "ㄴ(경찰관의 과실이 인정되어 국가배상책임이 인정된다), ㄷ(법률상 이익에 간접적·사실적 이해관계는 포함되지 않는다)이 옳지 않은 판례이므로 정답입니다.",
+    "ㄷ·ㄹ을 고른 경우로, ㄹ은 옳은 판례이므로 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminlaw-gah-q13",
+   "paperId": "paper_civil_admin_law_2024_national_gah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_law/2024/national-gah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지방자치단체도 법인으로서 그 소속 공무원이 자치사무 수행 중 범한 위반행위에 대하여 양벌규정에 따라 처벌대상이 될 수 있다. 처벌대상 법인에 해당하지 않는다는 ①이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "지방자치단체도 양벌규정의 적용대상이 되는 법인이므로, 해당하지 않는다는 설명이 옳지 않다. 정답입니다.",
+    "법인격 없는 공공기관은 양벌규정으로 처벌할 수 없고, 그 경우 행위자도 처벌할 수 없다는 것이 판례이다.",
+    "질서위반행위규제법은 과태료의 부과·징수, 재판 및 집행에 관한 다른 법률의 규정에 우선하여 적용된다.",
+    "질서위반행위규제법상 당사자와 검사는 과태료 재판에 대하여 즉시항고할 수 있고, 항고는 집행정지의 효력이 있다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminlaw-gah-q14",
+   "paperId": "paper_civil_admin_law_2024_national_gah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_law/2024/national-gah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n과세처분의 근거 법률이 위헌으로 결정된 뒤에는 과세처분이 확정되었더라도 그 집행을 위한 압류처분은 허용되지 않는다. 압류처분을 다툴 방법이 없다는 ㄱ과 위헌결정의 기속력이 무관하다는 ㄴ이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "ㄱ만 고른 경우로, ㄴ도 옳지 않으므로 옳지 않다.",
+    "ㄱ·ㄴ을 고른 경우로, 두 설명이 모두 옳지 않으므로 정답입니다.",
+    "ㄱ·ㄷ을 고른 경우로, ㄷ은 옳은 설명이므로 옳지 않다.",
+    "ㄴ·ㄷ을 고른 경우로, ㄷ은 옳은 설명이므로 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminlaw-gah-q15",
+   "paperId": "paper_civil_admin_law_2024_national_gah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_law/2024/national-gah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n행정기본법 제27조는 행정청이 법령등을 위반하지 않는 범위에서 공법상 계약을 체결하고 계약서를 작성하도록 하며, 사법상 계약에는 사적 자치와 계약자유의 원칙이 적용된다. 옳은 것은 ㄱ·ㄹ이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "ㄱ·ㄴ을 고른 경우로, ㄴ이 옳지 않으므로 옳지 않다.",
+    "ㄱ·ㄹ을 고른 경우로, 옳은 것을 모두 고른 것이므로 정답입니다.",
+    "ㄱ·ㄷ·ㄹ을 고른 경우로, ㄷ이 옳지 않으므로 옳지 않다.",
+    "ㄴ·ㄷ·ㄹ을 고른 경우로, ㄴ과 ㄷ이 옳지 않으므로 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminlaw-gah-q16",
+   "paperId": "paper_civil_admin_law_2024_national_gah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_law/2024/national-gah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n부담이 붙은 처분에서 부담이 무효가 되면 본체인 처분의 효력에도 영향을 줄 수 있으나, 상대방이 부담을 이행하여 한 사법상 매매 등의 법률행위 자체가 당연무효가 되는 것은 아니다. ④가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "기부채납받은 행정재산의 사용·수익허가 기간은 부관으로서 이에 대하여 독립하여 행정소송을 제기할 수 없다는 것이 판례이다.",
+    "기부채납의 부관이 당연무효이거나 취소되지 않은 이상, 그 부관으로 인한 착오를 이유로 증여계약을 취소할 수 없다는 것이 판례이다.",
+    "부담의 이행을 요구하는 다른 행정청의 의사표시가 당연히 항고소송의 대상이 되는 처분은 아니라는 것이 판례이다.",
+    "부담의 이행으로 한 사법상 법률행위는 당연무효가 아니므로, 그 법률행위 자체가 당연무효라는 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminlaw-gah-q17",
+   "paperId": "paper_civil_admin_law_2024_national_gah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_law/2024/national-gah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n도시기본계획은 도시계획 입안의 지침이 되는 계획으로서 원칙적으로 직접적인 구속력이 없고, 도시계획시설결정이 기본계획의 예정 범위를 넘었다는 사정만으로 위법하다고 할 수 없다. 직접적 구속력이 있다고 한 ④가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "행정청은 구체적인 행정계획을 입안·결정할 때 광범위한 형성의 재량을 가진다.",
+    "이익형량이 정당성과 객관성을 결여하면 그 행정계획 결정은 위법하게 될 수 있다.",
+    "후행 도시계획에 선행 계획과 양립할 수 없는 내용이 있으면 특별한 사정이 없는 한 선행 도시계획이 후행 계획과 같은 내용으로 변경된다는 것이 판례이다.",
+    "도시기본계획은 직접적인 구속력이 없으므로, 이를 전제로 한 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminlaw-gah-q18",
+   "paperId": "paper_civil_admin_law_2024_national_gah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_law/2024/national-gah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공익법인의 기본재산 처분허가는 수익적 행정행위인 허가로서, 법령에 특별한 제한이 없는 한 부관(조건)을 붙일 수 있다. 조건으로서 부관의 부과가 허용되지 않는다고 한 ④가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "여객자동차운송사업의 한정면허는 수익적 행정행위로서 재량행위이다.",
+    "난민 인정 신청에 대하여 행정청은 법령이 정한 난민 요건의 해당 여부만 심사할 수 있고, 요건과 무관한 사유만으로 거부할 수 없다는 것이 판례이다.",
+    "사업자단체 설립인가는 인가권자의 지도·감독 권한과 구체적 인가기준의 부재 등에 비추어 재량행위로 보아야 한다는 것이 판례이다.",
+    "허가에도 부관을 붙일 수 있으므로, 조건으로서 부관의 부과가 허용되지 않는다는 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminlaw-gah-q19",
+   "paperId": "paper_civil_admin_law_2024_national_gah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_law/2024/national-gah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n법률의 위임 근거 없이 제정되어 무효였던 법규명령이라도, 이후 법률이 개정되어 위임 근거가 마련되면 그때부터 유효한 법규명령이 된다는 것이 판례이다. 그때부터 유효하게 되지는 않는다고 한 ③이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "행정기본법은 위헌·위법이 명백한 법령 등을 정부가 개선하도록 하는 법령개선 의무를 규정하고 있다.",
+    "헌법 제107조 제2항의 구체적 규범통제를 통해 당사자는 행정입법의 위법성을 선결문제로 다툴 수 있다.",
+    "사후에 위임 근거가 마련되면 그때부터 유효한 법규명령이 되므로, 되지 않는다는 설명이 옳지 않다. 정답입니다.",
+    "시행령은 위임받은 사항과 법률의 집행에 필요한 세부 사항만 규정할 수 있고, 위임 없이 권리·의무에 관한 내용을 변경·보충하거나 새로운 내용을 규정할 수 없다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminlaw-gah-q20",
+   "paperId": "paper_civil_admin_law_2024_national_gah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_law/2024/national-gah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n민간투자사업에서 우선협상대상자를 선정하는 행위는 판례상 항고소송의 대상이 되는 처분에 해당한다. 처분에 해당하지 않는다고 한 ④가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "여객자동차운수사업법상 거짓·부정한 방법으로 지급받은 보조금의 환수처분은 기속행위라는 것이 판례이다.",
+    "재량권의 일탈·남용에 관한 증명책임은 그 행정행위의 효력을 다투는 사람이 부담한다는 것이 판례이다.",
+    "고용보험·산업재해보상보험의 당연가입자인 사업주의 보험료 납부의무 부존재확인은 당사자소송으로 다투어야 한다.",
+    "판례는 우선협상대상자 선정행위의 처분성을 인정하므로, 처분에 해당하지 않는다는 설명이 옳지 않다. 정답입니다."
+   ]
+  }
+ ]
+}

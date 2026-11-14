@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_admin_law_2024_local_C",
+ "title": "2024 지방직 9급 행정법총론 C책형",
+ "year": 2024,
+ "source": "2024년도 지방공무원 9급 등 공개경쟁임용 필기시험 행정법총론 C책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_3",
+ "questions": [
+  {
+   "id": "civil2024-local-adminlaw-C-q01",
+   "paperId": "paper_civil_admin_law_2024_local_C",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_law/2024/local-C/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n신뢰보호원칙은 행정청의 공적 견해표명이 있고 그에 대한 신뢰가 정당하며 사정변경이 없을 때 적용된다. 견해표명 당시의 사정이 변경된 경우에는 원칙적으로 신뢰보호원칙이 적용되지 않으므로, 변경된 경우에도 위반된다고 한 ①이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "견해표명 이후 사정이 변경되었고 그 변경이 합리적인 것이라면 견해표명에 반하는 처분을 하더라도 신뢰보호원칙에 위반된다고 볼 수 없으므로, 이 설명이 옳지 않다. 정답입니다.",
+    "개인의 귀책사유에 관한 이 설명은 판례가 제시하는 기준과 같다.",
+    "공적 견해표명 여부는 형식적 권한분장이 아니라 담당자의 지위·임무, 언동의 경위, 상대방의 신뢰가능성에 비추어 실질적으로 판단한다.",
+    "장기간 권한을 행사하지 않아 행사하지 않으리라는 신뢰가 형성되면 권한을 행사할 수 없지만, 공익이나 제3자의 이익을 현저히 해칠 우려가 있으면 예외라는 것이 판례이다."
+   ]
+  },
+  {
+   "id": "civil2024-local-adminlaw-C-q02",
+   "paperId": "paper_civil_admin_law_2024_local_C",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_law/2024/local-C/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n행정계획도 주민의 권리·의무에 영향을 미치는 경우 법규상 또는 조리상 신청권이 인정될 수 있다. 도시계획 입안을 요구할 신청권이 없다고 한 ④가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "환경영향평가 대상지역 밖의 주민이라도 수인한도를 넘는 환경피해를 받거나 받을 우려가 있으면 원고적격이 인정된다는 것이 판례이다.",
+    "사회보장수급권은 법률에 의해 구체화되어 비로소 개인적 공권이 된다.",
+    "수익처분의 상대방은 원칙적으로 그 취소를 구할 법률상 이익이 없다는 것이 판례이다.",
+    "판례는 도시계획구역 내 토지소유자에게 도시계획 입안을 요구할 법규상 또는 조리상의 신청권을 인정하고 있으므로, 신청권이 없다는 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-local-adminlaw-C-q03",
+   "paperId": "paper_civil_admin_law_2024_local_C",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_law/2024/local-C/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n무효확인소송에서도 당연무효를 주장하는 원고가 그 무효사유를 주장·입증할 책임을 진다. ④가 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "행정소송법 제38조는 무효등 확인소송에 제29조부터 제31조까지의 규정을 준용하므로, 취소판결의 기속력에 관한 규정도 준용된다.",
+    "상고심 계속 중 원고적격을 상실하면 소의 이익이 없어 부적법하게 된다.",
+    "행정소송법 제38조는 무효등 확인소송에 집행정지에 관한 규정(제23조~제26조)도 준용하므로 집행정지가 인정될 수 있다.",
+    "무효확인소송에서는 원고가 처분의 당연무효 사유를 주장·입증하여야 한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-local-adminlaw-C-q04",
+   "paperId": "paper_civil_admin_law_2024_local_C",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_law/2024/local-C/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n조례의 무효확인을 구하는 소송의 피고는 그 조례를 공포한 지방자치단체이며, 조례를 통과시킨 지방의회가 아니다. ②가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "취소소송은 처분을 행한 행정청을 피고로 하고, 권한이 승계된 때에는 승계한 행정청을 피고로 한다.",
+    "조례 자체의 무효확인소송에서 피고는 조례를 공포한 지방자치단체이므로, 지방의회가 피고가 된다는 설명이 옳지 않다. 정답입니다.",
+    "행정소송법 제14조는 원고가 피고를 잘못 지정한 때 법원이 원고의 신청에 의하여 결정으로 피고경정을 허가할 수 있다고 규정한다.",
+    "내부위임을 받은 하급행정청이 한 처분의 피고는 실제로 처분을 한 하급행정청이라는 것이 판례이다."
+   ]
+  },
+  {
+   "id": "civil2024-local-adminlaw-C-q05",
+   "paperId": "paper_civil_admin_law_2024_local_C",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_law/2024/local-C/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n행정조사기본법은 사전통지를 생략한 경우 행정기관의 장이 조사를 시작한 후 지체 없이 조사의 목적 등을 조사대상자에게 구두로 통지할 수 있다고 규정한다. 조사 종료 후 지체 없이 통지할 수 있다고 한 ④가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "통관절차에서의 우편물 개봉·시료채취·성분분석은 행정조사로서 압수·수색영장 없이 할 수 있다는 것이 판례이다.",
+    "세무조사결정은 권리·의무에 직접 영향을 미치는 행정작용으로서 항고소송의 대상이 된다는 것이 판례이다.",
+    "자발적 협조에 따른 행정조사에서 응답하지 않으면 법령에 특별한 규정이 없는 한 조사를 거부한 것으로 본다.",
+    "사전통지를 생략할 수 있는 경우의 구두 통지는 조사를 시작한 후 지체 없이 하여야 하므로, 조사 종료 후 통지할 수 있다는 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-local-adminlaw-C-q06",
+   "paperId": "paper_civil_admin_law_2024_local_C",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_law/2024/local-C/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국가배상법상 공무원에는 공무를 위탁받아 실질적으로 공무에 종사하는 자가 모두 포함되며, 그 위탁이 일시적인 사항에 관한 것이어도 포함된다. 일시적 위탁은 포함되지 않는다고 한 ①이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "일시적인 사항에 관한 공무 위탁도 공무원에 포함되므로, 포함되지 않는다는 설명이 옳지 않다. 정답입니다.",
+    "공무원의 직무에는 권력적 작용뿐 아니라 행정지도와 같은 비권력적 공행정작용도 포함된다.",
+    "행정처분이 항고소송에서 취소되었다고 하여 곧 공무원의 고의·과실에 의한 불법행위가 된다고 단정할 수 없다.",
+    "과잉금지원칙 등 헌법원리를 위반한 국가작용은 국가배상법상 법령 위반의 가해행위가 된다."
+   ]
+  },
+  {
+   "id": "civil2024-local-adminlaw-C-q07",
+   "paperId": "paper_civil_admin_law_2024_local_C",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_law/2024/local-C/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n개인택시운송사업면허는 재량행위이고, 귀화허가는 국민으로서의 법적 지위를 포괄적으로 설정하는 행위이다. 옳은 것은 ㄷ·ㄹ이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "ㄱ·ㄴ을 고른 경우로, ㄱ(쟁송 중 직권취소 불가)과 ㄴ(조합설립인가가 보충행위에 그친다)이 모두 옳지 않다.",
+    "ㄴ·ㄷ을 고른 경우로, ㄴ이 옳지 않으므로 옳지 않다.",
+    "ㄷ·ㄹ을 고른 경우로, 두 설명이 모두 옳으므로 정답입니다.",
+    "ㄱ·ㄷ·ㄹ을 고른 경우로, 옳지 않은 ㄱ이 포함되어 있다."
+   ]
+  },
+  {
+   "id": "civil2024-local-adminlaw-C-q08",
+   "paperId": "paper_civil_admin_law_2024_local_C",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_law/2024/local-C/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n군 복무 중 사망한 사람의 유족이 국가배상을 받은 경우, 관할 행정청은 군인연금법상 사망보상금에서 소극적 손해배상금 상당액을 공제할 수 있지만 정신적 손해배상금(위자료)까지 공제할 수는 없다. ③이 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "국가배상법상 손해배상 소송은 배상심의회에 배상신청을 하지 않아도 제기할 수 있다.",
+    "국가배상소송은 공법상 당사자소송이 아니라 민사소송의 절차에 따라 제기한다.",
+    "소극적 손해배상금 상당액은 공제할 수 있으나 위자료 상당액은 공제할 수 없다. 정답입니다.",
+    "국가배상법 제7조는 외국인이 피해자인 경우 상호 보증이 있을 때에만 적용하므로, 상호보증이 없으면 적용되지 않는다."
+   ]
+  },
+  {
+   "id": "civil2024-local-adminlaw-C-q09",
+   "paperId": "paper_civil_admin_law_2024_local_C",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_law/2024/local-C/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n행정절차법 제23조 제2항은 단순·반복적이거나 경미한 처분으로서 당사자가 그 이유를 명백히 알 수 있는 경우에도 처분 후 당사자가 요청하면 근거와 이유를 제시하도록 한다. 제시하지 않아도 된다고 한 ①이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "사후 요청이 있으면 근거와 이유를 제시하여야 하므로, 제시하지 않아도 된다는 설명이 옳지 않다. 정답입니다.",
+    "징계심의에 대리인인 변호사의 출석을 막고 한 징계처분은 특별한 사정이 없는 한 위법하여 취소되어야 한다는 것이 판례이다.",
+    "공무원 인사관계 법령에 따른 처분이라도 성질상 행정절차를 거치기 곤란하거나 불필요한 경우 등에만 행정절차법 적용이 배제된다.",
+    "진급예정자명단에 포함된 자에게 의견제출의 기회를 주지 않고 진급선발을 취소한 처분은 위법하다는 것이 판례이다."
+   ]
+  },
+  {
+   "id": "civil2024-local-adminlaw-C-q10",
+   "paperId": "paper_civil_admin_law_2024_local_C",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_law/2024/local-C/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n유아교육법상 사립유치원은 정보공개법상 공공기관에 해당한다. 공공기관에 해당하지 않는다고 한 ③이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "정보공개청구는 사회일반인의 관점에서 대상 정보의 내용과 범위를 확정할 수 있을 정도로 특정하여야 한다.",
+    "신청한 공개방법과 다른 방법으로 공개하기로 한 결정은 공개방법 부분에 대한 일부 거부처분으로서 항고소송의 대상이 된다.",
+    "사립유치원은 유아교육법에 따라 설치·운영되는 공공기관으로서 정보공개법의 적용대상이므로, 해당하지 않는다는 설명이 옳지 않다. 정답입니다.",
+    "원본이 훼손될 우려가 있거나 상당한 이유가 있으면 사본·복제물을 공개할 수 있다."
+   ]
+  },
+  {
+   "id": "civil2024-local-adminlaw-C-q11",
+   "paperId": "paper_civil_admin_law_2024_local_C",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_law/2024/local-C/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n행정청은 민사소송법상 보조참가인이나 행정소송법상 소송참가인은 될 수 있으나, 공법상 당사자소송의 원고가 될 수는 없다. 당사자소송의 원고가 된다고 한 ②가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "원고적격은 직권조사사항이므로, 원심이 판단하지 않았다는 것을 판단유탈로 삼을 수 없다는 것이 판례이다.",
+    "행정청은 공법상 당사자소송의 원고가 될 수 없으므로 이 설명이 옳지 않다. 정답입니다.",
+    "법규상·조리상 신청권이 없으면 부작위위법확인소송은 부적법하다.",
+    "국가가 기관위임사무의 처리에 관하여 지방자치단체의 장을 상대로 취소소송을 제기하는 것은 허용되지 않는다는 것이 판례이다."
+   ]
+  },
+  {
+   "id": "civil2024-local-adminlaw-C-q12",
+   "paperId": "paper_civil_admin_law_2024_local_C",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_law/2024/local-C/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n자기완결적 신고에 대한 수리거부가 위법하면 그에 터 잡은 후행 철거명령과 대집행계고처분도 중대·명백한 하자가 있어 당연무효가 된다. 당연무효가 되지 않는다고 한 ④가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "행정대집행으로 대체적 작위의무를 실현할 수 있는 경우에는 따로 민사소송으로 이행을 구할 수 없다.",
+    "협의취득은 사법상 계약이므로 그에 따라 부담한 사법상 의무는 행정대집행의 대상이 되지 않는다.",
+    "행정대집행법 제6조는 징수한 비용이 국고 또는 지방자치단체의 수입이 된다고 규정한다.",
+    "자기완결적 신고의 수리거부가 위법하면 후행 대집행계고처분도 당연무효이므로, 당연무효가 아니라는 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-local-adminlaw-C-q13",
+   "paperId": "paper_civil_admin_law_2024_local_C",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_law/2024/local-C/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n계고서 1장으로 일정 기간 내 자진철거를 명하고 불이행 시 대집행할 뜻을 미리 계고하였다면, 철거명령과 대집행 계고처분의 요건은 모두 충족된다. 충족되지 않았다고 한 ②가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "과태료와 형사처벌의 병과는 일사부재리의 원칙에 반하지 않는다는 것이 대법원의 입장이다.",
+    "철거명령과 계고의 요건이 충족되었음에도 충족되지 않았다고 한 설명이 옳지 않다. 정답입니다.",
+    "직접강제는 대집행이나 이행강제금으로 의무 이행을 확보할 수 없거나 불가능한 경우에 실시하여야 한다.",
+    "체납처분으로서의 공매는 공법상 행정처분이고, 매수인은 공매처분의 취소를 구할 법률상 이익이 있다는 것이 판례이다."
+   ]
+  },
+  {
+   "id": "civil2024-local-adminlaw-C-q14",
+   "paperId": "paper_civil_admin_law_2024_local_C",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_law/2024/local-C/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n내신성적 산정지침은 법규명령적 성격을 지닌 행정규칙으로서 국민에 대한 개별적·구체적 처분이 아니어서 항고소송의 대상이 되지 않는다. 행정처분에 해당한다고 한 ②가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "위임명령이 위임 내용을 벗어나 새로운 입법을 한 경우에는 위임의 한계를 일탈하여 허용되지 않는다.",
+    "내신성적 산정지침은 행정규칙에 해당하여 항고소송의 대상이 되는 처분이 아니므로, 처분에 해당한다는 설명이 옳지 않다. 정답입니다.",
+    "사후에 법 개정으로 위임 근거가 부여되면 그때부터 유효한 법규명령이 된다는 것이 판례이다.",
+    "면허기준 해석상 우선순위에 해당함이 명백한데도 거부하였다면 특별한 사정이 없는 한 위법하다."
+   ]
+  },
+  {
+   "id": "civil2024-local-adminlaw-C-q15",
+   "paperId": "paper_civil_admin_law_2024_local_C",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_law/2024/local-C/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n부담부 행정처분의 상대방이 부담을 이행하지 않으면 처분청은 부담을 이유로 그 처분을 철회할 수 있다. 철회할 수 없다고 한 ②가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "부담이 불가쟁력으로 확정되어도 그 부담의 이행으로 한 사법상 법률행위의 효력은 다툴 수 있다는 것이 판례이다.",
+    "부담의 불이행을 이유로 당해 처분을 철회할 수 있으므로, 철회할 수 없다는 설명이 옳지 않다. 정답입니다.",
+    "국가귀속처분은 매립준공인가에 따른 소유권취득의 법률효과를 일부 배제하는 부관을 붙인 것이다.",
+    "부담이 처분 당시 적법하였다면 이후 근거 법령이 개정되어 부관을 붙일 수 없게 되었더라도 곧바로 위법하게 되지는 않는다."
+   ]
+  },
+  {
+   "id": "civil2024-local-adminlaw-C-q16",
+   "paperId": "paper_civil_admin_law_2024_local_C",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_law/2024/local-C/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n행정청이 청문서 도달기간을 어겼더라도 당사자가 이의 없이 출석하여 방어의 기회를 충분히 가졌다면 그 절차상 하자는 치유된다. 치유되지 않는다고 한 ③이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "수익적 처분의 취소 제한 법리는 처분청의 직권취소에 적용되는 것이고 쟁송취소에는 적용되지 않는다는 것이 판례이다.",
+    "학교환경위생정화위원회 심의절차를 누락한 처분은 특별한 사정이 없는 한 취소사유가 된다.",
+    "이의 없이 출석하여 방어권을 행사하였다면 도달기간 위반의 하자는 치유되므로, 치유되지 않는다는 설명이 옳지 않다. 정답입니다.",
+    "개별통지가 없어 무효인 토지등급결정은 이후에 그 내용을 알았더라도 하자가 치유되지 않는다는 것이 판례이다."
+   ]
+  },
+  {
+   "id": "civil2024-local-adminlaw-C-q17",
+   "paperId": "paper_civil_admin_law_2024_local_C",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_law/2024/local-C/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n도시계획시설결정의 장기미집행으로 인한 실효를 주장할 권리는 법률이 정한 요건과 절차에 따라 행사되는 것이지 헌법상 재산권에서 당연히 직접 도출되는 권리는 아니다. ④가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "선행 도시계획에 대한 권한이 없는 행정청이 선행 계획과 양립할 수 없는 후행 도시계획을 결정하였다면 특별한 사정이 없는 한 무효이다.",
+    "관리처분계획은 구속적 행정계획으로서 처분성이 인정된다는 것이 판례이다.",
+    "도시계획시설 지정으로 토지 이용이 사실상 불가능해져 현저한 재산적 손실이 생기면 원칙적으로 보상하여야 한다.",
+    "실효 주장권이 헌법상 재산권에서 당연히 도출된다고 볼 수 없으므로 이 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-local-adminlaw-C-q18",
+   "paperId": "paper_civil_admin_law_2024_local_C",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_law/2024/local-C/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n건축법상 이행강제금은 시정명령의 불이행이라는 과거의 위반행위에 대한 제재가 아니라 장래의 의무 이행을 강제하는 수단이다. 과거 위반행위에 대한 제재라고 한 ①이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "이행강제금은 장래의 의무 이행을 확보하기 위한 간접강제 수단이므로 과거 위반행위에 대한 제재라는 설명이 옳지 않다. 정답입니다.",
+    "납부기한까지 이행강제금을 내지 않으면 국세강제징수의 예 또는 지방행정제재·부과금의 징수 등에 관한 법률에 따라 징수한다.",
+    "근거법령이 비송사건절차법에 따른 불복을 규정하고 있어도 관할청이 항고소송 절차를 안내하였다면 그 안내를 신뢰한 상대방은 항고소송을 제기할 수 있다.",
+    "이행강제금사건의 항고심 계속 중 당사자가 사망하면 그 항고심결정은 당연무효이고, 사망자 명의의 재항고는 보정할 수 없는 흠결이 있다."
+   ]
+  },
+  {
+   "id": "civil2024-local-adminlaw-C-q19",
+   "paperId": "paper_civil_admin_law_2024_local_C",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_law/2024/local-C/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공공필요에 의한 재산권의 수용·사용·제한과 그 보상은 법률로 정하여야 하며, 수용재결 취소소송은 원칙적으로 수용재결을 한 위원회를 피고로 한다. 옳은 것은 ㄱ·ㄹ이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "ㄱ·ㄴ을 고른 경우로, ㄴ이 옳지 않으므로 옳지 않다.",
+    "ㄱ·ㄹ을 고른 경우로, 옳은 것을 모두 고른 것이므로 정답입니다.",
+    "ㄴ·ㄷ을 고른 경우로, 두 설명 모두 옳지 않다.",
+    "ㄴ·ㄷ·ㄹ을 고른 경우로, ㄴ과 ㄷ이 옳지 않으므로 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2024-local-adminlaw-C-q20",
+   "paperId": "paper_civil_admin_law_2024_local_C",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_law/2024/local-C/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n교원소청심사위원회 결정의 기속력은 주문에 포함된 사항뿐 아니라 그 전제가 된 요건사실의 인정과 구체적 위법사유에 관한 판단에도 미친다. 미치지 않는다고 한 ①이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "기속력이 구체적 위법사유의 판단에까지 미치므로, 미치지 않는다는 설명이 옳지 않다. 정답입니다.",
+    "어업권면허에 선행하는 우선순위결정은 행정처분이 아니라는 것이 판례이다.",
+    "행정지도가 한계를 일탈하지 않은 비권력적 작용이라면 손해가 발생하여도 손해배상책임이 없다.",
+    "주거이전비 보상청구권은 공법상 권리로서 그 보상을 둘러싼 쟁송은 행정소송에 의하여야 한다."
+   ]
+  }
+ ]
+}

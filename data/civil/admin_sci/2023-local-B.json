@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_admin_sci_2023_local_B",
+ "title": "2023 지방직 9급 행정학개론 B책형",
+ "year": 2023,
+ "source": "2023년도 지방공무원 9급 등 공개경쟁임용 필기시험 행정학개론 B책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_4",
+ "questions": [
+  {
+   "id": "civil2023-local-adminsci-B-q01",
+   "paperId": "paper_civil_admin_sci_2023_local_B",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_sci/2023/local-B/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n계급제는 직무의 속성이 아니라 사람의 자격·능력 등을 기준으로 공직을 분류하는 제도이다. 직무의 속성을 중심으로 분류한다고 한 ①이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "계급제는 직무가 아니라 사람을 중심으로 공직을 분류하므로, 직무의 속성 중심이라는 설명이 옳지 않다. 정답입니다.",
+    "계급제는 폐쇄형 충원방식을 원칙으로 한다.",
+    "계급제는 일반행정가 양성을 지향한다.",
+    "계급제는 같은 계급 내에서 보직을 바꾸기 쉬워 인사운영의 탄력성을 확보하는 데 유리하다."
+   ]
+  },
+  {
+   "id": "civil2023-local-adminsci-B-q02",
+   "paperId": "paper_civil_admin_sci_2023_local_B",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_sci/2023/local-B/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n민츠버그는 단순구조, 기계적 관료제, 전문적 관료제, 사업부제 구조, 애드호크라시를 조직유형으로 제시하였다. 홀라크라시는 그의 유형이 아니므로 ④가 해당하지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "기계적 관료제는 민츠버그가 제시한 조직유형이다.",
+    "애드호크라시도 민츠버그가 제시한 조직유형이다.",
+    "사업부제 구조도 민츠버그가 제시한 조직유형이다.",
+    "홀라크라시는 민츠버그의 조직유형이 아니다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-adminsci-B-q03",
+   "paperId": "paper_civil_admin_sci_2023_local_B",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_sci/2023/local-B/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사이버네틱스모형은 목표와 환경의 차이를 피드백으로 조정하는 자기조정 체계로 설명하며, 자동온도조절장치가 대표적인 예이다. ②가 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "혼합주사모형은 에트지오니가 제시한 것으로, 쿠바 미사일 위기를 설명하기 위한 모형이 아니다.",
+    "사이버네틱스모형의 예로 자동온도조절장치를 들 수 있다. 정답입니다.",
+    "갈등의 준해결, 문제중심 탐색, 불확실성 회피, 표준운영절차의 활용은 조직의 인지적 한계에 관한 설명으로 쓰레기통모형의 설명이 아니다.",
+    "만족할 만한 수준에서 의사결정이 이루어진다는 것은 만족모형의 설명이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-adminsci-B-q04",
+   "paperId": "paper_civil_admin_sci_2023_local_B",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_sci/2023/local-B/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n과학적 관리론(1911) → 행정행태론(1930~40년대) → 신행정론(1968) → 신공공관리론(1990년대) 순이다. ②가 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "신행정론이 행정행태론보다 앞선다는 순서는 옳지 않다.",
+    "과학적 관리론, 행정행태론, 신행정론, 신공공관리론 순이 시대적 발달 순서이다. 정답입니다.",
+    "행정행태론이 과학적 관리론보다 앞선다는 순서는 옳지 않다.",
+    "신공공관리론이 가장 앞선다는 순서는 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2023-local-adminsci-B-q05",
+   "paperId": "paper_civil_admin_sci_2023_local_B",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_sci/2023/local-B/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n밀즈는 지위접근법으로 엘리트를 분석하였고, 명성접근법은 헌터 등이 사용한 방법이다. 명성접근법을 사용하였다고 한 ②가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "고전적 엘리트이론에서는 엘리트가 다른 계층에 대해 책임을 지지 않는다고 본다.",
+    "밀즈는 지위접근법을 사용하였으므로, 명성접근법을 사용하였다는 설명이 옳지 않다. 정답입니다.",
+    "달은 권력이 분산되어 있다는 전제에서 다원주의론을 전개하였다.",
+    "바흐라흐와 바라츠는 무의사결정이 의제설정뿐 아니라 정책결정과정에서도 발생한다고 보았다."
+   ]
+  },
+  {
+   "id": "civil2023-local-adminsci-B-q06",
+   "paperId": "paper_civil_admin_sci_2023_local_B",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_sci/2023/local-B/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n잠정예산도 임시예산으로서 국회의 의결을 거쳐야 한다. 국회의 의결이 불필요하다고 한 ④가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "준예산은 전년도 예산을 기준으로 편성·운영하는 제도이다.",
+    "현재 우리나라는 준예산제도를 채택하고 있다.",
+    "가예산은 1개월분 예산을 국회의 의결을 거쳐 집행하는 것으로 우리나라가 운영한 경험이 있다.",
+    "잠정예산도 국회의 의결이 필요하므로, 의결이 불필요하다는 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-adminsci-B-q07",
+   "paperId": "paper_civil_admin_sci_2023_local_B",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_sci/2023/local-B/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n로크의 목표설정이론은 목표의 도전성(난이도)과 명확성(구체성)이 동기부여에 중요하다고 본다. ①이 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "목표의 도전성과 명확성을 강조한 것이 목표설정이론이다. 정답입니다.",
+    "욕구의 좌절과 퇴행을 강조한 것은 앨더퍼의 ERG이론이다.",
+    "유의성·수단성·기대감은 기대이론의 개념이며, 직무특성이론은 핵심직무특성과 내적 동기부여를 강조한다.",
+    "위생요인을 제시한 것은 허즈버그의 동기위생이론이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-adminsci-B-q08",
+   "paperId": "paper_civil_admin_sci_2023_local_B",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_sci/2023/local-B/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n품목별예산제도는 통제에는 유리하지만 정부 활동의 총체적 사업계획과 우선순위 결정에는 불리하다. 유리하다고 한 ②가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "미국에서 부정부패를 막고 행정의 능률을 높이기 위해 도입되었다.",
+    "총체적 사업계획과 우선순위 결정에는 불리하므로, 유리하다는 설명이 옳지 않다. 정답입니다.",
+    "예산 집행의 책임성과 통제를 확보하는 데 유리한 통제지향 예산제도이다.",
+    "품목별로 편성되므로 특정 사업의 지출 성과를 파악하기 어렵다."
+   ]
+  },
+  {
+   "id": "civil2023-local-adminsci-B-q09",
+   "paperId": "paper_civil_admin_sci_2023_local_B",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_sci/2023/local-B/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n블랙스버그 선언은 1980년대 행정재정립운동의 출발점이 된 선언으로, 신행정학의 태동과는 시기와 맥락이 다르다. 신행정학의 태동을 가져왔다고 한 ④가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "블랙스버그 선언은 행정의 정당성을 침해하는 정치·사회적 상황을 비판하였다.",
+    "행정재정립운동은 직업공무원제를 옹호하였다.",
+    "행정재정립운동은 정부를 재창조하기보다 재발견해야 한다고 주장하였다.",
+    "신행정학의 태동은 1968년 미노부룩 회의로 보는 것이 통설이므로, 블랙스버그 선언이 신행정학의 태동을 가져왔다는 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-adminsci-B-q10",
+   "paperId": "paper_civil_admin_sci_2023_local_B",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_sci/2023/local-B/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n특별회계예산도 예산이므로 국회의 심의와 의결을 받아야 한다. 받지 않는다고 한 ③이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "기금은 예산원칙의 일반적 제약에서 벗어나 탄력적으로 운용된다.",
+    "특별회계는 특정한 세입으로 특정한 세출을 충당하기 위한 회계이다.",
+    "특별회계도 국회의 심의·의결을 받으므로, 받지 않는다는 설명이 옳지 않다. 정답입니다.",
+    "기금은 예산 통일성의 원칙에 대한 예외가 된다."
+   ]
+  },
+  {
+   "id": "civil2023-local-adminsci-B-q11",
+   "paperId": "paper_civil_admin_sci_2023_local_B",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_sci/2023/local-B/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기관위임사무의 처리에 드는 경비는 원칙적으로 위임한 중앙정부가 부담한다. 공동 부담이 원칙이라고 한 ①이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "기관위임사무의 경비는 위임한 중앙정부가 부담하는 것이 원칙이므로, 공동 부담이 원칙이라는 설명이 옳지 않다. 정답입니다.",
+    "단체위임사무는 집행기관장이 아니라 지방정부 그 자체에 위임된 사무이다.",
+    "지방의회는 단체위임사무에 관한 조례를 제정할 수 있다.",
+    "중앙정부는 자치사무에 대하여 합법성 위주의 통제를 주로 한다."
+   ]
+  },
+  {
+   "id": "civil2023-local-adminsci-B-q12",
+   "paperId": "paper_civil_admin_sci_2023_local_B",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_sci/2023/local-B/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n대표관료제는 관료의 사회적 대표성을 높여 형평성을 실현하려는 제도로, 능력과 성과를 중시하는 실적주의 이념과는 긴장관계에 있다. 실적주의 이념에 부합한다고 한 ②가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "양성채용목표제, 장애인 의무고용제 등은 대표관료제의 논리를 반영한 균형인사제도이다.",
+    "대표관료제는 실적주의와 긴장관계에 있으므로, 실적주의 이념에 부합한다는 설명이 옳지 않다. 정답입니다.",
+    "대표관료제는 할당제를 강요하는 결과를 낳고 역차별 문제를 야기할 수 있다.",
+    "임용 전 사회화가 임용 후 행태를 보장한다는 가정 위에서 전개되어 왔다."
+   ]
+  },
+  {
+   "id": "civil2023-local-adminsci-B-q13",
+   "paperId": "paper_civil_admin_sci_2023_local_B",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_sci/2023/local-B/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n킹던의 정책흐름모형은 쓰레기통모형을 발전시킨 것으로, 문제흐름·정책흐름·정치흐름의 세 흐름이 결합하여 정책의 창이 열릴 때 정책이 결정된다고 본다. 옳은 것은 ㄴ·ㄷ이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "ㄱ만 고른 경우로, ㄱ은 옹호연합모형의 설명이어서 옳지 않다.",
+    "ㄷ만 고른 경우로, ㄴ(쓰레기통모형의 발전)도 옳다는 점을 반영하지 못하였다.",
+    "ㄱ·ㄴ을 고른 경우로, ㄱ이 옳지 않다.",
+    "ㄴ(쓰레기통모형을 발전시킨 것)과 ㄷ(문제·정책·정치의 세 흐름)이 모두 옳으므로 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-adminsci-B-q14",
+   "paperId": "paper_civil_admin_sci_2023_local_B",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_sci/2023/local-B/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n효율성은 투입 대비 산출의 비율을, 효과성은 목표의 달성도를 의미한다. 두 개념을 뒤바꿔 설명한 ②가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "합리성은 어떤 행위가 목표 달성의 최적 수단이 되는가의 문제이다.",
+    "효율성은 투입 대비 산출, 효과성은 목표 달성도이므로 두 개념을 바꾼 설명이 옳지 않다. 정답입니다.",
+    "자율적 책임성은 공무원이 직업윤리와 책임감에 기초해 전문가로서 재량을 발휘할 때 확보된다.",
+    "민주성은 국민과의 관계뿐 아니라 관료조직 내부의 의사결정 과정에서도 고려된다."
+   ]
+  },
+  {
+   "id": "civil2023-local-adminsci-B-q15",
+   "paperId": "paper_civil_admin_sci_2023_local_B",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_sci/2023/local-B/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n연쇄효과(halo effect)는 하나의 특성에 대한 평가가 다른 특성의 평가에까지 영향을 미치는 현상이다. 초기·최근 실적에 치우치는 시간적 오류는 최신성 오류 등이다. ③이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "평정자가 피평정자를 잘 모르면 집중화 경향이 나타날 수 있다.",
+    "평정기준이 일정하지 않으면 총계적 오류가 발생할 수 있다.",
+    "시간적 오류를 연쇄효과라고 설명한 점이 옳지 않다. 연쇄효과는 하나의 특성이 다른 특성 평가에 영향을 미치는 현상이다. 정답입니다.",
+    "관대화 경향을 막기 위해 강제배분법을 활용할 수 있다."
+   ]
+  },
+  {
+   "id": "civil2023-local-adminsci-B-q16",
+   "paperId": "paper_civil_admin_sci_2023_local_B",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_sci/2023/local-B/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n라이트의 중첩권위모형은 연방·주·지방정부의 기능이 중첩되고 서로 의존하는 관계를 설명하는 모형이다. 각 정부가 상호 독립적인 실체로 존재한다고 본 것은 대등권위모형의 설명이다. ②가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "라이트는 정부 간 권력관계와 기능적 상호의존관계를 기준으로 모형을 구분하였다.",
+    "중첩권위모형에서 각 정부는 독립적 실체가 아니라 기능이 중첩되고 상호의존하는 관계이므로, 이 설명이 옳지 않다. 정답입니다.",
+    "내포권위모형은 연방·주·지방정부를 수직적 포함관계로 본다.",
+    "중첩권위모형은 기능이 중첩되고 상호의존적인 관계를 협력적 관계로 설명한다."
+   ]
+  },
+  {
+   "id": "civil2023-local-adminsci-B-q17",
+   "paperId": "paper_civil_admin_sci_2023_local_B",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_sci/2023/local-B/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n상황적 보상과 예외에 의한 관리는 거래적 리더십의 특징이다. 이를 변혁적 리더십의 특징으로 설명한 ③이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "변혁적 리더십은 도전적 목표와 비전을 제시하여 구성원을 격려한다.",
+    "구성원 개개인에 대한 관심과 배려(개별적 배려)는 변혁적 리더십의 요소이다.",
+    "상황적 보상과 예외관리는 거래적 리더십의 특징이므로, 변혁적 리더십의 설명으로 옳지 않다. 정답입니다.",
+    "새로운 관점에서 문제를 재구성하도록 자극하는 것은 지적 자극으로 변혁적 리더십의 요소이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-adminsci-B-q18",
+   "paperId": "paper_civil_admin_sci_2023_local_B",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_sci/2023/local-B/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n무어의 공공가치창출론은 신공공관리론의 수단적·관리적 편향을 비판하고 공공가치라는 목적과 시민의 참여를 강조한다. 신공공관리론을 계승하여 수단성을 강조한다고 한 ③이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "공공가치창출론은 행정의 정당성 위기를 극복하기 위한 대안적 접근이다.",
+    "무어는 전략적 삼각형 개념을 제시하였다.",
+    "공공가치창출론은 신공공관리론의 수단성 강조를 비판한 것이므로, 계승하여 수단성을 강조한다는 설명이 옳지 않다. 정답입니다.",
+    "정부 관리자들은 공공가치 실현에 힘써야 한다고 주장한다."
+   ]
+  },
+  {
+   "id": "civil2023-local-adminsci-B-q19",
+   "paperId": "paper_civil_admin_sci_2023_local_B",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_sci/2023/local-B/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n앨먼드와 파월의 정책유형에는 분배·규제·재분배 정책과 함께 상징정책이 있다. 상징정책은 로위와 리플리·프랭클린의 유형에는 없으므로 ①이 해당한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "상징정책은 앨먼드와 파월의 유형에만 있는 정책유형이다. 정답입니다.",
+    "재분배정책은 로위와 리플리·프랭클린의 유형에도 있다.",
+    "규제정책도 로위와 리플리·프랭클린의 유형에 있다.",
+    "분배정책도 로위와 리플리·프랭클린의 유형에 있다."
+   ]
+  },
+  {
+   "id": "civil2023-local-adminsci-B-q20",
+   "paperId": "paper_civil_admin_sci_2023_local_B",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_sci/2023/local-B/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n관료의 권력 극대화를 위해 예산을 과도하게 추구한다는 설명은 니스카넨의 관료예산극대화모형이다. 파킨슨은 조직의 팽창 법칙을 설명하였다. ④가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "바그너는 경제 발전에 따라 공공재 수요가 늘어 정부예산이 증가한다고 보았다.",
+    "피코크와 와이즈맨은 전쟁 등 사회적 변동 후에도 공공지출이 이전 수준으로 돌아가지 않는 대치효과로 예산팽창을 설명한다.",
+    "보몰은 정부부문과 민간부문의 생산성 격차로 정부예산이 팽창한다고 설명한다.",
+    "권력 극대화를 위한 예산 추구는 니스카넨의 설명이므로, 파킨슨의 주장으로 제시한 점이 옳지 않다. 정답입니다."
+   ]
+  }
+ ]
+}

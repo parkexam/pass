@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_admin_sci_2024_national_gah",
+ "title": "2024 국가직 9급 행정학개론 가책형",
+ "year": 2024,
+ "source": "2024년도 국가공무원 9급 공채 필기시험 행정학개론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_4",
+ "questions": [
+  {
+   "id": "civil2024-national-adminsci-gah-q01",
+   "paperId": "paper_civil_admin_sci_2024_national_gah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_sci/2024/national-gah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n철의 삼각은 의회 상임위원회, 행정부 관료, 이익집단이 서로 긴밀한 이해관계로 연결된 구조를 말한다. 법원은 이 삼각에 포함되지 않으므로 ④가 해당하지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "의회 상임위원회는 철의 삼각의 한 축으로, 법안 심사와 예산 과정에서 관료·이익집단과 결합한다.",
+    "행정부 관료는 철의 삼각의 한 축으로, 집행 권한과 정보를 바탕으로 이익집단과 유착한다.",
+    "이익집단은 철의 삼각의 한 축으로, 의회와 관료에게 지지와 자원을 제공한다.",
+    "법원은 사법작용을 담당하는 기관으로 철의 삼각을 구성하지 않는다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminsci-gah-q02",
+   "paperId": "paper_civil_admin_sci_2024_national_gah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_sci/2024/national-gah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n실적주의는 공직을 개인의 능력과 업적으로 배분하는 제도로, 공개경쟁시험에 의한 임용, 신분보장, 정치적 중립을 핵심 요소로 한다. ③이 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "잭슨 대통령은 엽관주의(정실주의)를 공식화한 인물이므로 실적주의와 연결되지 않는다.",
+    "공직의 일을 건전한 상식과 인품을 가진 일반 대중 누구나 수행할 수 있다고 본 것은 엽관주의의 전제이다.",
+    "실적주의는 공개경쟁시험, 신분보장, 정치적 중립을 핵심 요소로 한다. 정답입니다.",
+    "사회적 형평성을 가장 중요한 가치로 삼는 것은 대표관료제(적극적 인사행정)의 특징이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminsci-gah-q03",
+   "paperId": "paper_civil_admin_sci_2024_national_gah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_sci/2024/national-gah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n신공공관리론은 시장원리와 경쟁을 통해 효율성을 높이는 데 초점을 두며, 형평성보다 효율성·성과를 강조한다. 효율성 대신 형평성에 초점을 맞추었다고 한 ①이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "신공공관리론은 효율성과 성과를 중시하므로, 효율성 대신 형평성에 초점을 맞춘다는 설명이 옳지 않다. 정답입니다.",
+    "수익자 부담 원칙의 강화는 시장적 정부개혁의 내용에 해당한다.",
+    "정부 부문 내에 경쟁 원리를 도입하는 것은 신공공관리론의 대표적 개혁 내용이다.",
+    "결과와 성과 중심의 관리를 강조하는 것도 신공공관리론의 특징이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminsci-gah-q04",
+   "paperId": "paper_civil_admin_sci_2024_national_gah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_sci/2024/national-gah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n민영화와 작은 정부를 강조하는 논리는 정부의 실패에 대한 대응으로 제기된 것이다. 시장실패에 대한 대응으로 제기되었다고 한 ①이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "작은 정부론은 정부실패를 교정하기 위한 주장이므로, 시장실패의 대응이라는 설명이 옳지 않다. 정답입니다.",
+    "시장실패는 시장기구를 통한 자원의 효율적 배분이 이루어지지 않는 상태를 말한다.",
+    "시장실패를 교정하기 위하여 정부가 개입하고 규제한다는 설명은 옳다.",
+    "공공재의 존재는 무임승차 문제 등으로 시장실패를 야기하는 대표적 요인이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminsci-gah-q05",
+   "paperId": "paper_civil_admin_sci_2024_national_gah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_sci/2024/national-gah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n영기준예산은 의사결정 단위별로 모든 사업을 원점에서 재검토하는 제도로, 분권적 관리체계를 전제로 하여 예산과정에 다양한 조직 구성원이 참여한다. 집권화된 관리체계라서 소수만 참여한다는 ④가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "기존 사업과 신규 사업을 구분하지 않고 목적·방법·자원을 근본적으로 재평가하는 제도라는 설명은 옳다.",
+    "우리나라는 1980년대 등에 영기준예산 제도를 시범 적용한 경험이 있다.",
+    "영기준예산의 기본 단위는 의사결정 단위이며 조직이나 사업 등이 이에 해당한다.",
+    "영기준예산은 분권화된 관리체계를 바탕으로 하여 예산과정에 다수의 구성원이 참여하므로, 집권화를 전제로 소수만 참여한다는 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminsci-gah-q06",
+   "paperId": "paper_civil_admin_sci_2024_national_gah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_sci/2024/national-gah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n정당은 대중의 여론을 형성하고 정보를 전달하며 정책과정에 영향을 미치지만, 정부의 공식적 정책결정 과정에 직접 참여하는 공식적 참여자로 분류되지는 않는다. 정당을 공식적 참여자로 설명한 ②가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "시민단체는 비공식적 참여자로서 의제설정, 대안제시, 집행 감시 등 정책과정 전반에 영향을 미친다.",
+    "정당은 비공식적 참여자로 분류되므로, 공식적 참여자라는 설명이 옳지 않다. 정답입니다.",
+    "사법부는 공식적 참여자로서 정책 관련 법적 쟁송에서 판결을 통해 정책에 영향을 미친다.",
+    "이익집단은 특정 이해관계를 공유하는 사람들의 모임으로 정부에 압력을 가해 정책에 영향을 미치는 비공식적 참여자이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminsci-gah-q07",
+   "paperId": "paper_civil_admin_sci_2024_national_gah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_sci/2024/national-gah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국고채무부담행위는 사항마다 이유를 명백히 하고 행위 연도·상환연도·금액을 표시하여 국회의 의결을 받아야 하며, 채무 이행의 책임은 다음 연도 이후에 부담되는 것이 원칙이다. 옳은 것은 ㄱ·ㄴ이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "ㄱ(이유·연도·금액 표시)과 ㄴ(다음 연도 이후 부담)이 모두 옳으므로 정답입니다.",
+    "ㄱ·ㄹ을 고른 경우로, ㄹ은 계속비와 국고채무부담행위의 대상을 반대로 설명하여 옳지 않다.",
+    "ㄴ·ㄷ을 고른 경우로, ㄷ은 지출권한까지 부여받는 것으로 보아 옳지 않다.",
+    "ㄷ·ㄹ을 고른 경우로, 두 설명 모두 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminsci-gah-q08",
+   "paperId": "paper_civil_admin_sci_2024_national_gah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_sci/2024/national-gah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n논리모형은 투입-활동-산출-결과의 인과사슬을 통해 프로그램의 성과와 목표달성 여부를 평가하는 틀로, 과정평가에 그치는 것이 아니다. 과정평가이기 때문에 목표달성 여부를 보여주지 못한다는 ③이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "논리모형은 프로그램의 요소와 문제 사이의 인과관계를 투입-활동-산출-결과로 도식화한다.",
+    "산출은 집행 직후의 직접적 결과물, 결과는 산출로 인해 나타나는 변화를 의미한다.",
+    "논리모형은 성과와 목표달성 여부를 평가하는 데 활용되므로, 목표달성 여부를 보여주지 못한다는 설명이 옳지 않다. 정답입니다.",
+    "논리모형은 프로그램의 논리를 이해관계자에게 보여 주어 이해도를 높일 수 있다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminsci-gah-q09",
+   "paperId": "paper_civil_admin_sci_2024_national_gah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_sci/2024/national-gah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n로위의 구성정책은 정부조직의 구성·권한 배분·절차 등에 관한 정책을 말한다. 정부의 정통성과 정당성을 확보하고 국민의 단결력·자부심을 높이는 정책은 상징적 정책에 해당하므로, 이를 구성정책이라고 한 ①이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "정통성·정당성 확보와 국민의 단결·자부심 고양은 상징적 정책의 내용이므로 구성정책이라는 설명이 옳지 않다. 정답입니다.",
+    "기초생활보장 대상자에 대한 소득이전은 재분배정책에 해당한다.",
+    "도로 건설, 하천·항만 사업과 같이 공공서비스나 혜택을 제공하는 정책은 분배정책에 해당한다.",
+    "사회구성원이나 집단의 활동을 통제해 다른 사람이나 집단을 보호하려는 정책은 규제정책에 해당한다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminsci-gah-q10",
+   "paperId": "paper_civil_admin_sci_2024_national_gah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_sci/2024/national-gah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n비영리민간단체 지원법상 보조금을 받아 공익사업을 완료한 단체는 사업보고서를 주무부장관에게 제출하여야 한다. 대통령에게 제출한다고 한 ④가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "비영리민간단체는 영리가 아닌 공익활동을 주된 목적으로 하는 민간단체이어야 한다.",
+    "등록비영리민간단체는 공익사업의 소요경비를 지원받을 수 있고 그 범위는 사업비를 원칙으로 한다.",
+    "보조금 교부를 받으려면 사업의 목적·내용, 소요경비 등을 기재한 사업계획서를 제출하여야 한다.",
+    "사업보고서는 주무부장관에게 제출하여야 하므로, 대통령에게 제출한다는 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminsci-gah-q11",
+   "paperId": "paper_civil_admin_sci_2024_national_gah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_sci/2024/national-gah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n인간관계론은 호손실험을 계기로 등장한 신고전적 조직이론으로, 인간의 사회적·심리적 요인과 비공식조직을 중시하였다. ④가 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "기계적 능률성은 과학적 관리론과 관료제론이 강조한 가치이다.",
+    "공식적 조직구조의 강조는 고전적 조직이론의 특징이다.",
+    "합리적·경제적 인간관은 과학적 관리론의 인간관이다.",
+    "인간관계론은 인간의 사회적·심리적 요인을 중시하였다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminsci-gah-q12",
+   "paperId": "paper_civil_admin_sci_2024_national_gah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_sci/2024/national-gah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n타협은 서로 일부씩 양보하여 부분적인 만족을 얻는 유형이다. 자신과 상대방 모두의 이익을 극대화하는 win-win 전략은 협력(collaborating)에 해당하므로 ③이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "회피는 갈등을 알면서도 무시하거나 인정하지 않고 소극적으로 대응하는 유형이다.",
+    "수용은 자신의 이익을 양보하고 상대방의 이익을 배려하는 유형이다.",
+    "서로 존중하며 양측 이익을 극대화하는 win-win 전략은 협력이며, 타협은 부분적 양보를 통한 부분적 만족을 추구한다. 정답입니다.",
+    "경쟁은 자기 이익을 극대화하고 상대방의 이익을 최소화하는 유형이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminsci-gah-q13",
+   "paperId": "paper_civil_admin_sci_2024_national_gah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_sci/2024/national-gah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n제시된 사례는 기능구조와 사업구조를 결합한 매트릭스 조직이다. 매트릭스 조직은 명령계통이 다원화되지만, 전문 인력을 프로젝트에 유연하게 활용할 수 있다는 장점이 있다. 유연한 인적자원 활용이 어렵다고 한 ④가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "기능구조와 사업구조를 결합한 혼합형 구조가 매트릭스 조직이다.",
+    "매트릭스 조직은 동태적 환경과 부서 간 상호 의존성이 높은 상황에서 효과적이다.",
+    "명령계통이 이중화되어 조직 내부의 갈등 가능성이 커진다.",
+    "매트릭스 조직은 전문 인력을 유연하게 활용할 수 있는 장점이 있으므로, 활용이 어렵다는 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminsci-gah-q14",
+   "paperId": "paper_civil_admin_sci_2024_national_gah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_sci/2024/national-gah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공직자의 이해충돌 방지법상 사적이해관계자는 공직자 자신이나 가족, 공직자나 가족이 임원 등으로 재직하는 법인·단체, 공직자가 채용 전 2년 이내에 재직한 법인·단체, 직무수행과 관련하여 이익·불이익을 직접 받는 자 등이다. 다른 공직자는 이에 해당하지 않으므로 ②가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "공직자 자신 또는 그 가족은 사적이해관계자에 해당한다.",
+    "다른 공직자는 사적이해관계자로 규정된 대상이 아니므로 이 설명이 옳지 않다. 정답입니다.",
+    "공직자로 채용·임용되기 전 2년 이내에 재직하였던 법인 또는 단체는 사적이해관계자에 해당한다.",
+    "공직자 자신 또는 가족이 임원·대표자·관리자 또는 사외이사로 재직하는 법인·단체는 사적이해관계자에 해당한다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminsci-gah-q15",
+   "paperId": "paper_civil_admin_sci_2024_national_gah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_sci/2024/national-gah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n실제 현안 문제를 소그룹 팀이 해결하면서 그 과정을 성찰하도록 하는 교육방식은 액션러닝이다. 우리나라도 고위공직자 교육에 도입하였다. ①이 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "액션러닝은 실제 문제 해결과 성찰을 결합한 교육방식으로, 설명에 부합한다. 정답입니다.",
+    "역할연기는 특정 상황의 역할을 연기해 보는 방법이다.",
+    "감수성훈련은 집단역학을 통해 자신과 타인의 감정을 인식하는 훈련이다.",
+    "서류함기법은 서류함에 담긴 문서를 처리하며 판단력을 기르는 방법이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminsci-gah-q16",
+   "paperId": "paper_civil_admin_sci_2024_national_gah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_sci/2024/national-gah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n검사의 징계 등 불이익 처분에 대해서는 검찰청법·검사징계법에 별도의 소청 규정이 없어 소청제도 자체가 인정되지 않는다. 검사를 법무부 소청심사위원회와 연결한 ②가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "경기도청 소속 지방공무원의 소청은 해당 시·도(경기도) 소청심사위원회가 관할한다.",
+    "검사에게는 소청제도가 인정되지 않으므로 법무부 소청심사위원회가 관할한다는 설명이 옳지 않다. 정답입니다.",
+    "소방청 소속 소방공무원은 국가직 공무원으로서 인사혁신처 소청심사위원회가 관할한다.",
+    "국립대학교 교수는 교원으로서 교육부 교원소청심사위원회가 관할한다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminsci-gah-q17",
+   "paperId": "paper_civil_admin_sci_2024_national_gah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_sci/2024/national-gah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n정책지원관 제도는 지방의회 의원의 정책 기능을 지원하기 위해 도입된 제도이다. 지방자치단체장의 정책 기능을 강화하기 위한 것이라고 한 ③이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "주민은 일정 요건을 갖추면 지방의회에 조례의 제정·개정·폐지를 청구할 수 있다(주민조례발안).",
+    "경계변경자율협의체를 일정 기간 내에 구성하지 못하면 행정안전부장관이 중앙분쟁조정위원회의 심의·의결을 거쳐 조정할 수 있다.",
+    "정책지원관은 지방의회 의원의 의정활동을 지원하는 전문인력이므로, 단체장의 정책 기능 강화를 위한 것이라는 설명이 옳지 않다. 정답입니다.",
+    "자치경찰사무는 시·도지사 소속의 합의제 행정기관인 시·도 자치경찰위원회가 관장한다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminsci-gah-q18",
+   "paperId": "paper_civil_admin_sci_2024_national_gah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_sci/2024/national-gah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n포지티브 규제방식은 법령이 허용한 행위만 가능하도록 하는 방식이고, 네거티브 규제방식은 금지된 행위 외에는 모두 허용하는 방식이다. 따라서 자율성은 네거티브 방식에서 더 보장되므로 ②가 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "배출부과금제와 배출권거래제는 시장유인적 규제유형에 속한다.",
+    "네거티브 규제방식이 피규제자의 자율성을 더 보장하므로, 포지티브 방식이 더 보장한다는 설명이 옳지 않다. 정답입니다.",
+    "명령지시적 규제는 명확한 기준으로 이해하기 쉽고 직관적 설득력이 높다는 장점이 있다.",
+    "사회규제는 작업장 안전, 소비자 보호 등 사회적 영향을 야기하는 기업행동에 대한 규제를 말한다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminsci-gah-q19",
+   "paperId": "paper_civil_admin_sci_2024_national_gah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_sci/2024/national-gah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국가재정법상 온실가스감축인지 예산제도는 예산뿐 아니라 기금도 그 대상으로 한다. 기금은 대상에 포함되지 않는다고 한 ③이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "온실가스감축인지 예산제도는 국가재정법이 정한 예산의 원칙 중 하나로 도입되었다.",
+    "온실가스감축인지 예산서에는 감축에 대한 기대효과, 성과목표, 효과분석 등을 포함하여야 한다.",
+    "예산과 함께 기금도 온실가스감축인지 예산제도의 대상에 포함되므로, 포함되지 않는다는 설명이 옳지 않다. 정답입니다.",
+    "정부는 예산이 온실가스 감축 방향으로 집행되었는지 평가하는 보고서를 작성하여야 한다."
+   ]
+  },
+  {
+   "id": "civil2024-national-adminsci-gah-q20",
+   "paperId": "paper_civil_admin_sci_2024_national_gah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_sci/2024/national-gah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n분산원장을 기반으로 거래정보를 중앙 서버에 의존하지 않고 참여자에게 분산 저장하는 기술은 블록체인이다. ②가 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "인공지능은 데이터 학습을 통해 추론·판단하는 기술이다.",
+    "블록체인은 분산원장 기술로, 설명에 부합한다. 정답입니다.",
+    "빅데이터는 대규모 데이터의 수집·분석 기술이다.",
+    "사물인터넷은 사물에 센서와 통신 기능을 부여해 연결하는 기술이다."
+   ]
+  }
+ ]
+}
