@@ -11,7 +11,7 @@ const GUEST_KEY='PASS_GUEST_PROGRESS_BACKUP_V1';
 const ACCOUNT_PREFIX='PASS_ACCOUNT_LOCAL_V1_';
 const IMPORTED_PREFIX='PASS_GUEST_IMPORTED_V1_';
 const FIELDS=['history','wrongIds','wrongCompletedIds','wrongSnapshots','draft','drafts','dailyGoal'];
-const state={user:null,uid:null,ready:false,busy:false,admin:false,entitled:false,guest:null,hasGuest:false,syncTimer:null,syncBusy:false,syncAgain:false,muted:false,remote:new Map(),sdk:null,fb:null,auth:null,firestore:null,functions:null,status:'',error:''};
+const state={user:null,uid:null,ready:false,busy:false,admin:false,entitled:false,guest:null,hasGuest:false,syncTimer:null,syncBusy:false,syncAgain:false,muted:false,remote:new Map(),sdk:null,fb:null,auth:null,firestore:null,functions:null,status:'',error:'',formMode:'login',formEmail:''};
 const encodeDoc=x=>encodeURIComponent(String(x));
 const e=x=>typeof esc==='function'?esc(x):String(x??'').replace(/&/g,'&amp;').replace(/</g,'&lt;');
 const clone=x=>JSON.parse(JSON.stringify(x));
@@ -57,9 +57,19 @@ function ui(){
  }else if(!state.ready){
   box.innerHTML='<h3>회원 계정</h3><p>Firebase 로그인 상태를 확인하는 중입니다.</p>';
  }else if(!state.user){
-  box.innerHTML=`<h3>회원 계정</h3><p>회원가입 후 기출 기록을 내 계정에 저장할 수 있어요.</p>
-   <form id="passAccountForm" class="pass-account-form"><label>이메일<input name="email" type="email" autocomplete="email" required placeholder="example@email.com"></label><label>비밀번호<input name="password" type="password" autocomplete="current-password" minlength="6" required placeholder="6자 이상"></label>
-   <div class="pass-account-actions"><button class="btn" type="submit" name="mode" value="login" ${busy}>로그인</button><button class="btn ghost" type="submit" name="mode" value="register" ${busy}>회원가입</button></div></form>${status}`;
+  const signingUp=state.formMode==='register';
+  box.innerHTML=`<h3>${signingUp?'회원가입':'회원 계정'}</h3>
+   <p>${signingUp?'이메일과 비밀번호를 설정해 계정을 만들어요.':'로그인하면 기출 기록을 내 계정에 저장할 수 있어요.'}</p>
+   <form id="passAccountForm" class="pass-account-form">
+   <label>이메일<input name="email" type="email" autocomplete="email" inputmode="email" required placeholder="example@email.com"></label>
+   <label>비밀번호<input name="password" type="password" autocomplete="${signingUp?'new-password':'current-password'}" minlength="6" required placeholder="6자 이상"></label>
+   ${signingUp?'<label>비밀번호 확인<input name="passwordConfirm" type="password" autocomplete="new-password" minlength="6" required placeholder="비밀번호를 다시 입력하세요"></label>':''}
+   <div class="pass-account-actions">${signingUp?
+    `<button class="btn" type="submit" name="mode" value="register" ${busy}>가입 완료</button><button class="btn ghost" type="button" data-pass-mode="login" ${busy}>로그인으로</button>`:
+    `<button class="btn" type="submit" name="mode" value="login" ${busy}>로그인</button><button class="btn ghost" type="button" data-pass-mode="register" ${busy}>회원가입</button>`}</div>
+   </form>${status}`;
+  // Do not persist or re-populate passwords; just carry the email between modes.
+  box.querySelector('input[name="email"]').value=state.formEmail;
  }else{
   const email=state.user.email||'회원';const test=state.entitled?'간호직 이용권 테스트: 이용 가능':'간호직 이용권 테스트: 없음';
   box.innerHTML=`<h3>내 회원 계정</h3><p><strong>${e(email)}</strong></p><p class="pass-account-entitlement">${test}</p>
@@ -210,11 +220,17 @@ document.addEventListener('submit',async event=>{
  if(event.target.id==='passAccountForm'){
   event.preventDefault();event.stopImmediatePropagation();
   const form=event.target;const email=form.elements.email.value.trim(),password=form.elements.password.value;
-  const mode=event.submitter?.value||'login';state.busy=true;refreshUI();
+  const mode=event.submitter?.value||'login';
+  state.formEmail=email;
+  if(mode==='register' && password!==form.elements.passwordConfirm?.value){
+   markStatus('비밀번호 확인이 일치하지 않습니다.',true);return;
+  }
+  state.busy=true;refreshUI();
   try{
    if(mode==='register')await state.fb.createUserWithEmailAndPassword(state.auth,email,password);
    else await state.fb.signInWithEmailAndPassword(state.auth,email,password);
-   markStatus('로그인되었습니다.');
+   state.formMode='login';
+   markStatus(mode==='register'?'회원가입이 완료되었습니다.':'로그인되었습니다.');
   }catch(err){markStatus(prettyError(err),true);}finally{state.busy=false;refreshUI();}
  }else if(event.target.id==='passGrantForm'){
   event.preventDefault();event.stopImmediatePropagation();
@@ -228,6 +244,16 @@ document.addEventListener('submit',async event=>{
  }
 },true);
 document.addEventListener('click',async event=>{
+ const modeButton=event.target.closest('[data-pass-mode]');
+ if(modeButton&&valid){
+  event.preventDefault();event.stopImmediatePropagation();
+  if(state.busy)return;
+  state.formEmail=document.querySelector('#passAccountForm input[name="email"]')?.value.trim()||'';
+  state.formMode=modeButton.dataset.passMode==='register'?'register':'login';
+  state.status='';state.error='';
+  ui();
+  return;
+ }
  const b=event.target.closest('[data-pass-action]');if(!b||!valid)return;
  event.preventDefault();event.stopImmediatePropagation();
  if(state.busy)return;
