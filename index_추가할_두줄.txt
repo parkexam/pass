@@ -1,4 +1,0 @@
-<!-- 이 두 줄을 index.html 맨 아래 </body> 바로 위에 추가하세요.
-     기존 JS가 이미 있다면 중복으로 추가하지 마세요. -->
-<script defer src="js/pass-firebase-config.js?v=shinna1"></script>
-<script defer src="js/pass-account-stage1.js?v=shinna1"></script>
