@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_admin_sci_2025_local_B",
+ "title": "2025 지방직 9급 행정학개론 B책형",
+ "year": 2025,
+ "source": "2025년도 지방공무원 9급 등 공개경쟁임용 필기시험 행정학개론 B책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_4",
+ "questions": [
+  {
+   "id": "civil2025-local-adminsci-B-q01",
+   "paperId": "paper_civil_admin_sci_2025_local_B",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_sci/2025/local-B/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n직위분류제는 사람이 아니라 직무(일)를 기준으로 공직을 분류하고(ㄴ), 동일 직무에 동일 보수를 지급하는 보수체계를 확립할 수 있다(ㄷ). 인사의 탄력성·융통성이 높고 신분보장이 강한 것은 계급제의 특징이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "ㄴ이 빠져 있어 옳지 않다.",
+    "ㄱ·ㄹ은 계급제의 특징이어서 옳지 않다.",
+    "일을 기준으로 분류하고 동일직무 동일보수를 실현하는 것이 직위분류제의 특징이므로 정답입니다.",
+    "ㄱ이 포함되어 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2025-local-adminsci-B-q02",
+   "paperId": "paper_civil_admin_sci_2025_local_B",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_sci/2025/local-B/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n예산서의 과목과 구조를 국민이 쉽게 이해할 수 있도록 작성하여야 한다는 원칙은 명료성의 원칙이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "국민의 눈높이에서 이해할 수 있도록 예산을 분류·작성하여야 한다는 것은 명료성의 원칙이다. 정답입니다.",
+    "완전성의 원칙은 모든 수입·지출을 예산에 계상하여야 한다는 원칙이다.",
+    "공개성의 원칙은 예산의 내용을 국민에게 공개하여야 한다는 원칙이다.",
+    "한정성의 원칙은 예산에 계상된 목적 외에 사용할 수 없다는 원칙이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-adminsci-B-q03",
+   "paperId": "paper_civil_admin_sci_2025_local_B",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_sci/2025/local-B/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n균형인사정책의 도입 순서는 장애인 구분모집(1990년대) → 양성평등채용목표제(2002년) → 지방인재채용목표제·지역인재추천채용제(2000년대 이후)의 순으로, 지방인재채용목표제가 가장 먼저 도입되었다는 서술이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "장애인, 지방·지역인재, 양성평등, 이공계, 저소득층이 균형인사정책의 주요 대상이다.",
+    "도입 순서를 지방인재채용목표제가 가장 앞선 것으로 서술하였으나, 실제로는 장애인 구분모집과 양성평등채용목표제가 먼저 도입되었으므로 옳지 않다. 정답입니다.",
+    "장애인 구분모집제는 선발예정인원의 일정 규모를 장애인만 응시하도록 구분하여 실시한다.",
+    "균형인사정책은 대표관료제를 적용한 사례로 볼 수 있다."
+   ]
+  },
+  {
+   "id": "civil2025-local-adminsci-B-q04",
+   "paperId": "paper_civil_admin_sci_2025_local_B",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_sci/2025/local-B/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n하우스의 경로-목표모형에서 부하의 욕구를 배려하고 복지에 관심을 가지며 인간관계를 중시하는 리더십은 후원적 리더십이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "지시적 리더십은 과업을 구체적으로 지시하고 지침을 제공하는 리더십이다.",
+    "부하의 욕구와 복지, 인간관계를 강조하는 리더십은 후원적 리더십이다. 정답입니다.",
+    "참여적 리더십은 부하를 의사결정에 참여시키는 리더십이다.",
+    "성취지향적 리더십은 도전적 목표를 설정하고 성취를 강조하는 리더십이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-adminsci-B-q05",
+   "paperId": "paper_civil_admin_sci_2025_local_B",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_sci/2025/local-B/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n이음매 없는 조직은 내부의 필요가 아니라 고객과 외부 환경의 요구에 따라 조직단위와 기능을 통합적으로 설계하는 조직이다. 내부적 필요에 의한 분산적 설계라는 서술이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "이음매 없는 조직은 외부 고객 중심으로 조직을 설계하므로, 내부적 필요에 따라 분산적으로 설계한다는 설명이 옳지 않다. 정답입니다.",
+    "네트워크 조직은 수직적 계층이 최소화된 유기적 구조로 환경변화에 대한 적응성이 높다.",
+    "매트릭스 조직은 기능적 구조와 프로젝트 구조를 동시에 갖는 이중구조이다.",
+    "팀제는 수평적 구조와 자율권 부여로 창의적 문제해결에 유리하다."
+   ]
+  },
+  {
+   "id": "civil2025-local-adminsci-B-q06",
+   "paperId": "paper_civil_admin_sci_2025_local_B",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_sci/2025/local-B/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n신행정론과 함께 강조된 개념으로, 소외된 약자와 소수집단에 대한 특별한 배려를 의미하며 롤스의 차등의 원리를 이론적 근거로 하는 가치는 형평성이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "평등성은 동일한 대우를 의미하는 가치이다.",
+    "약자·소수집단에 대한 특별한 배려와 롤스의 차등의 원리는 형평성의 내용이다. 정답입니다.",
+    "민주성은 시민의 참여와 대응성을 중시하는 가치이다.",
+    "능률성은 투입 대비 산출의 비율을 중시하는 가치이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-adminsci-B-q07",
+   "paperId": "paper_civil_admin_sci_2025_local_B",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_sci/2025/local-B/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n정책결정과 집행의 엄격한 분리를 강조하는 것은 하향적 접근법이다. 상향적 접근법은 일선관료의 재량과 집행 과정을 중시하며 결정과 집행의 분리를 부정한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "하향적 접근법은 정책결정자의 의도와 목표를 중시한다.",
+    "상향적 접근법은 일선집행관료의 행태에 주목한다.",
+    "하향적 접근법은 정책목표와 수단 간의 인과관계를 강조한다.",
+    "결정과 집행의 엄격한 분리를 강조하는 것은 하향적 접근법이므로, 상향적 접근법이라고 한 점이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-local-adminsci-B-q08",
+   "paperId": "paper_civil_admin_sci_2025_local_B",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_sci/2025/local-B/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n정당성과 지지, 공공가치, 운영역량으로 구성된 전략적 삼각형은 무어(Moore)가 제시한 모형이다. 이를 보즈만의 공공가치관리론으로 서술한 점이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "전략적 삼각형은 무어의 공공가치 관리 모형이므로, 보즈만이 제시하였다는 설명이 옳지 않다. 정답입니다.",
+    "신공공서비스론은 시장에 의한 방향잡기보다 시민에 대한 봉사를 강조한다.",
+    "뉴거버넌스론은 정부·민간·비영리부문 간 협력적 네트워크를 강조한다.",
+    "공공선택론은 공공부문에 시장원리와 경쟁을 도입하여 서비스 공급·생산의 효율을 높일 수 있다고 본다."
+   ]
+  },
+  {
+   "id": "civil2025-local-adminsci-B-q09",
+   "paperId": "paper_civil_admin_sci_2025_local_B",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_sci/2025/local-B/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n킹던의 정책흐름모형은 문제의 흐름, 정책대안(해결책)의 흐름, 정치의 흐름이 정책의 창에서 결합한다고 본다. 참여자의 흐름과 선택기회의 흐름을 제시한다는 서술이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "킹던의 모형은 문제·해결책·정치의 세 흐름을 제시하므로, 참여자·선택기회의 흐름을 제시한다는 설명이 옳지 않다. 정답입니다.",
+    "혼합탐사모형은 근본적 결정과 세부적 결정의 교호작용을 강조한다.",
+    "최적모형은 경제적 합리성과 직관·통찰력 등 초합리적 요소를 함께 고려한다.",
+    "앨리슨의 조직과정모형(Model II)은 표준운영절차에 따라 정책이 결정된다고 본다."
+   ]
+  },
+  {
+   "id": "civil2025-local-adminsci-B-q10",
+   "paperId": "paper_civil_admin_sci_2025_local_B",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_sci/2025/local-B/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n특별지방자치단체의 규약은 구성 지방자치단체의 지방의회 의결을 거쳐 행정안전부장관의 승인을 받아야 한다. 기획재정부장관의 승인을 받아야 한다는 서술이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "특별지방자치단체는 법인으로 한다.",
+    "특별지방자치단체는 2개 이상의 지방자치단체가 공동으로 특정 목적의 사무를 광역적으로 처리할 필요가 있을 때 설치할 수 있다.",
+    "구성 지방자치단체의 지방의회의원은 특별지방자치단체 의회의원을 겸할 수 있다.",
+    "규약의 승인권자는 행정안전부장관이므로, 기획재정부장관이라는 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-local-adminsci-B-q11",
+   "paperId": "paper_civil_admin_sci_2025_local_B",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_sci/2025/local-B/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n주민이 조례의 제정·개정·폐지를 청구할 수 있는 제도는 주민발안제도이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "주민소환제도는 주민이 선출직 공직자를 소환하는 제도이다.",
+    "주민감사청구제도는 주민이 지방자치단체의 사무처리에 대한 감사를 청구하는 제도이다.",
+    "조례의 제정·개정·폐지를 청구하는 제도는 주민발안제도이다. 정답입니다.",
+    "주민소송제도는 주민이 위법한 재무회계 행위에 대하여 소송을 제기하는 제도이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-adminsci-B-q12",
+   "paperId": "paper_civil_admin_sci_2025_local_B",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_sci/2025/local-B/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n규제샌드박스는 신기술을 활용한 새로운 서비스·제품에 대하여 일정 기간 기존 규제의 적용을 면제하거나 완화해 주는 제도이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "규제개혁위원회는 국무총리 소속이 아니라 대통령 소속(처)으로 설치·운영되어 왔다.",
+    "규제일몰제는 규제의 존속기한을 정하여 기한이 지나면 자동 폐지되도록 하는 제도이다.",
+    "포지티브 규제는 원칙적 금지·예외적 허용의 방식을 뜻한다.",
+    "규제샌드박스에 대한 설명으로 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-local-adminsci-B-q13",
+   "paperId": "paper_civil_admin_sci_2025_local_B",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_sci/2025/local-B/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공정거래위원회는 합의제 행정기관으로서 의사결정 권한뿐 아니라 그 집행까지 책임지는 준사법적 행정위원회이다. 집행까지 책임지지는 않는다는 서술이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "행정위원회는 법률에 따라 행정기관 소관사무의 일부를 독립적으로 수행할 필요가 있을 때 둔다.",
+    "자문위원회는 자문에 응하거나 심의·조정·협의를 통해 의사결정을 돕는다.",
+    "공정거래위원회는 의사결정과 집행을 함께 담당하므로, 집행까지 책임지지는 않는다는 설명이 옳지 않다. 정답입니다.",
+    "행정기관위원회는 다양한 이해관계자의 참여로 다양성의 가치를 증진할 수 있다."
+   ]
+  },
+  {
+   "id": "civil2025-local-adminsci-B-q14",
+   "paperId": "paper_civil_admin_sci_2025_local_B",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_sci/2025/local-B/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n내적 타당성은 외적 타당성의 전제가 아니라, 오히려 외적 타당성을 확보하려면 내적 타당성이 먼저 확보되어야 한다. 논의의 전제를 뒤바꾼 점이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "외적 타당성은 추정된 인과관계를 다른 상황에 일반화할 수 있는지를 의미한다.",
+    "구성적 타당성은 추상적 개념과 측정도구가 얼마나 일치하는지를 의미한다.",
+    "통계적 결론의 타당성은 통계적 검증에서 도출한 결론의 정확성을 의미한다.",
+    "내적 타당성 확보가 외적 타당성의 전제이므로, 그 관계를 뒤바꾼 서술이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-local-adminsci-B-q15",
+   "paperId": "paper_civil_admin_sci_2025_local_B",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_sci/2025/local-B/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n헌법은 예산안을 회계연도 개시 90일 전까지 제출하도록 하고, 국가재정법은 회계연도 개시 120일 전까지 국회에 제출하도록 정하고 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "회계연도는 1월 1일부터 12월 31일까지이다.",
+    "예산안 제출 기한이 헌법상 90일 전, 국가재정법상 120일 전이라는 설명이 옳다. 정답입니다.",
+    "중앙관서결산보고서는 회계연도가 끝난 후 기획재정부장관에게 제출한다.",
+    "예산안이 의결되지 못하면 헌법에 따라 잠정예산을 편성하는 것이 아니라 예산을 준용한다."
+   ]
+  },
+  {
+   "id": "civil2025-local-adminsci-B-q16",
+   "paperId": "paper_civil_admin_sci_2025_local_B",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_sci/2025/local-B/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n베덩은 정책수단을 강제성의 정도에 따라 규제적, 경제적, 정보적, 조직적 도구로 분류하였다. 종교적 도구는 이 분류에 포함되지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "규제적 도구는 강제성이 가장 높은 정책수단이다.",
+    "종교적 도구는 베덩의 강제성 기준 분류에 없는 유형이므로 정답입니다.",
+    "경제적 도구는 보조금·조세 등 경제적 유인을 활용하는 수단이다.",
+    "정보적 도구는 정보 제공과 설득을 통한 정책수단이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-adminsci-B-q17",
+   "paperId": "paper_civil_admin_sci_2025_local_B",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_sci/2025/local-B/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n양곡관리, 조달, 우편사업, 우체국예금, 책임운영기관 등은 일반회계가 아니라 특별회계로 운영된다. 일반회계 6개라는 서술이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "일반회계의 주요 재원은 조세수입 등이다.",
+    "일반회계는 특정 세입과 세출의 연계를 배제한다.",
+    "일반회계의 세출은 국가의 존립·유지를 위한 기본적 경비로 구성된다.",
+    "양곡관리·조달·우편사업 등은 특별회계이므로, 이를 일반회계로 서술한 점이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-local-adminsci-B-q18",
+   "paperId": "paper_civil_admin_sci_2025_local_B",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_sci/2025/local-B/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n비용과 편익이 개인·집단에게 고르게 배분되는지를 판단하는 기준은 형평성이다. 능률성은 투입 대비 산출의 비율을 판단하는 기준이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "효과성은 정책대안이 의도한 목표를 어느 정도 달성하는지를 판단한다.",
+    "대응성은 수혜집단의 요구를 어느 정도 반영하는지를 판단한다.",
+    "실현가능성은 정책대안이 충실히 집행될 수 있는지를 판단한다.",
+    "비용과 편익의 고른 배분은 형평성의 기준이므로, 이를 능률성이라고 한 점이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-local-adminsci-B-q19",
+   "paperId": "paper_civil_admin_sci_2025_local_B",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_sci/2025/local-B/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국가공무원과 지방공무원은 임용권과 경비부담에 따라 구분되고, 지방공무원의 임용권자에는 지방의회의 의장도 포함된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "임용주체와 경비부담을 기준으로 구분하며 지방의회 의장도 임용권자가 된다는 설명이 옳다. 정답입니다.",
+    "별정직공무원은 특수경력직공무원이지 경력직공무원이 아니다.",
+    "헌법연구관·경찰공무원·군무원 중 일부는 특정직공무원이나, 별정직과 특정직의 구분을 서술한 이 지문은 정확하지 않다.",
+    "정무직공무원은 특수경력직공무원이지 경력직공무원이 아니다."
+   ]
+  },
+  {
+   "id": "civil2025-local-adminsci-B-q20",
+   "paperId": "paper_civil_admin_sci_2025_local_B",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_sci/2025/local-B/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n데이터기반행정은 데이터 분석에 근거하여 객관적·과학적으로 의사결정을 하는 행정이다. 정책결정자의 경험에 근거한 의사결정을 지향한다는 서술이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "2020년 데이터기반행정 활성화에 관한 법률이 제정되었다.",
+    "데이터기반행정은 공공기관이 보유한 데이터를 수집·분석하여 정책 수립과 결정에 활용하는 행정이다.",
+    "데이터기반행정은 경험에 근거한 결정이 아니라 데이터 분석에 근거한 결정을 지향하므로, 이 서술이 옳지 않다. 정답입니다.",
+    "행정안전부장관은 데이터기반행정 기본계획을 3년마다 수립하여야 한다."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_admin_law_2026_national_gah",
+ "title": "2026 국가직 9급 행정법총론 가책형",
+ "year": 2026,
+ "source": "2026년도 국가공무원 9급 공채 필기시험 행정법총론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_3",
+ "questions": [
+  {
+   "id": "civil2026-national-adminlaw-gah-q01",
+   "paperId": "paper_civil_admin_law_2026_national_gah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_law/2026/national-gah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n조례에 대한 위임은 지방자치의 특성상 위임 범위를 상대적으로 넓게 인정하는 것이 판례·학설의 태도이다. 따라서 조례로의 위임이 대통령령·부령으로의 위임보다 포괄위임금지 원칙을 더 엄격하게 지켜야 한다는 서술은 반대이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "재량준칙이 반복 시행되어 행정관행이 형성되면 평등원칙·신뢰보호원칙상 행정기관이 그에 따라야 할 자기구속력이 인정된다는 것이 판례이다.",
+    "조례로의 위임은 주민의 권리의무에 관한 사항도 정할 수 있고 위임 범위도 오히려 넓게 인정되므로, 대통령령·부령 위임보다 더 엄격하다는 설명은 옳지 않다. 정답입니다.",
+    "국민건강보험공단이 사실상 혼인관계에 있는 동성 동반자를 피부양자로 인정하지 않은 처분은 헌법상 평등원칙에 위배된다는 것이 헌법재판소의 판단이다.",
+    "헌법재판소의 위헌결정은 행정청의 공적인 견해 표명으로 볼 수 없어, 그 결정과 관련한 개인의 행위에는 신뢰보호원칙이 적용되지 않는다."
+   ]
+  },
+  {
+   "id": "civil2026-national-adminlaw-gah-q02",
+   "paperId": "paper_civil_admin_law_2026_national_gah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_law/2026/national-gah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n법규명령은 법률의 위임을 받아 발하는 위임명령과 법률의 시행을 위하여 발하는 집행명령으로 나뉘고, 집행명령도 대외적 구속력을 가지는 법규명령의 한 종류이다. 집행명령이라는 이유만으로 법규적 성질이 없다고 단정할 수 없다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "집행명령도 법규명령의 한 종류로서 대외적 구속력(법규성)을 인정할 수 있는데, 이를 부정하여 법규적 성질이 없다고 한 점이 옳지 않다. 정답입니다.",
+    "위임의 근거 없이 제정된 법규명령이 무효라 하더라도, 이후 법 개정으로 위임 근거가 마련되면 그때부터는 유효한 법규명령으로 볼 수 있다.",
+    "법률의 위임에 따라 사업계획변경의 절차·인가기준 등을 구체적으로 규정한 시행규칙은 대외적 구속력이 있는 법규명령이다.",
+    "행정규칙이 상위법령에 반하면 법원은 이를 법질서상 존재하지 않는 것으로 취급하고, 행정기관의 조치를 상위법령과 입법목적에 따라 판단한다."
+   ]
+  },
+  {
+   "id": "civil2026-national-adminlaw-gah-q03",
+   "paperId": "paper_civil_admin_law_2026_national_gah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_law/2026/national-gah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n상대방 있는 행정처분은 그 상대방에게 고지(도달)되어야 효력이 발생한다. 상대방이 다른 경로로 내용을 알게 되었다는 사정만으로는 고지에 갈음할 수 없으므로 처분의 효력이 발생하였다고 볼 수 없다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "군인사법상 보직해임처분에는 행정절차법상 처분의 근거·이유 제시 등 절차 규정이 적용되지 않는다는 것이 판례의 태도이다.",
+    "유원시설업자 지위승계신고의 수리처분은 종전 사업자의 법적 지위에 영향을 미치므로 종전 업자에게 사전통지를 거쳐야 한다.",
+    "고지되지 않은 처분은 상대방이 우연히 그 내용을 알게 되었더라도 효력이 발생하지 않는다. 다른 경로로 알았다는 이유로 효력 발생을 인정한 점이 옳지 않다. 정답입니다.",
+    "법령이 청문을 요구하는 사유에 해당하는데도 청문통지서 반송·불출석만을 이유로 청문 없이 한 침해적 처분은 위법하다."
+   ]
+  },
+  {
+   "id": "civil2026-national-adminlaw-gah-q04",
+   "paperId": "paper_civil_admin_law_2026_national_gah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_law/2026/national-gah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n정보공개법 제9조 제1항 제1호의 '법률 또는 법률이 위임한 명령'에 따른 비공개 정보에는 법률의 위임을 받은 명령만이 포함된다. 법무부령인 검찰보존사무규칙은 이에 해당하지 않으므로, 이를 근거로 열람·등사를 제한할 수 없다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "알권리는 자유권적 성질과 청구권적 성질을 함께 가지며 헌법 제21조에 의해 직접 보장되는 권리이다.",
+    "법인이 거래하는 금융기관의 계좌번호는 영업상 비밀에 관한 정보로서 공개되면 법인의 정당한 이익을 현저히 해칠 우려가 있는 정보에 해당한다.",
+    "검찰보존사무규칙은 법률의 위임 없이 제정된 법무부령이어서 '법률이 위임한 명령'에 포함되지 않는다. 따라서 이에 따른 열람·등사 제한을 법 제9조 제1항 제1호의 비공개 사유로 볼 수 없다. 정답입니다.",
+    "정보가 이미 널리 알려졌거나 인터넷·관보로 공개되어 쉽게 알 수 있다는 사정만으로 소의 이익이 없다거나 비공개결정이 정당화되지는 않는다."
+   ]
+  },
+  {
+   "id": "civil2026-national-adminlaw-gah-q05",
+   "paperId": "paper_civil_admin_law_2026_national_gah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_law/2026/national-gah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n행정기본법은 이행강제금의 부과 근거가 되는 법률에 부과 금액 산정기준과 부과 횟수 또는 그 상한을 명확히 규정하도록 하면서, 부과 금액이 합의제행정기관의 의결을 거쳐 결정되는 경우에는 그 요구를 적용하지 않는 예외를 두고 있다. 예외를 빼고 서술한 점이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "이행강제금은 의무의 이행을 간접적으로 강제하는 수단이고, 과징금은 과거의 의무위반에 대한 제재이다.",
+    "행정기본법상 행정청은 의무자가 의무를 이행하면 새로운 이행강제금의 부과를 즉시 중지하되, 이미 부과한 이행강제금은 징수하여야 한다.",
+    "건축법상 이행강제금의 납부의무는 일신전속적인 성질의 것으로 상속되지 않으므로, 사망한 사람에 대한 부과처분은 당연무효이다.",
+    "합의제행정기관의 의결을 거쳐 부과 금액이 결정되는 경우에는 법률에 산정기준·부과 횟수 상한을 규정하지 않아도 된다는 예외가 있으므로, 예외 없이 규정하여야 한다는 서술은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-adminlaw-gah-q06",
+   "paperId": "paper_civil_admin_law_2026_national_gah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_law/2026/national-gah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n법률이 그 처분에 대하여 행정소송이 아닌 다른 절차에 의한 불복을 예정하고 있는 경우에는 그 처분을 항고소송의 대상으로 삼을 수 없다는 것이 판례의 태도이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "처분의 근거 법률이 행정소송 외의 불복절차를 예정하고 있으면 항고소송의 대상이 될 수 없다. 정답입니다.",
+    "처분의 근거나 법적 효과가 행정규칙에 규정되어 있더라도 상대방의 권리의무에 직접 영향을 미치면 항고소송의 대상이 되는 처분이다.",
+    "법률에 따라 당연퇴직된 공무원의 복직 요구에 대한 거부는 권리관계에 새로운 변동을 일으키지 않는 사실행위여서 항고소송의 대상이 아니다.",
+    "건축불허가처분의 처분사유로 소방서장의 부동의 사유를 든 경우, 그 사유도 건축불허가처분의 위법사유로서 다툴 수 있다."
+   ]
+  },
+  {
+   "id": "civil2026-national-adminlaw-gah-q07",
+   "paperId": "paper_civil_admin_law_2026_national_gah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_law/2026/national-gah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n과징금 부과처분을 한 후 그 처분에 관한 권한이 다른 행정청으로 승계되면, 그 처분의 취소소송에서는 승계한 행정청이 피고가 된다. 피고를 처분 당시의 A행정청으로 하여야 한다는 서술이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "과징금 부과권한이 B행정청으로 승계되었으므로 취소소송의 피고는 승계한 B행정청이어야 한다. A행정청을 피고로 하라는 설명이 옳지 않다. 정답입니다.",
+    "감액처분으로 이미 취소된 1천만원 부분은 다시 취소소송의 대상으로 삼을 수 없다.",
+    "제소기간을 지켰는지는 감액처분이 아니라 당초의 과징금 부과처분을 기준으로 판단한다.",
+    "재량이 인정되는 과징금 납부명령이 재량권을 일탈한 경우, 법원은 재량권 일탈 여부만 판단할 수 있을 뿐 적정한 금액을 스스로 정하여 그 초과 부분만 취소할 수는 없다."
+   ]
+  },
+  {
+   "id": "civil2026-national-adminlaw-gah-q08",
+   "paperId": "paper_civil_admin_law_2026_national_gah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_law/2026/national-gah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n질서위반행위규제법은 과태료를 정할 때 질서위반행위의 동기·목적·방법뿐 아니라 그 결과와 위반행위 이후의 정황 등도 고려하도록 하고 있다. 이후의 정황은 고려하지 않아도 된다는 서술이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "당사자가 의견제출 기한 내에 과태료를 자진 납부하려는 경우 100분의 20의 범위에서 감경할 수 있다.",
+    "납부기한까지 과태료를 납부하지 않으면 납부기한 경과일부터 체납된 과태료의 100분의 3에 상당하는 가산금을 징수한다.",
+    "과태료를 정할 때에는 위반행위 당시의 동기·목적·방법과 그 결과, 위반행위 이후의 정황까지 고려하여야 하므로, 이후 정황은 고려할 필요가 없다는 설명이 옳지 않다. 정답입니다.",
+    "과태료 부과에 불복하는 당사자는 통지를 받은 날부터 60일 이내에 서면으로 이의제기를 할 수 있고, 이의제기가 있으면 부과처분은 효력을 상실한다."
+   ]
+  },
+  {
+   "id": "civil2026-national-adminlaw-gah-q09",
+   "paperId": "paper_civil_admin_law_2026_national_gah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_law/2026/national-gah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n행정기본법상 직접강제를 실시할 때에도 그 취지와 이유를 미리 알리는 절차가 요구되며, 의무자의 소재를 알 수 없는 경우 사후에 고지하면 된다는 규정은 두고 있지 않다. 사후 고지만으로 절차를 마칠 수 있다는 서술이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "직접강제를 실시하기 위하여 현장에 파견되는 집행책임자는 자신이 집행책임자임을 표시하는 증표를 보여 주어야 한다.",
+    "직접강제는 행정대집행이나 이행강제금 부과의 방법으로는 의무 이행을 확보할 수 없거나 그 실현이 불가능한 경우에 실시하여야 한다.",
+    "행정청은 직접강제를 실시하기 전에 미리 의무자에게 이행기간을 정하여 그 기한까지 의무를 이행하지 않으면 직접강제를 실시한다는 뜻을 문서로 계고하여야 한다.",
+    "직접강제에도 사전 고지 절차가 요구되므로, 소유자·점유자를 알 수 없는 경우 사후에 고지만 하면 된다는 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-adminlaw-gah-q10",
+   "paperId": "paper_civil_admin_law_2026_national_gah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_law/2026/national-gah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n행정심판법상 위원회의 직접 처분은 피청구인이 재결의 취지에 따른 처분을 하지 아니하여 위원회가 시정을 명하고 그 이행기간이 지난 뒤에 비로소 문제되는 것이다. 그 요건을 갖추지 않은 채 곧바로 직접 처분할 수 있는 것처럼 서술한 점이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "재결은 심판청구서를 받은 날부터 60일 이내에 하여야 하고, 부득이한 사정이 있으면 위원장이 직권으로 30일을 연장할 수 있다.",
+    "간접강제 결정이 있으면 그 결정서 정본은 결정에 불복하는 행정소송의 제기와 관계없이 민사집행법상 강제집행의 집행권원과 같은 효력을 가진다.",
+    "시정명령과 그 이행기간의 도과를 요건으로 하는 직접 처분을 곧바로 할 수 있는 것처럼 서술하였으므로 옳지 않다. 정답입니다.",
+    "조정이 성립하면 재결의 기속력 등에 관한 규정이 준용되고, 직접 처분·간접강제 규정은 준용되지 않는다."
+   ]
+  },
+  {
+   "id": "civil2026-national-adminlaw-gah-q11",
+   "paperId": "paper_civil_admin_law_2026_national_gah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_law/2026/national-gah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nㄱ은 과세처분의 하자가 취소할 수 있는 정도에 불과하면 그 납부가 곧바로 부당이득이 되지 않는다는 법리, ㄴ은 위법한 대집행이 완료된 뒤에도 손해배상청구를 위하여 미리 취소판결을 받아야 하는 것은 아니라는 법리, ㄷ은 민사소송에서 행정처분의 당연무효를 선결문제로 판단할 수 있다는 법리, ㄹ은 구성요건이 되는 행정처분이 위법하면 그 위반죄가 성립하지 않는다는 법리로 모두 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "ㄹ이 빠져 있어 옳지 않다.",
+    "ㄹ이 빠져 있고 ㄷ의 일부만 담고 있어 옳지 않다.",
+    "ㄱ이 빠져 있어 옳지 않다.",
+    "ㄱ·ㄴ·ㄷ·ㄹ이 모두 판례의 법리에 부합하므로 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-adminlaw-gah-q12",
+   "paperId": "paper_civil_admin_law_2026_national_gah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_law/2026/national-gah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n환지처분은 원칙적으로 대인적 처분이지만, 종전의 토지가 단독으로 환지되어 권리관계에 변동이 없는 경우에는 대물적 처분의 성격을 갖는다. 제자리 환지라도 대인적 처분이라는 서술이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "분양전환승인 중 분양전환가격을 승인하는 부분은 강학상 인가로 볼 수 없다는 것이 판례이다.",
+    "종전 토지가 단독으로 환지된 경우에는 환지처분을 대물적 처분으로 보아야 하므로, 제자리 환지라도 대인적 처분이라는 설명이 옳지 않다. 정답입니다.",
+    "요양기관 업무정지처분은 의료인 개인의 자격이 아니라 요양기관의 업무 자체에 대한 것으로 대물적 처분이다.",
+    "건축허가는 대물적 성격을 가지므로 인적 요소에 관하여는 형식적 심사에 그친다."
+   ]
+  },
+  {
+   "id": "civil2026-national-adminlaw-gah-q13",
+   "paperId": "paper_civil_admin_law_2026_national_gah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_law/2026/national-gah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공법인이 국가로부터 위탁받은 공행정사무를 집행하는 과정에서 그 임직원이 고의·과실로 법령을 위반하여 타인에게 손해를 입히면, 공법인은 행정주체의 지위에서 배상책임을 진다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "공무를 위탁받은 사인은 국가배상법상 공무원에 포함되고, 위탁이 일시적·한정적 사항에 관한 것이어도 마찬가지이다.",
+    "국가배상법상 '공무원의 직무'에는 권력적 작용뿐 아니라 비권력적 작용, 사경제 주체로서의 작용도 포함된다.",
+    "행정처분이 항고소송에서 취소되었다고 하여 곧바로 공무원의 고의·과실에 의한 불법행위가 되는 것은 아니다.",
+    "공법인이 위탁받은 공행정사무의 집행에서 임직원의 고의·과실로 타인에게 손해가 발생하면 공법인이 행정주체로서 배상책임을 진다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-adminlaw-gah-q14",
+   "paperId": "paper_civil_admin_law_2026_national_gah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_law/2026/national-gah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n토지소유자가 보상대상에 해당한다고 주장하는데 사업시행자가 이를 보상대상에서 제외한 채 협의에 응하지 않는 경우, 토지소유자는 사업시행자를 상대로 관할 토지수용위원회에 재결을 신청하도록 청구할 수 있다. 이를 부정한 서술이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "보상합의는 사법상 계약의 실질을 가지므로 당사자가 법정 기준과 다른 금액으로 보상금을 정할 수 있다.",
+    "영업을 폐지·휴업한 자가 재결절차를 거치지 않고 곧바로 사업시행자를 상대로 손실보상을 청구하는 것은 허용되지 않는다.",
+    "보상대상 여부를 다투는 경우에도 토지소유자는 사업시행자에게 재결신청을 청구할 수 있는데, 이를 부정한 점이 옳지 않다. 정답입니다.",
+    "협의가 성립하면 사업시행자는 재결신청 기간 내에 관계인 동의를 받아 협의 성립의 확인을 신청할 수 있고, 그 확인은 재결로 본다."
+   ]
+  },
+  {
+   "id": "civil2026-national-adminlaw-gah-q15",
+   "paperId": "paper_civil_admin_law_2026_national_gah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_law/2026/national-gah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n대기오염물질배출시설의 설치허가는 법령이 정한 요건을 갖춘 자에게 허가하여야 하는 기속행위로 보는 것이 판례의 태도이다. 그 여부와 내용이 행정청의 재량에 속한다는 서술이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "행정처분이 재량권의 한계를 벗어나 위법하다는 점은 그 처분의 효력을 다투는 자가 주장·증명하여야 한다.",
+    "배출시설 설치허가는 법정 요건을 갖추면 허가하여야 하는 기속행위이므로, 그 여부와 내용이 재량에 속한다는 설명이 옳지 않다. 정답입니다.",
+    "건축허가권자는 중대한 공익상 필요가 없는 한 법령이 정한 제한사유 외의 사유로 요건을 갖춘 자의 건축허가를 거부할 수 없다.",
+    "토지 형질변경허가는 그 금지요건이 불확정개념이어서 행정청에 재량이 인정되나, 형질변경을 수반하는 건축허가까지 재량행위가 되는 것은 아니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-adminlaw-gah-q16",
+   "paperId": "paper_civil_admin_law_2026_national_gah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_law/2026/national-gah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n법령의 적용 여부에 관하여 해석상 다툼의 여지가 있어 과세관청이 이를 잘못 해석하여 과세한 경우에는, 그 하자가 중대·명백하다고 볼 수 없어 당연무효가 아니라 취소사유에 그친다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "환경영향평가 대상사업을 평가 없이 승인한 하자는 중대·명백하여 당연무효이다.",
+    "과세전적부심사 청구기간이 지나기 전에, 청구나 결정도 없이 한 과세처분은 절차상 하자가 중대·명백하여 무효이다.",
+    "해석상 다툼의 여지가 있는 법령을 잘못 해석한 과세처분의 하자는 중대·명백하다고 볼 수 없으므로 무효가 아니라 취소사유이다. 무효라고 한 점이 옳지 않다. 정답입니다.",
+    "수리를 요하는 신고의 신고행위 자체에 효력이 없으면, 그 수리행위는 유효한 대상이 없어 수리행위의 하자를 따질 것 없이 당연무효이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-adminlaw-gah-q17",
+   "paperId": "paper_civil_admin_law_2026_national_gah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_law/2026/national-gah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n주민의 의견청취 등 행정절차에 참여할 권리는 공익적 견지에서 규정된 것으로 그 자체가 사적 권리의 성질을 가지는 것은 아니다. 다만 절차적 권리 침해가 사적 이익 침해로 이어지면 손해배상이 문제될 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "행정절차에 참여할 권리는 그 자체로 사적 권리의 성질을 가지지 않으므로 이 서술이 옳지 않다. 정답입니다.",
+    "입지선정위원회의 구성이 위법하면 그 의결에 터잡은 입지결정처분도 위법하다.",
+    "절차참여권 침해를 이유로 손해배상을 구하려면 乙이 입지선정결정 당시 해당 지역 주민이었음을 주장·증명하여야 한다.",
+    "설치승인처분을 취소하는 판결이 확정되었다면, 특별한 사정이 없는 한 절차적 권리 침해로 인한 정신적 고통에 대한 배상은 인정되지 않는다."
+   ]
+  },
+  {
+   "id": "civil2026-national-adminlaw-gah-q18",
+   "paperId": "paper_civil_admin_law_2026_national_gah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_law/2026/national-gah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nㄴ만 옳다. ㄱ은 기속행위인 벌점부과처분에 대하여 비례원칙 위반을 이유로 한 재량권 일탈·남용 심사를 하여야 한다고 하나, 기속행위에는 재량권 통제 법리가 적용되지 않는다. ㄷ은 음주운전 면허취소의 재량 판단에서 일반예방적 측면을 부정한 것으로 판례와 어긋난다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "ㄴ만 고른 것으로 정답입니다.",
+    "ㄱ이 포함되어 옳지 않다.",
+    "ㄱ·ㄷ이 모두 포함되어 옳지 않다.",
+    "ㄷ이 포함되어 있고 ㄴ이 빠져 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2026-national-adminlaw-gah-q19",
+   "paperId": "paper_civil_admin_law_2026_national_gah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_law/2026/national-gah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n직권취소는 이미 성립한 행정처분의 위법·부당한 하자를 이유로 그 효력을 소급하여 소멸시키는 별개의 행정처분이다. 별개의 행정처분이 아니라고 한 서술이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "선행처분의 주요 부분을 실질적으로 변경하는 후행처분을 하면 선행처분은 특별한 사정이 없는 한 효력을 상실한다.",
+    "직권취소는 그 자체로 별개의 행정처분이므로, 별개의 처분이 아니라고 한 설명이 옳지 않다. 정답입니다.",
+    "실정법상 '취소'로 규정되어 있더라도 후발적 사정을 이유로 장래를 향해 효력을 소멸시키는 것은 철회로 보아야 한다.",
+    "조세부과처분의 취소에 위법사유가 있더라도 당연무효가 아닌 한 부과처분의 효력은 확정적으로 상실되므로, 취소를 다시 취소하여 원처분을 소생시킬 수 없다."
+   ]
+  },
+  {
+   "id": "civil2026-national-adminlaw-gah-q20",
+   "paperId": "paper_civil_admin_law_2026_national_gah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_law/2026/national-gah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n영업정지 등 제재처분은 현실적인 위반행위자가 아니라 법령상 책임자로 규정된 자에게 부과되고, 특별한 사정이 없는 한 위반자에게 고의·과실이 없더라도 부과할 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "행정기본법상 제재처분의 정의에서 강제징수는 제외되므로, 강제징수가 포함된다는 설명은 옳지 않다.",
+    "제재처분인 영업정지는 법령상 책임자로 규정된 자에게 부과되고, 고의·과실이 없더라도 부과할 수 있다. 정답입니다.",
+    "부령 형식의 제재처분 기준은 법규성이 없어 법원을 구속하지 않으므로, 처분의 적법성은 상위법령과 입법목적에의 적합 여부로 판단한다.",
+    "제재처분의 제척기간과 그 예외에 관한 요건을 그대로 서술하지 못하였으므로 옳지 않다."
+   ]
+  }
+ ]
+}

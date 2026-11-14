@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_admin_sci_2026_local_D",
+ "title": "2026 지방직 9급 행정학개론 D책형",
+ "year": 2026,
+ "source": "2026년도 지방공무원 9급 공개경쟁임용 등 필기시험 행정학개론 D책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_4",
+ "questions": [
+  {
+   "id": "civil2026-local-adminsci-D-q01",
+   "paperId": "paper_civil_admin_sci_2026_local_D",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_sci/2026/local-D/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n수단인 법규·규칙을 간과하고 목표에만 집착하는 것은 '목표의 전환(전환된 목표)'이다. '도덕적 해이'는 구성원이 감시·통제가 약한 틈을 이용해 자신의 이익을 추구하는 행태를 말한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "목표만 집착하고 수단을 간과하는 현상은 목표의 전환이므로, 이를 도덕적 해이라고 한 점이 옳지 않다. 정답입니다.",
+    "불필요한 문서작성과 형식주의는 번문욕례(red tape)의 대표적 병리이다.",
+    "변화를 두려워하고 선례·상급자 권위에 의존하는 것은 무사안일주의이다.",
+    "좁은 분야의 전문성으로 다른 분야를 이해하지 못하는 것은 전문화로 인한 무능이다."
+   ]
+  },
+  {
+   "id": "civil2026-local-adminsci-D-q02",
+   "paperId": "paper_civil_admin_sci_2026_local_D",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_sci/2026/local-D/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n나카무라와 스몰우드의 유형에서 결정자가 추상적 목표만 제시하고 집행자가 목표를 구체화하며 광범위한 재량을 갖는 유형은 재량적 실험형이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "고전적 기술관료형은 결정자가 목표와 수단을 모두 정하고 집행자는 기계적으로 집행하는 유형이다.",
+    "지시적 위임형은 목표는 구체적으로 정하되 수단의 선택은 집행자에게 맡기는 유형이다.",
+    "목표가 추상적이고 집행자에게 광범위한 재량이 주어지는 유형은 재량적 실험형이다. 정답입니다.",
+    "관료적 기업가형은 집행자가 목표 형성에도 적극 참여하는 유형이다."
+   ]
+  },
+  {
+   "id": "civil2026-local-adminsci-D-q03",
+   "paperId": "paper_civil_admin_sci_2026_local_D",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_sci/2026/local-D/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n정당정치의 발달에 기여한 것은 엽관주의의 장점이다. 실적주의는 능력과 성적에 따라 인사를 결정하여 정치적 중립과 행정의 능률을 확보하는 제도이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "실적주의는 공개경쟁시험을 통해 공직 취임의 기회균등을 보장한다.",
+    "실적주의는 유능한 인재를 선발하여 행정의 능률성을 높인다.",
+    "실적주의는 정치적 중립과 신분보장을 통해 행정의 공정성·안정성을 확보한다.",
+    "정당정치 발달에의 기여는 엽관주의의 장점이므로, 이를 실적주의의 장점으로 서술한 점이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-local-adminsci-D-q04",
+   "paperId": "paper_civil_admin_sci_2026_local_D",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_sci/2026/local-D/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n과거의 선택이 이후의 결정에 계속 작용하여 특정 경로를 따르게 된다는 것은 경로의존성을 강조하는 역사적 제도주의의 설명이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "경로의존성과 결정의 연속성을 강조하는 접근법은 역사적 제도주의이다. 정답입니다.",
+    "규범적 제도주의는 제도의 규범·문화적 측면과 적절성의 논리를 강조한다.",
+    "경험적 제도주의는 제도를 경험적으로 측정·비교하는 접근이다.",
+    "합리적 선택 제도주의는 행위자의 합리적 선택과 제도의 구속을 강조한다."
+   ]
+  },
+  {
+   "id": "civil2026-local-adminsci-D-q05",
+   "paperId": "paper_civil_admin_sci_2026_local_D",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_sci/2026/local-D/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n특별회계예산과 추가경정예산은 예산이 하나의 회계로 통합되어야 한다는 단일성의 원칙에 대한 대표적인 예외이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "공개성의 원칙은 예산의 내용을 국민에게 공개하여야 한다는 원칙이다.",
+    "예산을 일반회계와 특별회계로 나누고 추가경정예산을 편성하는 것은 단일성의 원칙의 예외이다. 정답입니다.",
+    "완전성의 원칙은 모든 수입·지출을 예산에 계상하여야 한다.는 원칙이다.",
+    "한정성의 원칙은 예산에 계상된 목적 외에 사용할 수 없다는 원칙이다."
+   ]
+  },
+  {
+   "id": "civil2026-local-adminsci-D-q06",
+   "paperId": "paper_civil_admin_sci_2026_local_D",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_sci/2026/local-D/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n로위의 분배정책은 특정 집단에 편익이 돌아가고 비용은 다수에게 분산되는 정책으로, 로그롤링이나 포크배럴 같은 정치적 현상이 나타난다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "계층·집단 간에 재산·소득·권리를 이동시키는 것은 재분배정책이다.",
+    "정부기관의 신설·변경, 선거구 조정 등은 구성적 정책의 예이다.",
+    "분배정책에서는 로그롤링·포크배럴과 같은 정치적 현상이 나타난다. 정답입니다.",
+    "민간 부문으로부터 자원을 추출하는 것은 추출정책에 대한 설명이다."
+   ]
+  },
+  {
+   "id": "civil2026-local-adminsci-D-q07",
+   "paperId": "paper_civil_admin_sci_2026_local_D",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_sci/2026/local-D/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n정책 시행 기간 중에 대중매체의 건강 캠페인이라는 외부의 역사적 사건이 함께 발생하여 결과에 영향을 준 경우는 내적 타당성의 위협요인 중 역사요인에 해당한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "선발요인은 실험집단과 통제집단의 구성이 서로 달라 생기는 문제이다.",
+    "회귀요인은 극단적 점수가 평균으로 되돌아가는 현상이다.",
+    "조사 기간 중 발생한 외부의 사건이 결과에 영향을 준 것은 역사요인이다. 정답입니다.",
+    "검사요인은 사전검사 자체가 이후 측정에 영향을 주는 것이다."
+   ]
+  },
+  {
+   "id": "civil2026-local-adminsci-D-q08",
+   "paperId": "paper_civil_admin_sci_2026_local_D",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_sci/2026/local-D/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n케네디 행정부 시절 국방예산에 도입되어 장기적 시각과 과학적 분석으로 자원배분의 합리화를 추구한 제도는 계획예산제도(PPBS)이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "목표관리 예산제도(MBO)는 목표 설정과 성과를 연결하는 제도이다.",
+    "품목별 예산제도(LIBS)는 통제 지향의 전통적 예산제도이다.",
+    "영기준 예산제도(ZBB)는 모든 사업을 영에서부터 재검토하는 제도이다.",
+    "장기적 관점과 과학적 분석, 케네디 시절 국방예산 도입은 계획예산제도(PPBS)의 특징이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-local-adminsci-D-q09",
+   "paperId": "paper_civil_admin_sci_2026_local_D",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_sci/2026/local-D/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n주민과 가장 가까운 기초지방자치단체가 우선 처리하고, 스스로 해결하기 어려운 경우에만 상급 단위가 개입한다는 것은 보충성의 원칙이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "하위 단위 우선 처리와 상급 단위의 보충적 개입을 뜻하는 것은 보충성의 원칙이다. 정답입니다.",
+    "포괄성의 원칙은 행정사무를 포괄적으로 배분하는 원칙이다.",
+    "불경합성의 원칙은 중앙과 지방의 사무가 경합하지 않도록 하는 원칙이다.",
+    "응익성의 원칙은 편익을 받는 지역이 비용을 부담하는 원칙이다."
+   ]
+  },
+  {
+   "id": "civil2026-local-adminsci-D-q10",
+   "paperId": "paper_civil_admin_sci_2026_local_D",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_sci/2026/local-D/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n조직화된 무질서 상태에서 문제·해결책·선택기회·참여자가 떠다니다가 우연한 계기로 합류하여 정책이 결정된다고 보는 모형은 쓰레기통모형이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "쓰레기통모형은 조직화된 무질서와 우연한 합류에 의한 정책결정을 설명한다. 정답입니다.",
+    "회사모형은 합리적·계획적 의사결정을 설명하는 모형이다.",
+    "사이버네틱스 모형은 환경 피드백에 따른 제한적 합리성의 의사결정을 설명한다.",
+    "앨리슨 모형은 합리적 행위자·조직과정·관료정치 모형으로 외교정책 결정을 설명한다."
+   ]
+  },
+  {
+   "id": "civil2026-local-adminsci-D-q11",
+   "paperId": "paper_civil_admin_sci_2026_local_D",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_sci/2026/local-D/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nBSC의 네 관점 중 고객 관점은 고객만족도, 정책순응도, 민원 불만율 등 고객이 체감하는 지표로 구성된다. 직무만족도는 내부 프로세스나 학습·성장 관점의 지표이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "직무만족도는 내부 구성원에 관한 지표로서 고객 관점의 지표가 아니므로 정답입니다.",
+    "고객만족도는 고객 관점의 대표적 지표이다.",
+    "정책순응도는 정책 대상인 국민의 반응을 보는 고객 관점 지표이다.",
+    "민원인의 불만율은 국민이 체감한 서비스 품질을 보여 주는 고객 관점 지표이다."
+   ]
+  },
+  {
+   "id": "civil2026-local-adminsci-D-q12",
+   "paperId": "paper_civil_admin_sci_2026_local_D",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_sci/2026/local-D/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지방공무원법상 전직은 직렬을 달리하는 임용을 말한다. 같은 직급 내에서의 보직 변경은 전직이 아니라 전보이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "직류는 같은 직렬 내에서 담당 분야가 같은 직무의 군을 말한다.",
+    "직군은 직무의 성질이 유사한 직렬의 군을 말한다.",
+    "전직은 직렬을 달리하는 임용을 뜻하므로, 같은 직급 내 보직 변경이라는 정의가 옳지 않다. 정답입니다.",
+    "직렬은 직무의 종류가 유사하고 책임과 곤란성의 정도가 다른 직급의 군을 말한다."
+   ]
+  },
+  {
+   "id": "civil2026-local-adminsci-D-q13",
+   "paperId": "paper_civil_admin_sci_2026_local_D",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_sci/2026/local-D/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n필요성·불균형·호혜성·효율성·안정성·정당성은 조직 간 협력관계의 형성요인에 관한 논의이다. 자원의존이론은 조직이 환경의 자원에 의존하며 그 의존을 관리하려 한다는 이론이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "자원의존이론은 조직이 자원 획득을 위해 환경에 의존한다고 본다.",
+    "자원의존이론에서도 조직의 전략적 선택이 중요하게 다루어진다.",
+    "자원의존이론은 조직이 환경에 수동적인 것이 아니라 능동적으로 영향을 미치려 한다고 본다.",
+    "협력관계 형성요인을 자원의존이론의 내용으로 서술한 점이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-local-adminsci-D-q14",
+   "paperId": "paper_civil_admin_sci_2026_local_D",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/admin_sci/2026/local-D/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n라이트의 정부 간 관계 모형은 미국의 연방-주-지방 관계를 설명하기 위한 것으로, 내포권위·대등권위·중첩권위 모형 등으로 구분된다. 영국의 관계를 설명하면서 5가지 자원을 강조한 것은 라이트의 모형이 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "라이트의 모형은 미국의 정부 간 관계를 설명하는 모형이므로, 영국을 설명하면서 5가지 자원을 강조하였다는 서술이 옳지 않다. 정답입니다.",
+    "내포권위 모형은 연방-주-지방정부가 위계적 상하관계에 있는 형태이다.",
+    "대등권위 모형은 연방과 주가 독립적이면서 주와 지방은 내포관계를 이루는 형태이다.",
+    "중첩권위 모형은 각 정부가 고유 영역을 가지면서 기능을 상당 부분 공유하는 형태이다."
+   ]
+  },
+  {
+   "id": "civil2026-local-adminsci-D-q15",
+   "paperId": "paper_civil_admin_sci_2026_local_D",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_sci/2026/local-D/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n윌슨의 규제정치에서 기업가 정치는 비용이 소수에게 집중되고 편익은 다수에게 분산되는 상황에서, 집중된 소수가 반대하고 분산된 다수가 지지하는 구도이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "비용·편익이 모두 다수에게 분산되는 것은 대중정치이다.",
+    "기업가 정치는 비용은 소수에게 집중되고 편익은 다수에게 분산되는 경우이다. 정답입니다.",
+    "비용은 다수에게 분산되고 편익이 소수에게 집중되는 것은 고객정치이다.",
+    "비용·편익이 모두 소수에게 집중되는 것은 이익집단 정치이다."
+   ]
+  },
+  {
+   "id": "civil2026-local-adminsci-D-q16",
+   "paperId": "paper_civil_admin_sci_2026_local_D",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/admin_sci/2026/local-D/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국가공무원법상 정직과 감봉의 징계처분은 휴직기간 중에는 그 집행을 정지한다. 집행을 정지하지 않는다는 서술이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "견책은 전과에 대하여 훈계하고 회개하게 하는 징계이다.",
+    "감봉은 1개월 이상 3개월 이하의 기간 동안 보수의 3분의 1을 감한다.",
+    "정직은 1개월 이상 3개월 이하로 하며 신분은 보유하나 직무에 종사하지 못하고 보수는 전액 감한다.",
+    "정직·감봉은 휴직기간 중 그 집행을 정지하므로, 정지하지 아니한다는 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-local-adminsci-D-q17",
+   "paperId": "paper_civil_admin_sci_2026_local_D",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_sci/2026/local-D/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n네트워크 조직은 수평적 연결과 정보공유를 바탕으로 하므로 환경변화에 신속하게 대응할 수 있다. 적응이 어렵다는 서술이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "네트워크 조직은 자원을 공유하여 자원절약과 비용절감을 기대할 수 있다.",
+    "조직 경계가 모호하여 정체성과 응집성이 약화될 수 있다는 지적이 있다.",
+    "네트워크 조직은 환경변화에 신속히 적응하는 것이 장점이므로, 적응이 어렵다는 설명이 옳지 않다. 정답입니다.",
+    "네트워크 조직에서는 의사결정에 필요한 정보가 광범위하게 공유된다."
+   ]
+  },
+  {
+   "id": "civil2026-local-adminsci-D-q18",
+   "paperId": "paper_civil_admin_sci_2026_local_D",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_sci/2026/local-D/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공직자윤리법상 재산등록의무자에는 4급 이상 일반직공무원, 교육감·교육장, 헌법연구관 등이 포함된다. 국가정보원 직원과 대통령경호처 경호공무원은 7급 이상이 재산등록의무자가 되므로, 5급 이상이라는 서술이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "고위공무원단에 속하는 일반직공무원을 포함한 4급 이상 일반직 공무원 및 지방공무원은 재산등록의무자이다.",
+    "국가정보원 직원과 경호공무원은 7급 이상이 재산등록의무자이므로, 5급 이상이라는 서술이 옳지 않다. 정답입니다.",
+    "특별시·광역시·특별자치시·도·특별자치도의 교육감 및 교육장은 재산등록의무자이다.",
+    "헌법재판소 헌법연구관은 재산등록의무자에 해당한다."
+   ]
+  },
+  {
+   "id": "civil2026-local-adminsci-D-q19",
+   "paperId": "paper_civil_admin_sci_2026_local_D",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/admin_sci/2026/local-D/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n포터와 롤러의 모형은 노력이 성과에, 성과가 보상에, 보상이 만족에 이어지는 과정을 설명하는 과정이론으로, 노력-성과의 연결을 오히려 핵심 요소로 다룬다. 이를 간과하였다는 비판은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "포터와 롤러의 이론은 과정이론에 해당한다.",
+    "이 이론은 보상을 내재적 보상과 외재적 보상으로 구분한다.",
+    "노력이 성과에 영향을 미친다는 점을 간과하였다는 비판은 이 이론에는 해당하지 않으므로 옳지 않다. 정답입니다.",
+    "보상이 공정하게 지각되어야 만족이 이루어진다고 본다."
+   ]
+  },
+  {
+   "id": "civil2026-local-adminsci-D-q20",
+   "paperId": "paper_civil_admin_sci_2026_local_D",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/admin_sci/2026/local-D/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국가재정법상 재정경제부장관은 대통령의 승인을 받은 국가결산보고서를 다음 연도 4월 10일까지 기획예산처장관과 감사원에 제출하여야 한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "2월 말일은 국가결산보고서 제출 기한이 아니다.",
+    "국가결산보고서는 다음 연도 4월 10일까지 제출하여야 한다. 정답입니다.",
+    "5월 20일은 국가결산보고서의 제출 기한이 아니다.",
+    "5월 31일은 감사원의 결산검사보고서 제출 기한 등과 관련된 날짜이다."
+   ]
+  }
+ ]
+}
