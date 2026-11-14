@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_computer_general_2024_national_gah",
+ "title": "2024 국가직 9급 컴퓨터일반 가책형",
+ "year": 2024,
+ "source": "2024년도 국가공무원 9급 공개경쟁채용 필기시험 컴퓨터일반 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_18",
+ "questions": [
+  {
+   "id": "civil2024-national-computer_general-gah-q01",
+   "paperId": "paper_civil_computer_general_2024_national_gah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2024/national-gah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n정보량 단위는 바이트(B)를 기준으로 KB, MB, GB, TB, PB, EB 순으로 커진다. 작은 것부터 나열하면 GB, TB, PB, EB이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "EB로 시작하는 나열은 크기 순서가 반대이다.",
+    "EB, PB, GB, TB는 큰 것부터 나열한 순서도 아니다.",
+    "GB, TB, EB, PB는 PB와 EB의 순서가 바뀌었다.",
+    "GB, TB, PB, EB가 작은 것부터 큰 것 순서로 바르게 나열된 것이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-computer_general-gah-q02",
+   "paperId": "paper_civil_computer_general_2024_national_gah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2024/national-gah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n논리회로의 게이트 구성에 따라 입력 X, Y, Z의 값이 0, 1, 1일 때 출력 F가 0이 된다. 각 조합을 게이트 연산에 대입해 계산하면 다른 조합에서는 F가 1이 된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "X, Y, Z가 0, 0, 1인 조합에서는 회로의 게이트 연산 결과가 1이 된다.",
+    "0, 1, 0 조합에서도 출력이 1이 된다.",
+    "0, 1, 1 조합에서 출력 F가 0이 되어 조건을 만족한다. 정답입니다.",
+    "1, 0, 0 조합에서는 출력이 1이 된다."
+   ]
+  },
+  {
+   "id": "civil2024-national-computer_general-gah-q03",
+   "paperId": "paper_civil_computer_general_2024_national_gah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2024/national-gah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공개키와 개인키 한 쌍을 사용하는 비대칭키 암호화 기법은 RSA이다. AES, DES, SEED는 같은 키로 암호화와 복호화를 하는 대칭키 기법이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "AES는 대칭키 블록 암호 알고리즘이다.",
+    "DES도 대칭키 암호 알고리즘이다.",
+    "개인키와 공개키를 사용하는 비대칭키 암호화 기법은 RSA이다. 정답입니다.",
+    "SEED는 국내에서 개발한 대칭키 블록 암호 알고리즘이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-computer_general-gah-q04",
+   "paperId": "paper_civil_computer_general_2024_national_gah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2024/national-gah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nSLIP은 점대점 통신을 위한 데이터링크 계층 프로토콜이다. IP, ICMP, IGMP는 네트워크 계층에서 동작하는 프로토콜이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "ICMP는 네트워크 계층 프로토콜이다.",
+    "IGMP도 네트워크 계층 프로토콜이다.",
+    "IP는 네트워크 계층의 핵심 프로토콜이다.",
+    "SLIP은 데이터링크 계층의 점대점 프로토콜이므로 네트워크 계층에 속하지 않는다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-computer_general-gah-q05",
+   "paperId": "paper_civil_computer_general_2024_national_gah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2024/national-gah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nPaaS는 애플리케이션의 개발·테스트·배포에 필요한 플랫폼과 통합환경을 제공하는 서비스 모델이다. IaaS는 인프라, SaaS는 완성된 소프트웨어를 제공한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "IaaS는 서버·스토리지 등 기반 인프라를 제공한다.",
+    "NAS는 네트워크에 연결된 파일 저장장치이다.",
+    "애플리케이션 구축·테스트·설치를 위한 통합환경을 제공하는 것은 PaaS이다. 정답입니다.",
+    "SaaS는 완성된 소프트웨어를 서비스로 제공한다."
+   ]
+  },
+  {
+   "id": "civil2024-national-computer_general-gah-q06",
+   "paperId": "paper_civil_computer_general_2024_national_gah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2024/national-gah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n7－12＝－5를 8비트 2의 보수로 표현하면, +5인 0000 0101의 1의 보수 1111 1010에 1을 더한 1111 1011이 된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "0000 0100은 +4에 해당한다.",
+    "0000 0101은 +5의 2진 표현이다.",
+    "1111 0101은 －11에 해당하는 값이다.",
+    "－5의 8비트 2의 보수 표현은 1111 1011이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-computer_general-gah-q07",
+   "paperId": "paper_civil_computer_general_2024_national_gah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2024/national-gah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nRAID 1은 두 개의 디스크에 같은 데이터를 중복 저장하는 미러링 방식으로, 패리티 비트로 오류를 검출하는 방식이 아니다. 패리티를 쓰는 것은 RAID 3·4·5 등이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "RAID 0이 패리티 없이 데이터를 분산 저장한다는 설명은 옳다.",
+    "RAID 1은 미러링 방식이므로 패리티 비트로 오류를 검출한다는 설명이 옳지 않다. 정답입니다.",
+    "RAID 2가 해밍 코드로 오류 검출·정정을 한다는 설명은 옳다.",
+    "RAID 5가 데이터와 패리티를 블록 단위로 분산 저장한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2024-national-computer_general-gah-q08",
+   "paperId": "paper_civil_computer_general_2024_national_gah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2024/national-gah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nCISC는 명령어 종류가 많고 길이가 가변적이며 회로가 복잡해 파이프라인 효율이 낮다. 명령어 길이가 고정적이라는 것은 RISC의 특징이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "CISC는 명령어 종류가 많다는 설명은 옳다.",
+    "CISC의 명령어 길이는 가변적이므로 고정적이라는 설명은 옳지 않다. 정답입니다.",
+    "CISC는 복잡한 명령어로 파이프라인이 비효율적이라는 설명은 옳다.",
+    "CISC는 회로 구성이 복잡하다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2024-national-computer_general-gah-q09",
+   "paperId": "paper_civil_computer_general_2024_national_gah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2024/national-gah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n이진 탐색에서 찾는 값이 중간값보다 작으면 탐색 범위를 왼쪽으로 좁혀 high＝mid－1로, 크면 오른쪽으로 좁혀 low＝mid＋1로 조정한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "high와 low를 모두 mid－1로 두면 오른쪽 절반을 탐색할 수 없다.",
+    "high＝mid－1, low＝mid＋1이 이진 탐색의 범위 축소 방법이다. 정답입니다.",
+    "high＝mid＋1로 두면 왼쪽 절반을 탐색할 수 없다.",
+    "high＝mid＋1은 중간값보다 작은 경우의 처리로 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2024-national-computer_general-gah-q10",
+   "paperId": "paper_civil_computer_general_2024_national_gah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2024/national-gah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nLRU는 가장 오랫동안 사용되지 않은 페이지를 교체하므로, 참조열에서 반복적으로 참조되는 페이지를 유지해 페이지 부재가 가장 적게 발생한다. FIFO·LFU·MFU는 각각 도착 순서·사용 빈도에 따라 교체한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "FIFO는 먼저 들어온 페이지를 교체해 반복 참조되는 페이지도 내보낼 수 있다.",
+    "LFU는 사용 빈도가 적은 페이지를 교체한다.",
+    "LRU는 가장 오래 사용되지 않은 페이지를 교체해 지역성을 잘 반영한다. 정답입니다.",
+    "MFU는 가장 많이 사용된 페이지를 교체하므로 부재가 늘어난다."
+   ]
+  },
+  {
+   "id": "civil2024-national-computer_general-gah-q11",
+   "paperId": "paper_civil_computer_general_2024_national_gah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2024/national-gah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n교착상태의 필요조건은 상호배제, 점유와 대기, 비선점, 순환 대기이다. 선점은 교착상태를 예방하는 조건이지 발생 조건이 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "상호 배제는 교착상태의 필요조건이다.",
+    "선점은 교착상태 발생의 필요조건이 아니라 예방 기법의 하나이다. 정답입니다.",
+    "순환 대기도 교착상태의 필요조건이다.",
+    "점유와 대기 역시 교착상태의 필요조건이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-computer_general-gah-q12",
+   "paperId": "paper_civil_computer_general_2024_national_gah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2024/national-gah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n비선점형 스케줄링은 실행 중인 프로세스의 CPU를 강제로 빼앗지 않는 방식으로 FCFS와 HRN이 이에 해당한다. RR과 SRT는 선점형 알고리즘이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "FCFS(ㄱ)와 HRN(ㄴ)은 모두 비선점형 스케줄링이다. 정답입니다.",
+    "SRT(ㄹ)는 선점형이므로 포함할 수 없다.",
+    "RR(ㄷ)은 시간 할당량마다 교체하는 선점형이다.",
+    "ㄷ과 ㄹ은 모두 선점형이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-computer_general-gah-q13",
+   "paperId": "paper_civil_computer_general_2024_national_gah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2024/national-gah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n트리형 토폴로지는 상위 계층의 허브나 서버를 거쳐 통신하므로 상위 노드에 트래픽이 집중되어 병목 현상이 나타날 수 있다. 확장이 용이하고 분산처리가 가능하며, 중앙 서버 장애 시 전체에 영향을 준다는 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "트리형은 네트워크 확장이 용이하다는 설명은 옳다.",
+    "상위 노드에 트래픽이 몰려 병목이 생길 수 있으므로, 병목 현상이 나타나지 않는다는 이 설명이 옳지 않다. 정답입니다.",
+    "트리형에서도 분산처리 방식을 구현할 수 있다는 설명은 옳다.",
+    "중앙 서버 장애가 전체 네트워크에 영향을 준다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2024-national-computer_general-gah-q14",
+   "paperId": "paper_civil_computer_general_2024_national_gah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2024/national-gah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nB 클래스 IPv4 주소는 첫 옥텟이 128~191 범위이다. 128.128.128.128이 이 범위에 해당하고, 12·111은 A 클래스, 222는 C 클래스이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "12.23.34.45는 첫 옥텟이 1~126으로 A 클래스이다.",
+    "111.111.11.11도 A 클래스에 속한다.",
+    "128.128.128.128은 첫 옥텟이 128로 B 클래스에 해당한다. 정답입니다.",
+    "222.111.222.111은 첫 옥텟이 192~223으로 C 클래스이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-computer_general-gah-q15",
+   "paperId": "paper_civil_computer_general_2024_national_gah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2024/national-gah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n내용 결합도는 한 모듈이 다른 모듈의 내부 기능이나 자료를 직접 참조·수정하는 경우로 결합도가 가장 높다. 공통 결합도는 전역변수 공유, 외부 결합도는 외부 선언 데이터 참조, 자료 결합도는 매개변수로 자료를 전달하는 경우이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "공통 결합도는 여러 모듈이 전역 변수 등 공통 자료를 사용하는 경우이다.",
+    "다른 모듈의 내부 자료를 직접 참조·변경하는 것은 내용 결합도에 해당한다. 정답입니다.",
+    "외부 결합도는 외부에 선언된 데이터나 제어를 참조하는 경우이다.",
+    "자료 결합도는 모듈 간에 매개변수로 자료를 전달하는 가장 낮은 결합도이다."
+   ]
+  },
+  {
+   "id": "civil2024-national-computer_general-gah-q16",
+   "paperId": "paper_civil_computer_general_2024_national_gah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2024/national-gah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nS와 T를 차례로 push한 뒤 pop하면 T가 삭제되고, 이어 R, P, Q를 push한 뒤 pop하면 Q가 삭제된다. 남은 배열은 인덱스 0에 S, 1에 R, 2에 P가 있고 top은 2를 가리킨다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "0에 S, 1에 R, 2에 P가 남고 top이 2를 가리키는 상태가 된다. 정답입니다.",
+    "0에 P가 있는 상태는 push·pop 순서를 잘못 적용한 결과이다.",
+    "top이 3을 가리키려면 요소가 4개 남아야 한다.",
+    "3에 S가 있는 상태는 연산 순서와 맞지 않는다."
+   ]
+  },
+  {
+   "id": "civil2024-national-computer_general-gah-q17",
+   "paperId": "paper_civil_computer_general_2024_national_gah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2024/national-gah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n해시함수 h(k)＝k mod 11에 따라 12→1, 33→0, 13→2에 저장되고, 55는 0→1→2가 모두 차 있어 3에 저장된다. 23은 1→2→3이 모두 차 있어 4에 저장된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "1번 버킷은 12가 차지하고 있어 23을 저장할 수 없다.",
+    "2번 버킷은 13이 차지하고 있다.",
+    "3번 버킷은 55가 선형 조사로 저장되어 있다.",
+    "23은 1, 2, 3번 버킷이 모두 차 있어 다음 빈 버킷인 4번에 저장된다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-national-computer_general-gah-q18",
+   "paperId": "paper_civil_computer_general_2024_national_gah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2024/national-gah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n인스턴스 메서드에서 평균을 계산할 때는 self가 가리키는 객체의 합계를 2로 나누고(self.sum()/2), 반복 변수 to의 속성인 to.id와 to.avg()로 각 학생의 정보를 출력한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "self.sum()/2와 to.id, to.avg()의 연결이 파이썬 객체 참조 방식과 일치한다. 정답입니다.",
+    "Student.id, Student.avg()는 클래스 이름으로 인스턴스 속성에 접근하는 잘못된 표현이다.",
+    "sum(self)/2는 객체에 대한 합계 메서드 호출 방식과 맞지 않는다.",
+    "avg(self)도 인스턴스 메서드 호출 형식과 맞지 않는다."
+   ]
+  },
+  {
+   "id": "civil2024-national-computer_general-gah-q19",
+   "paperId": "paper_civil_computer_general_2024_national_gah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2024/national-gah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n2단계 로킹 규약을 지키면 트랜잭션 스케줄의 직렬 가능성은 보장되지만, 서로 잠금을 기다리며 교착상태가 발생할 수 있다. 공용 lock은 read만 허용하고, 연쇄 복귀와 갱신 분실의 설명은 지문에서 서로 뒤바뀌어 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "2단계 로킹 규약이 직렬 가능성을 보장하나 교착상태가 발생할 수 있다는 설명은 옳다. 정답입니다.",
+    "공용 lock을 수행하면 read만 가능하므로 read·write 모두 가능하다는 설명은 옳지 않다.",
+    "지문의 연쇄 복귀 설명은 연쇄 복귀가 아니라 일관성 없는 데이터를 읽는 문제(비일관성)에 가깝다.",
+    "지문의 갱신 분실 설명은 갱신 분실이 아니라 연쇄 복귀(rollback 연쇄)에 해당한다."
+   ]
+  },
+  {
+   "id": "civil2024-national-computer_general-gah-q20",
+   "paperId": "paper_civil_computer_general_2024_national_gah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2024/national-gah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n제시된 C 프로그램은 반복문과 조건문으로 배열 요소를 처리하며, 결과적으로 3 5 3 8 8이 출력된다. 다른 보기는 연산 순서나 조건 판정을 달리 적용한 값이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "1 2 3 5 7은 반복·조건 처리를 잘못 적용한 값이다.",
+    "1 3 5 7 9도 프로그램의 연산 결과와 다르다.",
+    "3 3 5 9 9는 일부 요소만 반영된 값이다.",
+    "프로그램을 실행하면 3 5 3 8 8이 출력된다. 정답입니다."
+   ]
+  }
+ ]
+}

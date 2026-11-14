@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_computer_general_2022_national_gah",
+ "title": "2022 국가직 9급 컴퓨터일반 가책형",
+ "year": 2022,
+ "source": "2022년도 국가공무원 9급 공개경쟁채용 필기시험 컴퓨터일반 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_18",
+ "questions": [
+  {
+   "id": "civil2022-national-computer_general-gah-q01",
+   "paperId": "paper_civil_computer_general_2022_national_gah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2022/national-gah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nDRAM과 SRAM은 모두 전원이 공급되어야 내용이 유지되는 휘발성 메모리이다. SRAM은 플립플롭으로, DRAM은 축전기의 충전 상태로 비트를 저장하며 SRAM이 더 빠르고 캐시로 쓰인다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "DRAM은 물론 SRAM도 휘발성이라 전원이 끊기면 내용이 지워지므로, SRAM이 비휘발성이라는 이 설명이 옳지 않다. 정답입니다.",
+    "DRAM이 축전기의 충전 상태로 비트를 저장한다는 설명은 옳다.",
+    "SRAM이 주로 캐시 메모리로 사용된다는 설명은 옳다.",
+    "SRAM의 접근 속도가 DRAM보다 빠르다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-national-computer_general-gah-q02",
+   "paperId": "paper_civil_computer_general_2022_national_gah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2022/national-gah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n삽입 정렬·쉘 정렬·버블 정렬은 최악의 경우 시간복잡도가 O(n²)인 반면, 힙 정렬은 항상 O(n log n)으로 다른 복잡도를 가진다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "삽입 정렬의 최악 시간복잡도는 O(n²)이다.",
+    "쉘 정렬의 최악 시간복잡도는 O(n²) 수준이다.",
+    "버블 정렬의 최악 시간복잡도도 O(n²)이다.",
+    "힙 정렬은 최악의 경우에도 O(n log n)이므로 다른 알고리즘들과 시간복잡도가 다르다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-computer_general-gah-q03",
+   "paperId": "paper_civil_computer_general_2022_national_gah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2022/national-gah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n비지도 학습은 정답(레이블)이 없는 데이터에서 스스로 유용한 패턴이나 구조를 추출하는 학습 방식이다. 군집화는 비지도 학습, 분류·회귀는 지도 학습, 보상을 받는 학습은 강화 학습에 해당한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "군집화는 지도 학습이 아니라 비지도 학습의 대표 기법이다.",
+    "분류와 회귀분석은 비지도 학습이 아니라 지도 학습 기법이다.",
+    "행동에 대해 보상을 받는 학습은 강화 학습이다.",
+    "정답이 없는 데이터에서 패턴을 추출하는 것이 비지도 학습이라는 설명은 옳다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-computer_general-gah-q04",
+   "paperId": "paper_civil_computer_general_2022_national_gah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2022/national-gah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nRFID는 무선주파수를 이용해 반도체 칩이 내장된 태그와 리더기 사이에서 정보를 주고받는 인식 시스템이다. WAN은 광역 통신망, Bluetooth와 ZigBee는 근거리 무선 통신 규격이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "무선주파수와 태그·리더기로 구성된 인식 시스템은 RFID이다. 정답입니다.",
+    "WAN은 넓은 지역을 연결하는 광역 통신망으로 인식 시스템이 아니다.",
+    "Bluetooth는 근거리 무선 통신 규격이다.",
+    "ZigBee는 저전력 근거리 무선 통신 규격이다."
+   ]
+  },
+  {
+   "id": "civil2022-national-computer_general-gah-q05",
+   "paperId": "paper_civil_computer_general_2022_national_gah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2022/national-gah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nIaaS는 서버·스토리지 등 인프라를 제공하는 모델로, 소프트웨어 설치·유지보수 부담을 줄여 주는 것은 SaaS이다. 클라우드 서비스 모델(IaaS·PaaS·SaaS)과 구축 방식(사설·공용·하이브리드)에 관한 다른 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "클라우드 컴퓨팅이 IT 요구를 경제적·신뢰성 있게 충족한다는 설명은 옳다.",
+    "서비스 모델에 IaaS·PaaS·SaaS가 있다는 설명은 옳다.",
+    "사설·공용·하이브리드 클라우드로 이용 방식이 나뉜다는 설명은 옳다.",
+    "소프트웨어 설치·유지보수 비용 절감은 SaaS의 효과이므로, IaaS를 통해 얻는다는 이 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-computer_general-gah-q06",
+   "paperId": "paper_civil_computer_general_2022_national_gah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2022/national-gah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nC 언어에서 배열을 함수에 전달하면 배열의 시작 주소가 전달되어 참조에 의한 호출과 같이 동작한다. 따라서 score가 값에 의한 호출로 처리된다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "데이터 양이 많으면 참조에 의한 호출이 효율적이라는 설명은 옳다.",
+    "값에 의한 호출로 전달된 데이터는 함수 내 변경이 호출한 함수에 반영되지 않는다는 설명은 옳다.",
+    "값에 의한 호출에서는 데이터 복사가 발생한다는 설명은 옳다.",
+    "배열 score는 시작 주소가 전달되어 참조에 의한 호출로 처리되므로, 값에 의한 호출이라는 이 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-computer_general-gah-q07",
+   "paperId": "paper_civil_computer_general_2022_national_gah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2022/national-gah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nary[1]의 값은 11이다. ap는 ary의 시작 주소를 가리키므로 *ap＋1＝11, *ary＋1＝11이 같은 결과를 낸다. ary＋1은 주소를, *ap++은 증가 전의 10을 출력하므로 결과가 다르다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "ㄱ의 ary＋1은 주소를 출력하므로 11과 다르다.",
+    "*ap＋1(ㄴ)은 10＋1＝11, *ary＋1(ㄷ)은 11로 ary[1]과 같은 결과를 출력한다. 정답입니다.",
+    "ㄹ의 *ap++은 증가 전 값 10을 출력해 결과가 다르다.",
+    "ㄹ이 포함되어 있으므로 ary[1]과 같은 결과만을 고른 답이 아니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-computer_general-gah-q08",
+   "paperId": "paper_civil_computer_general_2022_national_gah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2022/national-gah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n두 DTE가 시간적으로 교대로 데이터를 주고받는 방식은 반이중 통신이다. 한쪽 방향으로만 전송하면 단방향, 동시에 양방향으로 전송하면 전이중 통신이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "한 방향으로만 전송하는 방식은 단방향 통신이다.",
+    "두 DTE가 교대로 데이터를 교환하는 방식은 반이중 통신이다. 정답입니다.",
+    "동시에 양방향으로 전송하는 방식은 전이중 통신이다.",
+    "원거리 통신은 전송 거리에 따른 분류이지 자료 흐름 방향에 따른 분류가 아니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-computer_general-gah-q09",
+   "paperId": "paper_civil_computer_general_2022_national_gah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2022/national-gah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n서브넷마스크 255.255.254.0(/23)은 128.50.30.0/23 네트워크를 구성하므로 128.50.30.92와 128.50.31.92는 같은 네트워크에 속해 같은 인터페이스로 전달된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "두 주소가 같은 /23 네트워크에 속하므로 서로 다른 인터페이스로 전달된다는 설명은 옳지 않다. 정답입니다.",
+    "128.50.28.0/23 네트워크의 브로드캐스트 주소가 128.50.28.255라는 설명은 옳다.",
+    "255.255.254.0이 /23이라는 설명은 옳다.",
+    "128.50.28.9는 R2 방향 네트워크에 속해 R2로 전달된다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-national-computer_general-gah-q10",
+   "paperId": "paper_civil_computer_general_2022_national_gah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2022/national-gah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n개념 스키마는 조직 전체 데이터베이스의 논리 구조를 통합해 정의하고, 외부 스키마와의 사이에 논리적 데이터 독립성을 가지며, 데이터베이스에 하나만 존재하고 접근권한·제약조건에 대한 정의를 포함한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "모든 응용·사용자가 필요로 하는 데이터를 통합해 조직 전체 논리 구조를 정의한다는 설명(ㄱ)은 옳다.",
+    "개념 스키마와 외부 스키마 사이에 논리적 데이터 독립성이 있어야 한다는 설명(ㄴ)은 옳다.",
+    "데이터베이스 내에 개념 스키마가 하나만 존재한다는 설명(ㄷ)은 옳다.",
+    "접근권한·제약조건 정의를 포함한다는 설명(ㄹ)까지 네 가지가 모두 옳다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-computer_general-gah-q11",
+   "paperId": "paper_civil_computer_general_2022_national_gah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2022/national-gah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nSNMP는 네트워크 장비를 관리하기 위한 프로토콜로 UDP를 기반으로 한다. Telnet, FTP, SMTP는 TCP 기반 응용 프로토콜이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "Telnet은 TCP 기반 원격 접속 프로토콜이다.",
+    "FTP는 TCP 기반 파일 전송 프로토콜이다.",
+    "SMTP는 TCP 기반 전자우편 전송 프로토콜이다.",
+    "SNMP는 UDP 기반이므로 TCP 기반 응용 프로토콜에 해당하지 않는다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-national-computer_general-gah-q12",
+   "paperId": "paper_civil_computer_general_2022_national_gah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2022/national-gah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n프로세스 제어블록에는 프로세스 식별자, 상태, 프로그램 카운터, 레지스터 정보, 우선순위, 메모리·자원 할당 정보 등이 포함된다. 인터럽트 정보는 프로세스 제어블록의 구성 요소로 보지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "프로세스 식별자는 PCB의 구성 요소이다.",
+    "인터럽트 정보는 PCB의 구성 요소로 규정되지 않는다. 정답입니다.",
+    "프로세스 우선순위도 PCB에 저장된다.",
+    "프로세스 상태도 PCB의 핵심 구성 요소이다."
+   ]
+  },
+  {
+   "id": "civil2022-national-computer_general-gah-q13",
+   "paperId": "paper_civil_computer_general_2022_national_gah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2022/national-gah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nSSD는 기계적 장치 없이 반도체(플래시 메모리)로 데이터를 저장하므로 하드디스크보다 입출력 속도가 빠르다. 기계적 장치를 사용한다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "반도체 기억장치 칩으로 구성된 저장장치라는 설명은 옳다.",
+    "하드디스크에 비해 용량 대비 가격이 비싸다는 설명은 옳다.",
+    "SSD는 기계적 장치를 사용하지 않으므로, 기계적 장치를 사용해 빠르다는 이 설명이 옳지 않다. 정답입니다.",
+    "하드디스크를 대체하려고 플래시 메모리로 구성한 저장장치라는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-national-computer_general-gah-q14",
+   "paperId": "paper_civil_computer_general_2022_national_gah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2022/national-gah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n주어진 후위 표기식을 스택으로 계산하면 마지막 연산이 덧셈이고 그 왼쪽 피연산자가 3, 오른쪽 피연산자가 곱셈식이다. 곱셈의 왼쪽은 1, 오른쪽은 뺄셈식(4 1)이므로 전위 표기로 바꾸면 ＋3 * 1 －4 1이 된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "3＋1*4－1은 중위 표기 형태로, 후위식을 전위로 바꾼 결과가 아니다.",
+    "4－1*1＋3도 연산 순서가 뒤바뀐 표기이다.",
+    "＋3 * 1 －4 1은 후위 표기식의 연산 구조를 그대로 전위 표기로 옮긴 것이다. 정답입니다.",
+    "＋3 －4 1 * 1은 곱셈과 뺄셈의 위치가 바뀐 표기이다."
+   ]
+  },
+  {
+   "id": "civil2022-national-computer_general-gah-q15",
+   "paperId": "paper_civil_computer_general_2022_national_gah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2022/national-gah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n세마포어 연산은 원자적으로 수행되어야 하므로 수행 중에 인터럽트될 수 없다. 상호배제 보장, 값의 동시 수정 금지, 플래그 변수와 검사·증감 연산으로 정의된다는 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "세마포어가 상호배제 원리를 보장하는 데 사용된다는 설명은 옳다.",
+    "여러 프로세스가 동시에 값을 수정하지 못한다는 설명은 옳다.",
+    "세마포어 연산은 원자적으로 처리되어 인터럽트될 수 없으므로, 인터럽트될 수 있다는 이 설명이 옳지 않다. 정답입니다.",
+    "플래그 변수와 검사·증감 연산으로 정의된다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-national-computer_general-gah-q16",
+   "paperId": "paper_civil_computer_general_2022_national_gah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2022/national-gah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n프로세스 품질 표준은 ISO/IEC 12207(소프트웨어 생명주기 프로세스)이다. 12119는 패키지 소프트웨어 품질 요구, 14598은 제품 평가, 25010은 제품 품질 모델에 관한 표준이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "ISO/IEC 12119는 패키지 소프트웨어의 품질 요구·시험에 관한 표준이다.",
+    "ISO/IEC 12207은 소프트웨어 생명주기 프로세스를 다루는 프로세스 품질 표준이다. 정답입니다.",
+    "ISO/IEC 14598은 소프트웨어 제품 평가에 관한 표준이다.",
+    "ISO/IEC 25010은 소프트웨어 제품 품질 모델·평가에 관한 표준이다."
+   ]
+  },
+  {
+   "id": "civil2022-national-computer_general-gah-q17",
+   "paperId": "paper_civil_computer_general_2022_national_gah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2022/national-gah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n블록체인은 중앙 서버 없이 P2P 네트워크에 참여한 노드들이 블록을 전파하고 검증한다. 중앙 서버로 다시 전송한다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "블록에 트랜잭션이 저장된다는 설명은 옳다.",
+    "스마트 컨트랙트가 실세계 계약을 블록체인에서 이행할 수 있게 하는 기술이라는 설명은 옳다.",
+    "블록이 중앙 서버를 통해 전파되고 다시 중앙 서버로 전송된다는 설명은 블록체인의 분산 구조와 맞지 않아 옳지 않다. 정답입니다.",
+    "공개범위에 따라 Public·Private 블록체인으로 나뉜다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-national-computer_general-gah-q18",
+   "paperId": "paper_civil_computer_general_2022_national_gah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2022/national-gah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n관계대수에서 조건을 만족하는 튜플을 추출하는 연산은 선택(σ)이고, 조건은 σ 아래첨자에 적는다. π는 속성을 추출하는 투영 연산이므로 조건 검색에 쓰지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "σ 아래첨자에 릴레이션 이름을 적은 형태는 선택 연산의 표기법이 아니다.",
+    "σ등급='gold'∧나이≥25(고객)이 조건을 만족하는 튜플을 선택하는 올바른 관계대수 표현이다. 정답입니다.",
+    "π는 투영 연산으로 조건 검색 표현이 아니다.",
+    "π를 사용한 조건 표기는 관계대수 문법에 맞지 않는다."
+   ]
+  },
+  {
+   "id": "civil2022-national-computer_general-gah-q19",
+   "paperId": "paper_civil_computer_general_2022_national_gah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2022/national-gah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n제시된 어드레싱 모드는 유효주소가 레지스터에 저장된 값을 가리키는 방식, 즉 레지스터 간접 모드이다. 레지스터 모드는 레지스터 자체의 값을, 간접 주소 모드는 기억장치에 저장된 주소를 한 번 더 참조하는 방식이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "레지스터에 저장된 값을 주소로 사용해 실제 데이터에 접근하는 방식은 레지스터 간접 모드이다. 정답입니다.",
+    "레지스터 모드는 오퍼랜드가 레지스터 내에 직접 있는 방식이다.",
+    "간접 주소 모드는 기억장치에 있는 주소를 다시 참조하는 방식이다.",
+    "인덱스 어드레싱 모드는 인덱스 레지스터 값을 더해 주소를 계산하는 방식이다."
+   ]
+  },
+  {
+   "id": "civil2022-national-computer_general-gah-q20",
+   "paperId": "paper_civil_computer_general_2022_national_gah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2022/national-gah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n현재 50에서 가장 가까운 40(10), 30(10), 20(10) 순으로 이동한 뒤 70(50), 80(10), 100(20), 130(30)으로 이동한다. 총 이동거리는 10＋10＋10＋50＋10＋20＋30＝140이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "100은 일부 요청만 처리한 값이다.",
+    "SSTF로 이동한 거리를 합하면 140이다. 정답입니다.",
+    "180은 최단탐색 우선 순서를 다르게 적용한 값이다.",
+    "430은 큐 순서대로 이동한 값이다."
+   ]
+  }
+ ]
+}

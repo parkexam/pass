@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_computer_general_2022_local_A",
+ "title": "2022 지방직 9급 컴퓨터일반 A책형",
+ "year": 2022,
+ "source": "2022년도 지방공무원 9급 공개경쟁임용 필기시험 컴퓨터일반 A책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_18",
+ "questions": [
+  {
+   "id": "civil2022-local-computer_general-A-q01",
+   "paperId": "paper_civil_computer_general_2022_local_A",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2022/local-A/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n알고리즘의 단계들은 논리적 순서에 따라 정해져 있어야 하며, 유한한 단계 후 종료되고, 명령어는 모호하지 않고 실행 가능해야 한다. 순서가 정해져 있지 않다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "각 명령어의 의미가 모호하지 않고 명확해야 한다는 설명은 옳다.",
+    "알고리즘 단계에 순서가 정해져 있지 않다는 설명은 알고리즘의 조건에 어긋난다. 정답입니다.",
+    "한정된 수의 단계 후 반드시 종료되어야 한다는 설명은 옳다.",
+    "각 명령어가 실행 가능한 연산이어야 한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-local-computer_general-A-q02",
+   "paperId": "paper_civil_computer_general_2022_local_A",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2022/local-A/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n빅데이터의 3대 특징은 데이터의 양(volume), 다양성(variety), 속도(velocity)이다. 센싱 기술로 사물·환경에서 정보를 얻는 것은 사물인터넷 등과 관련된 설명이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "센싱을 통한 정보 획득은 빅데이터의 3V에 포함되지 않는다. 정답입니다.",
+    "방대한 양의 데이터 처리(volume)는 3대 특징이다.",
+    "정형·비정형 등 다양한 유형(variety)도 3대 특징이다.",
+    "실시간 생산과 빠른 수집·분석(velocity)도 3대 특징이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-computer_general-A-q03",
+   "paperId": "paper_civil_computer_general_2022_local_A",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2022/local-A/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n삽입 정렬은 앞에서부터 이미 정렬된 부분에 다음 원소를 제자리에 삽입한다. 첫 단계에서 처음 두 원소만 정렬되므로, 처음부터 3 1 5 2 4 9처럼 뒤섞인 상태는 과정 중에 나타날 수 없다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "1 3 4 2 9 5는 앞부분이 정렬된 중간 단계로 나타날 수 있다.",
+    "1 2 3 4 9 5도 삽입이 진행된 단계로 나타날 수 있다.",
+    "처음부터 3 1 5 2 4 9처럼 정렬되지 않은 상태는 삽입 정렬 과정에서 나타날 수 없다. 정답입니다.",
+    "1 2 3 4 5 9는 정렬이 끝난 상태이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-computer_general-A-q04",
+   "paperId": "paper_civil_computer_general_2022_local_A",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2022/local-A/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n화이트박스 테스트는 프로그램의 내부 논리 구조를 알고 그 경로를 검증하는 테스트이다. 내부 경로를 보지 않고 기능·성능을 테스트하는 것은 블랙박스 테스트이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "글래스 박스 테스트라고 부른다는 설명은 옳다.",
+    "내부 경로에 대한 지식 없이 기능·성능을 테스트한다는 설명은 블랙박스 테스트에 해당한다. 정답입니다.",
+    "문장·분기·조건 커버리지가 검증 기준이라는 설명은 옳다.",
+    "논리 구조를 점검하므로 구조적 테스트라고도 한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-local-computer_general-A-q05",
+   "paperId": "paper_civil_computer_general_2022_local_A",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2022/local-A/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n16진수 210은 10진수로 2×256＋1×16＝528이고, 이를 8진수로 바꾸면 1020이다(512＋16).",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "528을 8진수로 나타내면 1020이다. 정답입니다.",
+    "2100은 16진수를 그대로 옮긴 값이다.",
+    "10210은 자릿수 계산이 잘못된 값이다.",
+    "20100도 8진 변환 결과와 다르다."
+   ]
+  },
+  {
+   "id": "civil2022-local-computer_general-A-q06",
+   "paperId": "paper_civil_computer_general_2022_local_A",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2022/local-A/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n은행원 알고리즘은 자원을 할당하기 전에 안전 상태를 유지할 수 있는지 확인하고 할당하는 교착상태 회피 기법이다. 예방은 필요조건을 제거하고, 검출·회복은 발생 여부를 찾아 복구한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "예방은 교착상태 필요조건을 사전에 제거하는 기법이다.",
+    "은행원 알고리즘은 안전 상태를 유지하며 자원을 할당하는 회피 기법이다. 정답입니다.",
+    "검출은 자원 할당 그래프 등으로 교착상태 발생 여부를 찾는 기법이다.",
+    "회복은 발생한 교착상태를 해소하는 기법이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-computer_general-A-q07",
+   "paperId": "paper_civil_computer_general_2022_local_A",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2022/local-A/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n물리 계층에서 동작하는 장치는 리피터와 더미허브이다. 라우터는 네트워크 계층, 브릿지는 데이터링크 계층, 게이트웨이는 상위 계층에서 동작한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "리피터(ㄱ)와 더미허브(ㄴ)는 물리 계층 장치이다. 정답입니다.",
+    "라우터(ㄷ)는 네트워크 계층 장치이므로 포함할 수 없다.",
+    "브릿지(ㅁ)는 데이터링크 계층 장치이다.",
+    "게이트웨이(ㄹ)와 브릿지(ㅁ)는 물리 계층 장치가 아니다."
+   ]
+  },
+  {
+   "id": "civil2022-local-computer_general-A-q08",
+   "paperId": "paper_civil_computer_general_2022_local_A",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2022/local-A/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nCMYK는 인쇄에서 쓰는 감산 혼합 모델로 C는 Cyan(청록)을 뜻한다. RGB는 빛의 가산 혼합으로 디스플레이에 쓰이고 R·G·B는 빨강·초록·파랑이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "CMYK는 감산 혼합 모델이므로 가산 혼합이라는 설명은 옳지 않다.",
+    "CMYK의 C가 Cyan(청록)이라는 설명은 옳다. 정답입니다.",
+    "RGB는 주로 디스플레이에 적용되고 인쇄에는 CMYK가 쓰인다.",
+    "RGB의 B는 Blue를 뜻하며 Black은 CMYK의 K이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-computer_general-A-q09",
+   "paperId": "paper_civil_computer_general_2022_local_A",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2022/local-A/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지연 갱신 회복 기법에서는 장애 시점까지 완료(commit)된 트랜잭션은 redo하고, 완료되지 않은 트랜잭션은 무시한다. T1은 완료되어 redo(T1)를 수행하고, T2는 완료되지 않았으므로 별다른 조치를 하지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "T1은 완료되었으므로 별다른 조치를 하지 않는다는 설명은 옳지 않다.",
+    "완료된 T1의 로그를 버린다는 설명은 회복 기법과 반대이다.",
+    "T2는 완료되지 않았으므로 redo(T2)를 실행하지 않는다.",
+    "T2는 완료되지 않아 조치하지 않고, 완료된 T1에는 redo(T1)를 수행한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-local-computer_general-A-q10",
+   "paperId": "paper_civil_computer_general_2022_local_A",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2022/local-A/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n요구사항 개발, 기술적 솔루션, 제품 통합, 검증, 확인과 조직 차원의 프로세스 정립·교육훈련·통합 프로젝트 관리·위험관리·의사결정 분석·조직 프로세스 개선은 CMMI 3단계(정의)의 프로세스 영역이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "2단계(관리)는 프로젝트 관리 중심의 기본 프로세스 영역이다.",
+    "제시된 프로세스 영역은 조직 차원의 표준 프로세스 정립을 다루는 3단계(정의)에 해당한다. 정답입니다.",
+    "4단계(정량적 관리)는 프로세스 성과의 정량적 측정·관리를 다룬다.",
+    "5단계(최적화)는 지속적 프로세스 개선을 다룬다."
+   ]
+  },
+  {
+   "id": "civil2022-local-computer_general-A-q11",
+   "paperId": "paper_civil_computer_general_2022_local_A",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2022/local-A/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n정논리 JK 플립플롭에서 J＝0, K＝1이면 출력 Q는 0으로 리셋되고, J＝1, K＝0이면 1로 세트된다. J＝K＝0이면 현 상태 Q를 유지하고, J＝K＝1이면 Q'로 반전된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "J＝0, K＝1에서 출력이 Q로 유지된다는 설명은 리셋 동작과 맞지 않는다.",
+    "리셋 시 출력이 Q'가 된다는 설명은 옳지 않다.",
+    "J＝K＝0에서 Q 유지, J＝0·K＝1에서 0, J＝1·K＝0에서 1, J＝K＝1에서 Q'이 되는 조합이 JK 플립플롭의 동작과 맞다. 정답입니다.",
+    "유지·세트·리셋 값의 배치가 JK 플립플롭 진리표와 다르다."
+   ]
+  },
+  {
+   "id": "civil2022-local-computer_general-A-q12",
+   "paperId": "paper_civil_computer_general_2022_local_A",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2022/local-A/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nPRICE 열이 NOT NULL로 정의된 경우 값을 넣지 않으면 삽입이 실패한다. ISBN·TITLE·AUTHOR만 지정하고 PRICE를 생략한 문장이 이에 해당한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "모든 열에 값을 지정한 문장은 정상 동작한다.",
+    "열 순서에 맞게 모든 값을 지정한 문장도 정상 동작한다.",
+    "PRICE까지 지정한 문장은 정상 동작한다.",
+    "PRICE를 생략한 채 삽입하려 하면 NOT NULL 제약에 위배되어 동작하지 않는다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-local-computer_general-A-q13",
+   "paperId": "paper_civil_computer_general_2022_local_A",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2022/local-A/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n패킷 교환 네트워크는 패킷 단위로 전송로를 공유하므로 여러 쌍의 통신이 동시에 이루어질 수 있다. 동시에 2쌍 이상 통신이 불가능하다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "패킷 크기를 옥텟 단위로 사용한다는 설명은 옳다.",
+    "모든 데이터가 송·수신지 정보를 포함한 패킷으로 구성된다는 설명은 옳다.",
+    "접속 방식에 따라 데이터그램·가상회선 방식이 있다는 설명은 옳다.",
+    "패킷 교환에서는 다수 쌍의 동시 통신이 가능하므로, 불가능하다는 이 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-local-computer_general-A-q14",
+   "paperId": "paper_civil_computer_general_2022_local_A",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2022/local-A/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n컴퓨터는 인터럽트 요청을 항상 승인하는 것이 아니라 우선순위와 인터럽트 가능 여부에 따라 선택적으로 처리한다. 내부 인터럽트 발생 시 실행이 중단되고, 복귀 주소를 스택 등에 저장하며, 핸들러는 기억장치에 적재되어야 한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "내부 인터럽트가 발생하면 현재 프로그램 실행이 중단된다는 설명은 옳다.",
+    "복귀 주소를 스택 등 특정 장소에 저장한다는 설명은 옳다.",
+    "인터럽트 요청을 항상 승인하도록 구성된다는 설명은 우선순위 제어와 맞지 않아 옳지 않다. 정답입니다.",
+    "인터럽트 핸들러가 기억장치에 적재되어야 한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-local-computer_general-A-q15",
+   "paperId": "paper_civil_computer_general_2022_local_A",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2022/local-A/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n입력값 1, 2, 3, 4가 배열에 차례로 저장되고, 두 번째 반복문은 i＝3부터 i＞0까지 감소하며 ary[3]＋ary[2]＋ary[1]을 더한다. 따라서 4＋3＋2＝9가 출력된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "3은 ary[1]만 더한 값이다.",
+    "6은 ary[1]＋ary[2]까지만 더한 값이다.",
+    "4＋3＋2＝9가 출력된다. 정답입니다.",
+    "10은 ary[0]까지 더한 값이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-computer_general-A-q16",
+   "paperId": "paper_civil_computer_general_2022_local_A",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2022/local-A/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nTCP Tahoe에서 타임아웃이 발생하면 느린 출발 임곗값(ssthresh)은 현재 혼잡 윈도우의 절반인 9가 되고, 혼잡 윈도우는 1로 줄어 다시 느린 출발을 시작한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "임곗값이 변하지 않는다는 설명은 타임아웃 처리와 맞지 않는다.",
+    "타임아웃 시 임곗값은 18의 절반인 9가 되고 혼잡 윈도우는 1로 감소한다. 정답입니다.",
+    "혼잡 윈도우가 현재 값의 반으로 감소하는 것은 3중 중복 ACK를 받은 경우이다.",
+    "임곗값을 유지한다는 설명도 타임아웃 처리와 다르다."
+   ]
+  },
+  {
+   "id": "civil2022-local-computer_general-A-q17",
+   "paperId": "paper_civil_computer_general_2022_local_A",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2022/local-A/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n가변분할 메모리 할당은 프로세스 크기에 맞춰 분할하므로 외부 단편화가 발생한다. 단편화 문제가 발생하지 않는다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "가변분할 할당에서 단편화가 발생하지 않는다는 설명은 옳지 않다. 정답입니다.",
+    "최초 적합·최적 적합·최악 적합이 배치 방법이라는 설명은 옳다.",
+    "고정분할 할당이 같은 크기로 나눈다는 설명은 옳다.",
+    "고정분할에서 쓸모없는 공간으로 낭비가 생긴다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2022-local-computer_general-A-q18",
+   "paperId": "paper_civil_computer_general_2022_local_A",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2022/local-A/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n결합도 분류에서 UMA는 강결합형(공유 메모리) 다중처리기이고, NUMA와 NORMA는 약결합형으로 분류한다. 지문은 이를 반대로 적어 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "프로세스 수준 병렬성이 독립 프로그램 여러 개를 동시에 수행한다는 설명은 옳다.",
+    "클러스터가 근거리 네트워크로 연결된 컴퓨터들이 하나의 시스템처럼 동작한다는 설명은 옳다.",
+    "SMP가 단일 실제 주소 공간을 갖는 병렬 프로세서라는 설명은 옳다.",
+    "UMA를 약결합, NUMA·NORMA를 강결합으로 적은 것은 반대이므로 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2022-local-computer_general-A-q19",
+   "paperId": "paper_civil_computer_general_2022_local_A",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2022/local-A/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nprintStar()는 전역 변수 star의 값 10을 출력하고, main의 지역 변수 star는 5이므로 두 번째 출력은 5가 된다. 출력 결과는 10, 5이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "5, 5는 전역 변수와 지역 변수를 혼동한 값이다.",
+    "5, 10은 출력 순서가 뒤바뀐 값이다.",
+    "전역 변수 10이 먼저, 지역 변수 5가 다음에 출력되어 10, 5가 된다. 정답입니다.",
+    "10, 10은 지역 변수 값을 반영하지 않은 값이다."
+   ]
+  },
+  {
+   "id": "civil2022-local-computer_general-A-q20",
+   "paperId": "paper_civil_computer_general_2022_local_A",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2022/local-A/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nSJF는 실행시간이 짧은 순서로 P3(4), P1(5), P2(6), P4(9)를 처리한다. 반환시간은 4, 9, 15, 24로 평균 13이고, 대기시간은 0, 4, 9, 15로 평균 7이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "6, 6은 평균 계산이 잘못된 값이다.",
+    "6, 7도 반환시간 평균이 맞지 않는다.",
+    "13, 6은 대기시간 평균이 잘못되었다.",
+    "평균 반환시간 13, 평균 대기시간 7이 SJF 처리 순서에 따른 결과이다. 정답입니다."
+   ]
+  }
+ ]
+}

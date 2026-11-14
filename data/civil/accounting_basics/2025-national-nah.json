@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_accounting_basics_2025_national_nah",
+ "title": "2025 국가직 9급 회계원리 나책형",
+ "year": 2025,
+ "source": "2025년도 국가공무원 9급 공개경쟁채용 필기시험 회계원리 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_17",
+ "questions": [
+  {
+   "id": "civil2025-national-accounting_basics-nah-q01",
+   "paperId": "paper_civil_accounting_basics_2025_national_nah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting_basics/2025/national-nah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n고객이 자산을 통제하는지를 판단할 때에는 재매입 약정 등 계약 조건을 고려해야 한다. 통제 이전 여부는 재매입 약정의 존재와 성격에 따라 달라지기 때문이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "자산을 이전하여 수행의무를 이행할 때 수익을 인식한다는 설명은 옳다.",
+    "고객의 통제 여부를 판단할 때 재매입 약정을 고려하지 않는다고 한 설명은 옳지 않다. 정답입니다.",
+    "수행의무가 기간에 걸쳐 이행되지 않으면 한 시점에 이행되는 것이라는 설명은 옳다.",
+    "진행률을 합리적으로 측정할 수 있을 때만 기간에 걸쳐 수익을 인식한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting_basics-nah-q02",
+   "paperId": "paper_civil_accounting_basics_2025_national_nah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting_basics/2025/national-nah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n충당부채는 과거 사건의 결과로 존재하는 현재의무를 대상으로 하며, 미래의 사업행위 자체나 그와 관련된 의무는 충당부채 인식 대상이 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "현재의무에 법적 의무와 의제 의무가 포함된다는 설명은 옳다.",
+    "미래 행위와 관련하여 존재하는 과거 사건에서 생긴 의무만을 충당부채로 인식한다는 설명은 인식 대상을 잘못 한정해 옳지 않다. 정답입니다.",
+    "자원 유출 가능성이 높아야 한다는 설명은 충당부채 인식 요건이다.",
+    "필요한 금액을 신뢰성 있게 추정할 수 있어야 한다는 설명도 인식 요건이다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting_basics-nah-q03",
+   "paperId": "paper_civil_accounting_basics_2025_national_nah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting_basics/2025/national-nah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n무형자산으로 인식되는 것은 개별 취득한 특허권이다. 내부적으로 창출한 영업권과 브랜드·고객 목록은 인식하지 않고, 연구단계 지출은 발생시점에 비용으로 처리한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "개별 취득한 특허권(ㄱ)은 식별 가능하고 원가를 신뢰성 있게 측정할 수 있어 무형자산으로 인식한다. 정답입니다.",
+    "연구단계 지출(ㄷ)은 무형자산이 아니라 비용이다.",
+    "내부 창출 영업권(ㄴ)과 브랜드·고객 목록(ㄹ)은 무형자산으로 인식하지 않는다.",
+    "ㄴ·ㄷ·ㄹ은 모두 무형자산 인식 대상이 아니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting_basics-nah-q04",
+   "paperId": "paper_civil_accounting_basics_2025_national_nah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting_basics/2025/national-nah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n소모품 800,000을 전액 비용 처리하였으나 기말 잔액 200,000은 자산으로 되돌려야 하므로 비용은 600,000만 인식된다. 미수이자수익 800,000을 계상하면 자산이 200,000＋800,000＝1,000,000 증가하고 수익이 800,000 증가하며, 당기순이익은 800,000－600,000＝200,000 증가한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "자산총액은 소모품 200,000과 미수수익 800,000이 늘어 1,000,000 증가하므로 옳다.",
+    "두 수정사항 모두 부채에 영향을 주지 않으므로 부채총액 변동이 없다는 설명은 옳다.",
+    "미수이자수익 800,000이 수익으로 인식되어 수익총액이 800,000 증가하므로 옳다.",
+    "당기순이익은 200,000만 증가하므로, 800,000 증가한다는 이 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting_basics-nah-q05",
+   "paperId": "paper_civil_accounting_basics_2025_national_nah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting_basics/2025/national-nah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기말 자본 20,000에서 기초 자본 15,000을 뺀 자본 증가액 5,000은 당기순이익 5,000과 같으므로 기타포괄손익은 0이다. 주식배당은 자본 내 항목 간 이동으로 자본총계에 영향을 주지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "자본 증가 5,000이 모두 당기순이익이므로 기타포괄손익은 0이다. 정답입니다.",
+    "2,000은 주식배당을 자본 증가로 본 값이다.",
+    "3,000은 자본 변동 계산이 잘못된 값이다.",
+    "5,000은 당기순이익을 기타포괄손익으로 오인한 값이다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting_basics-nah-q06",
+   "paperId": "paper_civil_accounting_basics_2025_national_nah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting_basics/2025/national-nah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n묶음 판매대가는 100명×(95,000＋5,000)×98%＝9,800,000이고, 이를 개별 판매가격 비율로 배분하면 게임접근권에 490,000이 배분된다. 10월 1일부터 3개월분만 인식하므로 490,000×3/12＝122,500이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "100,000은 개별 판매가격 합계로 배분 전 금액이다.",
+    "게임접근권에 배분된 490,000 중 3개월분 122,500이 20×1년 수익이다. 정답입니다.",
+    "367,500은 게임기기 몫을 잘못 계산한 값이다.",
+    "490,000은 배분된 금액 전액으로 기간 안분을 하지 않았다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting_basics-nah-q07",
+   "paperId": "paper_civil_accounting_basics_2025_national_nah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting_basics/2025/national-nah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n간접법에서는 당기순이익에 감가상각비 등 비현금비용을 가산하고, 자산 증가와 부채 감소를 차감한다. 재고자산 증가(ㄴ)와 매입채무 감소(ㄹ)가 차감 항목이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "감가상각비(ㄱ)는 가산 항목이다.",
+    "매출채권의 감소(ㄷ)는 가산 항목이다.",
+    "재고자산 증가(ㄴ)와 매입채무 감소(ㄹ)는 모두 차감 항목이다. 정답입니다.",
+    "매출채권 감소(ㄷ)는 가산 항목이므로 차감 항목만을 고른 답이 아니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting_basics-nah-q08",
+   "paperId": "paper_civil_accounting_basics_2025_national_nah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting_basics/2025/national-nah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n내용연수 4년, 연수합계 10에서 20×3년은 세 번째 해이므로 상각률 2/10이 적용된다. 감가상각비 10,000＝(취득원가－50,000)×2/10이므로 취득원가는 100,000이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "(100,000－50,000)×2/10＝10,000이므로 취득원가는 100,000이다. 정답입니다.",
+    "200,000이면 20×3년 상각비가 30,000이 된다.",
+    "300,000이면 20×3년 상각비가 50,000이 된다.",
+    "400,000이면 20×3년 상각비가 70,000이 된다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting_basics-nah-q09",
+   "paperId": "paper_civil_accounting_basics_2025_national_nah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting_basics/2025/national-nah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n외부에서 매입하여 재판매하기 위해 보유하는 상품은 재고자산의 대표적인 예이다. 판매 목적 보유 자산, 생산·용역 제공에 사용될 원재료·소모품, 주된 영업활동에 따른 토지도 재고자산이 될 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "통상 영업과정에서 판매 목적으로 보유하거나 생산 중인 자산이 재고자산이라는 설명은 옳다.",
+    "생산·용역 제공에 사용될 원재료나 소모품이 재고자산이라는 설명은 옳다.",
+    "매입하여 재판매하기 위해 보유하는 상품은 재고자산이므로, 재고자산에 해당하지 않는다는 이 설명이 옳지 않다. 정답입니다.",
+    "토지도 주된 영업활동에 따라 재고자산이 될 수 있다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting_basics-nah-q10",
+   "paperId": "paper_civil_accounting_basics_2025_national_nah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting_basics/2025/national-nah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사채할인발행차금을 상각하면 이자비용이 추가로 인식되어 이익잉여금이 줄어 자본이 감소하고, 사채의 장부금액이 증가해 부채가 증가한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "자본이 증가한다는 설명은 방향이 반대이다.",
+    "부채가 감소한다는 설명은 장부금액 증가와 맞지 않다.",
+    "상각으로 이자비용이 늘어 자본이 감소하고 사채 장부금액이 늘어 부채가 증가한다. 정답입니다.",
+    "부채가 감소한다는 설명이 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting_basics-nah-q11",
+   "paperId": "paper_civil_accounting_basics_2025_national_nah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting_basics/2025/national-nah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기초 손실충당금 10,000에서 제거한 매출채권 20,000을 차감하면 잔액이 10,000 부족해진다. 기말 필요액 40,000과의 차이 50,000을 손상차손으로 인식한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "10,000은 기초 충당금 잔액으로, 당기 인식할 손상차손이 아니다.",
+    "20,000은 제거한 매출채권 금액이다.",
+    "40,000은 기말 필요 충당금으로, 기초 잔액 조정을 반영하지 않았다.",
+    "기초 10,000－제거 20,000으로 부족해진 10,000에 기말 필요액 40,000을 더한 50,000을 손상차손으로 인식한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting_basics-nah-q12",
+   "paperId": "paper_civil_accounting_basics_2025_national_nah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting_basics/2025/national-nah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n회계상 거래는 자산·부채·자본의 증감을 가져오는 사건이다. 장래 임차하기로 하는 계약의 체결만으로는 아직 권리·의무의 변동이 확정되지 않아 거래로 보지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "장래 임차 계약의 체결은 아직 자산·부채의 변동이 없어 회계상 거래가 아니다. 정답입니다.",
+    "자연재해로 인한 비품 파손은 자산의 감소와 손실을 가져오는 거래이다.",
+    "기계장치의 사용은 감가상각을 통해 비용이 발생하는 거래이다.",
+    "수선 후 청구서 수령은 미지급비용과 수선비가 발생하는 거래이다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting_basics-nah-q13",
+   "paperId": "paper_civil_accounting_basics_2025_national_nah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting_basics/2025/national-nah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n경제적자원과 청구권은 채무상품·지분상품의 발행 외에도 거래, 사건, 상황 변화 등 재무성과 외의 사유로 변동될 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "경제적자원·청구권 정보가 재무적 강점과 약점 식별에 도움을 준다는 설명은 옳다.",
+    "재무성과 정보가 창출한 수익을 이해하는 데 도움을 준다는 설명은 옳다.",
+    "재무성과 외의 사유로는 변동되지 않는다고 한 설명은 옳지 않다. 정답입니다.",
+    "현금흐름 정보가 미래 순현금유입 창출 능력과 수탁책임 평가에 도움이 된다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting_basics-nah-q14",
+   "paperId": "paper_civil_accounting_basics_2025_national_nah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting_basics/2025/national-nah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n선급비용 감소 1,000과 미지급비용 증가 1,000은 비용을 늘려 이익을 각각 1,000 감소시키고, 선수수익 증가 1,000은 수익을 줄여 이익을 1,000 감소시킨다. 미수수익 증가 1,000은 수익을 늘려 이익을 1,000 증가시키므로 순효과는 2,000 감소이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "1,000 감소는 조정 항목 일부만 반영한 값이다.",
+    "비용 증가 2,000과 수익 감소 1,000에서 수익 증가 1,000을 상계하면 순이익은 2,000 감소한다. 정답입니다.",
+    "3,000 감소는 미수수익 증가를 반영하지 않은 값이다.",
+    "4,000 감소는 모든 조정을 비용으로 본 값이다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting_basics-nah-q15",
+   "paperId": "paper_civil_accounting_basics_2025_national_nah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting_basics/2025/national-nah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n수익이 비용보다 많아 집합손익 계정에 차변 잔액이 남으면, 이를 이익잉여금으로 대체하기 위해 (차)집합손익 (대)이익잉여금으로 마감한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "수익 계정을 차변에 두는 마감분개는 집합손익 대체 단계가 아니다.",
+    "이익잉여금을 차변에 두는 것은 손실을 대체할 때의 분개이다.",
+    "비용 계정을 대변에 두는 것은 집합손익으로 비용을 대체하는 단계이다.",
+    "(차)집합손익 100,000 (대)이익잉여금 100,000으로 마감하는 것이 옳다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting_basics-nah-q16",
+   "paperId": "paper_civil_accounting_basics_2025_national_nah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting_basics/2025/national-nah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n진행률은 발생원가 40억을 총예상원가 80억으로 나눈 50%이고, 계약금액 100억에 50%를 적용하면 20×1년 공사수익은 50억이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "10억은 진행률을 잘못 적용한 값이다.",
+    "20억은 총예상원가와 계약금액의 차액이다.",
+    "40/80＝50%의 진행률을 계약금액 100억에 적용하면 공사수익은 50억이다. 정답입니다.",
+    "60억은 진행률을 과대 적용한 값이다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting_basics-nah-q17",
+   "paperId": "paper_civil_accounting_basics_2025_national_nah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting_basics/2025/national-nah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n재고자산평균처리기간 60일은 재고자산회전율 6회(360÷60)를 뜻하고, 회전율＝매출원가÷평균재고자산이므로 평균재고는 3,000,000÷6＝500,000이다. 기초재고가 0이므로 기말재고는 1,000,000이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "500,000은 평균재고로, 기말재고가 아니다.",
+    "900,000은 회전율 적용이 잘못된 값이다.",
+    "평균재고 500,000＝(기초 0＋기말)/2이므로 기말재고는 1,000,000이다. 정답입니다.",
+    "1,200,000은 처리기간을 잘못 적용한 값이다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting_basics-nah-q18",
+   "paperId": "paper_civil_accounting_basics_2025_national_nah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting_basics/2025/national-nah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n은행 측 조정사항은 은행의 기록을 조정해야 하는 항목으로, 기업이 발행한 수표가 아직 은행에서 인출되지 않은 미인출 수표가 대표적이다. 부도수표, 은행이 추심·출금한 사실의 미통보는 기업 장부를 조정하는 회사 측 조정사항이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "발행한 수표가 아직 인출되지 않은 것은 은행 측에서 조정할 사항이다. 정답입니다.",
+    "부도수표로 인한 입금 미처리는 기업 장부를 조정하는 회사 측 사항이다.",
+    "은행이 추심한 어음이 통보되지 않은 것은 회사 측 조정사항이다.",
+    "은행이 출금한 수수료를 기업이 반영하지 않은 것도 회사 측 조정사항이다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting_basics-nah-q19",
+   "paperId": "paper_civil_accounting_basics_2025_national_nah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting_basics/2025/national-nah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n한국채택국제회계기준은 영업손익을 영업수익에서 영업비용을 차감해 산출하는 것을 기본으로 하되, 비용을 성격별로 분류하는 경우 등에 관한 예외를 지문과 같이 규정하고 있지 않다. 따라서 지문의 예외 서술은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "기준에서 요구·허용하지 않는 한 상계하지 않는다는 설명은 옳다.",
+    "영업손익 산출에서 '영업의 특수성'이나 성격별 분류를 이유로 예외를 두는 규정은 없으므로 이 설명이 옳지 않다. 정답입니다.",
+    "정상영업주기 내 사용되는 운전자본 항목은 12개월 후 결제일이 도래해도 유동부채로 분류한다는 설명은 옳다.",
+    "현금흐름 정보를 제외하고 발생기준 회계를 적용한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2025-national-accounting_basics-nah-q20",
+   "paperId": "paper_civil_accounting_basics_2025_national_nah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting_basics/2025/national-nah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n실지재고조사법에서는 매입 시 매입계정 차변에 기록하고, 판매 시에는 매출만 기록하며 재고자산 계정은 기말 실지조사에 따라 조정한다. 따라서 판매 시 매입계정을 대변에 기록한다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "계속기록법에서는 재고자산이 계속 기록되므로 기말 수정분개가 필요 없다는 설명은 옳다.",
+    "실지재고조사법에서 수정전 재고자산 금액은 기초재고와 같다는 설명은 옳다.",
+    "계속기록법에서 기중에도 수량과 단가를 파악할 수 있다는 설명은 옳다.",
+    "실지재고조사법에서 판매 시 매입계정을 대변에 기록한다는 설명은 옳지 않다. 정답입니다."
+   ]
+  }
+ ]
+}

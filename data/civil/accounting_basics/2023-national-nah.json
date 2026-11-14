@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_accounting_basics_2023_national_nah",
+ "title": "2023 국가직 9급 회계원리 나책형",
+ "year": 2023,
+ "source": "2023년도 국가공무원 9급 공개경쟁채용 필기시험 회계원리 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_17",
+ "questions": [
+  {
+   "id": "civil2023-national-accounting_basics-nah-q01",
+   "paperId": "paper_civil_accounting_basics_2023_national_nah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting_basics/2023/national-nah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n감가상각대상금액은 취득원가에서 잔존가치를 뺀 금액이므로 110－10＝100이고, 이를 내용연수 10년에 걸쳐 배분한다. 연간 감가상각비는 10이며 20×2년 말 누계액 20, 20×3년 말 장부금액 80이 된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "감가상각대상금액은 잔존가치 10을 뺀 100이므로, 110이 배분된다는 이 설명이 옳지 않다. 정답입니다.",
+    "20×1년 감가상각비는 100/10＝10이므로 옳다.",
+    "20×2년 말 감가상각누계액은 10×2＝20이므로 옳다.",
+    "20×3년 말 장부금액은 110－30＝80이므로 옳다."
+   ]
+  },
+  {
+   "id": "civil2023-national-accounting_basics-nah-q02",
+   "paperId": "paper_civil_accounting_basics_2023_national_nah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting_basics/2023/national-nah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n자기주식을 취득하거나 소각하면 자본이 감소하지만, 자기주식을 재발행하면 현금이 유입되고 자기주식이 줄어 자본총계가 증가한다. 따라서 자본총계가 증가하는 거래는 재발행인 ㄴ과 ㄹ이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "자기주식 취득(ㄱ)은 자본의 감소 요인이다.",
+    "취득(ㄱ)과 소각(ㄷ)은 모두 자본을 감소시키는 거래이다.",
+    "자기주식 재발행(ㄴ, ㄹ)은 자기주식이 줄고 처분대가가 유입되어 자본총계가 증가한다. 정답입니다.",
+    "소각(ㄷ)은 자본금과 자본잉여금이 함께 줄어 자본총계가 감소한다."
+   ]
+  },
+  {
+   "id": "civil2023-national-accounting_basics-nah-q03",
+   "paperId": "paper_civil_accounting_basics_2023_national_nah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting_basics/2023/national-nah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n투자목적 건물은 투자부동산으로, 원가모형을 적용하면 감가상각비 10,000이 비용으로 인식되어 당기순이익이 10,000 감소한다. 공정가치모형을 적용하면 감가상각하지 않고 공정가치 상승분 10,000(60,000－50,000)을 당기손익으로 인식한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "두 모형 모두 당기순이익 영향이 0이라는 설명은 옳지 않다.",
+    "공정가치모형에서 20,000 증가한다는 것은 평가차액을 잘못 계산한 값이다.",
+    "원가모형은 감가상각비 10,000으로 이익이 10,000 감소하고, 공정가치모형은 평가이익 10,000으로 이익이 10,000 증가한다. 정답입니다.",
+    "원가모형에서 이익이 증가한다는 설명은 방향이 반대이다."
+   ]
+  },
+  {
+   "id": "civil2023-national-accounting_basics-nah-q04",
+   "paperId": "paper_civil_accounting_basics_2023_national_nah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting_basics/2023/national-nah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n액면 1,000,000을 950,263에 발행하였으므로 액면이자율 8%가 시장이자율보다 낮고, 사채할인발행차금 49,737을 유효이자율법으로 상각하므로 매년 이자비용은 증가한다. 총 이자비용은 표면이자 240,000에 발행차금 49,737을 더한 289,737이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "액면이자율이 시장이자율보다 낮아 할인발행되었으므로 옳다.",
+    "할인발행차금 상각으로 이자비용이 매년 증가하므로 옳다.",
+    "총 이자비용은 240,000이 아니라 표면이자 240,000에 발행차금 49,737을 더한 289,737이므로 이 설명이 옳지 않다. 정답입니다.",
+    "매년 지급하는 현금이자는 1,000,000×8%＝80,000으로 일정하므로 옳다."
+   ]
+  },
+  {
+   "id": "civil2023-national-accounting_basics-nah-q05",
+   "paperId": "paper_civil_accounting_basics_2023_national_nah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting_basics/2023/national-nah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n20×1년 상각액 6,000을 반영한 장부금액 30,000과 회수가능액 25,000의 차이 5,000을 손상으로 인식한다. 20×2년 상각액 10,000을 반영하면 15,000이 되고, 회수가능액 19,000과 비교해 환입하되 손상 전 장부금액 18,000을 한도로 하므로 환입액은 3,000이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "2,000은 환입 한도를 잘못 적용한 값이다.",
+    "회수가능액 19,000과 장부금액 15,000의 차이 4,000 중 손상 전 장부금액 18,000 한도에 걸려 3,000만 환입한다. 정답입니다.",
+    "4,000은 손상 전 장부금액 한도를 적용하지 않은 값이다.",
+    "5,000은 20×1년에 인식한 손상차손 금액이다."
+   ]
+  },
+  {
+   "id": "civil2023-national-accounting_basics-nah-q06",
+   "paperId": "paper_civil_accounting_basics_2023_national_nah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting_basics/2023/national-nah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n생산량 증가, 내용연수 연장, 성능 향상을 가져오는 지출은 자본적 지출로 유형자산의 원가에 가산한다. 반면 윤활유 교체처럼 성능을 유지하는 데 그치는 지출은 수익적 지출로 비용 처리한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "생산량을 증가시킬 것으로 기대되는 부품 부착은 자본적 지출이다.",
+    "내용연수를 연장시키는 부품 교체도 자본적 지출이다.",
+    "성능을 증가시키는 핵심 부품 교체도 자본적 지출이다.",
+    "윤활유 교체는 성능 유지에 그치는 수익적 지출로, 다른 지출들과 성격이 다르다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-national-accounting_basics-nah-q07",
+   "paperId": "paper_civil_accounting_basics_2023_national_nah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting_basics/2023/national-nah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n우발자산은 수익의 실현이 거의 확실한 경우 관련 자산을 인식하는 것이 타당하다. 의무 이행에 자원 유출 가능성이 희박하지 않으면 충당부채로 인식하고, 예상 자산 처분이익은 충당부채 측정에 고려하지 않으며, 손실부담계약의 현재의무는 충당부채로 인식한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "자원 유출 가능성이 희박하지 않으면 우발부채가 아니라 충당부채로 인식하므로 이 설명은 옳지 않다.",
+    "예상되는 자산 처분이익은 충당부채 측정에 고려하지 않으므로 옳지 않다.",
+    "수익의 실현이 거의 확실하면 우발자산이 아니라 자산으로 인식하는 것이 타당하다는 설명은 옳다. 정답입니다.",
+    "손실부담계약의 현재의무는 우발부채가 아니라 충당부채로 인식하므로 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2023-national-accounting_basics-nah-q08",
+   "paperId": "paper_civil_accounting_basics_2023_national_nah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting_basics/2023/national-nah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n개당 매입원가는 매입가격 500에 매입운임 50을 더하고 매입에누리 50을 뺀 500이다. 기초재고 10개와 매입 100개 중 50개를 판매하므로 기말재고는 60개이고, 선입선출법에 따라 단가 500으로 평가하면 30,000이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "25,000은 기말 수량을 잘못 계산한 값이다.",
+    "기말재고 60개×500＝30,000이 선입선출법에 따른 기말재고자산 금액이다. 정답입니다.",
+    "35,000은 매입원가에 운임·에누리를 잘못 반영한 값이다.",
+    "40,000은 기말 수량과 단가를 모두 잘못 적용한 값이다."
+   ]
+  },
+  {
+   "id": "civil2023-national-accounting_basics-nah-q09",
+   "paperId": "paper_civil_accounting_basics_2023_national_nah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting_basics/2023/national-nah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n현금흐름표는 일정 기간 동안의 현금유입과 현금유출에 관한 정보를 제공하는 재무제표이다. 일정 시점의 현금 잔액을 보여 주는 것은 재무상태표이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "현금흐름표를 일정 시점의 현금유입·유출 정보를 제공하는 재무제표라고 한 설명은 옳지 않다. 정답입니다.",
+    "현금흐름을 영업·투자·재무활동으로 분류한다는 설명은 옳다.",
+    "순자산 변화, 재무구조, 현금흐름 조절 능력 평가에 유용한 정보를 제공한다는 설명은 옳다.",
+    "역사적 현금흐름 정보가 미래 현금흐름의 지표로 사용된다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2023-national-accounting_basics-nah-q10",
+   "paperId": "paper_civil_accounting_basics_2023_national_nah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting_basics/2023/national-nah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n자본의 증가를 가져오는 자산의 증가나 부채의 감소(출자 관련 제외)는 수익, 과거사건의 결과로 경제적자원을 이전해야 하는 현재의무는 부채, 기업이 통제하는 현재의 경제적자원은 자산이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "(가)를 자산으로 본 조합은 자본 증가를 가져오는 요소의 정의와 맞지 않는다.",
+    "(나)를 수익으로 본 조합은 현재의무라는 설명과 맞지 않는다.",
+    "(가)를 수익으로 본 것은 맞지만 (나)를 자산으로 본 것은 옳지 않다.",
+    "(가) 수익, (나) 부채, (다) 자산의 연결이 각 요소의 정의와 일치한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-national-accounting_basics-nah-q11",
+   "paperId": "paper_civil_accounting_basics_2023_national_nah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting_basics/2023/national-nah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n동일한 경제적 현상에 대해 여러 회계처리방법을 허용하면 기업 간 비교가능성이 오히려 저해된다. 비교가능성은 비슷한 것은 비슷하게, 다른 것은 다르게 표시되어야 확보된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "표현충실성이 모든 면에서 정확함을 뜻하지 않는다는 설명은 옳다.",
+    "비교가능성은 통일성이 아니라는 설명은 옳다.",
+    "보강적 질적특성은 극대화되어야 하지만 목적적합성·표현충실성을 대체할 수 없다는 설명은 옳다.",
+    "대체적인 회계처리방법을 허용하면 비교가능성이 증가한다는 설명은 반대로, 비교가능성을 저해한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-national-accounting_basics-nah-q12",
+   "paperId": "paper_civil_accounting_basics_2023_national_nah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting_basics/2023/national-nah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n5월 1일 소모품 구입액 100,000을 전액 비용으로 처리한 뒤 기말에 남은 소모품 20,000을 자산으로 되돌리는 수정분개를 하였으므로, 당기 비용으로 인식한 금액은 80,000이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "비용으로 인식한 금액은 100,000－20,000＝80,000이므로 20,000이라는 이 설명이 옳지 않다. 정답입니다.",
+    "수정분개가 (차)소모품 20,000 (대)소모품비 20,000이라는 설명은 옳다.",
+    "기말 소모품 잔액이 20,000이라는 설명은 옳다.",
+    "5월 1일 구입액 100,000을 전액 비용으로 처리하였다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2023-national-accounting_basics-nah-q13",
+   "paperId": "paper_civil_accounting_basics_2023_national_nah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting_basics/2023/national-nah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n7월 1일 1년분 임대료 300,000을 전액 수익으로 인식하였으므로, 기말에 다음 연도 6개월분 150,000을 선수수익으로 조정해야 한다. 이를 누락하면 부채(선수수익)가 과소계상되고 수익이 과대계상되어 당기순이익이 과대계상된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "부채가 과대계상된다는 설명은 방향이 반대이다.",
+    "선수수익 조정을 누락하면 부채는 과소계상되고 당기순이익은 과대계상된다. 정답입니다.",
+    "자산이 과소계상된다는 설명은 이 거래와 관련이 없다.",
+    "자산이 과소계상된다는 부분이 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2023-national-accounting_basics-nah-q14",
+   "paperId": "paper_civil_accounting_basics_2023_national_nah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting_basics/2023/national-nah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n무형자산 창출을 위한 내부 프로젝트를 연구단계와 개발단계로 구분할 수 없으면 연구단계에서 발생한 것으로 보아 지출을 모두 비용으로 인식한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "개발단계 지출은 일정 요건을 충족하면 무형자산으로 인식한다는 설명은 옳다.",
+    "연구단계 지출은 발생시점에 비용으로 인식한다는 설명은 옳다.",
+    "내부적으로 창출된 영업권은 자산으로 인식하지 않는다는 설명은 옳다.",
+    "구분할 수 없으면 연구단계로 보아 비용 처리하므로, 개발단계로 본다는 이 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-national-accounting_basics-nah-q15",
+   "paperId": "paper_civil_accounting_basics_2023_national_nah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting_basics/2023/national-nah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n일괄 취득원가 150,000을 공정가치 비율로 배분하면 토지 원가는 75,000이다. 20×1년 말 80,000으로 오르며 기타포괄이익 5,000을 인식하고, 20×2년 70,000으로 내리면 재평가잉여금 5,000을 먼저 상계한 뒤 나머지 5,000을 당기손실로 인식한다. 20×3년 90,000으로 오르면 이전 당기손실 5,000을 먼저 당기이익으로 인식하고 나머지 15,000을 기타포괄이익으로 인식한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "20×1년에는 당기손익 변동 없이 기타포괄이익 5,000이 증가하므로 옳다.",
+    "20×2년에는 당기손실 5,000과 기타포괄이익 5,000 감소가 발생하므로 옳다.",
+    "20×3년에는 이전에 당기손익으로 인식한 손실 5,000을 먼저 당기이익으로 인식하므로, 당기손익 증감이 없다는 이 설명이 옳지 않다. 정답입니다.",
+    "처분 시 재평가잉여금을 이익잉여금으로 대체하는 것은 자본 내 이동이므로 자본총계에 영향이 없다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2023-national-accounting_basics-nah-q16",
+   "paperId": "paper_civil_accounting_basics_2023_national_nah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting_basics/2023/national-nah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n실지재고조사법에서는 기말재고를 자산으로 계상하고 기초재고를 매출원가로, 당기매입액을 매출원가로 대체한다. 따라서 (차)상품 2,000, 매출원가 5,000 (대)상품 1,000, 매입 6,000의 분개가 된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "차변에 상품 2,000만 있고 매출원가·매입 대체가 빠져 옳지 않다.",
+    "매입 5,000을 매출원가로 대체하는 것만으로는 기초·기말재고 조정이 되지 않는다.",
+    "상품 1,000을 대변에 두는 것은 기초재고 대체로 맞지만 매입 6,000과 기말재고 2,000의 처리가 옳지 않다.",
+    "기말재고 2,000을 자산으로, 기초재고 1,000과 매입 6,000을 매출원가로 대체하는 분개가 옳다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-national-accounting_basics-nah-q17",
+   "paperId": "paper_civil_accounting_basics_2023_national_nah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting_basics/2023/national-nah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n수정전 이익은 800,000－500,000＝300,000이다. 이자수익 60,000을 더하고 급여 80,000과 당기 보험료 30,000(120,000 중 다음 연도분 90,000 제외)을 빼며, 임대료는 당기분 80,000만 수익으로 남기고 160,000을 차감하면 300,000＋60,000－80,000－30,000－160,000＝90,000이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "30,000은 보험료 조정을 전액 비용으로 처리한 값이다.",
+    "이자수익 60,000, 급여 80,000, 보험료 30,000, 임대료 160,000을 반영한 90,000이 옳다. 정답입니다.",
+    "110,000은 임대료 조정을 반영하지 않은 값이다.",
+    "170,000은 임대료를 전액 수익으로 둔 값이다."
+   ]
+  },
+  {
+   "id": "civil2023-national-accounting_basics-nah-q18",
+   "paperId": "paper_civil_accounting_basics_2023_national_nah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting_basics/2023/national-nah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n현금으로 매입채무를 상환하면 유동자산과 유동부채가 같은 금액만큼 감소한다. 당좌비율이 100% 미만이면 분모가 더 크게 줄어 비율이 하락하고, 유동비율이 100%를 넘으면 비율이 상승한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "당좌비율이 증가한다는 설명은 방향이 반대이다.",
+    "당좌비율은 75%로 100% 미만이어서 감소하고, 유동비율은 140%로 100%를 넘어 증가한다. 정답입니다.",
+    "유동비율이 감소한다는 설명은 100% 초과 상태와 맞지 않다.",
+    "두 비율 모두 변동이 없다는 설명은 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2023-national-accounting_basics-nah-q19",
+   "paperId": "paper_civil_accounting_basics_2023_national_nah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting_basics/2023/national-nah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n20×1년에 매입으로 처리한 10,000은 실제 20×2년 매입이므로 20×2년 매출원가가 그만큼 과소해져 당기순이익이 10,000 증가한다. 20×1년 기말재고 과대 20,000은 전기오류수정손익으로 처리되어 20×2년 당기손익에는 영향을 주지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "10,000 감소는 오류의 방향을 반대로 본 값이다.",
+    "매입귀속 오류로 20×2년 매출원가가 10,000 과소해져 당기순이익이 10,000 증가한다. 정답입니다.",
+    "30,000 감소는 기말재고 오류를 당기손익에 반영한 값이다.",
+    "30,000 증가는 두 오류의 효과를 모두 더한 값이다."
+   ]
+  },
+  {
+   "id": "civil2023-national-accounting_basics-nah-q20",
+   "paperId": "paper_civil_accounting_basics_2023_national_nah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting_basics/2023/national-nah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n포괄손익계산서는 당기손익 부분과 기타포괄손익 부분으로 나누어 표시할 수 있고, 당기손익 부분은 별개의 손익계산서로 표시할 수도 있다. 따라서 별개의 손익계산서로 표시할 수 없다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "당기손익 부분을 별개의 손익계산서로 표시할 수 없다고 한 설명은 옳지 않다. 정답입니다.",
+    "한국채택국제회계기준에 따라 작성된 재무제표는 공정하게 표시된 재무제표로 본다는 설명은 옳다.",
+    "기준에서 요구하거나 허용하지 않는 한 상계하지 않는다는 설명은 옳다.",
+    "기준 요구사항을 모두 충족하지 않으면 준수하였다고 기재해서는 안 된다는 설명은 옳다."
+   ]
+  }
+ ]
+}

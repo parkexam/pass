@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_infosec_2025_local_B",
+ "title": "2025 지방직 9급 정보보호론 B책형",
+ "year": 2025,
+ "source": "2025년도 지방공무원 9급 공개경쟁임용 필기시험 정보보호론 B책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_19",
+ "questions": [
+  {
+   "id": "civil2025-local-infosec-B-q01",
+   "paperId": "paper_civil_infosec_2025_local_B",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/infosec/2025/local-B/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n정보보호는 사이버안전을 비롯한 다양한 위협으로부터 정보자산을 보호하는 활동으로, 그 범위에 사이버안전이 포함된다. 정보자산에 소프트웨어·하드웨어·데이터·인적자원이 포함된다는 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "정보자산을 여러 위협으로부터 보호한다는 설명은 옳다.",
+    "정보보호의 범위에 사이버안전이 포함될 수 없다는 설명은 옳지 않다. 정답입니다.",
+    "가용성과 보안 측면의 균형을 추구한다는 설명은 옳다.",
+    "보호 대상 자산에 소프트웨어·하드웨어·데이터·인적자원이 포함된다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2025-local-infosec-B-q02",
+   "paperId": "paper_civil_infosec_2025_local_B",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/infosec/2025/local-B/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n닫힌 TCP 포트에는 RST 패킷이 돌아오고, ICMP port unreachable은 닫힌 UDP 포트에 대한 응답이다. 포트 범위·well-known port·Nmap에 관한 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "포트 스캔이 제공 서비스를 확인하는 정보수집 방법이라는 설명은 옳다.",
+    "포트 번호 범위와 well-known port 구간에 관한 설명은 옳다.",
+    "Nmap이 오픈소스 포트 스캔 도구라는 설명은 옳다.",
+    "닫힌 TCP 포트에서 ICMP port unreachable이 온다는 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-local-infosec-B-q03",
+   "paperId": "paper_civil_infosec_2025_local_B",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/infosec/2025/local-B/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n메일 내용에 암호를 적용하면 기밀성이, 전자서명을 적용하면 송신자의 부인방지가 확보된다. 가용성과 인증은 이 두 조치의 직접적인 효과와 다르다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "암호화의 효과를 가용성으로 본 조합은 옳지 않다.",
+    "암호화는 기밀성, 전자서명은 부인방지를 제공한다. 정답입니다.",
+    "가용성·기밀성 조합은 암호화·서명의 효과와 맞지 않는다.",
+    "가용성·인증 조합도 두 조치의 효과와 다르다."
+   ]
+  },
+  {
+   "id": "civil2025-local-infosec-B-q04",
+   "paperId": "paper_civil_infosec_2025_local_B",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/infosec/2025/local-B/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n1989년 처음 등장하고 파일을 암호화해 금전을 요구하는 악성코드는 랜섬웨어이다. 웜은 스스로 전파되고, 바이러스는 다른 파일에 기생하며, DDoS는 분산 서비스 거부 공격이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "웜은 네트워크를 통해 스스로 전파되는 악성코드이다.",
+    "바이러스는 다른 프로그램에 기생해 감염시키는 악성코드이다.",
+    "파일을 암호화해 몸값을 요구하는 악성코드는 랜섬웨어이다. 정답입니다.",
+    "DDoS는 공격 기법이지 파일 암호화 악성코드가 아니다."
+   ]
+  },
+  {
+   "id": "civil2025-local-infosec-B-q05",
+   "paperId": "paper_civil_infosec_2025_local_B",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/infosec/2025/local-B/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nDDoS 공격 등 지정된 명령을 수행하도록 감염시키는 악성코드는 봇이고, 사용자 동의 없이 정보를 수집·전송하는 악성코드는 스파이웨어이다. 애드웨어는 광고 표시, 루트킷은 은닉 도구이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "봇(좀비)은 원격 명령에 따라 DDoS 공격 등을 수행한다. 정답입니다.",
+    "애드웨어는 광고를 표시하는 악성코드이다.",
+    "루트킷은 자신의 존재를 숨기는 도구이다.",
+    "정보를 몰래 수집·전송하는 것은 스파이웨어이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-infosec-B-q06",
+   "paperId": "paper_civil_infosec_2025_local_B",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/infosec/2025/local-B/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nVPN은 IPSec, L2TP, PPTP 등 터널링 프로토콜을 사용한다. IGMP는 멀티캐스트 그룹 관리를 위한 프로토콜로 VPN 터널링에 쓰이지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "IGMP는 멀티캐스트 그룹 관리 프로토콜로 VPN 프로토콜이 아니다. 정답입니다.",
+    "IPSec은 VPN에 널리 쓰이는 보안 프로토콜이다.",
+    "L2TP는 계층 2 터널링 프로토콜이다.",
+    "PPTP는 지점 간 터널링 프로토콜이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-infosec-B-q07",
+   "paperId": "paper_civil_infosec_2025_local_B",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/infosec/2025/local-B/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n윈도우에서 인증된 사용자에게 부여되어 파일·디렉터리 접근 결정의 기준이 되는 고유 식별자는 SID이다. GID는 리눅스 그룹 식별자, SSID는 무선 네트워크 이름이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "GID는 리눅스의 그룹 식별자이다.",
+    "윈도우 인증 후 부여되는 사용자 고유 식별자는 SID이다. 정답입니다.",
+    "SetUID는 실행 시 소유자 권한으로 동작하게 하는 리눅스 권한 설정이다.",
+    "SSID는 무선랜 네트워크 이름이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-infosec-B-q08",
+   "paperId": "paper_civil_infosec_2025_local_B",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/infosec/2025/local-B/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n위험 전가는 보험 가입이나 계약을 통해 위험과 손실을 다른 기관에 이전하는 방법이다. 위험 회피는 활동 중단, 감소는 통제 적용, 수용은 위험을 감수하는 것이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "위험 수용은 위험을 받아들이는 것이므로 자산 구조를 변경한다는 설명은 위험 회피에 가깝다.",
+    "위험 감소는 보호대책을 적용해 위험을 낮추는 것이므로 활동을 하지 않는다는 설명은 위험 회피이다.",
+    "보험 가입이나 계약으로 위험을 넘기는 것은 위험 전가이다. 정답입니다.",
+    "위험 회피는 위험을 발생시키는 활동을 하지 않는 것이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-infosec-B-q09",
+   "paperId": "paper_civil_infosec_2025_local_B",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/infosec/2025/local-B/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nA5/1은 GSM 이동통신에서 사용하는 스트림 암호(대칭키)로 공개키 알고리즘이 아니다. RSA·타원곡선암호·배낭암호는 공개키 암호 방식이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "RSA는 대표적인 공개키 암호 알고리즘이다.",
+    "타원곡선암호도 공개키 기반 알고리즘이다.",
+    "배낭암호는 공개키 암호의 초기 형태이다.",
+    "A5/1은 이동통신용 대칭키 스트림 암호로 공개키 알고리즘이 아니다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-local-infosec-B-q10",
+   "paperId": "paper_civil_infosec_2025_local_B",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/infosec/2025/local-B/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nDLP는 이동식 저장매체·이메일 등 다양한 경로로 조직의 중요 정보가 외부로 유출되는 것을 통제·방지하는 솔루션이다. DRM은 콘텐츠 저작권 보호, IPS는 침입 방지, SIEM은 보안 이벤트 통합 관리이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "DRM은 디지털 콘텐츠의 저작권을 보호하는 기술이다.",
+    "중요 자료의 외부 유출을 막는 솔루션은 DLP이다. 정답입니다.",
+    "IPS는 침입을 탐지·차단하는 시스템이다.",
+    "SIEM은 보안 로그를 수집·분석하는 통합 관제 시스템이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-infosec-B-q11",
+   "paperId": "paper_civil_infosec_2025_local_B",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/infosec/2025/local-B/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n블록 암호 운용 모드가 해결해야 할 문제로는 동일 평문에 동일 암호문이 생성되는 ECB의 한계, 비트 오류 파급, 순차 처리로 인한 병렬화 제약 등이 있다. OFB는 암호화 출력을 피드백해 키스트림을 만들어 이런 문제를 완화한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "ECB는 같은 평문 블록이 같은 암호문이 되는 문제를 해결하지 못한다.",
+    "OFB는 암호화 출력을 피드백해 키스트림을 생성하고 병렬 처리와 오류 파급 문제를 완화한다. 정답입니다.",
+    "CFB는 암호문을 피드백해 일부 문제를 남긴다.",
+    "CBC는 순차 처리가 필요하고 오류 파급이 생긴다."
+   ]
+  },
+  {
+   "id": "civil2025-local-infosec-B-q12",
+   "paperId": "paper_civil_infosec_2025_local_B",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/infosec/2025/local-B/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n블루버그는 블루투스 연결을 통해 휴대폰을 원격 조작해 통화·메시지 발신 등을 가능하게 하는 취약점 공격이다. 블루재킹은 스팸 메시지 전송, 블루스나프는 데이터 추출, 블루프린팅은 기기 정보 수집이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "블루투스로 휴대폰을 무단 조작하는 공격은 블루버그이다. 정답입니다.",
+    "블루재킹은 블루투스로 원치 않는 메시지를 보내는 공격이다.",
+    "블루프린팅은 기기 정보를 수집하는 행위이다.",
+    "블루스나프는 블루투스로 데이터를 빼내는 공격이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-infosec-B-q13",
+   "paperId": "paper_civil_infosec_2025_local_B",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/infosec/2025/local-B/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nGDPR의 정보주체 권리는 처리 제한 요구, 데이터 이동(전송) 요구, 삭제 요구 등을 포함한다. 자동화된 의사결정에 대해 '모든' 결정을 거부할 권리는 GDPR이 규정한 권리 범위와 다르다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "처리 차단·제한 요구권은 GDPR상 권리이다.",
+    "데이터 이동(전송) 요구권도 GDPR상 권리이다.",
+    "삭제를 요구할 권리(잊힐 권리)도 GDPR상 권리이다.",
+    "모든 자동화 의사결정을 거부할 권리는 GDPR이 정한 권리와 다르다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-local-infosec-B-q14",
+   "paperId": "paper_civil_infosec_2025_local_B",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/infosec/2025/local-B/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n안티 리버싱 기법은 코드 분석을 방해하는 기법으로 난독화와 안티 디버깅이 있다. 스택 실드와 카나리아는 버퍼 오버플로 방어 기법이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "난독화(ㄱ)는 코드 해석을 어렵게 하는 안티 리버싱 기법이다. 정답입니다.",
+    "스택 실드(ㄴ)는 버퍼 오버플로 대응 기법이다.",
+    "안티 디버깅(ㄷ)은 디버거 부착을 방해하는 안티 리버싱 기법이다.",
+    "카나리아(ㄹ)도 버퍼 오버플로 대응 기법이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-infosec-B-q15",
+   "paperId": "paper_civil_infosec_2025_local_B",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/infosec/2025/local-B/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n개인정보 파기의 방법·절차 등에 필요한 사항은 대통령령(개인정보 보호법 시행령)으로 정한다. 총리령으로 정한다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "불필요해진 개인정보를 지체 없이 파기해야 한다는 설명은 옳다.",
+    "파기 시 복구·재생되지 않도록 조치해야 한다는 설명은 옳다.",
+    "다른 법령에 따라 보존해야 하는 경우 분리 저장·관리해야 한다는 설명은 옳다.",
+    "파기 방법·절차를 총리령으로 정한다는 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-local-infosec-B-q16",
+   "paperId": "paper_civil_infosec_2025_local_B",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/infosec/2025/local-B/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n다중문자 암호는 여러 문자를 한꺼번에 치환하는 방식으로 비즈네르 암호와 플레이페어 암호가 해당한다. 시저·아핀 암호는 단일문자 치환 방식이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "비즈네르 암호(ㄱ)는 여러 문자를 묶어 처리하는 다중문자 암호이다. 정답입니다.",
+    "시저 암호(ㄴ)는 단일문자 치환 방식이다.",
+    "플레이페어 암호(ㄷ)는 두 문자씩 묶어 처리하는 다중문자 암호이다.",
+    "아핀 암호(ㄹ)는 단일문자 치환 방식이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-infosec-B-q17",
+   "paperId": "paper_civil_infosec_2025_local_B",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/infosec/2025/local-B/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n제3자 제공 동의 시 고지사항은 제공받는 자, 이용 목적, 보유·이용 기간, 거부 권리와 불이익 등이다. 동의에 따른 이익이 있는 경우 그 이익 내용은 고지사항으로 규정되어 있지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "제공받는 자의 이용 목적은 고지사항이다.",
+    "동의에 따른 이익의 내용은 고지사항이 아니다. 정답입니다.",
+    "동의를 거부할 권리와 불이익에 관한 사항은 고지사항이다.",
+    "제공받는 자의 보유·이용 기간도 고지사항이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-infosec-B-q18",
+   "paperId": "paper_civil_infosec_2025_local_B",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/infosec/2025/local-B/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n입력 'ABC'는 ASCII로 41 42 43(16진수)이고, 이를 6비트씩 나누면 010000 010100 001001 000011이 된다. Base64 표에서 이 값은 Q, U, J, D가 되어 QUJD가 출력된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "YWJj는 'abc'를 부호화한 값이다.",
+    "Q0JB는 'CBA'를 부호화한 값이다.",
+    "'ABC'를 Base64로 부호화하면 QUJD가 된다. 정답입니다.",
+    "Y2Jh는 'cba'를 부호화한 값이다."
+   ]
+  },
+  {
+   "id": "civil2025-local-infosec-B-q19",
+   "paperId": "paper_civil_infosec_2025_local_B",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/infosec/2025/local-B/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n순서보존 암호화는 암호화된 값의 크기 순서를 유지해 암호문 상태에서도 비교·정렬이 가능하며, 복호화도 가능한 기법이다. 복호화가 불가능하다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "총계 처리가 평균·최대·최소·최빈·중간값으로 처리한다는 설명은 옳다.",
+    "일반 라운딩에 관한 설명은 옳다.",
+    "로컬 일반화에 관한 설명은 옳다.",
+    "순서보존 암호화가 복호화 불가능한 기법이라는 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-local-infosec-B-q20",
+   "paperId": "paper_civil_infosec_2025_local_B",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/infosec/2025/local-B/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nS/MIME에서 DSS는 전자서명에, RSA는 세션키 교환·암호화에 사용된다. AES를 전자서명에, RSA를 메시지 자체의 암호화에 짝지은 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "DSS를 전자서명에 사용한다는 연결은 옳다. 정답입니다.",
+    "ElGamal을 메시지 인증에 사용한다는 연결은 S/MIME 구성과 다르다.",
+    "AES를 전자서명에 사용한다는 연결은 옳지 않다.",
+    "RSA는 세션키 암호화에 쓰이므로 메시지 암호화로 짝지은 설명은 부정확하다."
+   ]
+  }
+ ]
+}

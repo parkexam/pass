@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_career_counseling_2026_national_gah",
+ "title": "2026 국가직 9급 직업상담·심리학개론 가책형",
+ "year": 2026,
+ "source": "2026년도 국가공무원 9급 공개경쟁채용 필기시험 직업상담·심리학개론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_21",
+ "questions": [
+  {
+   "id": "civil2026-national-career_counseling-gah-q01",
+   "paperId": "paper_civil_career_counseling_2026_national_gah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/career_counseling/2026/national-gah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n직업카드분류는 표준화된 객관적 검사가 아니라 상담자가 목적에 맞게 카드 구성이나 분류 기준을 변형할 수 있는 질적 도구이며, 내담자가 주도적으로 참여한다. 선호도 분류는 보통 '아주 좋다·좋다·보통·싫다' 등 여러 단계로 한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "직업카드분류가 표준화된 객관적 검사라는 설명은 옳지 않다.",
+    "내담자가 수동적으로 참여한다는 설명도 옳지 않다.",
+    "상담자가 목적에 맞게 변형할 수 있다는 설명은 옳다. 정답입니다.",
+    "분류 범주를 '아주좋다·좋다·싫다·아주싫다' 네 가지로 한정한다는 설명은 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2026-national-career_counseling-gah-q02",
+   "paperId": "paper_civil_career_counseling_2026_national_gah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/career_counseling/2026/national-gah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n융의 분석심리학 개념은 원형, 아니마와 아니무스, 내향성·외향성, 집단무의식 등이다. 생활양식은 아들러 개인심리학의 개념이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "원형(archetype)은 융의 분석심리학 개념이다.",
+    "생활양식은 아들러의 개념으로 융의 개념이 아니다. 정답입니다.",
+    "아니마와 아니무스도 융의 개념이다.",
+    "내향성·외향성도 융이 제시한 태도 유형이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-career_counseling-gah-q03",
+   "paperId": "paper_civil_career_counseling_2026_national_gah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/career_counseling/2026/national-gah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n상담기록은 별도의 안전한 장소에 보관해야 한다. 녹음·녹화는 사전동의가 필요하고, 기록 열람은 제공 범위와 절차를 정해 처리하며, 비밀보장은 법령이 정한 예외가 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "사례지도를 위한 녹음·녹화에 사전동의가 필요 없다는 설명은 옳지 않다.",
+    "내담자 요구 시 기록 전체를 예외 없이 제공해야 한다는 설명은 옳지 않다.",
+    "비밀보장이 예외 없이 지켜져야 한다는 설명은 옳지 않다.",
+    "상담기록을 별도의 안전한 장소에 보관해야 한다는 설명은 옳다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-career_counseling-gah-q04",
+   "paperId": "paper_civil_career_counseling_2026_national_gah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/career_counseling/2026/national-gah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공감 표현, 불일치감 만들기, 저항과 함께 구르기, 자기효능감 지지는 동기강화상담의 핵심 원리이다. 실존주의·수용전념·게슈탈트 상담의 원리와는 다르다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "실존주의상담은 실존적 주제와 의미를 다룬다.",
+    "공감 표현과 저항과 함께 구르기 등의 원리는 동기강화상담의 것이다. 정답입니다.",
+    "수용전념치료는 수용과 가치 중심 행동을 강조한다.",
+    "게슈탈트상담은 여기-지금과 자각을 다룬다."
+   ]
+  },
+  {
+   "id": "civil2026-national-career_counseling-gah-q05",
+   "paperId": "paper_civil_career_counseling_2026_national_gah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/career_counseling/2026/national-gah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n목표 행동에 이르기까지 단계적으로 근접 행동을 강화해 나가는 기법은 행동조성법이다. 모델링은 관찰 학습, 토큰 경제는 강화물 체계, 체계적 둔감법은 불안 위계를 이용한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "모델링은 타인 행동 관찰을 통한 학습이다.",
+    "토큰 경제는 토큰을 강화물로 교환하는 체계이다.",
+    "단계적 강화로 목표 행동을 형성하는 기법은 행동조성법이다. 정답입니다.",
+    "체계적 둔감법은 불안 위계와 이완을 결합한다."
+   ]
+  },
+  {
+   "id": "civil2026-national-career_counseling-gah-q06",
+   "paperId": "paper_civil_career_counseling_2026_national_gah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/career_counseling/2026/national-gah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nNCDA가 제시한 직업상담사의 역할에는 의사결정기술 향상 기회 제공, 직업탐색 전략·면접기술·이력서 작성 지도, 진로계획 시스템을 활용한 직업세계 이해 지원이 포함된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "의사결정기술 향상 기회를 제공한다는 서술(ㄱ)은 역할이다.",
+    "직업탐색·면접기술·이력서 작성 지도(ㄴ)도 역할이다.",
+    "진로계획 시스템을 활용한 직업세계 이해 지원(ㄷ)도 역할이다.",
+    "ㄱ, ㄴ, ㄷ 모두 NCDA가 제시한 역할에 해당한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-career_counseling-gah-q07",
+   "paperId": "paper_civil_career_counseling_2026_national_gah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/career_counseling/2026/national-gah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n목표 설정은 구체적이고 관찰 가능하며 달성 가능하게 하고, 달성 시점을 지정하는 것이 바람직하다. 달성 시점을 지정하지 않는다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "목표를 구체적으로 표현한다는 설명은 옳다.",
+    "관찰 가능한 방식으로 표현한다는 설명도 옳다.",
+    "목표 달성 시점을 지정하지 않는다는 설명은 옳지 않다. 정답입니다.",
+    "달성 가능한 목표를 설정한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-career_counseling-gah-q08",
+   "paperId": "paper_civil_career_counseling_2026_national_gah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/career_counseling/2026/national-gah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n특성요인 상담은 분석 → 종합 → 진단 → 예측 → 상담 → 추수의 과정으로 진행되며, 수집한 정보를 정리해 내담자의 특성을 통합하는 단계가 종합이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "분석은 개인 특성 자료를 수집·정리하는 단계이다.",
+    "수집한 정보를 정리·통합하는 단계는 종합이다. 정답입니다.",
+    "진단은 문제의 원인을 판별하는 단계이다.",
+    "예측은 직업 적응 가능성을 전망하는 단계이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-career_counseling-gah-q09",
+   "paperId": "paper_civil_career_counseling_2026_national_gah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/career_counseling/2026/national-gah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n상담사가 내담자의 말을 다른 표현으로 되돌려 확인해 주는 기법은 재진술이다. 해석은 의미를 설명하고, 명료화는 모호한 부분을 분명히 하며, 개방형 질문은 폭넓은 응답을 유도한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "해석은 내담자 진술의 의미를 상담자가 설명해 주는 기법이다.",
+    "내담자의 말을 되돌려 확인해 주는 기법은 재진술이다. 정답입니다.",
+    "명료화는 모호한 내용을 분명히 하는 기법이다.",
+    "개방형 질문은 '어떻게' 등으로 폭넓은 응답을 이끈다."
+   ]
+  },
+  {
+   "id": "civil2026-national-career_counseling-gah-q10",
+   "paperId": "paper_civil_career_counseling_2026_national_gah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/career_counseling/2026/national-gah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n프로티언 경력은 개인이 경력을 주도하고 심리적 성공을 목표로 하는 개념으로, 홀(Hall)이 제시했다. 직무·조직 특유의 기술보다는 이동 가능한 기술과 '왜·어떻게 일하는지'를 아는 것을 중시한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "홀이 제시한 개념이라는 설명은 옳다.",
+    "경력관리 책임이 개인에게 있다는 설명은 옳다.",
+    "일하는 방법을 아는 것을 중시한다는 설명은 프로티언 경력의 강조점과 다르다. 정답입니다.",
+    "심리적 성공을 경력 목표로 삼는다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-career_counseling-gah-q11",
+   "paperId": "paper_civil_career_counseling_2026_national_gah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/career_counseling/2026/national-gah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n진로가계도는 질적 평가기법에 속하는 진로상담 기법이다. 남성은 사각형·여성은 원으로 표시하고, 가족의 과거와 현재 직업을 함께 기록하며, 작성 절차는 여러 단계로 이루어진다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "진로가계도가 질적 평가기법이라는 설명은 옳다. 정답입니다.",
+    "남성을 원, 여성을 사각형으로 표시한다는 설명은 통상 표기와 반대이다.",
+    "가족의 현재 직업만 기록한다는 설명은 옳지 않다.",
+    "작성 절차를 5단계로 한정한다는 설명은 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2026-national-career_counseling-gah-q12",
+   "paperId": "paper_civil_career_counseling_2026_national_gah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/career_counseling/2026/national-gah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n직업적응이론은 만족과 충족 개념, 직업가치 영역 분류로 적응 과정을 설명한다. 계획된 우연은 크럼볼츠의 우연학습이론 개념으로 직업적응이론의 설명 요소가 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "다위스와 롭퀴스트의 이론이라는 설명은 옳다.",
+    "만족과 충족이 핵심 개념이라는 설명은 옳다.",
+    "직업가치 영역 분류에 관한 설명은 옳다.",
+    "계획된 우연으로 직업적응과정을 설명한다는 것은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-career_counseling-gah-q13",
+   "paperId": "paper_civil_career_counseling_2026_national_gah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/career_counseling/2026/national-gah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n갓프레드슨의 3단계(9~13세)는 성역할 지향이 아니라 사회적 가치 지향 단계이다. 제한과 타협의 개념, 아동·청소년기 진로포부 축소에 초점을 둔다는 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "제한의 개념 설명은 옳다.",
+    "타협의 개념 설명은 옳다.",
+    "3단계를 성역할 지향 단계로 적은 것은 단계 구분과 달라 옳지 않다. 정답입니다.",
+    "아동·청소년기 진로포부 축소에 초점을 둔다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-career_counseling-gah-q14",
+   "paperId": "paper_civil_career_counseling_2026_national_gah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/career_counseling/2026/national-gah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nCIP 이론은 진로의사결정 구성요소에 인지와 정서를 포함한다. 지식 영역은 자기지식·직업지식, 의사결정기술 영역은 자기독백·자기자각·통제 기술 등으로 구성된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "의사결정 구성요소에 인지와 정서가 포함된다는 설명은 옳다. 정답입니다.",
+    "자기독백·자기자각·통제 기술을 지식 영역으로 적은 것은 영역 구분과 다르다.",
+    "자기지식·직업지식을 의사결정기술 영역으로 적은 것도 영역 구분과 다르다.",
+    "실행과정 영역의 순환 단계를 서술한 것은 CASVE 과정과 혼동한 설명이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-career_counseling-gah-q15",
+   "paperId": "paper_civil_career_counseling_2026_national_gah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/career_counseling/2026/national-gah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n복잡계 이론에서 체제가 특정 상태로 끌려가는 유인 가운데 하나의 점으로 수렴하는 것은 목표 유인이다. 진동·우연·패턴 유인은 다른 형태의 유인이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "진동 유인은 두 상태 사이를 오가는 형태이다.",
+    "하나의 점으로 수렴하는 유인은 목표 유인이다. 정답입니다.",
+    "우연 유인은 예측 곤란한 형태의 유인이다.",
+    "패턴 유인은 주기적 패턴을 나타내는 유인이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-career_counseling-gah-q16",
+   "paperId": "paper_civil_career_counseling_2026_national_gah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/career_counseling/2026/national-gah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n수퍼의 청소년기 진로발달과업에서 직업 세계를 탐색하고 자기개념과 직업을 연결해 잠정적 선택을 형성하는 과업은 결정화이다. 구체화는 특정 직업을 구체화하는 단계이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "결정화는 잠정적 진로 선택을 형성하는 과업이다. 정답입니다.",
+    "구체화는 특정 직업으로 선택을 좁히는 단계이다.",
+    "안정화는 선택한 진로를 유지하는 단계이다.",
+    "공고화는 진로 정체성을 다지는 단계이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-career_counseling-gah-q17",
+   "paperId": "paper_civil_career_counseling_2026_national_gah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/career_counseling/2026/national-gah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n홀랜드 검사에서 예술형(A)과 사회형(S)처럼 인접한 유형이 함께 높게 나타나면 유형 간 일관성이 높다고 해석한다. 변별성은 유형 점수의 차이가 큰지를, 일치성은 성격유형과 직업 환경의 부합을 본다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "변별성이 낮다는 해석은 점수 분포가 흩어진 경우에 해당한다.",
+    "예술형과 사회형처럼 인접 유형이 함께 높으면 일관성이 높다. 정답입니다.",
+    "일치성은 성격유형과 직업 환경의 부합 정도로 판단한다.",
+    "예술적 활동 선호는 흥미 척도에서 별도로 판단한다."
+   ]
+  },
+  {
+   "id": "civil2026-national-career_counseling-gah-q18",
+   "paperId": "paper_civil_career_counseling_2026_national_gah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/career_counseling/2026/national-gah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n소수민 정체성 발달은 순응 → 부조화 → 저항과 몰입 → 내성과 통합의 순서로 진행되며, 제시된 선택지 중 이 순서와 일치하는 배열이 정답이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "순응 단계를 뒤에 둔 배열은 발달 순서와 맞지 않는다.",
+    "부조화를 맨 앞에 둔 배열도 발달 순서와 다르다.",
+    "순응 → 부조화 → 저항·몰입 → 내성·통합의 순서에 맞는 배열이 정답이다. 정답입니다.",
+    "저항과 몰입을 중간에 둔 배열은 순서와 맞지 않는다."
+   ]
+  },
+  {
+   "id": "civil2026-national-career_counseling-gah-q19",
+   "paperId": "paper_civil_career_counseling_2026_national_gah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/career_counseling/2026/national-gah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n진로체험의 개념 정의(ㄱ)와 학생 참여·직업 체험을 바탕으로 진로교육이 이루어져야 한다는 원칙(ㄴ)은 진로교육법의 내용이다. 진로전담교사 지원 전문인력을 두어야 하는 주체를 교육부장관·교육감으로 적은 ㄷ은 법령 문구와 다르다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "진로체험의 정의에 관한 서술(ㄱ)은 옳다. 정답입니다.",
+    "학생 참여와 체험을 바탕으로 진로교육을 해야 한다는 서술(ㄴ)은 옳다.",
+    "ㄷ은 법령이 정한 주체와 달라 포함할 수 없다.",
+    "ㄷ이 포함되어 있으므로 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2026-national-career_counseling-gah-q20",
+   "paperId": "paper_civil_career_counseling_2026_national_gah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/career_counseling/2026/national-gah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n스트롱직업흥미검사Ⅱ의 개인특성척도는 위험감수, 학습양식, 주도성 등 여러 척도로 구성되며, 점수를 통해 학습 선호와 책임자 역할 선호 등을 해석한다. 사람들과 함께 일하는 것과 혼자 일하는 것에 특별한 선호를 보이지 않는다는 해석은 해당 점수 해석과 다르다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "위험을 무릅쓰고 도전하는 것을 선호한다는 해석은 척도 해석으로 가능하다.",
+    "함께 일하기와 혼자 일하기에 특별한 선호가 없다는 해석은 옳지 않다.",
+    "직접 실습을 통한 학습을 선호한다는 해석은 학습양식 척도로 가능하다. 정답입니다.",
+    "책임자 역할을 맡지 않는 것을 선호한다는 해석도 주도성 척도로 가능하다."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_computer_general_2025_national_nah",
+ "title": "2025 국가직 9급 컴퓨터일반 나책형",
+ "year": 2025,
+ "source": "2025년도 국가공무원 9급 공개경쟁채용 필기시험 컴퓨터일반 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_18",
+ "questions": [
+  {
+   "id": "civil2025-national-computer_general-nah-q01",
+   "paperId": "paper_civil_computer_general_2025_national_nah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2025/national-nah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n클라우드 컴퓨팅은 사용자가 필요한 컴퓨팅 자원(하드웨어·소프트웨어)을 언제 어디서나 네트워크로 접근해 활용할 수 있게 하는 기술이다. 빅데이터는 대규모 데이터 분석, 가상현실은 몰입형 환경, 사물인터넷은 사물 간 연결을 뜻한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "빅데이터는 대용량 데이터의 수집·분석 기술이다.",
+    "가상현실은 컴퓨터로 만든 가상 환경에 몰입하게 하는 기술이다.",
+    "사물인터넷은 사물에 센서·통신 기능을 부여해 연결하는 기술이다.",
+    "컴퓨팅 자원을 언제 어디서나 접근해 활용하는 유연한 환경은 클라우드 컴퓨팅이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-computer_general-nah-q02",
+   "paperId": "paper_civil_computer_general_2025_national_nah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2025/national-nah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n스택은 후입선출 구조로 괄호 매칭, 진법 변환, 후위표현 연산에 활용된다. 은행 대기열은 먼저 온 순서대로 처리하는 큐의 대표적인 예이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "괄호 매칭은 스택의 대표적인 활용이다.",
+    "진법 변환은 나머지를 역순으로 읽어야 하므로 스택을 이용한다.",
+    "후위표현 연산도 스택으로 처리한다.",
+    "은행 대기열은 선입선출 구조인 큐로 구현하므로 스택으로 구현할 수 없다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-computer_general-nah-q03",
+   "paperId": "paper_civil_computer_general_2025_national_nah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2025/national-nah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n블록체인에서 거래는 참여 노드들이 공유·검증하는 공개 원장에 기록되므로 거래 당사자만 확인할 수 있는 것이 아니다. 해시를 통한 변조 방지, P2P 연결, 합의 알고리즘을 통한 이중 지불 방지는 블록체인의 특징이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "해시값으로 변조를 방지한다는 설명은 옳다.",
+    "모든 거래를 거래 당사자만 확인할 수 있다는 설명은 블록체인의 공유 원장 구조와 맞지 않아 옳지 않다. 정답입니다.",
+    "모든 노드가 P2P 네트워크로 연결된다는 설명은 옳다.",
+    "합의 알고리즘으로 이중 지불을 방지한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2025-national-computer_general-nah-q04",
+   "paperId": "paper_civil_computer_general_2025_national_nah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2025/national-nah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n메모리 버퍼 레지스터(MBR)는 기억장치에 쓰거나 기억장치에서 읽은 데이터를 일시적으로 보관하는 CPU 내부 레지스터이다. 프로그램 카운터는 다음 명령어 주소, 명령어 레지스터는 현재 명령어, 메모리 주소 레지스터는 접근할 주소를 담는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "프로그램 카운터는 다음에 실행할 명령어의 주소를 저장한다.",
+    "명령어 레지스터는 현재 실행 중인 명령어를 저장한다.",
+    "메모리 주소 레지스터는 접근할 기억장치 주소를 저장한다.",
+    "읽거나 쓸 데이터를 일시 저장하는 CPU 내부 레지스터는 메모리 버퍼 레지스터이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-computer_general-nah-q05",
+   "paperId": "paper_civil_computer_general_2025_national_nah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2025/national-nah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n언어 번역 프로그램은 어셈블러, 컴파일러, 인터프리터 등이다. 워드프로세서는 문서 작성용 응용 소프트웨어로 번역 프로그램이 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "어셈블러는 어셈블리어를 기계어로 번역한다.",
+    "컴파일러는 고급 언어를 목적 프로그램으로 번역한다.",
+    "인터프리터는 고급 언어를 한 줄씩 해석해 실행한다.",
+    "워드프로세서는 문서 작성 응용 프로그램이므로 언어 번역 프로그램이 아니다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-computer_general-nah-q06",
+   "paperId": "paper_civil_computer_general_2025_national_nah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2025/national-nah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nBCNF는 릴레이션의 모든 결정자가 후보키인 정규형이다. 모든 결정자가 슈퍼키면 된다고 서술한 것은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "정규화에서 속성 간 관련성을 함수적 종속성이라고 한다는 설명은 옳다.",
+    "정규화가 이상 현상을 없애기 위해 릴레이션을 분해하는 과정이라는 설명은 옳다.",
+    "BCNF는 모든 결정자가 후보키인 정규형이므로, 모든 결정자가 슈퍼키면 된다는 이 설명이 옳지 않다. 정답입니다.",
+    "모든 속성의 도메인이 원자값이면 제1정규형이라는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2025-national-computer_general-nah-q07",
+   "paperId": "paper_civil_computer_general_2025_national_nah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2025/national-nah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n프로그램 코드는 텍스트 영역에, 동적으로 할당된 메모리는 힙 영역에 배치된다. 전역 변수는 데이터 영역, 함수의 매개변수·복귀 주소·지역변수는 스택 영역에 할당된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "전역 변수는 스택이 아니라 데이터 영역에 할당된다.",
+    "전역 변수가 스택에 할당된다는 설명(ㄱ)이 옳지 않다.",
+    "프로그램 코드가 텍스트 영역에 적재되고(ㄴ), 힙 영역이 동적 할당 메모리라는 설명(ㄷ)이 모두 옳다. 정답입니다.",
+    "함수의 매개변수·복귀 주소·지역변수는 데이터 영역이 아니라 스택에 할당된다."
+   ]
+  },
+  {
+   "id": "civil2025-national-computer_general-nah-q08",
+   "paperId": "paper_civil_computer_general_2025_national_nah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2025/national-nah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nTCP와 UDP 모두 헤더에 근원지·목적지 포트 번호와 체크섬을 가진다. 연결 지향, 재전송, 동일한 헤더 크기는 TCP만의 특징이거나 두 프로토콜에 공통되지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "연결 지향은 TCP의 특징이고 UDP는 비연결지향이다.",
+    "두 프로토콜 모두 헤더에 포트 번호(ㄴ)와 체크섬(ㄹ)이 있다. 정답입니다.",
+    "재전송 기능은 TCP에만 있다.",
+    "TCP와 UDP의 헤더 크기는 서로 달라 동일하다고 할 수 없다."
+   ]
+  },
+  {
+   "id": "civil2025-national-computer_general-nah-q09",
+   "paperId": "paper_civil_computer_general_2025_national_nah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2025/national-nah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n평균 접근 시간＝적중률×캐시 접근시간＋(1－적중률)×주기억장치 접근시간이다. 2.5＝1.5h＋11.5(1－h)에서 10h＝9이므로 적중률 h는 0.9이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "0.8을 적용하면 평균 접근 시간이 3.5가 된다.",
+    "0.85를 적용하면 3.0이 된다.",
+    "1.5h＋11.5(1－h)＝2.5에서 h＝0.9이다. 정답입니다.",
+    "0.95를 적용하면 2.0이 된다."
+   ]
+  },
+  {
+   "id": "civil2025-national-computer_general-nah-q10",
+   "paperId": "paper_civil_computer_general_2025_national_nah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2025/national-nah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nTCP 서버는 socket→bind→listen 후 클라이언트의 접속을 accept로 받아들이고, 클라이언트는 connect로 접속한다. 연결이 맺어진 뒤에는 양쪽이 send/recv로 데이터를 송수신한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "request()는 소켓 통신의 표준 함수가 아니다.",
+    "accept()와 connect()의 순서·위치가 서버·클라이언트 역할과 맞지 않는다.",
+    "서버는 listen()으로 접속을 기다리고 accept()로 연결을 수락한 뒤 데이터를 송수신한다. 정답입니다.",
+    "request()는 표준 소켓 함수가 아니고 connect()의 위치도 맞지 않는다."
+   ]
+  },
+  {
+   "id": "civil2025-national-computer_general-nah-q11",
+   "paperId": "paper_civil_computer_general_2025_national_nah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2025/national-nah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지명 파이프는 이름을 통해 서로 다른 프로세스가 통신하는 방식으로, 부모－자식 관계가 반드시 필요한 것은 아니다. 파이프·신호·공유 메모리에 관한 다른 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "파이프가 두 프로세스 간 통신 전달자 역할을 한다는 설명은 옳다.",
+    "지명 파이프는 부모－자식 관계가 아니어도 사용할 수 있으므로, 관계가 반드시 필요하다는 이 설명이 옳지 않다. 정답입니다.",
+    "신호가 사건의 근원지나 이유에 따라 비동기식으로 전달될 수 있다는 설명은 옳다.",
+    "공유 메모리 사용 시 동시에 같은 위치에 쓰지 않도록 해야 한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2025-national-computer_general-nah-q12",
+   "paperId": "paper_civil_computer_general_2025_national_nah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2025/national-nah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n제어 해저드는 분기 등으로 다음에 실행할 명령어가 결정되지 않아 발생한다. 여러 명령이 하드웨어 장치 하나를 동시에 사용하려 할 때 발생하는 것은 구조적 해저드이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "데이터 해저드가 앞 명령의 결과를 다음 명령이 입력으로 사용할 때 발생한다는 설명은 옳다.",
+    "단계 수만큼 빨라지지만 해저드가 방해할 수 있다는 설명은 옳다.",
+    "파이프라이닝이 명령어를 여러 단계로 나눠 동시에 실행하는 기법이라는 설명은 옳다.",
+    "장치 하나를 동시에 사용하려 할 때 발생하는 것은 구조적 해저드이므로, 제어 해저드라는 이 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-computer_general-nah-q13",
+   "paperId": "paper_civil_computer_general_2025_national_nah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2025/national-nah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n원형 연결 리스트는 마지막 노드가 첫 노드를 가리켜 링크를 계속 따라가면 자기 자신으로 돌아오므로, 어떤 노드에서든 모든 노드로 접근할 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "원형 연결 리스트에서는 한 노드에서 모든 노드로 접근할 수 있다. 정답입니다.",
+    "원형 구조이므로 링크를 따라가면 자기 자신으로 돌아올 수 있다.",
+    "마지막 노드의 링크가 첫 노드를 가리키므로 NULL이 아니다.",
+    "끝 노드에 대한 포인터로 삽입할 수 있어 단순 연결 리스트보다 효율적일 수 있다."
+   ]
+  },
+  {
+   "id": "civil2025-national-computer_general-nah-q14",
+   "paperId": "paper_civil_computer_general_2025_national_nah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2025/national-nah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\na는 리스트로 3을 추가하면 길이가 5가 되고, b는 집합이라 이미 있는 3을 추가해도 길이가 4이다. c는 튜플로 길이가 4이므로 5＋4＋4＝13이 출력된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "10은 집합·튜플의 길이를 잘못 계산한 값이다.",
+    "12는 리스트 길이를 반영하지 않은 값이다.",
+    "리스트 5, 집합 4, 튜플 4를 더하면 13이 출력된다. 정답입니다.",
+    "14는 중복 추가가 반영된 것으로 잘못 계산한 값이다."
+   ]
+  },
+  {
+   "id": "civil2025-national-computer_general-nah-q15",
+   "paperId": "paper_civil_computer_general_2025_national_nah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2025/national-nah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n외부 인터럽트는 입출력 장치, 전원 이상, 기계 오작동 등 CPU 외부 요인으로 발생한다. 오버플로는 연산 과정에서 발생하는 내부 인터럽트 요인이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "입출력에 의한 인터럽트는 외부 인터럽트이다.",
+    "오버플로는 연산 중 발생하는 내부 인터럽트 요인이다. 정답입니다.",
+    "전원 이상도 외부 인터럽트 요인이다.",
+    "기계 오작동도 외부 인터럽트 요인이다."
+   ]
+  },
+  {
+   "id": "civil2025-national-computer_general-nah-q16",
+   "paperId": "paper_civil_computer_general_2025_national_nah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2025/national-nah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n데이터 버스는 CPU와 기억장치·입출력장치 사이에서 데이터를 양방향으로 전달한다. 제어 버스와 주소 버스는 단방향인 경우가 많다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "시스템 버스에 제어·데이터·주소 버스가 있다는 설명은 옳다.",
+    "제어 버스가 제어 신호를 전달한다는 설명은 옳다.",
+    "버스 폭이 전송량과 성능에 영향을 준다는 설명은 옳다.",
+    "데이터 버스는 양방향이므로 단방향이라는 이 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-computer_general-nah-q17",
+   "paperId": "paper_civil_computer_general_2025_national_nah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2025/national-nah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nNoSQL은 유연한 스키마와 분산 구조를 바탕으로 빠르게 증가하는 대용량 비정형 데이터를 처리하는 데 적합하다. 따라서 대용량 처리에 적합하지 않다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "NoSQL이 동적 스키마를 지원할 수 있다는 설명은 옳다.",
+    "다양한 비정형 데이터를 다룬다는 설명은 옳다.",
+    "NoSQL은 대용량 데이터 처리에 적합하므로, 적합하지 않다는 이 설명이 옳지 않다. 정답입니다.",
+    "관계형 DB보다 ACID를 덜 중시한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2025-national-computer_general-nah-q18",
+   "paperId": "paper_civil_computer_general_2025_national_nah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2025/national-nah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n힙에 원소를 삽입하면 트리의 높이만큼 비교·교환해야 하므로 시간복잡도는 O(log n)이다. O(1)이라는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "힙 삽입의 시간복잡도는 O(log n)이므로 O(1)이라는 설명이 옳지 않다. 정답입니다.",
+    "힙은 우선순위 큐의 구현 방법 중 하나이다.",
+    "힙은 완전 이진 트리 구조를 사용한다.",
+    "최대 힙은 부모 키가 자식 키보다 크거나 같다."
+   ]
+  },
+  {
+   "id": "civil2025-national-computer_general-nah-q19",
+   "paperId": "paper_civil_computer_general_2025_national_nah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2025/national-nah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n시스템 호출은 사용자 프로그램이 커널의 기능을 이용할 수 있도록 제공되는 인터페이스로, 커널을 거치지 않고 하드웨어에 직접 접근하게 하는 것이 아니다. 커널·디바이스 드라이버·사용자 인터페이스에 관한 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "커널이 운영체제의 핵심 기능을 모아 놓은 것이라는 설명은 옳다.",
+    "디바이스 드라이버가 하드웨어 인터페이스 역할을 한다는 설명은 옳다.",
+    "사용자 인터페이스가 커널에 명령을 전달하고 결과를 전달한다는 설명은 옳다.",
+    "시스템 호출이 커널을 거치지 않고 하드웨어에 직접 접근하게 하는 함수 집합이라는 설명은 반대여서 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2025-national-computer_general-nah-q20",
+   "paperId": "paper_civil_computer_general_2025_national_nah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2025/national-nah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nSMTP는 전자우편 전송에 TCP를, Telnet은 원격 접속에 TCP를 사용한다. SNMP와 DNS는 UDP를 사용하므로 제시된 표의 조합과 맞지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "SMTP는 TCP, Telnet은 TCP를 사용하므로 표의 (가)~(라)와 일치한다. 정답입니다.",
+    "SNMP·DNS 조합은 표에 제시된 프로토콜의 전송 계층과 맞지 않는다.",
+    "SMTP가 UDP, Telnet이 UDP라는 조합은 실제 사용 프로토콜과 다르다.",
+    "SMTP UDP, DNS TCP 조합은 두 프로토콜의 실제 전송 계층과 반대이다."
+   ]
+  }
+ ]
+}

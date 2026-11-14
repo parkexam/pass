@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_election_law_2026_national_gah",
+ "title": "2026 국가직 9급 공직선거법 가책형",
+ "year": 2026,
+ "source": "2026년도 국가공무원 9급 공개경쟁채용 필기시험 공직선거법 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_20",
+ "questions": [
+  {
+   "id": "civil2026-national-election_law-gah-q01",
+   "paperId": "paper_civil_election_law_2026_national_gah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/election_law/2026/national-gah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n구·시·군선거방송토론위원회 위원장은 해당 구·시·군선거관리위원회 위원장이 겸하는 것이 아니라 위원 중에서 호선한다. 선거방송심의위원회·선거기사심의위원회의 조사·제재 통보, 인터넷선거보도심의위원회 구성에 관한 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "선거방송심의위원회의 조사·제재 통보에 관한 설명은 옳다.",
+    "선거기사심의위원회의 조사·제재 통보에 관한 설명은 옳다.",
+    "인터넷선거보도심의위원회의 위원 구성과 임기에 관한 설명은 옳다.",
+    "위원장을 해당 선거관리위원회 위원장이 겸한다는 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-election_law-gah-q02",
+   "paperId": "paper_civil_election_law_2026_national_gah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/election_law/2026/national-gah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n자치구·시·군의회의 최소정수는 7인이고 비례대표자치구·시·군의원정수는 자치구·시·군의원 정수의 100분의 20으로 한다. 합병·분할·광역시 승격 시 의원 신분 변동에 관한 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "최소정수 7인과 비례대표 정수 비율에 관한 설명은 옳다. 정답입니다.",
+    "합병 시 종전 의원의 잔임 재임에 관한 설명은 옳다.",
+    "분할 시 증원선거 요건에 관한 설명은 옳다.",
+    "시가 광역시로 된 때 의원 자격 변동에 관한 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-election_law-gah-q03",
+   "paperId": "paper_civil_election_law_2026_national_gah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/election_law/2026/national-gah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n선거인명부 이의신청이 이유 없다고 결정되면 구·시·군의 장은 그 뜻을 신청인·관계인과 관할 선거관리위원회에 통지해야 하므로, 통지 대상·절차를 달리 적은 지문은 옳지 않다. 명부작성 공무원 해임 협의, 확정 시기, 열람 기간에 관한 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "명부작성 공무원 해임 시 협의 의무에 관한 설명은 옳다.",
+    "선거인명부 확정 시기와 거소·선상투표신고인명부 확정 시기에 관한 설명은 옳다.",
+    "이의신청 심사·결정과 통지 대상에 관한 설명은 법령과 달라 옳지 않다. 정답입니다.",
+    "명부 열람 기간과 인터넷 열람 조치에 관한 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-election_law-gah-q04",
+   "paperId": "paper_civil_election_law_2026_national_gah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/election_law/2026/national-gah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n당원과 비당원에게 투표권을 주는 당내경선에서 정당이 경선홍보물을 발송하는 경우 관할선거구선거관리위원회에 신고해야 한다. 당내경선 제한 대상, 합동연설회·토론회, 경선 탈락자의 후보자 등록 가능성에 관한 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "한국자유총연맹 상근임원의 경선운동 제한에 관한 설명은 옳다.",
+    "경선홍보물 발송 시 선거관리위원회 신고 의무에 관한 설명은 옳다. 정답입니다.",
+    "합동연설회·합동토론회를 옥외에서 개최할 수 있다는 설명은 옳다.",
+    "경선 탈락자가 후보자 자격 상실 시에도 등록할 수 없다는 설명은 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2026-national-election_law-gah-q05",
+   "paperId": "paper_civil_election_law_2026_national_gah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/election_law/2026/national-gah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n정당은 후보자등록기간 중 정당추천후보자가 사퇴·사망하면 추천을 취소·변경할 수 있고, 대통령선거에서 정당추천후보자가 사망하면 후보자등록마감일 후 5일까지 후보자등록을 신청할 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "비례대표 여성 추천과 지역구 여성 추천 노력 의무에 관한 설명은 옳다.",
+    "후보자등록신청서 접수 시간에 관한 설명은 옳다.",
+    "무소속후보자가 당원이 되어도 등록이 무효가 되지 않는다는 설명은 옳다.",
+    "정당추천후보자 사망 시 보충등록 절차와 기한을 적은 설명은 옳다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-election_law-gah-q06",
+   "paperId": "paper_civil_election_law_2026_national_gah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/election_law/2026/national-gah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n선거운동 해당 여부는 행위 주체의 내부 의사가 아니라 외부에 표시된 행위를 기준으로 객관적으로 판단한다. 일상적 사회활동과 선거운동의 구별, 공무원 지위 이용의 개념에 관한 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "선거운동의 개념을 외부에 표시된 행위로 판단한다는 설명은 옳다.",
+    "일상적 정치활동만으로는 선거운동이 아니라는 설명은 옳다.",
+    "공무원 지위 이용의 개념에 관한 설명은 옳다.",
+    "종교조직 내 직무상 행위를 이용한 선거운동 금지가 표현의 자유를 침해한다는 설명은 옳다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-election_law-gah-q07",
+   "paperId": "paper_civil_election_law_2026_national_gah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/election_law/2026/national-gah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n선거사무소·선거연락소의 설치 및 유지비용은 선거비용으로 보지 않고, 선거연락소의 전화료·전기료·수도료 등 선거기간 전부터 지출해 온 경비도 선거비용이 아니다. 잔무정리비용, 4회 초과 여론조사비용에 관한 서술은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "선거일 후 지출원인이 발생한 잔무정리비용도 선거비용으로 본다는 서술(ㄱ)은 옳지 않다.",
+    "선거사무소·연락소 설치·유지비용(ㄴ)과 선거기간 전부터 지출한 유지비(ㄹ)는 선거비용이 아니다. 정답입니다.",
+    "ㄱ이 옳지 않으므로 이 조합은 성립하지 않는다.",
+    "ㄷ의 4회 초과 여론조사비용 서술은 법령과 달라 포함할 수 없다."
+   ]
+  },
+  {
+   "id": "civil2026-national-election_law-gah-q08",
+   "paperId": "paper_civil_election_law_2026_national_gah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/election_law/2026/national-gah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n시·도지사선거 후보자용 휴대용 확성장치는 정격출력 3킬로와트를 초과할 수 없으므로 지문의 서술은 옳다. 점포 방문 연설과 대담 주체, 대담·토론회 개최 횟수, 호별 방문 통지에 관한 지문은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "후보자의 점포 방문 연설과 선거사무장 등의 대담 제한에 관한 설명은 옳지 않다.",
+    "시·도지사선거 후보자용 휴대용 확성장치의 정격출력 기준에 관한 설명은 옳다. 정답입니다.",
+    "중앙선거방송토론위원회 주관 대담·토론회의 개최 횟수에 관한 설명은 법령과 다르다.",
+    "선거사무장 등이 호별 방문으로 연설·대담을 통지할 수 있다는 설명은 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2026-national-election_law-gah-q09",
+   "paperId": "paper_civil_election_law_2026_national_gah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/election_law/2026/national-gah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n정당이 선거기간 중 후보자를 추천한 선거구 소속당원에게 배부할 수 있는 정강·정책홍보물은 중앙당이 제작한 책자형 1종이고 표지에 '당원용'을 표시해야 한다. 정책공약집 판매, 당원집회 제한에 관한 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "정강·정책홍보물의 종류·제작 주체와 '당원용' 표시에 관한 설명은 옳다. 정답입니다.",
+    "정책공약집을 방문판매로 판매할 수 있다는 설명은 옳다.",
+    "당원집회 제한 기간과 연수·교육 예외에 관한 설명은 옳지 않다.",
+    "당원집회 신고와 개최 장소 제한에 관한 설명은 법령과 다르다."
+   ]
+  },
+  {
+   "id": "civil2026-national-election_law-gah-q10",
+   "paperId": "paper_civil_election_law_2026_national_gah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/election_law/2026/national-gah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n도지사선거 예비후보자 등록 신청은 선거기간개시일 전 120일이 아니라 법령이 정한 기간에 따른다. 기탁금, 예비후보자 지위 상실, 표지물 사용에 관한 지문은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "도지사선거 예비후보자의 기탁금 액수에 관한 설명은 옳다.",
+    "예비후보자가 후보자로 등록하지 않으면 등록마감 후 지위를 상실한다는 설명은 옳다.",
+    "예비후보자 등록 신청 개시일을 선거기간개시일 전 120일로 적은 것은 법령과 달라 옳지 않다. 정답입니다.",
+    "예비후보자의 어깨띠·표지물 사용에 관한 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-election_law-gah-q11",
+   "paperId": "paper_civil_election_law_2026_national_gah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/election_law/2026/national-gah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사전투표에서 정규 회송용 봉투를 사용하지 않은 투표는 무효이고, 회송용 봉투에 성명·거소가 기재되거나 사인이 날인되어도 무효로 하지 않는다. 선상투표 표지 및 개표록 송부에 관한 서술은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "선상투표 표지에 후보자 성명 등이 표시되어도 무효로 하지 않는다는 서술(ㄱ)은 옳지 않다.",
+    "회송용 봉투 미사용 투표를 무효로 한다는 서술(ㄷ)은 옳다. 정답입니다.",
+    "회송용 봉투에 성명·거소·사인이 있어도 무효로 하지 않는다는 서술(ㄹ)은 옳다.",
+    "ㄱ이 옳지 않으므로 이 조합은 성립하지 않는다."
+   ]
+  },
+  {
+   "id": "civil2026-national-election_law-gah-q12",
+   "paperId": "paper_civil_election_law_2026_national_gah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/election_law/2026/national-gah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n선거인 책임으로 훼손된 투표용지는 다시 교부하지 않고, 사전투표 개시 시 참관인이 없으면 최초로 투표하러 온 선거인이 참관하며, 투표안내문은 명부 확정일 후 2일까지 발송한다. 투표함 송부 시 참관인·경찰 동반 인원을 적은 ㄷ은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "선거인 책임으로 훼손된 투표용지를 다시 교부하지 않는다는 서술(ㄱ)은 옳다.",
+    "사전투표 개시 시 최초 투표 선거인이 참관한다는 서술(ㄴ)은 옳다.",
+    "투표함 송부 시 참관인 1인·경찰 2인 동반을 적은 서술(ㄷ)은 법령과 다르다.",
+    "투표안내문 발송 시기에 관한 서술(ㄹ)은 옳다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-election_law-gah-q13",
+   "paperId": "paper_civil_election_law_2026_national_gah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/election_law/2026/national-gah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n후보자등록마감시각에 지역구국회의원후보자가 1인인 경우 투표를 실시하지 않고 등록마감시각에 그 후보자를 당선인으로 결정한다. 투표 중 단독 후보자, 비례대표 당선인 사망, 저지조항 위헌 결정에 관한 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "투표 중 후보자가 1인이 되면 그 후보자를 당선인으로 결정한다는 설명은 옳다.",
+    "등록마감시각에 후보자가 1인이면 등록마감시각에 당선인으로 결정한다는 설명은 옳다. 정답입니다.",
+    "비례대표 당선인이 임기개시 전 사망한 경우의 승계에 관한 설명은 옳다.",
+    "저지조항이 평등선거원칙에 위배된다는 설명은 헌재 결정과 맞다."
+   ]
+  },
+  {
+   "id": "civil2026-national-election_law-gah-q14",
+   "paperId": "paper_civil_election_law_2026_national_gah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/election_law/2026/national-gah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n천재·지변으로 대통령선거를 실시할 수 없거나 실시하지 못한 때에는 중앙선거관리위원회위원장이 선거를 연기한다. 일부무효 시 재선거, 재투표 생략, 비례대표 의석 승계에 관한 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "일부무효 판결 시 투표구 재선거 후 당선인을 다시 결정한다는 설명은 옳다.",
+    "재투표가 결과에 영향이 없으면 실시하지 않고 당선인을 결정한다는 설명은 옳다.",
+    "대통령선거를 실시할 수 없을 때 중앙선거관리위원회위원장이 연기한다는 설명은 옳다. 정답입니다.",
+    "비례대표 의석 승계 결정에 관한 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-election_law-gah-q15",
+   "paperId": "paper_civil_election_law_2026_national_gah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/election_law/2026/national-gah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n동시선거에서 같은 정당 추천 후보자들은 선거사무소·연락소를 공동 설치할 수 있고, 후보자는 다른 선거 후보자의 선거사무장·회계책임자 등이 될 수 없다. 선거사무장 공동 선임 가능 여부와 확성장치 사용 범위에 관한 서술은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "선거사무소·연락소 공동 설치(ㄱ)와 타 선거 후보자의 선거사무장 등 금지(ㄷ)에 관한 서술이 옳다. 정답입니다.",
+    "ㄴ의 공동 선임 금지 서술은 법령과 달라 옳지 않다.",
+    "ㄹ의 확성장치 사용 범위 서술도 법령과 달라 옳지 않다.",
+    "ㄴ이 옳지 않으므로 성립하지 않는다."
+   ]
+  },
+  {
+   "id": "civil2026-national-election_law-gah-q16",
+   "paperId": "paper_civil_election_law_2026_national_gah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/election_law/2026/national-gah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지방자치단체의 장 선거에서 최고득표자가 2인 이상인 때에는 연장자를 당선인으로 결정한다. 국회의원선거 소송의 피고, 대통령 당선인 결정·공고, 세종시의회의원선거 소청 절차에 관한 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "지역구국회의원선거의 소송 제기 기간과 피고에 관한 설명은 옳다.",
+    "대통령선거 최고득표자 2인 이상 시 국회 결정과 공고 절차에 관한 설명은 옳다.",
+    "지방자치단체의 장 선거에서 최고득표자 2인 이상이면 연장자를 당선인으로 결정한다는 설명은 옳다. 정답입니다.",
+    "세종특별자치시의회의원선거의 소청 절차에 관한 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-election_law-gah-q17",
+   "paperId": "paper_civil_election_law_2026_national_gah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/election_law/2026/national-gah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n읍·면·동선거관리위원회는 위반 선전물 등을 발견하면 철거·수거·폐쇄를 명하고 불응 시 대집행할 수 있으며, 그 절차는 행정대집행법 제3조에도 불구하고 중앙선거관리위원회규칙이 정하는 바에 따른다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "외국인 중 거동이 불가능한 자의 거소투표신고에 관한 설명은 옳다.",
+    "선거범 제1심 재판 관할에 관한 설명은 옳다.",
+    "지방선거 경비 중 국가 부담 범위에 관한 설명은 옳다.",
+    "읍·면·동선거관리위원회의 철거·대집행 절차에 관한 설명은 옳다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-election_law-gah-q18",
+   "paperId": "paper_civil_election_law_2026_national_gah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/election_law/2026/national-gah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지역구시·도의원선거는 4천만원＋(인구수×100원), 자치구·시·군의 장 선거는 9천만원＋(인구수×200원)＋(읍·면·동수×100만원)으로 산정한다. 비례대표시·도의원선거와 도지사선거의 산식은 지문과 다르다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "지역구시·도의원선거 산식(ㄱ)과 자치구·시·군의 장 선거 산식(ㄹ)이 옳다. 정답입니다.",
+    "비례대표시·도의원선거 산식(ㄴ)은 법령과 달라 옳지 않다.",
+    "ㄴ이 옳지 않으므로 이 조합은 성립하지 않는다.",
+    "도지사선거 산식(ㄷ)을 포함한 조합은 법령과 달라 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2026-national-election_law-gah-q19",
+   "paperId": "paper_civil_election_law_2026_national_gah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/election_law/2026/national-gah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n선거의 중요성을 되새기기 위하여 매년 5월 10일을 유권자의 날로, 그날부터 1주간을 유권자 주간으로 하고, 읍·면·동선거관리위원회가 공명선거 추진활동 기관·단체와 함께 유권자의 날 의식과 부수 행사를 개최할 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "선거인의 정의에 관한 설명은 옳다.",
+    "대통령선거 후보자의 불체포특권과 병역소집 유예에 관한 설명은 옳다.",
+    "고용주가 투표시간 청구 사실을 알려야 하는 기간에 관한 설명은 옳다.",
+    "유권자의 날·유권자 주간 지정과 의식·행사 개최에 관한 설명은 옳다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-election_law-gah-q20",
+   "paperId": "paper_civil_election_law_2026_national_gah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/election_law/2026/national-gah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n대통령선거 후보자는 선거일 전 90일부터 선거일까지 선거운동을 위하여 가상의 정보임을 표시한 딥페이크영상 등을 제작·편집·유포·상영·게시할 수 있다. 선거결과 예측 보도 제한, 인터넷 광고, 비방 금지에 관한 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "가상 정보임을 표시한 딥페이크영상의 제작·유포를 허용한다는 설명은 옳다. 정답입니다.",
+    "객관적 자료 없이 선거결과를 예측 보도하는 행위를 할 수 없다는 설명은 옳다.",
+    "비례대표지방의회의원선거에서 인터넷 광고에 관한 설명은 옳다.",
+    "정보통신망을 이용한 후보자 등에 대한 비방 금지와 공공의 이익 예외에 관한 설명은 옳다."
+   ]
+  }
+ ]
+}

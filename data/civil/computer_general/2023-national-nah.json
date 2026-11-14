@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_computer_general_2023_national_nah",
+ "title": "2023 국가직 9급 컴퓨터일반 나책형",
+ "year": 2023,
+ "source": "2023년도 국가공무원 9급 공개경쟁채용 필기시험 컴퓨터일반 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_18",
+ "questions": [
+  {
+   "id": "civil2023-national-computer_general-nah-q01",
+   "paperId": "paper_civil_computer_general_2023_national_nah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2023/national-nah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n병렬 처리 기법에는 VLIW, 파이프라인, 슈퍼스칼라 등이 있다. 블루－레이 디스크는 대용량 광 저장매체로 병렬 처리 기법과는 관련이 없다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "블루－레이 디스크는 광 저장매체이지 병렬 처리 기법이 아니다. 정답입니다.",
+    "VLIW는 하나의 명령어에 여러 연산을 묶어 병렬로 수행하는 기법이다.",
+    "파이프라인은 여러 단계를 겹쳐 처리하는 병렬 처리 기법이다.",
+    "슈퍼스칼라는 여러 명령어를 동시에 발동하는 병렬 처리 기법이다."
+   ]
+  },
+  {
+   "id": "civil2023-national-computer_general-nah-q02",
+   "paperId": "paper_civil_computer_general_2023_national_nah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2023/national-nah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nDHCP는 네트워크에 접속한 호스트에 IP 주소를 동적으로 할당해 주는 프로토콜이다. TCP는 전송 계층 프로토콜, DNS는 이름 해석, SOAP는 웹 서비스 메시지 규약이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "TCP는 연결형 전송 프로토콜로 IP 주소를 동적으로 할당하지 않는다.",
+    "DNS는 도메인 이름을 IP 주소로 해석하는 서비스이다.",
+    "SOAP는 웹 서비스에서 메시지를 교환하는 규약이다.",
+    "IP 주소를 동적으로 할당하는 것은 DHCP이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-national-computer_general-nah-q03",
+   "paperId": "paper_civil_computer_general_2023_national_nah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2023/national-nah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nUDP는 비연결지향·비신뢰적 전송 프로토콜로, 순서 보장이나 손실 데이터 재전송을 하지 않는다. 순차적 전송으로 신뢰성을 보장한다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "흐름 제어가 필요 없는 비신뢰적 통신에 사용된다는 설명은 옳다.",
+    "UDP는 순차 전송이나 전송 보장을 하지 않으므로 이 설명이 옳지 않다. 정답입니다.",
+    "비연결지향으로 연결 설정 없이 데이터를 전송한다는 설명은 옳다.",
+    "손실 데이터에 대한 재전송을 요구하지 않는다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2023-national-computer_general-nah-q04",
+   "paperId": "paper_civil_computer_general_2023_national_nah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2023/national-nah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n플린의 분류에서 MIMD는 여러 명령어 흐름과 여러 데이터 흐름을 동시에 처리하는 구조로 클러스터, 대칭형 다중 프로세서, NUMA 등이 속한다. 배열 프로세서는 하나의 명령어로 여러 데이터를 처리하는 SIMD 구조이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "클러스터는 여러 컴퓨터를 연결한 MIMD 구조이다.",
+    "대칭형 다중 프로세서는 MIMD에 속한다.",
+    "불균일 기억장치 액세스(NUMA)도 MIMD 구조이다.",
+    "배열 프로세서는 SIMD 구조이므로 MIMD 방식에 속하지 않는다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-national-computer_general-nah-q05",
+   "paperId": "paper_civil_computer_general_2023_national_nah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2023/national-nah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n중앙처리장치는 명령어 실행단계에서 제어장치·내부 레지스터·연산기를 필요로 하고(ㄴ), 인출단계에서 명령어 레지스터와 프로그램 카운터를 필요로 한다(ㄷ). 입출력장치는 동작 속도가 주기억장치보다 느리고, 입출력 데이터 교환이 반드시 중앙처리장치 제어로만 이루어지는 것도 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "입출력장치의 동작 속도가 주기억장치보다 빠르다는 설명(ㄱ)은 반대이다.",
+    "입출력장치가 중앙처리장치와 직접 데이터를 교환할 수 없다는 설명(ㄹ)은 DMA 등과 맞지 않는다.",
+    "명령어 실행단계의 구성요소(ㄴ)와 인출단계의 레지스터(ㄷ)에 관한 설명이 모두 옳다. 정답입니다.",
+    "ㄷ은 옳지만 ㄹ은 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2023-national-computer_general-nah-q06",
+   "paperId": "paper_civil_computer_general_2023_national_nah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2023/national-nah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nSIGCHLD는 자식 프로세스가 종료되거나 중지되었을 때 부모에게 이를 알리는 시그널이다. SIGKILL은 강제 종료, SIGTERM은 정상 종료 요청, SIGILL은 잘못된 명령어 수행 시 발생한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "SIGKILL은 강제 종료 시그널로 abort()와 직접 관련이 없다는 점에서 설명이 옳지 않다.",
+    "SIGTERM은 종료 요청 시그널이지 잘못된 하드웨어 명령어와 관련이 없다.",
+    "SIGILL은 잘못된 명령어 수행 시 발생하고 CTRL＋Z는 SIGTSTP에 해당한다.",
+    "SIGCHLD가 자식의 종료·중지를 부모에게 알리는 시그널이라는 설명은 옳다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-national-computer_general-nah-q07",
+   "paperId": "paper_civil_computer_general_2023_national_nah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2023/national-nah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n역 페이지 테이블은 실제 프레임마다 어떤 프로세스의 어떤 가상 페이지가 매핑되어 있는지를 하나의 테이블로 관리하는 기법으로, 페이지 테이블의 크기를 줄일 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "변환 참조 버퍼(TLB)는 주소 변환 결과를 캐시하는 장치이다.",
+    "계층적 페이지 테이블은 페이지 테이블을 여러 단계로 나누는 기법이다.",
+    "프레임별로 역매핑 정보를 관리해 테이블 크기를 줄이는 기법은 역 페이지 테이블이다. 정답입니다.",
+    "해시 페이지 테이블은 해시 함수로 페이지 테이블을 구성하는 기법이다."
+   ]
+  },
+  {
+   "id": "civil2023-national-computer_general-nah-q08",
+   "paperId": "paper_civil_computer_general_2023_national_nah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2023/national-nah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n제시된 프로그램은 부호 있는 문자의 범위를 넘는 값을 대입하면서 발생하는 오버플로를 다룬다. 부호 있는 값과 부호 없는 값의 해석 차이로 첫 결과는 음수(－15), 두 번째 결과는 양수(241)로 출력된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "－15, 15는 부호 없는 해석을 적용하지 않은 값이다.",
+    "－241, 15는 오버플로 처리 방향이 반대인 값이다.",
+    "부호 있는 해석에서 －15, 부호 없는 해석에서 241이 출력되어 －15, 241이 된다. 정답입니다.",
+    "－241, 241은 첫 값을 잘못 계산한 것이다."
+   ]
+  },
+  {
+   "id": "civil2023-national-computer_general-nah-q09",
+   "paperId": "paper_civil_computer_general_2023_national_nah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2023/national-nah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nICMP는 인터넷 계층에서 오류 보고, 상황 보고, 경로 제어 정보 전달 등의 기능을 수행한다. ARP·RARP는 주소 해석, IGMP는 멀티캐스트 그룹 관리에 쓰인다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "오류·상황 보고와 경로 제어 정보 전달 기능을 하는 인터넷 계층 프로토콜은 ICMP이다. 정답입니다.",
+    "RARP는 물리 주소로 IP 주소를 알아내는 프로토콜이다.",
+    "ARP는 IP 주소로 물리 주소를 알아내는 프로토콜이다.",
+    "IGMP는 멀티캐스트 그룹 관리 프로토콜이다."
+   ]
+  },
+  {
+   "id": "civil2023-national-computer_general-nah-q10",
+   "paperId": "paper_civil_computer_general_2023_national_nah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2023/national-nah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n제어장치는 명령어 해독기, 순서 제어 논리 장치, 서브루틴 레지스터 등으로 구성된다. 시프트 레지스터는 데이터의 비트를 이동시키는 연산 관련 레지스터로 제어장치의 구성요소가 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "순서 제어 논리 장치는 제어장치의 구성요소이다.",
+    "명령어 해독기도 제어장치의 구성요소이다.",
+    "시프트 레지스터는 데이터 이동을 위한 레지스터로 제어장치에 해당하지 않는다. 정답입니다.",
+    "서브루틴 레지스터는 제어장치의 구성요소이다."
+   ]
+  },
+  {
+   "id": "civil2023-national-computer_general-nah-q11",
+   "paperId": "paper_civil_computer_general_2023_national_nah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2023/national-nah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n아날로그 신호를 일정한 시간 간격으로 표본을 추출하는 과정은 표본화이다. 이후 표본값을 이산값으로 바꾸는 양자화, 2진 부호로 표현하는 부호화가 이어진다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "일정한 시간 간격으로 아날로그 신호값을 추출하는 과정은 표본화이다. 정답입니다.",
+    "양자화는 표본화된 값을 유한한 이산값으로 근사하는 과정이다.",
+    "부호화는 양자화된 값을 2진 부호로 표현하는 과정이다.",
+    "자동화는 신호 처리 단계와 관련이 없다."
+   ]
+  },
+  {
+   "id": "civil2023-national-computer_general-nah-q12",
+   "paperId": "paper_civil_computer_general_2023_national_nah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2023/national-nah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nfuna(n)은 n이 1보다 크면 n＋funa(n－2)를, 아니면 n%2를 반환한다. funa(5)=5＋3＋1＝9, funa(6)=6＋4＋2＋0＝12이므로 출력은 9, 12이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "5, 6은 재귀 호출의 누적을 반영하지 않은 값이다.",
+    "funa(5)=9, funa(6)=12가 출력된다. 정답입니다.",
+    "15, 21은 모든 항을 더한 값이다.",
+    "120, 720은 팩토리얼로 계산한 값이다."
+   ]
+  },
+  {
+   "id": "civil2023-national-computer_general-nah-q13",
+   "paperId": "paper_civil_computer_general_2023_national_nah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2023/national-nah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n탐색키를 여러 부분으로 나누어 각 부분을 더하거나 XOR한 결과로 주소를 얻는 해시 함수는 폴딩함수이다. 제산함수는 나머지를, 중간제곱함수는 제곱한 뒤 중간 비트를, 숫자분석함수는 숫자의 분포를 이용한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "숫자분석함수는 키 값의 숫자 분포를 분석해 주소를 정하는 방법이다.",
+    "제산함수는 키를 소수로 나눈 나머지를 주소로 사용한다.",
+    "중간제곱함수는 키를 제곱해 중간 부분을 주소로 사용한다.",
+    "키를 여러 부분으로 나눠 더하거나 XOR해 주소를 얻는 방법은 폴딩함수이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-national-computer_general-nah-q14",
+   "paperId": "paper_civil_computer_general_2023_national_nah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2023/national-nah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n인간의 지능을 모방하는 넓은 개념이 인공지능, 그 가운데 데이터로 스스로 학습하는 기법이 머신러닝, 머신러닝에서 심층 신경망을 사용하는 기법이 딥러닝이다. 제시된 (가)~(다) 설명에 대응하는 순서는 머신러닝·인공지능·딥러닝이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "인공지능·머신러닝·딥러닝 순서는 제시된 설명의 순서와 맞지 않는다.",
+    "인공지능·딥러닝·머신러닝 순서도 설명과 맞지 않는다.",
+    "머신러닝·인공지능·딥러닝 순서가 각 설명의 포함관계와 일치한다. 정답입니다.",
+    "머신러닝·딥러닝·인공지능 순서는 포함관계가 뒤바뀌었다."
+   ]
+  },
+  {
+   "id": "civil2023-national-computer_general-nah-q15",
+   "paperId": "paper_civil_computer_general_2023_national_nah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2023/national-nah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n소단위 명세서를 작성하는 도구로는 구조적 언어, 의사결정표, 의사결정나무 등이 있다. 자료저장소는 자료흐름도에서 두 평행선으로, 자료사전의 ( )는 생략 가능한 항목을 뜻한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "자료흐름도에서 자료저장소는 원이 아니라 두 개의 평행선으로 표현한다.",
+    "자료사전은 자료의 정의·구성 요소를 기술하는 도구로, 지문의 절차는 ISP 등 개발 단계 구분에 해당한다.",
+    "자료사전에서 ( )는 선택이 아니라 생략 가능(optional)을 뜻하는 기호이다.",
+    "소단위 명세서 작성 도구로 구조적 언어와 의사결정표 등을 사용한다는 설명은 옳다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-national-computer_general-nah-q16",
+   "paperId": "paper_civil_computer_general_2023_national_nah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2023/national-nah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n소프트웨어 공학의 법칙 가운데 자기 통제의 법칙은 시스템이 외부의 간섭 없이 스스로를 관리·통제할 수 있어야 한다는 원리를 뜻한다. 제시된 설명에 해당하는 법칙은 자기 통제의 법칙이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "제시된 내용은 시스템의 자기 관리·통제에 관한 것으로 자기 통제의 법칙에 해당한다. 정답입니다.",
+    "복잡도 증가의 법칙은 시스템 규모가 커질수록 복잡성이 증가한다는 법칙이다.",
+    "피드백 시스템의 법칙은 결과를 다시 입력으로 환류하는 구조에 관한 법칙이다.",
+    "지속적 변경의 법칙은 소프트웨어가 계속 변경된다는 특성에 관한 법칙이다."
+   ]
+  },
+  {
+   "id": "civil2023-national-computer_general-nah-q17",
+   "paperId": "paper_civil_computer_general_2023_national_nah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2023/national-nah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nS를 기준으로 T를 LEFT JOIN하면 S의 모든 행이 남고, T와 연결되는 행은 T의 열 값이 채워지며 연결되지 않는 행은 NULL이 된다. 제시된 실행 결과에 해당하는 것은 첫 번째 결과이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "S의 모든 행이 유지되고 T 열이 연결되는 첫 번째 결과가 LEFT JOIN의 결과이다. 정답입니다.",
+    "두 번째 결과는 연결되지 않은 행이 제거된 INNER JOIN 형태로, LEFT JOIN 결과와 다르다.",
+    "세 번째 결과는 열 구성이 LEFT JOIN 결과와 맞지 않는다.",
+    "네 번째 결과도 LEFT JOIN의 결과 행 구성과 맞지 않는다."
+   ]
+  },
+  {
+   "id": "civil2023-national-computer_general-nah-q18",
+   "paperId": "paper_civil_computer_general_2023_national_nah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2023/national-nah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nfork()는 실행 중인 프로세스를 복사해 자식 프로세스를 만들며, 부모와 자식은 별도의 메모리 공간을 사용한다. 따라서 메모리 위치가 동일하다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "fork()가 실행 중인 프로세스를 복사하는 함수라는 설명은 옳다.",
+    "fork()로 생성된 자식은 부모와 별도의 주소 공간을 가지므로, 메모리 위치가 동일하다는 이 설명이 옳지 않다. 정답입니다.",
+    "exec()가 기존 프로세스 구조를 재활용해 새 프로그램을 실행한다는 설명은 옳다.",
+    "wait()가 자식 프로세스의 종료를 기다리는 함수라는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2023-national-computer_general-nah-q19",
+   "paperId": "paper_civil_computer_general_2023_national_nah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2023/national-nah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n뷰는 복잡한 질의를 간단히 표현하게 하고 데이터 독립성을 제공하며, 동일한 데이터에 여러 뷰를 만들 수 있고 제거할 때는 DROP문을 사용한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "뷰가 복잡한 질의를 간단하게 표현할 수 있게 한다는 설명은 옳다. 정답입니다.",
+    "뷰는 독립성도 제공하므로, 독립성을 제공하지 않는다는 설명은 옳지 않다.",
+    "뷰를 제거할 때는 DELETE가 아니라 DROP VIEW를 사용한다.",
+    "동일한 데이터에 여러 개의 뷰를 생성할 수 있으므로 하나만 가능하다는 설명은 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2023-national-computer_general-nah-q20",
+   "paperId": "paper_civil_computer_general_2023_national_nah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2023/national-nah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n제시된 프로그램은 배열과 포인터, 증감 연산자를 조합해 값을 출력한다. 연산 순서에 따라 －2, 0, 0, 1, 20이 차례로 출력된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "－2 0 0 1 20이 프로그램의 실행 결과이다. 정답입니다.",
+    "－2 0 0 1 10 20은 출력 항목 수가 맞지 않는다.",
+    "－2 1 0 1 10 20도 배열·포인터 연산 결과와 다르다.",
+    "문자 A·B가 출력되는 것은 이 프로그램의 결과가 아니다."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_computer_general_2026_local_D",
+ "title": "2026 지방직 9급 컴퓨터일반 D책형",
+ "year": 2026,
+ "source": "2026년도 지방공무원 9급 공개경쟁임용 필기시험 컴퓨터일반 D책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_18",
+ "questions": [
+  {
+   "id": "civil2026-local-computer_general-D-q01",
+   "paperId": "paper_civil_computer_general_2026_local_D",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2026/local-D/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n전 세계 언어를 하나의 코드 체계로 통합하기 위해 2바이트로 각국의 문자를 표현하는 문자 코드는 유니코드이다. ASCII는 7비트, BCD는 4비트, EBCDIC은 8비트 체계이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "전 세계 언어를 2바이트로 통합해 표현하는 코드는 유니코드이다. 정답입니다.",
+    "ASCII는 영문자 중심의 7비트 코드로 다국어 통합과 거리가 있다.",
+    "BCD는 10진수 한 자리를 4비트로 표현하는 코드이다.",
+    "EBCDIC은 IBM 대형 컴퓨터에서 쓰인 8비트 코드이다."
+   ]
+  },
+  {
+   "id": "civil2026-local-computer_general-D-q02",
+   "paperId": "paper_civil_computer_general_2026_local_D",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2026/local-D/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nSSH는 통신 구간을 암호화해 TELNET보다 안전한 원격 접속 기능을 제공한다. VoIP는 인터넷 전화, SMTP는 메일 전송, DHCP는 IP 주소 자동 할당 프로토콜이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "SSH는 암호화된 원격 접속 서비스로 TELNET을 대체한다. 정답입니다.",
+    "VoIP는 IP 망을 이용한 음성 통화 기술이다.",
+    "SMTP는 전자우편 전송 프로토콜이다.",
+    "DHCP는 IP 주소를 자동으로 할당하는 프로토콜이다."
+   ]
+  },
+  {
+   "id": "civil2026-local-computer_general-D-q03",
+   "paperId": "paper_civil_computer_general_2026_local_D",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2026/local-D/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nMAC 주소는 48비트이므로 4비트를 나타내는 16진수 12자리로 표현한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "4자리는 16비트만 표현할 수 있다.",
+    "8자리는 32비트에 해당한다.",
+    "48비트를 16진수로 나타내면 12자리가 필요하다. 정답입니다.",
+    "16자리는 64비트에 해당한다."
+   ]
+  },
+  {
+   "id": "civil2026-local-computer_general-D-q04",
+   "paperId": "paper_civil_computer_general_2026_local_D",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2026/local-D/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n캐시에 가장 먼저 들어온, 즉 가장 오래된 블록을 교체하는 방식은 FIFO이다. 구현이 간단하지만 적중률은 높지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "가장 오래된 블록을 교체하는 방식은 FIFO이다. 정답입니다.",
+    "LFU는 참조 횟수가 가장 적은 블록을 교체한다.",
+    "LRU는 가장 오랫동안 참조되지 않은 블록을 교체한다.",
+    "Random은 무작위로 블록을 교체한다."
+   ]
+  },
+  {
+   "id": "civil2026-local-computer_general-D-q05",
+   "paperId": "paper_civil_computer_general_2026_local_D",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2026/local-D/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n+5를 8비트 2진수로 나타내면 00000101이고, 1의 보수는 모든 비트를 반전시킨 11111010이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "11111110은 1을 반전한 값이다.",
+    "11111101은 2를 반전한 값이다.",
+    "00000101의 1의 보수는 11111010이다. 정답입니다.",
+    "11111011은 +5의 2의 보수이다."
+   ]
+  },
+  {
+   "id": "civil2026-local-computer_general-D-q06",
+   "paperId": "paper_civil_computer_general_2026_local_D",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2026/local-D/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n이진 탐색은 탐색 범위를 절반씩 줄이는 과정을 반복하므로 재귀 호출로 구현할 수 있다. 순차 탐색의 평균 시간복잡도는 O(n)이고, 정렬된 데이터에 효율적인 것은 이진 탐색이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "순차 탐색의 평균 시간복잡도는 O(n)이므로 O(n²)라는 설명은 옳지 않다.",
+    "이진 탐색을 재귀 호출로 구현할 수 있다는 설명은 옳다. 정답입니다.",
+    "정렬된 데이터에서 효율적인 탐색은 이진 탐색이므로 옳지 않다.",
+    "처음부터 끝까지 순서대로 비교하는 것은 순차 탐색이므로 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2026-local-computer_general-D-q07",
+   "paperId": "paper_civil_computer_general_2026_local_D",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2026/local-D/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nRIP는 라우터 간 경로 정보를 교환하는 라우팅 프로토콜로 네트워크 계층에 속한다. FTP, HTTP, SMTP는 응용 계층 프로토콜이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "FTP는 응용 계층 파일 전송 프로토콜이다.",
+    "RIP는 라우팅 프로토콜로 응용 계층이 아니다. 정답입니다.",
+    "HTTP는 응용 계층 웹 프로토콜이다.",
+    "SMTP는 응용 계층 메일 전송 프로토콜이다."
+   ]
+  },
+  {
+   "id": "civil2026-local-computer_general-D-q08",
+   "paperId": "paper_civil_computer_general_2026_local_D",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2026/local-D/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n관계형 모델에서 속성은 원자 값만 가진다. 튜플의 중복은 허용되지 않고, 튜플 간 순서도 의미가 없다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "릴레이션은 튜플의 중복을 허용하지 않는다.",
+    "속성이 원자 값만 가진다는 설명은 옳다. 정답입니다.",
+    "튜플 간 순서는 의미가 없으므로 옳지 않다.",
+    "속성 간 순서도 논리적으로 의미가 없으므로 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2026-local-computer_general-D-q09",
+   "paperId": "paper_civil_computer_general_2026_local_D",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2026/local-D/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nALU는 산술·논리 연산을 수행하는 장치로 레지스터가 아니다. MBR, PC, IR는 모두 CPU 내부 레지스터이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "MBR은 기억장치에서 읽거나 쓸 데이터를 일시 저장하는 레지스터이다.",
+    "PC는 다음에 실행할 명령어의 주소를 저장하는 레지스터이다.",
+    "IR은 현재 실행 중인 명령어를 저장하는 레지스터이다.",
+    "ALU는 산술·논리 연산을 수행하는 연산 장치로 레지스터가 아니다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-local-computer_general-D-q10",
+   "paperId": "paper_civil_computer_general_2026_local_D",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2026/local-D/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n데이터 링크 계층에서 동작하는 대표적인 장비는 브릿지이다. 허브와 리피터는 물리 계층, 라우터는 네트워크 계층 장비이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "허브는 물리 계층 장비이다.",
+    "라우터는 네트워크 계층 장비이다.",
+    "브릿지는 데이터 링크 계층 장비로 올바른 짝이다. 정답입니다.",
+    "리피터는 물리 계층 장비이다."
+   ]
+  },
+  {
+   "id": "civil2026-local-computer_general-D-q11",
+   "paperId": "paper_civil_computer_general_2026_local_D",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2026/local-D/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n비지도 학습은 레이블이 없는 데이터만으로 학습 알고리즘이 스스로 패턴을 발견하는 방식이다. 에이전트·보상은 강화 학습, 군집화는 비지도 학습에서 사용할 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "에이전트·환경·보상은 강화 학습의 개념이다.",
+    "군집화는 비지도 학습에서 사용할 수 있다.",
+    "누적 보상 최대화는 강화 학습의 목표이다.",
+    "레이블 없는 데이터에서 스스로 패턴을 발견한다는 설명은 옳다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-local-computer_general-D-q12",
+   "paperId": "paper_civil_computer_general_2026_local_D",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2026/local-D/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\ns는 COMPUTER이고 p는 s＋2(M)를 가리킨다. *(p＋3)은 s[5]의 T를 X로 바꾸어 COMPUXER가 되고, strlen(p)는 M부터 널 문자 전까지인 MPUXER의 길이 6을 센다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "COMXUTER는 변경 위치를 잘못 계산한 결과이다.",
+    "길이 5는 p 이후 문자 수를 하나 적게 센 값이다.",
+    "COMXUTER, 6은 변경 위치가 잘못되었다.",
+    "COMPUXER와 6이 프로그램의 출력 결과이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-local-computer_general-D-q13",
+   "paperId": "paper_civil_computer_general_2026_local_D",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2026/local-D/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n실행 중인 프로세스를 복사해 자식 프로세스를 만드는 시스템 호출은 fork()이고, 자식 프로세스에게는 0을 반환한다. exec()는 현재 프로세스를 다른 프로그램으로 대체한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "exec()는 프로세스를 복사하지 않는다.",
+    "exec()가 자식에게 1을 반환한다는 설명도 옳지 않다.",
+    "(가) fork(), (나) 0의 연결이 프로세스 생성과 반환값에 맞다. 정답입니다.",
+    "fork()가 자식에게 1을 반환한다는 설명은 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2026-local-computer_general-D-q14",
+   "paperId": "paper_civil_computer_general_2026_local_D",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2026/local-D/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n시스템 스택은 함수 호출 시 복귀 주소와 지역변수를 저장해 호출·복귀 순서를 관리한다. 스택은 LIFO, 큐는 FIFO 구조이고 큐는 배열로도 구현할 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "스택은 FIFO가 아니라 LIFO 구조이다.",
+    "큐는 LIFO가 아니라 FIFO 구조이다.",
+    "시스템 스택이 함수 호출과 복귀 순서를 관리한다는 설명은 옳다. 정답입니다.",
+    "큐는 배열로 구현할 수 있으므로 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2026-local-computer_general-D-q15",
+   "paperId": "paper_civil_computer_general_2026_local_D",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2026/local-D/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n버스 중재기가 각 버스 마스터의 요구를 주기적으로 검사해 사용 여부를 결정하는 방식은 폴링 방식이다. 하드웨어 방식과 소프트웨어 방식으로 나뉜다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "병렬 중재는 요청 신호를 동시에 처리하는 방식이다.",
+    "직렬 중재는 중재 신호를 순차적으로 전달하는 방식이다.",
+    "분산 중재는 중재 기능이 여러 장치에 분산된 방식이다.",
+    "주기적으로 요구를 검사하는 방식은 폴링이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-local-computer_general-D-q16",
+   "paperId": "paper_civil_computer_general_2026_local_D",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2026/local-D/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nFCFS에서 P1은 0~3, P2는 3~11, P3은 11~15, P4는 15~18에 실행된다. 반환시간은 각각 3, 9, 10, 10이고 평균은 (3＋9＋10＋10)/4＝8이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "6은 반환시간 평균이 아니다.",
+    "평균 반환시간은 8이다. 정답입니다.",
+    "10은 P3·P4의 반환시간으로, 평균이 아니다.",
+    "12는 반환시간 합계를 잘못 계산한 값이다."
+   ]
+  },
+  {
+   "id": "civil2026-local-computer_general-D-q17",
+   "paperId": "paper_civil_computer_general_2026_local_D",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2026/local-D/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nLSTM은 순환 신경망(RNN)의 한 종류로 장기 의존성 문제를 해결하는 구조이지 합성곱 신경망이 아니다. 나머지 설명은 딥러닝의 특징과 맞다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "딥러닝이 은닉층 2개 이상을 가질 수 있고 음성·자연어 처리에 활용된다는 설명은 옳다.",
+    "합성곱 계층이 이미지 특징을 추출한다는 설명은 옳다.",
+    "LSTM을 합성곱 신경망이라고 한 설명은 옳지 않다. 정답입니다.",
+    "순환 신경망이 시간적 연속성이 있는 데이터를 처리한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-local-computer_general-D-q18",
+   "paperId": "paper_civil_computer_general_2026_local_D",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2026/local-D/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n매개변수가 double이므로 3/2는 1.5로 출력되고, 2/0은 실수 나눗셈이라 예외 없이 Infinity가 출력된다. catch 블록은 실행되지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "1은 정수 나눗셈일 때의 결과이다.",
+    "1.5와 Infinity가 차례로 출력된다. 정답입니다.",
+    "divide by zero는 정수를 0으로 나눌 때 발생하는 예외 메시지이다.",
+    "두 번째 줄이 Infinity가 아니므로 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2026-local-computer_general-D-q19",
+   "paperId": "paper_civil_computer_general_2026_local_D",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2026/local-D/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n스레드는 사용자 스레드와 커널 스레드로 나뉜다(ㄱ). 일대일 모델은 병렬 수행을 허용하고, 다대일 모델은 한 스레드가 대기하면 전체가 멈추므로 ㄴ·ㄷ은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "스레드가 사용자 스레드와 커널 스레드로 나뉜다는 설명(ㄱ)은 옳다. 정답입니다.",
+    "일대일 모델은 병렬 수행을 허용하므로 ㄴ은 옳지 않다.",
+    "다대일 모델에서는 한 스레드의 대기로 전체가 멈추므로 ㄷ은 옳지 않다.",
+    "ㄴ과 ㄷ이 모두 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2026-local-computer_general-D-q20",
+   "paperId": "paper_civil_computer_general_2026_local_D",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2026/local-D/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n객체를 오직 하나만 생성하고 외부 접근을 통제하기 위해 생성자를 private으로 선언하는 패턴은 Singleton 패턴이다. Adapter는 인터페이스 변환, Composite는 트리 구조, Factory method는 생성 위임 패턴이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "Adapter 패턴은 호환되지 않는 인터페이스를 변환한다.",
+    "Composite 패턴은 개별 객체와 복합 객체를 동일하게 다룬다.",
+    "인스턴스를 하나만 유지하는 패턴은 Singleton 패턴이다. 정답입니다.",
+    "Factory method 패턴은 객체 생성을 하위 클래스에 위임한다."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_accounting_basics_2026_national_gah",
+ "title": "2026 국가직 9급 회계원리 가책형",
+ "year": 2026,
+ "source": "2026년도 국가공무원 9급 공개경쟁채용 필기시험 회계원리 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_17",
+ "questions": [
+  {
+   "id": "civil2026-national-accounting_basics-gah-q01",
+   "paperId": "paper_civil_accounting_basics_2026_national_gah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting_basics/2026/national-gah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n(가) 정보를 제때 이용가능하게 하는 것은 적시성, (나) 독립적인 관찰자들이 합의에 이를 수 있는 것은 검증가능성, (다) 항목 간 유사점과 차이점을 식별하게 하는 것은 비교가능성이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "(가) 비교가능성, (나) 검증가능성, (다) 적시성으로 본 조합은 (가)의 정의와 맞지 않는다.",
+    "(가) 검증가능성, (나) 적시성, (다) 비교가능성으로 본 조합은 (가)·(나)의 정의가 뒤바뀌었다.",
+    "(가) 적시성, (나) 비교가능성, (다) 검증가능성으로 본 조합은 (나)·(다)가 뒤바뀌었다.",
+    "(가) 적시성, (나) 검증가능성, (다) 비교가능성이 각 설명과 일치한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-accounting_basics-gah-q02",
+   "paperId": "paper_civil_accounting_basics_2026_national_gah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting_basics/2026/national-gah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기초 미지급급여에 당기 비용 150,000을 더하고 현금지급 200,000을 뺀 금액이 기말 미지급급여 120,000이므로, 기초 미지급급여는 120,000＋200,000－150,000＝170,000이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "130,000은 미지급급여 계산 방향을 잘못 적용한 값이다.",
+    "150,000은 당기 비용으로 인식한 급여일 뿐이다.",
+    "기초 미지급급여 170,000＋비용 150,000－지급 200,000＝120,000이므로 기초 미지급급여는 170,000이다. 정답입니다.",
+    "190,000은 현금지급액과 비용을 모두 더한 값이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-accounting_basics-gah-q03",
+   "paperId": "paper_civil_accounting_basics_2026_national_gah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting_basics/2026/national-gah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기초 자본은 30,000－10,000＝20,000, 기말 자본은 50,000－20,000＝30,000으로 10,000 증가하였다. 무상증자는 자본 내 이동이므로, 증가액 10,000은 당기순이익 12,000에서 현금배당을 뺀 금액이 되어 배당은 2,000이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "자본 증가 10,000＝순이익 12,000－현금배당 2,000이므로 배당은 2,000이다. 정답입니다.",
+    "8,000은 무상증자를 자본 변동으로 본 값이다.",
+    "10,000은 자본 증가액 자체로, 배당액이 아니다.",
+    "20,000은 기초·기말 자본을 잘못 계산한 값이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-accounting_basics-gah-q04",
+   "paperId": "paper_civil_accounting_basics_2026_national_gah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting_basics/2026/national-gah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n재고자산은 취득원가와 순실현가능가치 중 낮은 금액으로 측정한다. 순공정가치와 비교하는 것은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "생산에 사용될 원재료가 재고자산이라는 설명은 옳다.",
+    "재고자산을 취득원가와 순공정가치 중 낮은 금액으로 측정한다는 설명은 옳지 않다. 정답입니다.",
+    "위탁약정에 따라 수탁자 매장에 진열된 상품은 위탁자의 재고자산이라는 설명은 옳다.",
+    "판매원가는 취득원가에 포함하지 않고 발생기간의 비용으로 인식한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-accounting_basics-gah-q05",
+   "paperId": "paper_civil_accounting_basics_2026_national_gah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting_basics/2026/national-gah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n주식배당은 이익잉여금을 재원으로 자본금을 늘리고 신주를 발행하므로 발행주식수가 증가하고 자본금이 증가하며 이익잉여금이 감소한다. 무상감자는 자본금이 감소하고, 자기주식 소각은 자본금·자본잉여금이 감소한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "무상감자는 자본금이 감소하므로 세 가지 결과와 맞지 않는다.",
+    "주식배당은 발행주식수·자본금이 늘고 이익잉여금이 줄어 세 가지 결과를 모두 충족한다. 정답입니다.",
+    "자기주식 소각은 발행주식수를 줄이고 이익잉여금을 늘릴 수 있으므로 조건과 반대이다.",
+    "주식의 액면발행은 자본금만 늘고 이익잉여금은 감소하지 않는다."
+   ]
+  },
+  {
+   "id": "civil2026-national-accounting_basics-gah-q06",
+   "paperId": "paper_civil_accounting_basics_2026_national_gah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting_basics/2026/national-gah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n자기주식의 처분손익은 당기손익이 아니라 자본 항목(자기주식처분손익)으로 처리한다. 상각후원가 금융자산의 이자수익, 투자부동산 평가이익, 최초 재평가 시 재평가손실은 모두 당기손익에 영향을 준다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "자기주식 처분손익은 자본 항목으로 처리되어 당기손익에 영향을 주지 않는다. 정답입니다.",
+    "상각후원가 금융자산의 이자수익은 당기손익에 포함된다.",
+    "공정가치모형 투자부동산의 평가이익은 당기손익이다.",
+    "최초 재평가 시 발생한 재평가손실은 당기손익으로 인식한다."
+   ]
+  },
+  {
+   "id": "civil2026-national-accounting_basics-gah-q07",
+   "paperId": "paper_civil_accounting_basics_2026_national_gah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting_basics/2026/national-gah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n매출원가 550,000은 기초재고 300,000＋당기매입 500,000－기말재고－평가손실 10,000－정상감모 20,000으로 구성된다. 따라서 기말재고는 300,000＋500,000－30,000－550,000＝220,000이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "170,000은 비정상감모까지 매출원가에서 차감한 값이다.",
+    "200,000은 평가손실을 반영하지 않은 값이다.",
+    "기초 300,000＋매입 500,000－평가손실 10,000－정상감모 20,000－매출원가 550,000＝220,000이 기말재고이다. 정답입니다.",
+    "250,000은 감모손실을 반영하지 않은 값이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-accounting_basics-gah-q08",
+   "paperId": "paper_civil_accounting_basics_2026_national_gah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting_basics/2026/national-gah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n성격별 분류법은 비용을 감가상각비, 종업원급여, 원재료비 등 성격에 따라 분류하는 방법이고, 매출원가·물류원가·관리활동원가처럼 기능별로 분류하는 것은 기능별 분류법이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "전체 재무제표를 적어도 1년마다 작성한다는 설명은 옳다.",
+    "기준에서 요구·허용하지 않는 한 상계하지 않는다는 설명은 옳다.",
+    "유동·비유동 구분법을 적용할 때 유동자산·부채와 비유동자산·부채로 구분 표시한다는 설명은 옳다.",
+    "성격별 분류법을 매출원가·물류원가·관리활동원가로 분류하는 방법이라고 한 설명은 기능별 분류법과 혼동한 것으로 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-accounting_basics-gah-q09",
+   "paperId": "paper_civil_accounting_basics_2026_national_gah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting_basics/2026/national-gah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n소모품비 계정은 차변 10,000과 대변 8,000으로 잔액 2,000이 남아 있고, 마감분개로 이 비용을 이익잉여금에 대체하므로 이익잉여금이 2,000 감소한다. 매출채권은 자산 계정으로 마감분개가 필요 없다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "매출채권 계정에 차기이월 14,000을 기록한다는 설명은 자산 계정의 마감 방법으로 옳지 않다.",
+    "매출채권은 자산 계정이므로 손익 마감분개가 필요 없다는 설명은 옳다.",
+    "소모품비는 비용 계정이므로 마감분개가 필요하다는 설명은 옳다.",
+    "소모품비 잔액 2,000을 마감하면 이익잉여금이 2,000 감소하므로, 증가한다는 이 설명이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-accounting_basics-gah-q10",
+   "paperId": "paper_civil_accounting_basics_2026_national_gah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting_basics/2026/national-gah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n미처분이익잉여금이 500,000에서 900,000으로 늘어 당기순이익은 400,000이고, 기타포괄손익누계액이 400,000에서 300,000으로 줄어 기타포괄손실 100,000이 발생하였다. 따라서 당기포괄손익은 400,000－100,000＝300,000 이익이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "당기포괄손익을 손실로 본 것은 기타포괄손익 변동을 잘못 적용한 값이다.",
+    "당기순이익 400,000과 기타포괄손실 100,000을 합산하면 당기포괄이익 300,000이다. 정답입니다.",
+    "당기순손실로 본 것은 이익잉여금 변동 방향과 반대이다.",
+    "당기순손실 400,000은 이익잉여금 증가와 맞지 않는다."
+   ]
+  },
+  {
+   "id": "civil2026-national-accounting_basics-gah-q11",
+   "paperId": "paper_civil_accounting_basics_2026_national_gah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting_basics/2026/national-gah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n20×1년 감가상각비 100,000을 반영한 장부금액 300,000과 회수가능액 200,000의 차이 100,000을 손상차손으로 인식해 장부금액이 200,000이 된다. 20×2년에는 9개월분 감가상각비 50,000이 비용으로 발생하고, 처분가액 200,000과 장부금액 150,000의 차이 50,000이 처분이익으로 인식되어 서로 상계되므로 당기순이익에 미치는 영향은 0이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "감가상각비 50,000과 처분이익 50,000이 상계되어 20×2년 당기순이익에 미치는 영향은 없다. 정답입니다.",
+    "50,000 증가는 감가상각비를 반영하지 않은 값이다.",
+    "50,000 감소는 처분이익을 반영하지 않은 값이다.",
+    "100,000 감소는 손상차손을 20×2년에 인식한 것으로 계산한 값이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-accounting_basics-gah-q12",
+   "paperId": "paper_civil_accounting_basics_2026_national_gah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting_basics/2026/national-gah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n회계정책의 변경과 회계추정치 변경을 구분하기 어려운 경우에는 회계추정치 변경으로 본다. 측정기준의 변경은 회계정책 변경, 감가상각 미래효익 소비형태의 변경은 추정치 변경이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "측정기준의 변경이 회계정책 변경이라는 설명은 옳다.",
+    "감가상각자산의 미래경제적효익 예상소비 형태 변경이 추정치 변경이라는 설명은 옳다.",
+    "과거에 발생하지 않았던 거래에 새 회계정책을 적용하는 것은 정책 변경이 아니라는 설명은 옳다.",
+    "구분이 어려운 경우 회계정책의 변경으로 본다고 한 설명은 반대여서 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-accounting_basics-gah-q13",
+   "paperId": "paper_civil_accounting_basics_2026_national_gah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting_basics/2026/national-gah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n공급자에 대한 현금유출 150,000에 기말 매입채무 10,000을 더하고 기초 매입채무 6,000을 빼며, 선급금 증가 8,000을 빼면 매입액은 146,000이다. 매출원가는 기초재고 15,000＋매입 146,000－기말재고 21,000＝140,000이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "134,000은 선급금 변동을 반영하지 않은 값이다.",
+    "매입 146,000과 재고 변동을 반영한 140,000이 당기 매출원가이다. 정답입니다.",
+    "152,000은 매입채무 변동을 반대로 적용한 값이다.",
+    "168,000은 현금유출액을 그대로 매입액으로 본 값이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-accounting_basics-gah-q14",
+   "paperId": "paper_civil_accounting_basics_2026_national_gah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting_basics/2026/national-gah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n매입 시 거래수수료 5,000은 당기손익－공정가치 측정 금융자산의 취득원가에 포함하지 않고 비용으로 인식한다. 매도 50주에서 50,000의 처분이익, 결산 시 잔여 50주의 평가이익 100,000이 발생하므로 순효과는 －5,000＋50,000＋100,000＝145,000 증가이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "45,000은 거래수수료를 취득원가에 포함한 값이다.",
+    "50,000은 처분이익만 반영한 값이다.",
+    "수수료 5,000 비용, 처분이익 50,000, 평가이익 100,000을 합산하면 145,000 증가이다. 정답입니다.",
+    "150,000은 수수료 비용을 반영하지 않은 값이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-accounting_basics-gah-q15",
+   "paperId": "paper_civil_accounting_basics_2026_national_gah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/accounting_basics/2026/national-gah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n석유사업 운영으로 오염을 유발하고 정화하겠다는 환경 방침을 널리 발표해 준수해 온 경우에는 의제의무가 발생하여 충당부채를 인식한다. 항공기 정비나 용광로 내벽 교체는 아직 과거 사건에 따른 현재의무가 발생하지 않았다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "항공기 정밀정비(ㄱ)는 취득 후 3년마다 해야 하는 장래 정비로, 아직 현재의무가 발생하지 않았다.",
+    "환경 방침을 발표하고 준수해 온 석유사업의 오염 정화 의무(ㄷ)는 의제의무로서 충당부채로 인식한다. 정답입니다.",
+    "ㄱ과 ㄴ은 모두 아직 현재의무가 발생하지 않아 충당부채 인식 대상이 아니다.",
+    "ㄱ은 현재의무가 없어 포함할 수 없다."
+   ]
+  },
+  {
+   "id": "civil2026-national-accounting_basics-gah-q16",
+   "paperId": "paper_civil_accounting_basics_2026_national_gah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting_basics/2026/national-gah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n시산표의 자기검증기능은 차변과 대변 합계가 일치하는지를 확인하는 것으로, 금액은 맞지만 계정을 잘못 선택한 오류는 발견하지 못한다. 매입채무 상환을 미지급금 차변에 기록한 경우가 이에 해당한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "매입채무를 상환하면서 미지급금 계정을 사용한 경우는 금액이 일치해 시산표로 발견되지 않는다. 정답입니다.",
+    "차변·대변에 같은 계정을 사용한 경우는 대차 불일치가 생겨 발견된다.",
+    "금액을 다르게 기입한 경우는 대차 합계가 맞지 않아 발견된다.",
+    "비품 취득을 비품계정 대변에 기록한 경우도 대차 불일치로 발견된다."
+   ]
+  },
+  {
+   "id": "civil2026-national-accounting_basics-gah-q17",
+   "paperId": "paper_civil_accounting_basics_2026_national_gah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/accounting_basics/2026/national-gah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n20×1년 말 장부금액 970,000은 액면 1,000,000보다 작으므로 할인발행되었고 유효이자율이 표시이자율보다 크다. 남은 2년간 표시이자 100,000과 잔여 할인차금 30,000을 합한 130,000이 20×2년부터 만기까지 인식할 총이자비용이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "장부금액이 액면보다 작으므로 유효이자율은 표시이자율보다 크다.",
+    "할인발행이므로 발행금액은 20×1년 말 장부금액보다 작다.",
+    "20×1년 이자비용은 표시이자 50,000에 할인차금 상각액을 더한 금액이므로 50,000보다 크다.",
+    "남은 2년간 총이자비용은 표시이자 100,000과 잔여 할인차금 30,000을 합한 130,000이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-accounting_basics-gah-q18",
+   "paperId": "paper_civil_accounting_basics_2026_national_gah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting_basics/2026/national-gah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n50주를 주당 12,000에 발행하면 자본금 500,000과 주식발행초과금 100,000이 생기고, 직접원가 10,000을 차감하면 90,000이 된다. 여기에 기존 주식할인발행차금 40,000을 상계하면 주식발행초과금은 50,000이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "10,000은 직접원가 금액이다.",
+    "40,000은 기존 주식할인발행차금이다.",
+    "초과금 100,000－직접원가 10,000－할인발행차금 40,000＝50,000이다. 정답입니다.",
+    "90,000은 할인발행차금 상계 전 금액이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-accounting_basics-gah-q19",
+   "paperId": "paper_civil_accounting_basics_2026_national_gah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/accounting_basics/2026/national-gah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n연수합계법에서 3년간 상각률 합계는 9/10이므로 장부금액은 1,000,000－(1,000,000－잔존가치)×0.9이다. 처분가액 200,000에서 처분이익 10,000을 뺀 장부금액 190,000을 대입하면 0.9×잔존가치＝90,000이 되어 잔존가치는 100,000이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "잔존가치 0이면 장부금액이 100,000이 되어 처분이익이 100,000이 된다.",
+    "잔존가치 50,000이면 장부금액이 145,000이 되어 처분이익이 55,000이 된다.",
+    "잔존가치 100,000이면 장부금액 190,000, 처분이익 10,000이 되어 조건과 일치한다. 정답입니다.",
+    "잔존가치 200,000이면 장부금액이 280,000이 되어 처분손실이 발생한다."
+   ]
+  },
+  {
+   "id": "civil2026-national-accounting_basics-gah-q20",
+   "paperId": "paper_civil_accounting_basics_2026_national_gah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/accounting_basics/2026/national-gah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n연구단계에서 발생한 지출은 무형자산으로 인식하지 않고 발생시점에 비용으로 인식한다. 개발단계 지출이 요건을 충족할 때 무형자산으로 인식한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "연구단계 지출을 무형자산으로 인식한다고 한 설명은 옳지 않다. 정답입니다.",
+    "최초에 비용으로 인식한 무형항목 지출은 이후 자산으로 인식할 수 없다는 설명은 옳다.",
+    "재평가모형을 적용한 무형자산의 공정가치는 활성시장을 기초로 측정한다는 설명은 옳다.",
+    "내용연수가 비한정인 무형자산은 상각하지 않는다는 설명은 옳다."
+   ]
+  }
+ ]
+}

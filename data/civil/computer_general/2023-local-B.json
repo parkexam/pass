@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_computer_general_2023_local_B",
+ "title": "2023 지방직 9급 컴퓨터일반 B책형",
+ "year": 2023,
+ "source": "2023년도 지방공무원 9급 공개경쟁임용 필기시험 컴퓨터일반 B책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_18",
+ "questions": [
+  {
+   "id": "civil2023-local-computer_general-B-q01",
+   "paperId": "paper_civil_computer_general_2023_local_B",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2023/local-B/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n유니코드는 전 세계 문자를 표현하기 위해 2바이트 이상을 사용하므로 문자 한 개에 필요한 비트 수가 가장 많다. ASCII는 7비트(확장 8비트), BCD는 4비트, EBCDIC은 8비트를 사용한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "ASCII는 7비트로 문자를 표현한다.",
+    "BCD는 4비트로 10진수 한 자리를 표현한다.",
+    "EBCDIC은 8비트 코드 체계이다.",
+    "유니코드는 다국어 문자를 표현하기 위해 2바이트 이상을 사용해 가장 많은 비트를 필요로 한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-computer_general-B-q02",
+   "paperId": "paper_civil_computer_general_2023_local_B",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2023/local-B/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n전체 50초 중 A에 30초가 걸렸으므로 나머지 부분은 20초이다. A의 속도를 2배로 높이면 15초가 되어 전체 실행시간은 20＋15＝35초가 된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "25초는 A 외 부분의 시간을 10초로 계산한 값이다.",
+    "30초는 개선 전 A의 실행시간과 같다.",
+    "A를 15초로 줄이면 나머지 20초와 합해 35초가 된다. 정답입니다.",
+    "40초는 A의 속도 향상을 절반만 반영한 값이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-computer_general-B-q03",
+   "paperId": "paper_civil_computer_general_2023_local_B",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2023/local-B/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n흡수법칙에 따라 Xㆍ(X＋Y)＝X이다. XㆍX＋Y로 전개한 등식은 성립하지 않는다. 분배법칙, 결합법칙, 드모르간의 법칙에 해당하는 나머지 등식은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "X＋(YㆍZ)＝(X＋Y)ㆍ(X＋Z)는 분배법칙으로 성립한다.",
+    "Xㆍ(X＋Y)는 흡수법칙에 따라 X이므로, XㆍX＋Y로 전개한 이 등식이 옳지 않다. 정답입니다.",
+    "(X＋Y)＋Z＝X＋(Y＋Z)는 결합법칙으로 성립한다.",
+    "(X＋Y)′＝X′ㆍY′는 드모르간의 법칙으로 성립한다."
+   ]
+  },
+  {
+   "id": "civil2023-local-computer_general-B-q04",
+   "paperId": "paper_civil_computer_general_2023_local_B",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2023/local-B/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nIP는 네트워크 계층에서 동작하는 비연결형 프로토콜로, 데이터그램의 도달을 보장하지 않는다. IPv4 주소는 32비트이다. 전송 계층에서 사용된다는 설명은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "IP가 전송 계층에서 사용된다는 설명은 옳지 않다. 정답입니다.",
+    "IP가 비연결형 프로토콜이라는 설명은 옳다.",
+    "IPv4 주소가 32비트라는 설명은 옳다.",
+    "IP가 데이터그램 도달을 보장하지 않는다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2023-local-computer_general-B-q05",
+   "paperId": "paper_civil_computer_general_2023_local_B",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2023/local-B/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n캐시가 8KB이고 라인 수가 256개이므로 라인 크기는 32바이트로 오프셋은 5비트이다. 4-way 집합 연관에서 세트 수는 256÷4＝64이므로 세트 필드는 6비트이고, 32비트 주소에서 나머지 태그는 21비트이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "20, 6, 6은 태그·세트·오프셋 비트 수 합이 32가 되지 않는다.",
+    "20, 7, 5도 세트 수 계산이 잘못되었다.",
+    "21, 5, 6은 세트와 오프셋의 비트 수가 뒤바뀌었다.",
+    "태그 21비트, 세트 6비트, 오프셋 5비트가 계산 결과와 맞다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-computer_general-B-q06",
+   "paperId": "paper_civil_computer_general_2023_local_B",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2023/local-B/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n2의 보수에서 최저 음수는 －2^(n－1)이다. －(2^(n－1)－1)은 1의 보수(부호－크기) 방식의 최저 음수이다. 0의 표현이 하나이고 2의 보수를 1의 보수에 1을 더해 구한다는 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "최저 음수를 －(2^(n－1)－1)로 적은 것은 2의 보수 방식과 맞지 않는다. 정답입니다.",
+    "2의 보수에서 0의 표현은 한 가지라는 설명은 옳다.",
+    "A의 2의 보수가 2^n－A라는 설명은 옳다.",
+    "1의 보수에 1을 더해 2의 보수를 구한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2023-local-computer_general-B-q07",
+   "paperId": "paper_civil_computer_general_2023_local_B",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2023/local-B/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n정수부 45는 101101, 소수부 0.1875는 0.0011이므로 45.1875는 101101.0011로 표현된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "101100.0011은 정수부가 44에 해당한다.",
+    "101100.0101은 정수부와 소수부가 모두 다르다.",
+    "정수부 101101과 소수부 0011을 붙인 101101.0011이 옳다. 정답입니다.",
+    "101101.0101은 소수부 계산이 잘못되었다."
+   ]
+  },
+  {
+   "id": "civil2023-local-computer_general-B-q08",
+   "paperId": "paper_civil_computer_general_2023_local_B",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2023/local-B/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nLRU는 가장 오랫동안 참조되지 않은 페이지를 교체하는 알고리즘으로, 시간 지역성을 반영한다. 최적은 장래 참조를 알아야 해 실제 구현이 어렵고, FIFO는 도착 순서, LFU는 참조 횟수를 기준으로 한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "최적 교체는 장래의 참조를 미리 알아야 해 실제 시스템에서 구현할 수 없다.",
+    "FIFO는 가장 먼저 적재된 페이지를 교체한다.",
+    "가장 오랫동안 사용되지 않은 페이지를 교체하는 알고리즘은 LRU이다. 정답입니다.",
+    "LFU는 참조 횟수가 가장 적은 페이지를 교체한다."
+   ]
+  },
+  {
+   "id": "civil2023-local-computer_general-B-q09",
+   "paperId": "paper_civil_computer_general_2023_local_B",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2023/local-B/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nRFID의 수동형 태그는 자체 배터리 없이 리더기의 전파로부터 에너지를 얻어 동작한다. 배터리를 사용해 무선 신호를 발생시키는 것은 능동형 태그이다. 나머지 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "기계학습에 지도·비지도·강화 학습이 있다는 설명은 옳다.",
+    "가상현실이 가상 공간을 실제처럼 체험하게 한다는 설명은 옳다.",
+    "수동형 태그가 내장 배터리로 무선 신호를 발생시킨다는 설명은 반대여서 옳지 않다. 정답입니다.",
+    "지그비가 저비용·저전력 무선 네트워크 기술이라는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2023-local-computer_general-B-q10",
+   "paperId": "paper_civil_computer_general_2023_local_B",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2023/local-B/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n페이지 크기 2,048바이트는 2^11이므로 페이지 오프셋은 11비트이고, 32비트 가상 주소에서 나머지 가상 페이지 번호는 21비트이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "11, 21은 오프셋과 페이지 번호가 뒤바뀐 값이다.",
+    "13, 19는 페이지 크기를 잘못 적용한 값이다.",
+    "19, 13도 페이지 크기 계산이 맞지 않는다.",
+    "가상 페이지 번호 21비트, 페이지 오프셋 11비트가 맞다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-computer_general-B-q11",
+   "paperId": "paper_civil_computer_general_2023_local_B",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2023/local-B/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n트리의 차수는 각 노드의 최대 자식 수로, 이 트리에서는 2이다. 따라서 트리의 차수가 4라는 설명은 옳지 않다. A의 차수가 2이고, D가 F의 형제이며 C가 G의 부모라는 설명은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "A 노드의 차수가 2라는 설명은 옳다.",
+    "트리의 차수는 2이므로, 4라는 이 설명이 옳지 않다. 정답입니다.",
+    "D가 F의 형제라는 설명은 옳다.",
+    "C가 G의 부모라는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2023-local-computer_general-B-q12",
+   "paperId": "paper_civil_computer_general_2023_local_B",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2023/local-B/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n순차 다이어그램은 객체들 사이의 메시지 교환을 시간 순서에 따라 표현하는 다이어그램이다. 클래스 다이어그램은 정적 구조, 배치 다이어그램은 물리적 배치, 컴포넌트 다이어그램은 컴포넌트 구성을 표현한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "클래스 다이어그램은 클래스의 정적 구조와 관계를 표현한다.",
+    "메시지 교환을 시간 흐름에 따라 표현하는 것은 순차 다이어그램이다. 정답입니다.",
+    "배치 다이어그램은 하드웨어와 소프트웨어의 물리적 배치를 나타낸다.",
+    "컴포넌트 다이어그램은 컴포넌트와 인터페이스 구조를 표현한다."
+   ]
+  },
+  {
+   "id": "civil2023-local-computer_general-B-q13",
+   "paperId": "paper_civil_computer_general_2023_local_B",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2023/local-B/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n리틀 엔디안은 하위 바이트를 낮은 주소에 저장하므로, 4바이트 정수 0x10111213은 메모리에 13 12 11 10 순으로 저장된다. 바이트 단위로 읽어 출력하면 17161514 형태가 된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "10111213은 빅 엔디안 방식으로 읽은 값이다.",
+    "13121110은 바이트 순서를 섞은 값이다.",
+    "14151617은 저장 순서와 맞지 않는다.",
+    "리틀 엔디안으로 저장된 값을 순서대로 읽으면 17161514가 출력된다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-computer_general-B-q14",
+   "paperId": "paper_civil_computer_general_2023_local_B",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2023/local-B/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n산술 우측 시프트는 부호 비트를 유지하면서 비트를 오른쪽으로 이동한다. 10110101을 2비트 시프트하면 11101101이 된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "00101101은 논리 우측 시프트 결과에 해당한다.",
+    "11010100은 1비트 시프트한 값이다.",
+    "11010111은 시프트 방식이 다르다.",
+    "부호를 유지한 채 2비트 산술 우측 시프트하면 11101101이 된다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-computer_general-B-q15",
+   "paperId": "paper_civil_computer_general_2023_local_B",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2023/local-B/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n1부터 10까지 중 홀수이면서 5의 배수가 아닌 수는 1, 3, 7, 9이고 합은 20이다. 5는 5의 배수라 제외되고 짝수도 제외된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "15는 5를 포함해 계산한 값이다.",
+    "1＋3＋7＋9＝20이 출력된다. 정답입니다.",
+    "25는 조건을 잘못 적용한 값이다.",
+    "55는 1부터 10까지의 합이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-computer_general-B-q16",
+   "paperId": "paper_civil_computer_general_2023_local_B",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2023/local-B/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nHTTP, SMTP, DNS는 응용 계층 프로토콜이고, ICMP는 인터넷(네트워크) 계층 프로토콜이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "HTTP는 응용 계층 프로토콜이다.",
+    "SMTP는 응용 계층의 메일 전송 프로토콜이다.",
+    "DNS는 응용 계층에서 이름 해석을 담당한다.",
+    "ICMP는 네트워크 계층 프로토콜로 나머지 셋과 계층이 다르다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-computer_general-B-q17",
+   "paperId": "paper_civil_computer_general_2023_local_B",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2023/local-B/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n데이터 제어어(DCL)는 보안·무결성·회복을 지원하는 언어로, 검색·삽입·삭제·수정을 요구하는 것은 데이터 조작어(DML)이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "검색·삽입·삭제·수정을 요구하는 언어는 DML이므로, DCL이라고 한 이 설명이 옳지 않다. 정답입니다.",
+    "DCL이 보안·무결성·회복을 지원한다는 설명은 옳다.",
+    "절차적 DML이 접근 방법을 명시해야 한다는 설명은 옳다.",
+    "DDL이 스키마 생성·변경·삭제에 쓰인다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2023-local-computer_general-B-q18",
+   "paperId": "paper_civil_computer_general_2023_local_B",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2023/local-B/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nTCP는 전송 계층에서 흐름 제어와 혼잡 제어를 수행하는 연결지향형 프로토콜이다. 네트워크 계층에서 동작한다거나 IP 주소로 데이터그램을 전송한다는 것은 IP의 역할이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "TCP가 네트워크 계층에서 사용된다는 설명(ㄱ)은 옳지 않다.",
+    "ㄱ이 옳지 않으므로 이 조합도 옳지 않다.",
+    "흐름·혼잡 제어(ㄴ)와 연결지향형(ㄷ)이라는 설명이 모두 옳다. 정답입니다.",
+    "IP 주소로 데이터그램을 전송하는 것은 IP의 역할이므로 ㄹ은 TCP 설명이 아니다."
+   ]
+  },
+  {
+   "id": "civil2023-local-computer_general-B-q19",
+   "paperId": "paper_civil_computer_general_2023_local_B",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2023/local-B/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nSRT는 남은 실행시간이 가장 짧은 프로세스를 먼저 처리한다. P1이 0~5초 실행된 뒤 P2(10초)가 5~15초 실행되고, 이후 P4(10초), P3(15초), P1(남은 25초) 순으로 처리된다. 대기시간은 P1 35, P2 0, P3 15, P4 0으로 합계 50이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "40은 P1의 대기시간을 잘못 계산한 값이다.",
+    "45는 P3의 대기시간을 잘못 계산한 값이다.",
+    "P1 35＋P2 0＋P3 15＋P4 0＝50이 대기시간 총합이다. 정답입니다.",
+    "55는 처리 순서를 다르게 적용한 값이다."
+   ]
+  },
+  {
+   "id": "civil2023-local-computer_general-B-q20",
+   "paperId": "paper_civil_computer_general_2023_local_B",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2023/local-B/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n이진 탐색 트리에 오름차순으로 1, 2, 3, 4, 5를 삽입하면 한쪽으로만 이어지는 사슬 형태가 되어 높이가 5로 가장 높아진다. 나머지 순서는 균형에 가까운 트리를 만든다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "1, 2, 3, 4, 5를 차례로 삽입하면 한쪽으로 치우친 트리가 되어 높이가 가장 높다. 정답입니다.",
+    "1, 4, 2, 5, 3 순서는 가지가 나뉘어 높이가 낮아진다.",
+    "3, 1, 4, 2, 5는 균형에 가까운 트리가 된다.",
+    "5, 3, 4, 1, 2도 양쪽으로 분기되어 높이가 낮아진다."
+   ]
+  }
+ ]
+}

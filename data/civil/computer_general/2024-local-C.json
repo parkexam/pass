@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_computer_general_2024_local_C",
+ "title": "2024 지방직 9급 컴퓨터일반 C책형",
+ "year": 2024,
+ "source": "2024년도 지방공무원 9급 공개경쟁임용 필기시험 컴퓨터일반 C책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_18",
+ "questions": [
+  {
+   "id": "civil2024-local-computer_general-C-q01",
+   "paperId": "paper_civil_computer_general_2024_local_C",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2024/local-C/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nWAV는 음성(오디오) 파일 형식이다. BMP, TIFF, JPEG는 모두 이미지 파일 형식이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "WAV는 파형 오디오 파일 형식으로 이미지 형식이 아니다. 정답입니다.",
+    "BMP는 비트맵 이미지 파일 형식이다.",
+    "TIFF는 이미지 파일 형식이다.",
+    "JPEG는 대표적인 이미지 압축 파일 형식이다."
+   ]
+  },
+  {
+   "id": "civil2024-local-computer_general-C-q02",
+   "paperId": "paper_civil_computer_general_2024_local_C",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2024/local-C/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nDDL은 스키마를 정의·변경·삭제하는 언어로 CREATE, ALTER, DROP이 이에 해당한다. SELECT는 데이터를 조회하는 DML이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "ALTER는 테이블 구조를 변경하는 DDL이다.",
+    "DROP은 객체를 삭제하는 DDL이다.",
+    "SELECT는 데이터를 검색하는 DML이므로 DDL이 아니다. 정답입니다.",
+    "CREATE는 객체를 생성하는 DDL이다."
+   ]
+  },
+  {
+   "id": "civil2024-local-computer_general-C-q03",
+   "paperId": "paper_civil_computer_general_2024_local_C",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2024/local-C/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n8진수 543은 10진수 355이고, 여기에 124를 더하면 479이다. 479를 8진수로 바꾸면 737이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "626은 합이 406에 해당한다.",
+    "637은 합이 415에 해당한다.",
+    "726은 합이 470에 해당한다.",
+    "543(8)＝355, 355＋124＝479＝737(8)이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-local-computer_general-C-q04",
+   "paperId": "paper_civil_computer_general_2024_local_C",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2024/local-C/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n데이터 링크 계층의 프로토콜 데이터 단위는 프레임이다. 물리 계층은 비트, 네트워크 계층은 패킷, 전송 계층은 세그먼트를 사용한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "비트는 물리 계층의 전송 단위이다.",
+    "패킷은 네트워크 계층의 전송 단위이다.",
+    "데이터 링크 계층의 PDU는 프레임이다. 정답입니다.",
+    "세그먼트는 전송 계층의 전송 단위이다."
+   ]
+  },
+  {
+   "id": "civil2024-local-computer_general-C-q05",
+   "paperId": "paper_civil_computer_general_2024_local_C",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2024/local-C/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nFTP는 파일 전송 프로토콜로 이메일 송수신과 관련이 없다. SMTP는 메일 전송, POP3와 IMAP은 메일 수신에 사용된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "POP3는 메일 수신 프로토콜이다.",
+    "SMTP는 메일 송신 프로토콜이다.",
+    "FTP는 파일 전송 프로토콜이므로 이메일 프로토콜이 아니다. 정답입니다.",
+    "IMAP은 메일 수신 프로토콜이다."
+   ]
+  },
+  {
+   "id": "civil2024-local-computer_general-C-q06",
+   "paperId": "paper_civil_computer_general_2024_local_C",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2024/local-C/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nUML 2.0에서 클래스 다이어그램과 컴포넌트 다이어그램은 구조 다이어그램이다. 활동 다이어그램과 시퀀스 다이어그램은 행위 다이어그램이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "활동 다이어그램(ㄱ)은 행위 다이어그램이다.",
+    "활동(ㄱ)과 시퀀스(ㄹ)는 모두 행위 다이어그램이다.",
+    "클래스 다이어그램(ㄴ)과 컴포넌트 다이어그램(ㄷ)은 구조 다이어그램이다. 정답입니다.",
+    "시퀀스 다이어그램(ㄹ)은 행위 다이어그램이다."
+   ]
+  },
+  {
+   "id": "civil2024-local-computer_general-C-q07",
+   "paperId": "paper_civil_computer_general_2024_local_C",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2024/local-C/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n동등 분할은 입력을 동등한 부류로 나누어 대표값을 시험하는 블랙박스 테스트 기법이다. 조건·문장 커버리지와 기본 경로 테스트는 내부 구조를 보는 화이트박스 기법이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "조건 커버리지는 화이트박스 테스트 기법이다.",
+    "기본 경로 테스트도 화이트박스 기법이다.",
+    "문장 커버리지도 화이트박스 기법이다.",
+    "동등 분할은 명세를 바탕으로 입력을 나누는 블랙박스 테스트 기법이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-local-computer_general-C-q08",
+   "paperId": "paper_civil_computer_general_2024_local_C",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2024/local-C/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n일괄 처리 시스템은 일정량 또는 일정 기간의 작업을 모아 두었다가 한꺼번에 처리하는 방식이다. 즉시 처리는 실시간, 네트워크 분산은 분산 처리, 순환 할당은 시분할 방식이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "사용자 작업을 즉시 처리하는 것은 실시간 처리 시스템이다.",
+    "일정량·일정 기간 작업을 모아 한꺼번에 처리하는 것이 일괄 처리 시스템이다. 정답입니다.",
+    "네트워크로 분산 처리하는 것은 분산 시스템이다.",
+    "CPU 시간을 골고루 할당해 순환 처리하는 것은 시분할 시스템이다."
+   ]
+  },
+  {
+   "id": "civil2024-local-computer_general-C-q09",
+   "paperId": "paper_civil_computer_general_2024_local_C",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2024/local-C/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n선형 큐에서 원소를 제거하면 front가 뒤로 이동한다. 두 개를 제거하면 front가 두 칸 이동해 남은 원소들이 앞에서부터 유효 원소로 표시된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "front 이동 방향이 반대인 상태이다.",
+    "두 원소를 제거한 뒤 front가 두 칸 이동한 상태가 큐의 남은 원소를 정확히 나타낸다. 정답입니다.",
+    "제거한 원소 수와 front 위치가 맞지 않는다.",
+    "제거 연산을 적용하지 않은 상태와 같다."
+   ]
+  },
+  {
+   "id": "civil2024-local-computer_general-C-q10",
+   "paperId": "paper_civil_computer_general_2024_local_C",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2024/local-C/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n운영체제의 목적은 신뢰도·처리량·사용 가능도 향상과 응답 시간 단축이다. 응답 시간이 증가하는 것은 목적이 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "신뢰도 향상은 운영체제의 목적이다.",
+    "처리량 향상도 운영체제의 목적이다.",
+    "응답 시간은 증가가 아니라 감소해야 하므로 이 설명이 옳지 않다. 정답입니다.",
+    "사용 가능도 향상도 운영체제의 목적이다."
+   ]
+  },
+  {
+   "id": "civil2024-local-computer_general-C-q11",
+   "paperId": "paper_civil_computer_general_2024_local_C",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2024/local-C/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n링 카운터는 플립플롭을 이용한 순차 논리회로로, 현재 출력이 이전 상태에 의존한다. 반가산기·멀티플렉서·디멀티플렉서는 현재 입력으로 출력이 결정되는 조합 논리회로이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "반가산기는 조합 논리회로에 해당한다.",
+    "링 카운터는 순차 논리회로로, 출력이 현재 입력만으로 결정되지 않는다. 정답입니다.",
+    "멀티플렉서는 조합 논리회로이다.",
+    "디멀티플렉서도 조합 논리회로이다."
+   ]
+  },
+  {
+   "id": "civil2024-local-computer_general-C-q12",
+   "paperId": "paper_civil_computer_general_2024_local_C",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2024/local-C/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n직접 사상 방식에서는 특정 주기억장치 블록이 하나의 정해진 캐시 블록에만 사상된다. 여러 캐시 블록으로 사상할 수 있는 것은 집합 연관 사상 등이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "캐시는 주로 SRAM으로 구현된다는 설명은 옳다.",
+    "주기억장치보다 용량이 작고 접근 속도가 빠르다는 설명은 옳다.",
+    "지역성의 원리를 이용한다는 설명은 옳다.",
+    "직접 사상에서 여러 캐시 블록으로 사상할 수 있다는 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-local-computer_general-C-q13",
+   "paperId": "paper_civil_computer_general_2024_local_C",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2024/local-C/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n1바이트는 8비트이고(ㄱ), 워드 크기는 시스템에 따라 달라질 수 있다(ㄷ). 1니블은 4비트이므로 2비트라는 설명(ㄴ)은 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "1바이트가 8비트라는 설명(ㄱ)은 옳다.",
+    "1니블이 2비트라는 설명(ㄴ)은 옳지 않다. 정답입니다.",
+    "워드 크기가 시스템에 따라 다를 수 있다는 설명(ㄷ)은 옳지만 ㄴ이 옳지 않다.",
+    "ㄴ이 옳지 않으므로 세 설명 모두 옳다는 답은 성립하지 않는다."
+   ]
+  },
+  {
+   "id": "civil2024-local-computer_general-C-q14",
+   "paperId": "paper_civil_computer_general_2024_local_C",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2024/local-C/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nrepeat(3, 6)은 b가 짝수라 repeat(6, 3)을 호출하고, b가 홀수이면 repeat(12, 1)＋6, 다시 repeat(24, 0)＋12＋6이 되어 24＋12＋6＝42를 반환한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "12는 재귀 호출의 누적을 반영하지 않은 값이다.",
+    "24는 마지막 a 값만 반환한 값이다.",
+    "30은 덧셈 항 하나를 누락한 값이다.",
+    "24＋12＋6＝42가 repeat(3, 6)의 반환값이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-local-computer_general-C-q15",
+   "paperId": "paper_civil_computer_general_2024_local_C",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2024/local-C/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nA 클래스 주소는 첫 옥텟 8비트가 네트워크 ID이고 나머지 24비트가 호스트 ID이다. B 클래스는 16비트, C 클래스는 8비트를 호스트 ID로 쓴다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "8비트는 C 클래스의 호스트 ID 비트 수이다.",
+    "16비트는 B 클래스의 호스트 ID 비트 수이다.",
+    "A 클래스는 네트워크 ID 8비트, 호스트 ID 24비트로 구성된다. 정답입니다.",
+    "32비트는 IPv4 주소 전체 길이이다."
+   ]
+  },
+  {
+   "id": "civil2024-local-computer_general-C-q16",
+   "paperId": "paper_civil_computer_general_2024_local_C",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/computer_general/2024/local-C/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n비트코인은 블록체인 기반 암호화폐이고(ㄱ), 퍼블릭·프라이빗 등 유형이 있으며(ㄴ), PoW·PoS 등 합의 알고리즘을 사용한다(ㄷ). 세 설명이 모두 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "ㄱ과 ㄴ은 옳지만 ㄷ을 포함해야 한다.",
+    "ㄱ과 ㄷ은 옳지만 ㄴ을 포함해야 한다.",
+    "ㄴ과 ㄷ은 옳지만 ㄱ을 포함해야 한다.",
+    "비트코인(ㄱ), 블록체인 유형(ㄴ), 합의 알고리즘(ㄷ)에 관한 설명이 모두 옳다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2024-local-computer_general-C-q17",
+   "paperId": "paper_civil_computer_general_2024_local_C",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/computer_general/2024/local-C/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n비선점 SJF에서 0초에는 P1만 도착해 P1이 먼저 실행된다. P1이 끝난 6초에 도착해 있는 P2·P3·P4 중 실행시간이 가장 짧은 P3(1초)가 두 번째로 실행된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "P1은 0초에 유일하게 도착한 프로세스로 첫 번째 실행된다.",
+    "P2는 실행시간이 4초로 P3보다 길다.",
+    "P1 종료 후 남은 프로세스 중 실행시간이 가장 짧은 P3가 두 번째로 실행된다. 정답입니다.",
+    "P4는 실행시간 2초로 P3 다음 순서가 된다."
+   ]
+  },
+  {
+   "id": "civil2024-local-computer_general-C-q18",
+   "paperId": "paper_civil_computer_general_2024_local_C",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2024/local-C/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n바깥 반복문이 n번 실행되고 안쪽 반복문이 항상 500번 실행되므로 전체 실행 횟수는 500n으로, n에 대해 선형인 Θ(n)이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "Θ(n)이 500n번 실행되는 코드의 시간복잡도이다. 정답입니다.",
+    "Θ(n²)은 안쪽 반복 횟수가 n에 비례할 때 성립한다.",
+    "Θ(log n)은 반복마다 범위가 절반으로 줄 때 성립한다.",
+    "Θ(n log n)은 n번 반복하며 log n 작업을 할 때 성립한다."
+   ]
+  },
+  {
+   "id": "civil2024-local-computer_general-C-q19",
+   "paperId": "paper_civil_computer_general_2024_local_C",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/computer_general/2024/local-C/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nTLB는 페이지 테이블의 일부 항목을 저장해 주소 변환을 빠르게 하는 캐시로 동작한다. TLB 미스는 페이지 부재와 다르고, 가상 주소를 물리 주소로 변환한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "TLB가 페이지 테이블의 캐시로 동작한다는 설명은 옳다. 정답입니다.",
+    "TLB는 프로세서마다 여러 개가 존재할 수 있다.",
+    "TLB 미스가 곧 페이지 부재는 아니다.",
+    "TLB는 가상 주소를 물리 주소로 변환하는 데 쓰인다."
+   ]
+  },
+  {
+   "id": "civil2024-local-computer_general-C-q20",
+   "paperId": "paper_civil_computer_general_2024_local_C",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/computer_general/2024/local-C/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nstudent_score의 원소가 문자열이라 정수와의 비교에서 예외가 발생하고, try-except가 매 반복마다 'F'를 추가한다. i는 증가하지 않아 0으로 남고, 출력은 첫 학생 A와 'F'인 A, F가 된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "A, D+는 비교가 정상 동작한다고 가정한 값이다.",
+    "비교에서 예외가 발생해 'F'가 추가되고 i가 0으로 남아 A, F가 출력된다. 정답입니다.",
+    "D, D+는 인덱스가 증가한다고 본 값이다.",
+    "D, F는 i가 3으로 증가한다고 본 값이다."
+   ]
+  }
+ ]
+}

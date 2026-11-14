@@ -1,0 +1,489 @@
+{
+ "id": "paper_civil_infosec_2026_national_gah",
+ "title": "2026 국가직 9급 정보보호론 가책형",
+ "year": 2026,
+ "source": "2026년도 국가공무원 9급 공개경쟁채용 필기시험 정보보호론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_civil_19",
+ "questions": [
+  {
+   "id": "civil2026-national-infosec-gah-q01",
+   "paperId": "paper_civil_infosec_2026_national_gah",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/infosec/2026/national-gah/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n일방향 해시 함수는 전자서명, 의사난수 생성, 무결성 검증(변경 검출)에 활용된다. 데이터를 원래대로 되돌릴 수 없으므로 암복호화에는 사용하지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "전자서명은 메시지 해시값을 이용하므로 해시 함수의 대표적 응용이다.",
+    "의사난수 생성에도 해시 함수가 활용된다.",
+    "해시 함수는 일방향이라 복호화가 불가능해 데이터 암복호화에 쓸 수 없다. 정답입니다.",
+    "소프트웨어 변경 검출은 해시값 비교로 수행한다."
+   ]
+  },
+  {
+   "id": "civil2026-national-infosec-gah-q02",
+   "paperId": "paper_civil_infosec_2026_national_gah",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/infosec/2026/national-gah/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nRSA에서 공개키로 암호화한 메시지를 개인키로 복호화하는 것은 기밀성 기능이다. 전자서명은 개인키로 서명하고 공개키로 검증하는 방식이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "RSA가 공개키 기반 암호 방식이라는 설명은 옳다.",
+    "개인키를 비밀로 유지한다는 설명은 옳다.",
+    "큰 수의 소인수분해가 어렵다는 특성을 이용한다는 설명은 옳다.",
+    "공개키로 암호화한 메시지가 전자서명 기능을 제공한다는 설명은 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-infosec-gah-q03",
+   "paperId": "paper_civil_infosec_2026_national_gah",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/infosec/2026/national-gah/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nGRANT는 데이터베이스 객체에 대한 사용 권한을 부여하는 DCL 명령어이다. ALTER는 구조 변경, INSERT는 데이터 삽입, COMMIT은 트랜잭션 확정이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "ALTER는 객체 구조 변경 명령이다.",
+    "GRANT가 객체 권한을 부여하는 명령어이다. 정답입니다.",
+    "INSERT는 데이터를 삽입하는 DML이다.",
+    "COMMIT은 트랜잭션을 확정하는 명령이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-infosec-gah-q04",
+   "paperId": "paper_civil_infosec_2026_national_gah",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/infosec/2026/national-gah/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nSSL 레코드 프로토콜은 응용 데이터를 단편화한 뒤 압축(옵션)하고 MAC을 추가해 암호화한 후 헤더를 붙여 전송한다. 이 순서가 단편화 → 압축 → MAC 추가 → 암호화 → 헤더 추가이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "압축이 단편화보다 앞선 순서는 실제 처리 순서와 다르다.",
+    "헤더 추가가 중간에 오는 순서도 옳지 않다.",
+    "단편화 → 압축(옵션) → MAC 추가 → 암호화 → 헤더 추가가 올바른 처리 순서이다. 정답입니다.",
+    "암호화 후 압축하는 순서는 실제 처리와 반대이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-infosec-gah-q05",
+   "paperId": "paper_civil_infosec_2026_national_gah",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/infosec/2026/national-gah/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nISO/IEC 27001은 조직의 정보보호 관리체계(ISMS)에 대한 국제 인증 규격이다. CC·ITSEC·TCSEC은 정보보호 제품 평가 기준이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "CC는 제품 보안 평가 기준이다.",
+    "ITSEC도 제품 평가 기준이다.",
+    "TCSEC은 미국의 제품 평가 기준이다.",
+    "정보보호 관리체계의 국제 인증 규격은 ISO/IEC 27001이다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-infosec-gah-q06",
+   "paperId": "paper_civil_infosec_2026_national_gah",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/infosec/2026/national-gah/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n세션 관리는 사용자와 시스템 또는 두 시스템 사이의 활성화된 접속을 설정·유지·종료하며 관리하는 활동이다. 권한·로그·취약점 관리는 다른 보안 관리 영역이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "활성 접속을 관리하는 것은 세션 관리이다. 정답입니다.",
+    "권한 관리는 사용자의 접근 권한을 부여·통제하는 활동이다.",
+    "로그 관리는 접속·행위 기록을 남기고 점검하는 활동이다.",
+    "취약점 관리는 시스템 취약점을 점검·조치하는 활동이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-infosec-gah-q07",
+   "paperId": "paper_civil_infosec_2026_national_gah",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/infosec/2026/national-gah/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n전문가 집단을 구성해 토론과 합의로 위험을 분석·평가하는 정성적 방법은 델파이법이다. 확률 분포법·과거 자료 분석법·수학 공식 접근법은 정량적 방법이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "확률 분포법은 통계적 확률을 이용하는 정량적 방법이다.",
+    "전문가 집단의 토론으로 위험을 평가하는 방법은 델파이법이다. 정답입니다.",
+    "과거 자료 분석법은 과거 사고 데이터를 활용하는 정량적 방법이다.",
+    "수학 공식 접근법도 정량적 분석 방법이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-infosec-gah-q08",
+   "paperId": "paper_civil_infosec_2026_national_gah",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/infosec/2026/national-gah/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nCAPTCHA는 사람과 컴퓨터를 구분하기 위한 자동화된 튜링 테스트로, 암호화를 통한 기밀성 보장 수단이 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "자동화된 공개 튜링 테스트라는 설명은 옳다.",
+    "CAPTCHA가 기밀성 보장을 위한 암호의 한 형태라는 설명은 옳지 않다. 정답입니다.",
+    "이미지·왜곡 문자·잡음 섞인 소리를 사용할 수 있다는 설명은 옳다.",
+    "사람은 쉽게 통과하고 컴퓨터는 어렵게 설계되어야 한다는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "civil2026-national-infosec-gah-q09",
+   "paperId": "paper_civil_infosec_2026_national_gah",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/infosec/2026/national-gah/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nNAC는 단말의 MAC 주소 등을 기반으로 접근 제어와 인증을 수행해 보안 정책에 부합하는 단말에만 네트워크 자원 이용을 허용한다. DLP는 정보 유출 방지, VPN은 가상 사설망, PIMS는 개인정보 관리체계이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "MAC 주소 기반 접근제어로 단말을 통제하는 솔루션은 NAC이다. 정답입니다.",
+    "DLP는 데이터 유출 방지 솔루션이다.",
+    "VPN은 암호화된 가상 사설망을 구성하는 기술이다.",
+    "PIMS는 개인정보 관리체계이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-infosec-gah-q10",
+   "paperId": "paper_civil_infosec_2026_national_gah",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/infosec/2026/national-gah/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nSSH는 전송 계층 프로토콜, 사용자 인증 프로토콜, 연결 프로토콜로 구성되며 핸드셰이크는 TLS의 구성요소이다. 따라서 핸드셰이크 프로토콜은 SSH 구성요소가 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "핸드셰이크 프로토콜은 SSH가 아니라 TLS의 구성요소이다. 정답입니다.",
+    "사용자 인증 프로토콜은 SSH의 구성요소이다.",
+    "전송 계층 프로토콜도 SSH의 구성요소이다.",
+    "연결 프로토콜도 SSH의 구성요소이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-infosec-gah-q11",
+   "paperId": "paper_civil_infosec_2026_national_gah",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/infosec/2026/national-gah/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n디지털 증거의 기본원칙은 적법절차 준수, 신뢰성 유지, 원본성 유지 등이다. 증거의 기밀성 유지는 이 규정의 기본원칙으로 제시되지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "적법절차 준수는 기본원칙이다.",
+    "디지털 증거의 신뢰성 유지도 기본원칙이다.",
+    "디지털 증거의 기밀성 유지는 기본원칙으로 제시되지 않는다. 정답입니다.",
+    "디지털 증거의 원본성 유지는 기본원칙이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-infosec-gah-q12",
+   "paperId": "paper_civil_infosec_2026_national_gah",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/infosec/2026/national-gah/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nISMS의 관리체계 수립 및 운영은 관리체계 기반 마련 → 위험 관리 → 관리체계 운영 → 관리체계 점검 및 개선의 PDCA 순으로 이루어진다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "기반 마련 후 위험 관리가 아니라 운영이 먼저 오는 순서는 옳지 않다.",
+    "기반 마련 후 운영이 오는 순서도 PDCA와 맞지 않는다.",
+    "기반 마련(다) → 위험 관리(가) → 관리체계 운영(나) → 점검 및 개선(라) 순서가 PDCA 사이클이다. 정답입니다.",
+    "기반 마련 후 위험 관리를 건너뛴 순서는 옳지 않다."
+   ]
+  },
+  {
+   "id": "civil2026-national-infosec-gah-q13",
+   "paperId": "paper_civil_infosec_2026_national_gah",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/infosec/2026/national-gah/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nIP 패킷의 단편화 오프셋을 조작해 재조립 시 시스템 오류를 일으키는 공격은 Teardrop이다. Smurf는 ICMP 응답 폭주, ICMP Flooding은 대량 ICMP 전송, 버퍼 오버플로는 메모리 경계 초과 공격이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "Smurf는 ICMP 브로드캐스트로 응답을 폭주시키는 공격이다.",
+    "단편화된 패킷의 오프셋을 조작해 재조립 오류를 일으키는 공격은 Teardrop이다. 정답입니다.",
+    "ICMP Flooding은 대량의 ICMP 패킷을 보내는 공격이다.",
+    "버퍼 오버플로는 입력 길이 초과로 메모리를 침범하는 공격이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-infosec-gah-q14",
+   "paperId": "paper_civil_infosec_2026_national_gah",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/civil/infosec/2026/national-gah/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n이전 암호문 블록과 현재 블록의 복호화 결과를 XOR해 평문을 얻는 구조는 CBC 모드이다. ECB는 각 블록을 독립적으로 처리하고, CFB·CTR은 스트림 형태로 동작한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "ECB는 블록을 독립적으로 복호화해 이전 블록을 사용하지 않는다.",
+    "이전 암호문 블록을 XOR하는 복호화 구조는 CBC 모드이다. 정답입니다.",
+    "CFB는 암호문을 피드백해 스트림처럼 처리한다.",
+    "CTR은 카운터를 암호화해 평문과 XOR한다."
+   ]
+  },
+  {
+   "id": "civil2026-national-infosec-gah-q15",
+   "paperId": "paper_civil_infosec_2026_national_gah",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/civil/infosec/2026/national-gah/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n법 26에서 곱셈에 대한 역원이 존재하려면 원소와 26이 서로소여야 한다. 7·11·23은 26과 서로소이지만 13은 26과 공약수 13을 가져 역원이 존재하지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "7과 26은 서로소이므로 7의 역원이 존재한다(15).",
+    "11도 26과 서로소이므로 역원이 존재한다(19).",
+    "13은 26과 공약수 13을 가지므로 곱셈에 대한 역원이 존재하지 않는다. 정답입니다.",
+    "23은 26과 서로소이므로 역원이 존재한다(17)."
+   ]
+  },
+  {
+   "id": "civil2026-national-infosec-gah-q16",
+   "paperId": "paper_civil_infosec_2026_national_gah",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/infosec/2026/national-gah/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nISMS-P 보호대책 요구사항에는 정책·조직·자산 관리, 외부자 보안, 재해 복구 등이 포함된다. 정보주체 권리보호는 개인정보 처리 단계별 요구사항에 해당한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "정보주체 권리보호는 보호대책 요구사항 분야가 아니다. 정답입니다.",
+    "재해 복구는 보호대책 요구사항에 포함된다.",
+    "외부자 보안도 보호대책 요구사항이다.",
+    "정책·조직·자산 관리도 보호대책 요구사항이다."
+   ]
+  },
+  {
+   "id": "civil2026-national-infosec-gah-q17",
+   "paperId": "paper_civil_infosec_2026_national_gah",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/infosec/2026/national-gah/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nIPSec에서 기밀성과 발신 인증, 비연결 무결성을 제공하는 프로토콜은 ESP이고, 암호화에는 대칭키 암호 알고리즘을 사용한다. AH는 인증·무결성만 제공한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "AH는 기밀성을 제공하지 않는다.",
+    "AH와 대칭키의 조합은 (가)가 AH라는 점에서 옳지 않다.",
+    "ESP는 맞지만 기밀성 제공에 공개키 암호를 사용하지 않는다.",
+    "(가) ESP, (나) 대칭키의 조합이 IPSec 구조와 일치한다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-infosec-gah-q18",
+   "paperId": "paper_civil_infosec_2026_national_gah",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/infosec/2026/national-gah/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n개인정보 보호위원회 위원 자격에는 개인정보 보호 업무 3년 이상 담당자, 3급 이상 공무원 경력자, 판사·검사·변호사 10년 이상 경력자 등이 규정되어 있다. 대학 부교수 이상 3년 재직은 이 조항의 자격 요건이 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "공공기관·단체 추천을 받은 개인정보 보호 업무 3년 이상 담당자는 자격 요건이다.",
+    "개인정보 보호 업무를 담당하는 3급 이상 공무원 경력도 자격 요건이다.",
+    "판사·검사·변호사 10년 이상 경력도 자격 요건이다.",
+    "대학 부교수 이상 3년 재직은 위원 자격 요건으로 규정되어 있지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-infosec-gah-q19",
+   "paperId": "paper_civil_infosec_2026_national_gah",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/civil/infosec/2026/national-gah/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n열람 제한·거절 사유는 법률에 따른 금지·제한, 다른 사람의 이익 침해 우려, 조세 부과·징수 등 업무의 중대한 지장 등이다. 개인정보처리자의 정당한 이익이 정보주체 권리보다 우선한다는 사유는 열람 제한 사유로 규정되어 있지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "법률에 따라 열람이 금지·제한되는 경우는 제한 사유이다.",
+    "다른 사람의 재산·이익을 부당하게 침해할 우려가 있는 경우도 제한 사유이다.",
+    "조세 부과·징수 업무에 중대한 지장을 초래하는 경우도 제한 사유이다.",
+    "개인정보처리자의 정당한 이익이 우선한다는 사유는 열람 제한 사유가 아니다. 정답입니다."
+   ]
+  },
+  {
+   "id": "civil2026-national-infosec-gah-q20",
+   "paperId": "paper_civil_infosec_2026_national_gah",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/civil/infosec/2026/national-gah/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n보안관제 전문기업 지정기준은 자기 자본 20억원 이상, 수행능력 평가 70점 이상, 기술인력 15명 이상 등이다. 법인 설립 후 5년 이상이라는 요건은 지정기준으로 규정되어 있지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "법인 설립 후 5년 이상이라는 요건은 지정기준에 없다. 정답입니다.",
+    "자기 자본 20억원 이상은 지정기준이다.",
+    "수행능력 평가 70점 이상은 지정기준이다.",
+    "기술인력 15명 이상(고급 3명, 중급 6명 포함)도 지정기준이다."
+   ]
+  }
+ ]
+}
