@@ -819,6 +819,46 @@
       "questionCount": 20,
       "dataFile": "data/civil/english/2018-national-gah.json",
       "external": true
+    },
+    {
+      "id": "paper_civil_korean_2017_national_nah",
+      "subjectId": "sub_civil_0",
+      "title": "2017 국가직 9급 국어 나책형",
+      "year": 2017,
+      "source": "2017년도 국가공무원 9급 공개경쟁채용 필기시험 국어 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/korean/2017-national-nah.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_english_2017_national_nah",
+      "subjectId": "sub_civil_1",
+      "title": "2017 국가직 9급 영어 나책형",
+      "year": 2017,
+      "source": "2017년도 국가공무원 9급 공개경쟁채용 필기시험 영어 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/english/2017-national-nah.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_korean_2016_national_2",
+      "subjectId": "sub_civil_0",
+      "title": "2016 국가직 9급 국어 2책형",
+      "year": 2016,
+      "source": "2016년도 국가 9급 공채 필기시험 국어 2책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/korean/2016-national-2.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_english_2016_national_2",
+      "subjectId": "sub_civil_1",
+      "title": "2016 국가직 9급 영어 2책형",
+      "year": 2016,
+      "source": "2016년도 국가 9급 공채 필기시험 영어 2책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/english/2016-national-2.json",
+      "external": true
     }
   ]
 }
