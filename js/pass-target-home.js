@@ -26,10 +26,27 @@
   function goals() {
     if (typeof db === 'undefined' || !Array.isArray(db.subjects)) return [];
     // AI 에이전트가 추가한 직렬도 현재 데이터에 존재하면 자동 선택지로 포함.
+    // '(지역구분)' 중복 직렬은 기본 직렬과 같은 시험이라 선택지에서 빼고,
+    // 이미 그 직렬을 목표로 저장한 사용자는 goalById가 기본 직렬로 이어 줍니다.
     return db.subjects.filter(s => s && s.id && s.examId && s.kind === 'track' &&
+      !isDuplicateTrack(s) &&
       db.exams.some(ex => ex.id === s.examId));
   }
-  function goalById(id) { return goals().find(s => s.id === id); }
+  function displayRule() { return window.PASS_TRACK_DISPLAY || null; }
+  function isDuplicateTrack(s) {
+    const rule = displayRule();
+    return !!(rule && typeof rule.isDuplicate === 'function' && rule.isDuplicate(s));
+  }
+  function goalById(id) {
+    const found = goals().find(s => s.id === id);
+    if (found) return found;
+    const rule = displayRule();
+    if (!rule || typeof rule.baseOf !== 'function' || typeof db === 'undefined') return undefined;
+    const saved = db.subjects.find(s => s && s.id === id && s.kind === 'track');
+    if (!saved || !rule.isDuplicate(saved)) return undefined;
+    const base = rule.baseOf(saved);
+    return base && base.id !== saved.id ? goals().find(s => s.id === base.id) : undefined;
+  }
   function examLabel(s) { return db.exams.find(ex => ex.id === s.examId)?.name || '시험 분야'; }
   /* 공무원(9급·8급) 트랙은 시험 분야 이름 대신 급수만 붙여 '9급 · 일반행정'처럼 짧게 표시합니다. */
   function shortExamExamId(s) { return s.examId === 'civil' || s.examId === 'nursing'; }

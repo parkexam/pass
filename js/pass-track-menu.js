@@ -1,4 +1,4 @@
-/* PASS | 9급 공무원 직렬별 과목 연결 (2026-11-14 표기 간소화)
+/* PASS | 9급 공무원 직렬별 과목 연결 (2026-11-14 표기 간소화 · 지역구분 중복 직렬 숨김)
  * 공무원 > 9급 공무원 의 직렬 카드를 누르면 공통과목(국어·영어)과 그 직렬의 전공과목을
  * 간호직 메뉴(pass-nursing-menu.js)와 같은 화면 구성으로 열어 줍니다.
  * 하위 섹션은 행정 / 8급 간호·보건진료 / 9급 보건·의료 / 9급 조세·사법·치안 /
@@ -6,6 +6,12 @@
  * 기존 data/catalog.json, 시험지 JSON, subjectId, Firebase 오답/학습 기록은 그대로 두고
  * 화면(메뉴) 구성만 담당합니다.
  * catalog-extension.js, pass-nursing-menu.js 다음, app.js 이전에 로드하세요.
+ *
+ * 2026-11-14: '일반행정(지역구분)'처럼 끝에 '(지역구분)'이 붙은 직렬은 시험과목이
+ * 같은 기본 직렬(일반행정)과 중복이라 직렬 목록 카드에서 숨깁니다. 기기에 예전 카탈로그가
+ * 남아 있는 사용자도 같은 목록을 보도록 이름으로 걸러 내고, 이미 그 직렬을 목표(targetTrack)로
+ * 저장했거나 옛 주소로 들어와도 과목 화면은 기본 직렬 화면으로 이어서 열립니다.
+ * data/extended-catalog.json 의 항목과 TRACK_MAJORS 연결은 그대로 둡니다.
  */
 (function () {
   'use strict';
@@ -19,6 +25,22 @@
     const i = SECTION_ORDER.indexOf(name);
     return i < 0 ? SECTION_ORDER.length : i;
   };
+
+  /* '(지역구분)' 꼬리표가 붙은 직렬은 기본 직렬과 같은 시험을 두 번 보여 주는 중복 카드입니다.
+     목록에서는 숨기고, 열리면 기본 직렬 화면으로 바꿔 보여 줍니다. */
+  const DUPLICATE_TRACK = /\(지역구분\)\s*$/;
+  function isDuplicateTrack(track) {
+    return !!(track && track.kind === 'track' && DUPLICATE_TRACK.test(String(track.name || '')));
+  }
+  /* 중복 직렬 -> 같은 시험 분야의 기본 직렬. 기본 직렬이 없으면 원래 항목을 그대로 씁니다. */
+  function baseTrack(track) {
+    if (!isDuplicateTrack(track)) return track;
+    const name = String(track.name).replace(/\s*\(지역구분\)\s*$/, '');
+    return db.subjects.find(s => s && s.examId === track.examId && s.kind === 'track' &&
+      s.id !== track.id && !isDuplicateTrack(s) && String(s.name) === name) || track;
+  }
+  /* 목표 직렬 화면(pass-target-home.js)도 같은 기준을 쓰도록 넘겨 줍니다. */
+  window.PASS_TRACK_DISPLAY = { isDuplicate: isDuplicateTrack, baseOf: baseTrack };
 
   /* 직렬별 전공과목. 공무원임용시험령 별표1과 각 기관 공고의 9급 공채 기준을 참고했습니다.
      값이 없으면 화면에 '전공과목 안내·기출 준비 중'으로 표시됩니다. */
@@ -152,7 +174,7 @@
   /* 9급 공무원 첫 화면: 직렬 카드만 보여 주고(직렬명만 표시), 낱개 과목 타일은 직렬 안으로 옮깁니다. */
   function civilLibrary() {
     const e = civilExam();
-    const tracks = db.subjects.filter(s => s.examId === CIVIL && s.kind === 'track');
+    const tracks = db.subjects.filter(s => s.examId === CIVIL && s.kind === 'track' && !isDuplicateTrack(s));
     const bySection = new Map();
     for (const track of tracks) {
       const key = track.section || '직렬';
@@ -208,7 +230,7 @@
   subject = function () {
     const id = S.subjectId;
     if (isNursingTrack(id)) return beforeSubject();
-    if (isCivilTrack(id)) return trackPage(subjectBy(id));
+    if (isCivilTrack(id)) return trackPage(baseTrack(subjectBy(id)));
     const html = beforeSubject();
     if (entryLeaf && id === entryLeaf && entryTrack && subjectBy(entryTrack)) {
       // 직렬에서 들어온 과목만 뒤로가기를 그 직렬로 바꿉니다.
