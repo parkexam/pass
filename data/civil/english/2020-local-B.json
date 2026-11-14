@@ -1,0 +1,489 @@
+{
+  "id": "paper_civil_english_2020_local_B",
+  "title": "2020 지방직 9급 영어 B책형",
+  "year": 2020,
+  "source": "2020년도 지방공무원 9급 등 공개경쟁임용 필기시험 영어 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+  "subjectId": "sub_civil_1",
+  "questions": [
+    {
+      "id": "civil2020-local-english-B-q01",
+      "paperId": "paper_civil_english_2020_local_B",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/english/2020/local-B/q01.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n플라스틱 병의 문제는 내용물이 외부 온도의 영향을 그대로 받는다는 점입니다. 기온이 오르면 물도 함께 데워진다는 결과 절에 이어지므로 '단열된'이라는 뜻의 insulated가 알맞습니다.",
+      "optionExplanations": [
+        "sanitary는 '위생적인'이라는 뜻으로, 온도 상승과의 인과 관계를 설명하지 못합니다.",
+        "insulated는 '단열된'이라는 뜻으로, 기온이 오르면 물도 데워진다는 뒤의 내용과 자연스럽게 이어집니다. 정답입니다.",
+        "recyclable은 '재활용 가능한'이라는 뜻이어서 온도와의 관련성이 없습니다.",
+        "waterproof는 '방수되는'이라는 뜻으로, 열이 전달되는 문제와는 관계가 없습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2020-local-english-B-q02",
+      "paperId": "paper_civil_english_2020_local_B",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/english/2020/local-B/q02.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nalleviate는 '고통이나 문제를 덜어 주다, 완화하다'라는 뜻입니다. 주의력 과부하의 어려움을 덜어 준다는 문맥이므로 relieve와 의미가 가장 가깝습니다.",
+      "optionExplanations": [
+        "complement는 '보완하다'라는 뜻으로 '덜어 주다'와는 다릅니다.",
+        "accelerate는 '가속하다'라는 뜻이어서 반대 의미에 가깝습니다.",
+        "calculate는 '계산하다'라는 뜻으로 문맥과 무관합니다.",
+        "relieve는 '완화하다, 덜어 주다'라는 뜻으로 alleviate와 의미가 가장 가깝습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2020-local-english-B-q03",
+      "paperId": "paper_civil_english_2020_local_B",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/english/2020/local-B/q03.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\ntouch off는 '촉발하다, 일으키다'라는 뜻입니다. 잔인한 장면이 그녀가 미처 생각하지 못했던 생각을 불러일으켰다는 문맥이므로 give rise to와 의미가 통합니다.",
+      "optionExplanations": [
+        "look after는 '돌보다'라는 뜻으로 문맥과 맞지 않습니다.",
+        "give rise to는 '일으키다, 초래하다'라는 뜻으로 touched off와 의미가 가장 가깝습니다. 정답입니다.",
+        "make up for는 '보상하다'라는 뜻이어서 문맥과 다릅니다.",
+        "keep in contact with는 '연락을 유지하다'라는 뜻으로 무관합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2020-local-english-B-q04",
+      "paperId": "paper_civil_english_2020_local_B",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/english/2020/local-B/q04.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nshun은 '피하다, 외면하다'라는 뜻입니다. 반 친구들에게 외면받는 상황을 겪어 보지 못했다는 문맥이므로 avoided가 알맞습니다.",
+      "optionExplanations": [
+        "avoided는 '피하다, 외면하다'라는 뜻으로 shunned와 의미가 가장 가깝습니다. 정답입니다.",
+        "warned는 '경고하다'라는 뜻으로 문맥과 다릅니다.",
+        "punished는 '처벌하다'라는 뜻이어서 외면받는 상황과 다릅니다.",
+        "imitated는 '흉내 내다'라는 뜻으로 무관합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2020-local-english-B-q05",
+      "paperId": "paper_civil_english_2020_local_B",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/english/2020/local-B/q05.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n어법상 옳은 문장을 고르는 문제입니다. ③은 시제와 시점 표현이 모두 자연스러운 문장입니다.",
+      "optionExplanations": [
+        "별의 수는 셀 수 있는 대상이므로 how much가 아니라 how many로 받아야 합니다.",
+        "party가 사람들을 즐겁게 한 주체이므로 감정을 유발하는 분사 exciting을 써야 합니다.",
+        "오늘 정오에 일을 시작한다는 예정된 미래이므로 현재진행형 am starting이 자연스럽고 문법적으로도 옳습니다. 정답입니다.",
+        "used to 뒤에는 동사원형이 와야 하므로 used to loving은 used to love로 고쳐야 합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2020-local-english-B-q06",
+      "paperId": "paper_civil_english_2020_local_B",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/english/2020/local-B/q06.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nmake a case for는 '~을 위한 논거를 대다, 강하게 주장하다'라는 뜻입니다. Francesca가 집에 머무르자고 주장한 뒤 어색한 침묵이 흘렀다는 문맥이므로 strongly suggested가 가장 가깝습니다.",
+      "optionExplanations": [
+        "objected to는 '반대했다'라는 뜻이므로 오히려 집에 머무르자는 쪽과 반대입니다.",
+        "dreamed about은 '꿈꾸었다'라는 뜻으로 논거를 대었다는 의미와 다릅니다.",
+        "completely excluded는 '완전히 배제했다'라는 뜻으로 문맥과 맞지 않습니다.",
+        "strongly suggested는 '강하게 제안했다, 주장했다'라는 뜻으로 made a case for와 의미가 가장 가깝습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2020-local-english-B-q07",
+      "paperId": "paper_civil_english_2020_local_B",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/english/2020/local-B/q07.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n수 일치와 도치 구문을 확인하는 문제입니다. ③은 'Among ~ were a 1961 bejeweled timepiece'로, 주어가 단수 a timepiece이므로 be동사는 was가 되어야 합니다.",
+      "optionExplanations": [
+        "once declaring은 분사구문으로 앞 절과 자연스럽게 연결되어 어법상 문제가 없습니다.",
+        "that brought in ~은 선행사 an evening auction을 받는 관계대명사절로 적절합니다.",
+        "주어 a 1961 bejeweled timepiece가 단수이므로 were가 아니라 was가 되어야 합니다. 어법상 옳지 않으므로 정답입니다.",
+        "covered with diamonds and having ~은 a serpent을 수식하는 분사구로 어법상 적절합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2020-local-english-B-q08",
+      "paperId": "paper_civil_english_2020_local_B",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/english/2020/local-B/q08.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n관계대명사와 가정법 표현의 정확성을 확인하는 문제입니다. ②는 완성하는 주체를 가리키는 말이 주격이므로 whoever completes로 써야 합니다.",
+      "optionExplanations": [
+        "warranty had expired와 과거 사실에 대한 결과 were not free of charge가 자연스럽게 연결됩니다.",
+        "전치사 to 뒤에 왔더라도 completes의 주어 역할을 하므로 목적격 whomever가 아니라 주격 whoever를 써야 합니다. 잘못 옮긴 문장입니다. 정답입니다.",
+        "과거 사실의 반대(had asked)와 현재의 결과(would be)를 섞은 혼합 가정법으로 옳습니다.",
+        "what was worse는 '설상가상으로'라는 관용 표현으로 적절합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2020-local-english-B-q09",
+      "paperId": "paper_civil_english_2020_local_B",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/english/2020/local-B/q09.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n(A) 앞에서는 주장적 행동의 특성을, 뒤에서는 공격적 행동의 특성을 설명하므로 두 행동을 대조하는 In contrast가 알맞습니다. (B)는 공격적 행동이 좋은 인간관계를 유지하기 어렵게 만든다는 결과로 이어지므로 Thus가 알맞습니다.",
+      "optionExplanations": [
+        "In contrast로 대조를 표시하고, Thus로 결과를 이끌어 내는 흐름이 자연스럽습니다. 정답입니다.",
+        "두 행동은 유사하지 않으므로 Similarly는 맞지 않고, Moreover도 결과 연결에 어울리지 않습니다.",
+        "However는 역접으로 앞 문장과 이어지지 않으며, On one hand는 짝을 이루는 표현이 뒤에 없어 어색합니다.",
+        "Accordingly는 인과 관계를 나타내지만 앞뒤가 원인과 결과가 아니며, On the other hand는 대조되는 두 대상이 앞에 제시되어야 합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2020-local-english-B-q10",
+      "paperId": "paper_civil_english_2020_local_B",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/english/2020/local-B/q10.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글은 태블릿의 전자책 애플리케이션에 쓰이는 저항막 방식과 정전용량 방식의 터치스크린이 각각 어떻게 작동하는지를 설명하고 있습니다. 두 방식의 원리를 설명하는 것이 글의 중심이므로 주제로는 '터치스크린 기술의 작동 원리'가 가장 적절합니다.",
+      "optionExplanations": [
+        "사용자가 새로운 기술을 배우는 과정에 대한 설명이 아닙니다.",
+        "전자책 자체의 작동 방식이 아니라 화면을 만지는 방식을 다룹니다.",
+        "저항막 방식과 정전용량 방식의 작동 원리를 설명하고 있으므로 터치스크린 기술의 작동 원리가 주제로 적절합니다. 정답입니다.",
+        "기술이 발전해 온 과정을 시간 순서로 다루지 않으므로 '발달해 왔다'는 설명은 맞지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2020-local-english-B-q11",
+      "paperId": "paper_civil_english_2020_local_B",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/english/2020/local-B/q11.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nB가 '완전히 막는 것은 불가능하다'고 답한 뒤, A가 다시 대안을 묻고 B가 '설정에서 필터를 걸 수 있다'고 답합니다. 따라서 A의 말은 '뭔가 할 수 있는 방법이 없느냐'는 뜻이 되어야 합니다.",
+      "optionExplanations": [
+        "메일을 자주 쓰는지 묻는 말은 필터를 설정하는 방법을 묻는 B의 답으로 이어지지 않습니다.",
+        "Isn't there anything we can do는 '우리가 할 수 있는 일이 없을까'라는 뜻으로, 이어지는 B의 필터 설정 안내와 자연스럽게 연결됩니다. 정답입니다.",
+        "이미 만들어진 필터를 어떻게 만들었는지 묻는 것은 대화의 흐름과 맞지 않습니다.",
+        "이메일 계정을 새로 만들어 달라는 부탁은 이미 스팸 메일을 받고 있는 상황과 맞지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2020-local-english-B-q12",
+      "paperId": "paper_civil_english_2020_local_B",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/english/2020/local-B/q12.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n동명사와 부정사를 쓰는 동사의 의미 차이를 확인하는 문제입니다. regret은 목적어로 부정사를 쓰면 '앞으로 ~하게 되어 유감이다'라는 뜻이 되어, 이미 말한 일을 후회한다는 우리말과 달라집니다.",
+      "optionExplanations": [
+        "이미 네 열쇠를 잃어버렸다고 말한 일을 후회한다는 뜻이므로 I regret telling you로 써야 합니다. 잘못 옮긴 문장입니다. 정답입니다.",
+        "hers는 her experience를 대신하는 소유대명사로, 비교 표현이 정확합니다.",
+        "remind A of B 구문이 'A에게 B를 상기시켜 주다'라는 뜻으로 정확합니다.",
+        "look me in the eye는 '나를 똑바로 쳐다보다'라는 관용 표현으로 적절합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2020-local-english-B-q13",
+      "paperId": "paper_civil_english_2020_local_B",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/english/2020/local-B/q13.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n대화의 상황과 응답이 자연스럽게 이어지는지를 판단하는 문제입니다. ②는 가는 길을 묻는 말에 목적지를 답하는 자연스러운 대화입니다.",
+      "optionExplanations": [
+        "시간을 묻는 말에 '요즘 바빠'라고 답하는 것은 대화의 흐름에 맞지 않습니다.",
+        "'어디 가는 길이야'라는 질문에 '우리 슈퍼에 가는 중이야'라고 답한 것으로 문맥이 자연스럽습니다. 정답입니다.",
+        "도와 달라는 부탁에 '박수 쳐 줄게'라고 답하는 것은 부탁을 받아들이는 응답이 아닙니다.",
+        "지갑을 봤는지 묻는 말에 '오랜만이야'라고 답하는 것은 상황에 맞지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2020-local-english-B-q14",
+      "paperId": "paper_civil_english_2020_local_B",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/english/2020/local-B/q14.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n베르사유가 사냥용 오두막에서 거대한 궁전으로 바뀐 과정과 그 규모, 내부와 정원의 모습을 설명하는 글입니다. 글 전체의 흐름을 아우르는 제목은 오두막에서 궁전으로의 변화를 나타낸 ④입니다.",
+      "optionExplanations": [
+        "그리스 신 조각에 루이 14세의 얼굴이 새겨졌다는 부분은 세부 내용에 불과합니다.",
+        "거울의 방과 아폴로의 방은 궁전 내부의 예로 제시된 세부 내용입니다.",
+        "운하에 대한 언급은 궁전 건설 과정의 일부일 뿐 글의 중심이 아닙니다.",
+        "사냥용 오두막이 거대한 궁전으로 변모한 과정과 모습을 정리한 제목으로 가장 적절합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2020-local-english-B-q15",
+      "paperId": "paper_civil_english_2020_local_B",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/english/2020/local-B/q15.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글은 철학자들이 인류학에 관심을 두지 않는다는 내용을 일관되게 전개합니다. ③의 '사실 우리 시대 위대한 철학자들은 인류학, 심리학 같은 분야에서 영감을 얻었다'는 앞뒤의 흐름과 정반대되는 내용입니다.",
+      "optionExplanations": [
+        "철학자들이 인류학 연구를 고려하지 않는다는 첫 문장을 뒷받침하는 내용입니다.",
+        "사회과학 철학 전공자들도 인류학 사례를 개념 설명을 위해 이용할 뿐이라는 내용으로 흐름에 맞습니다.",
+        "인류학에서 영감을 얻었다는 내용은 '철학자들은 인류학에 관심이 적다'는 글의 흐름과 어긋납니다. 가장 어색한 문장입니다. 정답입니다.",
+        "철학도 학생들이 인류학을 거의 배우지 않는다는 내용으로 앞의 주장을 이어 갑니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2020-local-english-B-q16",
+      "paperId": "paper_civil_english_2020_local_B",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/english/2020/local-B/q16.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n앞에서는 돈이나 물건처럼 구체적인 것(heirloom)을 물려받는다고 했고, 이어서 '그와는 달리' 추상적인 것을 물려받는다고 설명합니다. 따라서 빈칸에는 '훨씬 덜 구체적이고 눈에 보이지 않는'이라는 뜻이 들어가야 합니다.",
+      "optionExplanations": [
+        "일상생활과 무관하다는 내용은 뒤에 이어지는 일상 속 습관의 예들과 모순됩니다.",
+        "도덕적 기준에 어긋난다는 뜻은 문맥에 나타나지 않습니다.",
+        "much less concrete and tangible은 '훨씬 덜 구체적이고 실체가 없는'이라는 뜻으로, 물질적인 것과 대비되는 추상적인 유산을 설명하기에 알맞습니다. 정답입니다.",
+        "monetary value는 오히려 앞에서 말한 돈이나 물건에 해당하여 대비의 의미가 살지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2020-local-english-B-q17",
+      "paperId": "paper_civil_english_2020_local_B",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/english/2020/local-B/q17.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글은 제한된 자원 속에서 노인들이 물질적으로는 소비만 하는 것처럼 보이지만, 가족을 하나로 아우르고 이성의 중심을 제공하는 방식으로 기여해 왔다고 말합니다. 노인의 기여라는 요지가 가장 적절합니다.",
+      "optionExplanations": [
+        "노인들이 물질적으로 소비하는 만큼 행동으로 가족에게 기여해 왔다는 것이 요지로 적절합니다. 정답입니다.",
+        "현대 의학은 수명을 늘린 배경으로 언급되었을 뿐 노인의 역할에 초점을 맞춘 내용이 아닙니다.",
+        "자원 배분이 가문의 번영을 결정한다는 내용은 글에서 말하지 않습니다.",
+        "대가족이 제한된 자원의 희생을 뜻한다는 것은 오히려 글에서 반박하는 통념에 가깝습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2020-local-english-B-q18",
+      "paperId": "paper_civil_english_2020_local_B",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/english/2020/local-B/q18.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n시계가 처음 등장해 인기를 얻은 이야기(B)로 시작해, 그 시계들이 장식적일 뿐 정확하지 않았던 이유(C)를 설명하고, 마지막으로 표준 시간이 없어 철도에서 혼란이 빚어졌다는 내용(A)으로 이어지는 흐름이 자연스럽습니다. (C)의 These clocks는 (B)의 mechanical clocks를 받습니다.",
+      "optionExplanations": [
+        "(A)가 먼저 오면 (C)의 These clocks가 가리킬 대상이 없어 연결이 어색합니다.",
+        "(A) 뒤에 (C)가 오면 철도 혼란의 원인 설명이 뒤늦게 제시되어 흐름이 끊깁니다.",
+        "(B)에서 시계의 등장과 유행을 설명하고, (C)에서 그 시계의 한계와 지역별 시간 차이를, (A)에서 그로 인한 철도의 혼란을 다루므로 자연스럽습니다. 정답입니다.",
+        "(C)로 시작하면 These clocks가 가리킬 앞 내용이 없어 시작으로 적절하지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2020-local-english-B-q19",
+      "paperId": "paper_civil_english_2020_local_B",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/english/2020/local-B/q19.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n주어진 문장은 밀레니얼 세대가 같은 나이 때 X세대보다 더 적극적으로 노후를 대비해 저축했다는, 앞의 부정적 평가를 뒤집는 근거입니다. ③에서 X세대의 순자산이 더 높다는 내용 뒤에 이 근거를 넣고, ④의 'And that'이 밀레니얼의 저축 노력을 받아 '그들이 생각보다 나은 재정 상태일 수 있다'로 이어지는 것이 자연스럽습니다.",
+      "optionExplanations": [
+        "①은 밀레니얼이 가진 자산이 적다는 내용이 이어지므로 반대 근거를 넣기에는 이릅니다.",
+        "② 뒤에 넣으면 ③의 X세대 순자산 이야기와의 대조가 살지 않습니다.",
+        "③ 앞에 넣으면 X세대의 순자산이 더 높다는 내용과 직접 대조되지 않아 흐름이 약합니다.",
+        "③에서 X세대의 순자산이 더 높다고 한 뒤, 주어진 문장으로 밀레니얼의 저축 노력을 제시하면 ④의 And that이 이를 받아 자연스럽게 이어집니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2020-local-english-B-q20",
+      "paperId": "paper_civil_english_2020_local_B",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/english/2020/local-B/q20.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글은 해양 산성화가 산호의 성장보다 산호초 모래의 용해에 더 큰 영향을 준다고 설명합니다. ④는 이와 반대로 서술되어 내용과 일치하지 않습니다.",
+      "optionExplanations": [
+        "산호초 골격의 건축 재료가 탄산염 모래라는 내용이 첫 문장에 제시되어 있습니다.",
+        "산호가 환경을 바꾸어 산성화에 부분적으로 적응할 수 있다고 했으므로 일치합니다.",
+        "인간이 배출한 이산화 탄소의 약 3분의 1을 바다가 흡수해 산성화가 진행되었다는 내용이 일치합니다.",
+        "글은 용해가 산성화에 더 민감하다고 했으므로, 성장이 더 큰 영향을 받는다는 ④는 내용과 일치하지 않습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    }
+  ]
+}

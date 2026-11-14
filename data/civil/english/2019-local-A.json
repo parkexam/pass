@@ -1,0 +1,489 @@
+{
+  "id": "paper_civil_english_2019_local_A",
+  "title": "2019 지방직 9급 영어 A책형",
+  "year": 2019,
+  "source": "2019년도 지방공무원 9급 등 공개경쟁임용 필기시험 영어 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+  "subjectId": "sub_civil_1",
+  "questions": [
+    {
+      "id": "civil2019-local-english-A-q01",
+      "paperId": "paper_civil_english_2019_local_A",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/english/2019/local-A/q01.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nexcavate는 '발굴하다'라는 뜻입니다. 이미 죽어 사라진 감수성의 유물을 발굴해야 한다는 문맥이므로, 무덤에서 파내다는 뜻의 exhume이 가장 가깝습니다.",
+      "optionExplanations": [
+        "exhumed는 '파내다, 발굴하다'라는 뜻으로 excavated와 의미가 가장 가깝습니다. 정답입니다.",
+        "packed는 '포장하다, 짐을 싸다'라는 뜻으로 문맥과 무관합니다.",
+        "erased는 '지우다'라는 뜻이어서 발굴과 반대입니다.",
+        "celebrated는 '기념하다'라는 뜻으로 문맥과 맞지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2019-local-english-A-q02",
+      "paperId": "paper_civil_english_2019_local_A",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/english/2019/local-A/q02.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nthe sheer adrenaline rush는 '순전히 아드레날린이 솟구치는 느낌'이라는 뜻입니다. sheer는 '완전한, 순전한'의 뜻으로 강조의 기능을 하므로 utter와 의미가 통합니다.",
+      "optionExplanations": [
+        "utter는 '완전한, 순전한'이라는 뜻으로 sheer와 의미가 가장 가깝습니다. 정답입니다.",
+        "scary는 '무서운'이라는 뜻으로 sheer의 강조 의미를 대신하지 못합니다.",
+        "occasional은 '가끔의'라는 뜻으로 문맥과 다릅니다.",
+        "manageable은 '감당할 수 있는'이라는 뜻이어서 아드레날린이 솟구치는 느낌과 어울리지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2019-local-english-A-q03",
+      "paperId": "paper_civil_english_2019_local_A",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/english/2019/local-A/q03.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n대화의 흐름상 묻는 말에 알맞은 답이 이어져야 합니다. ④는 걸려 온 전화를 받지 못해 사과하는 사람에게 메시지를 남기겠느냐고 묻는 것으로, 이미 통화가 연결된 상황과 맞지 않아 가장 어색합니다.",
+      "optionExplanations": [
+        "점심시간을 묻는 말에 정오 전에 준비된다고 답한 것으로 자연스럽습니다.",
+        "전화를 여러 번 했는데 왜 받지 않았느냐는 말에 휴대 전화가 꺼져 있었던 것 같다고 답한 것으로 자연스럽습니다.",
+        "겨울 휴가를 갈 것인지 묻는 말에 아직 결정하지 못했다고 답한 것으로 자연스럽습니다.",
+        "전화를 받지 못해 미안하다고 말하는 사람에게 메시지를 남기겠느냐고 묻는 것은, 이미 대화가 이어지고 있는 상황과 맞지 않아 가장 어색합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2019-local-english-A-q04",
+      "paperId": "paper_civil_english_2019_local_A",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/english/2019/local-A/q04.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nB는 통화를 마친 뒤 '영수증을 가져오면 무료로 다시 환전해 준다'고 답합니다. 따라서 A의 질문은 환전한 돈을 되사들이는 조건, 곧 재환전 정책을 묻는 말이어야 합니다.",
+      "optionExplanations": [
+        "수수료는 앞에서 4달러라고 이미 밝혔으므로 비용을 다시 묻는 것은 흐름에 맞지 않습니다.",
+        "지불 방법을 묻는 말에는 재환전에 관한 답이 이어지지 않습니다.",
+        "What’s your buy-back policy는 환전한 통화를 되사들이는 정책을 묻는 말로, 무료로 다시 환전해 준다는 답과 자연스럽게 연결됩니다. 정답입니다.",
+        "신용카드 결제 여부를 묻는 말에는 재환전 정책이라는 답이 어울리지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2019-local-english-A-q05",
+      "paperId": "paper_civil_english_2019_local_A",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/english/2019/local-A/q05.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n수동태와 능동태의 쓰임을 확인하는 문제입니다. ④는 보행자들이 '부상당하는' 대상이므로 수동태 injured가 되어야 합니다.",
+      "optionExplanations": [
+        "주어 pedestrians에 맞추어 lose가 쓰였으므로 어법상 옳습니다.",
+        "never to return은 결과를 나타내는 부사적 용법으로 적절합니다.",
+        "as high as는 '~만큼 높은'이라는 비교 표현으로 옳습니다.",
+        "보행자는 부상당하는 대상이므로 are non-fatally injured와 같이 수동태를 써야 합니다. 어법상 옳지 않으므로 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2019-local-english-A-q06",
+      "paperId": "paper_civil_english_2019_local_A",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/english/2019/local-A/q06.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n어법상 옳은 문장을 고르는 문제입니다. ②는 lest 뒤에 주어와 동사원형(be)이 와서 '~하지 않도록'이라는 뜻을 이루는 정상적인 구문입니다.",
+      "optionExplanations": [
+        "전치사 with 뒤에는 동명사가 와야 하므로 use가 아니라 using으로 써야 합니다.",
+        "lest suspicion be aroused는 lest 뒤에 원형 동사를 쓰는 올바른 구문으로 어법에 맞습니다. 정답입니다.",
+        "would be made는 '~하는 것이 ~이다'라는 뜻의 be to 구문과 섞여 어법에 맞지 않습니다.",
+        "one of the 뒤에는 복수 명사가 와야 하므로 the lead cause가 아니라 the leading causes로 써야 합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2019-local-english-A-q07",
+      "paperId": "paper_civil_english_2019_local_A",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/english/2019/local-A/q07.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n(A)는 세계를 단순화한 모형으로 이해한다는 논지를 꺼내고, (C)는 그 모형이 얼마나 단순화된 것인지를 'stripped down'이라는 표현을 받아 설명하며, (B)는 케인스의 말을 인용해 모형 중심의 사고를 뒷받침합니다. (C)의 When I say “stripped down”이 (A)의 표현을 직접 받으므로 (A) 다음에 (C)가 와야 합니다.",
+      "optionExplanations": [
+        "(A) 뒤에 (B)가 오면 (C)의 'stripped down'이 가리킬 말이 바로 앞에 없어 연결이 어색합니다.",
+        "(A)에서 모형을 꺼내고 (C)에서 그 모형의 단순화를 설명한 뒤 (B)에서 케인스의 인용으로 마무리하는 흐름이 자연스럽습니다. 정답입니다.",
+        "(B)로 시작하면 케인스의 인용이 가리킬 앞 내용이 없습니다.",
+        "(B) 뒤에 (A)가 오면 인용과 모형 설명의 연결이 매끄럽지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2019-local-english-A-q08",
+      "paperId": "paper_civil_english_2019_local_A",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/english/2019/local-A/q08.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글은 선사 시대 사람들이 비정상적 행동을 악령의 탓으로 돌렸고, 두개골에 구멍을 내 악령이 빠져나가게 하는 치료법을 썼다고 설명합니다. 악령이 사람에게 영향을 주어 비정상적 행동이 생긴다고 믿었다는 진술이 내용과 일치합니다.",
+      "optionExplanations": [
+        "글의 첫 문장은 정신적 장애와 신체적 장애를 뚜렷이 구분하지 않았다고 했으므로 반대입니다.",
+        "비정상적 행동이 사람의 몸에 깃들거나 사람을 지배하는 악령 때문에 생긴다고 믿었다는 내용과 일치합니다. 정답입니다.",
+        "두개골에 구멍을 낸 것은 악령이 들어오게 하기 위해서가 아니라 빠져나가게 하기 위해서였습니다.",
+        "구멍이 아문 두개골이 발견되어 수술을 받고 살아남은 사람도 있었음을 알 수 있습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2019-local-english-A-q09",
+      "paperId": "paper_civil_english_2019_local_A",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/english/2019/local-A/q09.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글쓴이는 25년 넘게 기자로 일하며 기술 변화 속에서 준비 없이 즉석에서 기사를 만들어 내는 일이 늘었다고 말합니다. 취재와 작성이 같은 시간 안에 이루어지는 상황에서 기자의 즉흥성이 중요해졌다는 것이 글의 중심입니다.",
+      "optionExplanations": [
+        "기자를 교사에 비유한 표현이 일부 있으나 글의 주제는 아닙니다.",
+        "디지털 혁명 속에서 기자가 원고 없이 즉석에서 일하는 방식이 늘었다는 것이 주제로 적절합니다. 정답입니다.",
+        "정치 분야의 기술은 예로 든 소재일 뿐 주제가 아닙니다.",
+        "저널리즘과 기술이라는 두 분야의 관계를 일반적으로 논한 글이 아닙니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2019-local-english-A-q10",
+      "paperId": "paper_civil_english_2019_local_A",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/english/2019/local-A/q10.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글은 과거의 놀이터가 자연과 거리였고, 최근 아이들이 실내의 화면으로 옮겨 가고 있다는 흐름을 설명합니다. ③에서 '시골에서도 성인 없이 자유롭게 뛰어노는 아이가 거의 없다'고 한 바로 뒤에, ④에서 '학교 밖에서는 흔히 모래를 파고 요새를 쌓으며 논다'고 하는 것은 앞의 내용과 정면으로 어긋납니다.",
+      "optionExplanations": [
+        "놀이터의 개념을 정의한 문장으로 앞의 예시를 정리해 주므로 흐름에 맞습니다.",
+        "최근 수십 년 사이 아이들이 자연 놀이터를 떠나 화면으로 향했다는 내용으로 앞뒤가 자연스럽게 이어집니다.",
+        "시골에서도 성인 없이 자유롭게 노는 아이가 드물다는 내용으로 앞의 흐름과 맞습니다.",
+        "바로 앞에서 자유롭게 뛰어노는 아이가 거의 없다고 했는데, 이 문장은 아이들이 흔히 모래를 파고 요새를 쌓으며 논다고 하여 앞의 내용과 모순됩니다. 가장 어색한 문장입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2019-local-english-A-q11",
+      "paperId": "paper_civil_english_2019_local_A",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/english/2019/local-A/q11.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nengrossed in은 '~에 몰두한'이라는 뜻입니다. 두뇌가 몹시 재미있는 것에 몰두할 때 시간이 빨리 흐른다는 문맥이므로 preoccupied with가 가장 가깝습니다.",
+      "optionExplanations": [
+        "enhanced by는 '~에 의해 향상된'이라는 뜻으로 몰두와 다릅니다.",
+        "apathetic to는 '~에 무관심한'이라는 뜻이어서 반대 의미에 가깝습니다.",
+        "stabilized by는 '~에 의해 안정된'이라는 뜻으로 문맥과 맞지 않습니다.",
+        "preoccupied with는 '~에 몰두한'이라는 뜻으로 engrossed in과 의미가 가장 가깝습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2019-local-english-A-q12",
+      "paperId": "paper_civil_english_2019_local_A",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/english/2019/local-A/q12.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nkeep abreast of는 '~의 최신 정보를 계속 파악하다'라는 뜻입니다. 시장의 상황을 계속 알 수 있도록 매일 정보를 전했다는 문맥이므로 be acquainted with가 가장 가깝습니다.",
+      "optionExplanations": [
+        "be acquainted with는 '~을 잘 알고 있는'이라는 뜻으로 keep abreast of와 의미가 가장 가깝습니다. 정답입니다.",
+        "get inspired by는 '~에서 영감을 얻다'라는 뜻으로 문맥과 다릅니다.",
+        "have faith in은 '~을 믿다'라는 뜻이어서 정보를 파악하는 의미와 다릅니다.",
+        "keep away from은 '~에서 멀리하다'라는 뜻으로 반대 의미입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2019-local-english-A-q13",
+      "paperId": "paper_civil_english_2019_local_A",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/english/2019/local-A/q13.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n아일랜드가 인구를 먹일 식량을 생산하지 못해 약 100만 명이 죽었다는 문맥이므로 (A)에는 '굶주림'을 뜻하는 starvation이 들어가야 합니다. 이어 125만 명이 섬을 떠나 다른 나라로 갔다는 내용이므로 (B)에는 '이주해 나가다'를 뜻하는 emigrate가 알맞습니다.",
+      "optionExplanations": [
+        "dehydration은 '탈수'라는 뜻으로 사망 원인으로 적절하지 않고, be deported는 '추방되다'라는 뜻입니다.",
+        "trauma는 '충격'이라는 뜻으로 식량 부족과 직접 이어지지 않으며, immigrate는 다른 나라로 '들어오다'라는 뜻입니다.",
+        "starvation은 '굶주림'이라는 뜻으로 (A)에 알맞고, emigrate는 다른 나라로 '이주해 나가다'라는 뜻으로 (B)에 알맞습니다. 정답입니다.",
+        "fatigue는 '피로'라는 뜻이고 be detained은 '억류되다'라는 뜻으로 문맥과 맞지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2019-local-english-A-q14",
+      "paperId": "paper_civil_english_2019_local_A",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/english/2019/local-A/q14.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n(A) 앞에서는 청각이 시각만큼 중요하다고 했고, (A) 뒤에서는 들리는 소리가 시각과 맞지 않으면 가상 경험이 깨진다고 합니다. '소리가 맞지 않는다면'이라는 조건이 되어야 하므로 Unless가 알맞습니다. (B) 뒤에서는 오늘날의 음향 장비와 포맷이 전장이나 경기장, 연주회장의 소리를 재현하기에 부족하다고 하므로, 앞의 기대와 어긋나는 내용을 이끄는 Unfortunately가 알맞습니다.",
+      "optionExplanations": [
+        "(A)에 If를 쓰면 '맞는다면 깨진다'가 되어 논리가 뒤집히고, (B)의 By contrast도 대조의 짝이 맞지 않습니다.",
+        "(A)에 Unless를 쓰는 것은 적절하나, (B)에 Consequently를 쓰면 부족하다는 내용이 앞의 결과로 자연스럽게 이어지지 않습니다.",
+        "(A)에 If를 쓰면 조건이 반대로 되고, (B)의 Similarly도 문맥과 맞지 않습니다.",
+        "(A) Unless로 조건을 세우고 (B) Unfortunately로 아쉬운 현실을 이끄는 흐름이 자연스럽습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2019-local-english-A-q15",
+      "paperId": "paper_civil_english_2019_local_A",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/english/2019/local-A/q15.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n주어진 문장은 '같은 사고방식을 여러 목표에 적용할 수 있다'는 내용으로, 체중 감량의 예시가 끝나고 직장에서의 성과라는 다른 영역으로 일반화하는 자리에 들어가야 합니다. ④ 뒤에서 전체 목표를 작은 단위로 나누는 결론으로 이어지므로 ④가 가장 적절합니다.",
+      "optionExplanations": [
+        "①은 행복한 두뇌가 단기 목표에 집중한다는 내용 뒤로, 예시를 시작하기 전이라 일반화 문장이 들어가기 이릅니다.",
+        "②는 단기 목표를 고려하자는 제안 뒤로, 구체적 예시가 이어질 자리입니다.",
+        "③은 체중 감량의 예시 도중이라 다른 영역으로 확장하는 문장이 어울리지 않습니다.",
+        "④는 체중 감량의 예시가 끝나고 직장에서의 성과처럼 다른 목표로 확장한 뒤 결론으로 이어지는 자리이므로 가장 적절합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2019-local-english-A-q16",
+      "paperId": "paper_civil_english_2019_local_A",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/english/2019/local-A/q16.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n결혼한 상태가 얼마 동안 이어졌는지를 말할 때는 'be married'라는 상태를 나타내는 수동태에 기간을 붙여 씁니다. ③은 has married로 쓰여 결혼식 행위를 한 번 치렀다는 뜻이 되어 기간 표현과 어울리지 않습니다.",
+      "optionExplanations": [
+        "just in case는 '혹시 ~할 경우에 대비해'라는 뜻으로 우리말과 정확히 대응합니다.",
+        "be busy -ing 구문으로 '~하느라 바쁘다'를 정확히 옮겼습니다.",
+        "결혼한 지 20년 이상 되었다는 상태의 지속을 나타내려면 has been married로 써야 합니다. 잘못 옮긴 문장입니다. 정답입니다.",
+        "buy a book for my son to read는 '내 아들이 읽을 책을 사다'라는 뜻으로 정확합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2019-local-english-A-q17",
+      "paperId": "paper_civil_english_2019_local_A",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/english/2019/local-A/q17.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n19세기에는 질병이 '나쁜 공기(miasma)' 때문에 생긴다고 믿었고, 방 안팎의 나쁜 공기 밀도에 따라 창문을 열거나 닫았다고 설명합니다. 따라서 창문을 여는 일이 미아스마의 밀도와 무관했다는 진술은 내용과 일치하지 않습니다.",
+      "optionExplanations": [
+        "창문을 열거나 닫는 것은 방 안팎의 미아스마 밀도에 따라 결정되었다고 했으므로, 무관했다는 진술은 일치하지 않습니다. 정답입니다.",
+        "신사는 나쁜 공기가 있는 곳에 살지 않으므로 의사가 병을 옮기지 않는다고 믿었다는 내용과 일치합니다.",
+        "미생물과 박테리아가 병의 진짜 원인임을 알게 된 뒤 백신이 발명되었다는 내용과 일치합니다.",
+        "손을 씻고 상처를 소독하는 등으로 건강을 지킬 수 있게 되었다는 내용과 일치합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2019-local-english-A-q18",
+      "paperId": "paper_civil_english_2019_local_A",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/english/2019/local-A/q18.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글은 팔로워의 역할이 오랫동안 제대로 평가받지 못했으나, 사회 변화와 함께 리더십 이론이 팔로워의 능동적 역할을 인정하게 되었고 오늘날에는 그것이 자연스럽게 받아들여진다고 설명합니다. 팔로워의 역할이 오늘날에도 부정된다는 진술은 내용과 어긋납니다.",
+      "optionExplanations": [
+        "오랫동안 리더는 능동적으로 이끌고 팔로워는 수동적으로 따랐다는 인식이 있었다는 내용과 일치합니다.",
+        "사회 변화가 부하에 대한 인식에 영향을 주었다는 내용과 일치합니다.",
+        "오늘날에는 팔로워의 중요한 역할을 받아들이는 것이 자연스럽다고 했으므로, 여전히 부정된다는 진술은 일치하지 않습니다. 정답입니다.",
+        "리더십은 집단 구성원 모두가 나누는 과정이며 팔로워도 그 과정의 일부라는 내용과 일치합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2019-local-english-A-q19",
+      "paperId": "paper_civil_english_2019_local_A",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/english/2019/local-A/q19.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n빈칸 앞에서는 단일한 소리는 이따금 의미가 있을 뿐이고, 소리가 겹쳐진 연쇄로 결합될 때에만 메시지를 전한다고 했습니다. 빈칸 뒤의 '순서가 중요하다'는 말과 이어지려면, 새의 노래에서도 낱개의 음은 큰 가치가 없다는 내용이 들어가야 합니다.",
+      "optionExplanations": [
+        "individual notes are often of little value는 낱개의 음은 별 의미가 없다는 뜻으로, 앞의 '단일한 소리는 이따금 의미가 있을 뿐'과 뒤의 '순서가 중요하다'를 자연스럽게 잇습니다. 정답입니다.",
+        "리듬이 중요하다는 내용은 앞뒤의 '겹쳐진 연쇄'와 '순서'라는 논지와 직접 이어지지 않습니다.",
+        "방언은 뒤에서 별도로 언급되는 내용으로 빈칸에 들어가면 흐름이 겹칩니다.",
+        "어떤 소리 체계도 존재하지 않는다는 내용은 문맥과 모순됩니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2019-local-english-A-q20",
+      "paperId": "paper_civil_english_2019_local_A",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/english/2019/local-A/q20.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nMAP의 목표는 직관에 따른 결정을 미루고 여러 요인을 검토한 뒤 판단하게 하는 것입니다. 따라서 빈칸에는 '직관을 지연시키다'라는 뜻이 들어가야 하며, 글의 put off와도 호응합니다.",
+      "optionExplanations": [
+        "improve는 '향상시키다'라는 뜻으로, 직관적 결정을 미룬다는 취지와 다릅니다.",
+        "delay는 '미루다, 지연시키다'라는 뜻으로 put off와 호응하여 문맥에 알맞습니다. 정답입니다.",
+        "possess는 '가지다'라는 뜻으로 문맥과 맞지 않습니다.",
+        "facilitate는 '촉진하다'라는 뜻이어서 직관을 미룬다는 취지와 반대입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    }
+  ]
+}

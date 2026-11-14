@@ -569,6 +569,66 @@
       "questionCount": 20,
       "dataFile": "data/nursing/community/2016-local-A.json",
       "external": true
+    },
+    {
+      "id": "paper_civil_korean_2020_local_B",
+      "subjectId": "sub_civil_0",
+      "title": "2020 지방직 9급 국어 B책형",
+      "year": 2020,
+      "source": "2020년도 지방공무원 9급 등 공개경쟁임용 필기시험 국어 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/korean/2020-local-B.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_english_2020_local_B",
+      "subjectId": "sub_civil_1",
+      "title": "2020 지방직 9급 영어 B책형",
+      "year": 2020,
+      "source": "2020년도 지방공무원 9급 등 공개경쟁임용 필기시험 영어 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/english/2020-local-B.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_korean_2019_local_A",
+      "subjectId": "sub_civil_0",
+      "title": "2019 지방직 9급 국어 A책형",
+      "year": 2019,
+      "source": "2019년도 지방공무원 9급 등 공개경쟁임용 필기시험 국어 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/korean/2019-local-A.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_english_2019_local_A",
+      "subjectId": "sub_civil_1",
+      "title": "2019 지방직 9급 영어 A책형",
+      "year": 2019,
+      "source": "2019년도 지방공무원 9급 등 공개경쟁임용 필기시험 영어 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/english/2019-local-A.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_korean_2018_local_B",
+      "subjectId": "sub_civil_0",
+      "title": "2018 지방직 9급 국어 B책형",
+      "year": 2018,
+      "source": "2018년도 지방공무원 9급 등 공개경쟁임용 필기시험 국어 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/korean/2018-local-B.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_english_2018_local_B",
+      "subjectId": "sub_civil_1",
+      "title": "2018 지방직 9급 영어 B책형",
+      "year": 2018,
+      "source": "2018년도 지방공무원 9급 등 공개경쟁임용 필기시험 영어 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/english/2018-local-B.json",
+      "external": true
     }
   ]
 }

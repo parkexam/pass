@@ -1,0 +1,489 @@
+{
+  "id": "paper_civil_korean_2020_local_B",
+  "title": "2020 지방직 9급 국어 B책형",
+  "year": 2020,
+  "source": "2020년도 지방공무원 9급 등 공개경쟁임용 필기시험 국어 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+  "subjectId": "sub_civil_0",
+  "questions": [
+    {
+      "id": "civil2020-local-korean-B-q01",
+      "paperId": "paper_civil_korean_2020_local_B",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2020/local-B/q01.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n'역전앞'처럼 같은 뜻이 겹쳐 군더더기가 된 표현을 찾는 문제입니다. '부터'와 '먼저', '오로지'와 '만', '마다'와 '각각'은 각각 의미가 거듭되어 중복 표현이 되지만, '뿐더러'는 앞의 내용에 다른 내용을 덧붙이는 뜻만을 나타낼 뿐 앞말과 의미가 겹치지 않습니다.",
+      "optionExplanations": [
+        "'형부터 먼저 해라'는 '부터'에 이미 '먼저'의 뜻이 담겨 있어 '먼저'가 군더더기가 된 중복 표현입니다.",
+        "'오로지'와 '만'이 모두 '다른 것은 제외하고'라는 뜻을 지녀 의미가 중복된 표현입니다.",
+        "'마다'에 '각각'이 더해져 '하나하나 모두'라는 뜻이 거듭 표현된 중복 표현입니다.",
+        "'뿐더러'는 앞의 내용에 다른 내용을 덧붙인다는 뜻으로, 앞말과 의미가 겹치지 않아 중복 표현이라고 보기 어렵습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2020-local-korean-B-q02",
+      "paperId": "paper_civil_korean_2020_local_B",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2020/local-B/q02.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n대화의 밑줄 친 부분은 김대리가 늦은 것을 사과하는 상황에서 이부장이 '괜찮다'고 받아 주며 기다린 시간을 오히려 즐거웠던 일로 바꾸어 말한 부분입니다. 상대가 느낄 미안함과 부담을 덜어 주려는 표현 전략입니다.",
+      "optionExplanations": [
+        "의견 차이를 좁히는 상황이 아니라, 늦은 것에 대한 사과를 받아 주는 상황입니다.",
+        "기다린 시간을 '오붓하게 대화도 나누고 시간 가는 줄 몰랐다'고 표현해 상대가 느낄 미안함과 부담을 최소화했습니다. 정답입니다.",
+        "화자 자신의 혜택을 줄이는 표현이 아니라, 상대가 느낄 부담을 줄이는 표현입니다.",
+        "상대를 비방하거나 칭찬하는 상황이 아니므로 이 설명은 맞지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2020-local-korean-B-q03",
+      "paperId": "paper_civil_korean_2020_local_B",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2020/local-B/q03.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n주제는 '청소년 인터넷 중독의 현황과 문제 해결'이므로, 중독의 실태와 원인, 부정적 영향, 해결 방안에 관한 내용이 들어가야 합니다. 게임 업체의 고객 정보 유출 사건은 개인 정보 보호의 문제일 뿐 인터넷 중독과 관련이 없습니다.",
+      "optionExplanations": [
+        "고객 개인 정보 유출과 성인 광고 문자 발송은 개인 정보 침해 사례로, 청소년 인터넷 중독과 관련이 없어 글의 내용으로 적절하지 않습니다. 정답입니다.",
+        "중독 청소년 비율의 증가 통계는 문제의 현황과 시급성을 보여 주는 자료로 적절합니다.",
+        "사회성 결여, 의사소통 장애 등 부정적 현상은 중독의 심각성을 환기하는 내용으로 적절합니다.",
+        "상담 프로그램 예산 부족에 대한 전문가 견해는 문제 해결의 걸림돌을 지적하는 내용으로 적절합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2020-local-korean-B-q04",
+      "paperId": "paper_civil_korean_2020_local_B",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2020/local-B/q04.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n어휘의 표기와 쓰임이 옳은지를 판단하는 문제입니다. '하노라고'는 '하-+-노라고'로 이루어진 정상적인 활용형이며, 나머지는 소리가 비슷한 다른 말을 잘못 쓴 경우입니다.",
+      "optionExplanations": [
+        "'하노라고 한 것이 이 모양이다'의 '하노라고'는 자기 나름대로 애썼음을 나타내는 올바른 표현입니다. 정답입니다.",
+        "돈을 주고받는 것은 '결제'이므로 '결재된다'가 아니라 '결제된다'로 써야 합니다.",
+        "대강 어림하여 헤아린다는 뜻에는 '어림잡다'를 써야 하므로 '걷잡아서'는 잘못입니다.",
+        "인사를 대신한다는 뜻은 '갈음합니다'로 써야 하므로 '가름합니다'는 잘못입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2020-local-korean-B-q05",
+      "paperId": "paper_civil_korean_2020_local_B",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2020/local-B/q05.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n함민복의 시 「그 샘」은 마을 사람들이 함께 쓰던 샘을 매개로 이웃이 서로를 배려하던 공동체의 삶을 그립니다. '-지요'의 종결 어미와 과거 시제를 통해 회상하는 분위기를 만들고 있습니다. 다만 감각을 전이하여 표현하는 공감각적 이미지는 이 시에서 드러나지 않습니다.",
+      "optionExplanations": [
+        "'그 샘'을 매개로 물을 나눠 쓰던 공동체의 삶을 표현했습니다.",
+        "'볼 수 있었지요', '풍겼지요'와 같은 과거 시제로 회상의 분위기를 표현했습니다.",
+        "미나리의 푸름, 감자의 구린내 등 시각과 후각의 이미지가 각각 제시될 뿐, 감각을 전이하는 공감각적 이미지로 이웃 간의 배려를 표현하고 있지는 않습니다. 정답입니다.",
+        "'-지요', '했었구요' 등 구어체를 살려 정감 어린 이웃의 분위기를 표현했습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2020-local-korean-B-q06",
+      "paperId": "paper_civil_korean_2020_local_B",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2020/local-B/q06.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글은 동물이 먹이를 구하고 환경을 바꾸는 행동을 예로 들며, 생명체가 환경에 적응한다는 설명이 환경을 능동적으로 변형하는 측면을 놓치고 있다고 비판합니다. 인간 역시 '잘 살기 위한 노력'으로 환경에 적극성을 보인다는 것이 필자의 주장입니다.",
+      "optionExplanations": [
+        "환경에 적응한다는 설명은 글쓴이가 비판하는 통념입니다.",
+        "삶의 기술을 생존을 위한 것으로만 좁히는 설명은 글의 주장과 다릅니다.",
+        "생명체가 환경에 적응하는 데 그치지 않고 환경을 능동적으로 변형한다는 것이 필자의 주장입니다. 정답입니다.",
+        "'잘 사는 것'은 인간의 세 가지 충동 중 하나로 언급되었을 뿐, 글 전체의 주장은 아닙니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2020-local-korean-B-q07",
+      "paperId": "paper_civil_korean_2020_local_B",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2020/local-B/q07.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n'머무르다'와 '서투르다'는 어간 끝 'ㅡ'가 탈락하는 불규칙 활용을 합니다. 어간과 어미가 결합할 때의 활용형을 하나씩 확인해야 합니다.",
+      "optionExplanations": [
+        "'머무르다'에 '-었다'가 결합하면 'ㅡ'가 탈락하여 '머물렀다'가 되어야 하므로 '머물었다'는 잘못된 활용형입니다. 정답입니다.",
+        "어간과 어미가 직접 결합하는 경우 'ㅡ'가 유지되어 '머무르면서'가 됩니다.",
+        "'서투르다'에 '-ㄴ'이 결합하면 'ㅡ'가 탈락하여 '서툰'이 됩니다.",
+        "'서투르다'에 '-(으)므로'가 결합하면 '서투르므로'가 되어 올바른 활용형입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2020-local-korean-B-q08",
+      "paperId": "paper_civil_korean_2020_local_B",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2020/local-B/q08.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nA사는 B사에 내주었던 업계 1위 자리를 다시 차지했습니다. 실패를 만회하고 세력을 다시 일으켰다는 뜻의 '권토중래'가 상황에 가장 알맞습니다.",
+      "optionExplanations": [
+        "'토사구팽'은 충신이나 신하가 필요 없게 되었을 때 버려진다는 뜻으로 상황과 무관합니다.",
+        "'권토중래'는 실패한 뒤 세력을 회복하여 다시 쳐들어오는 것으로, 업계 1위 자리를 되찾은 상황에 가장 알맞습니다. 정답입니다.",
+        "'수불석권'은 책에서 손을 떼지 않는다는 뜻이므로 맞지 않습니다.",
+        "'아전인수'는 자기 논에 물 대기라는 뜻으로 자기 이익만 꾀하는 태도를 가리킵니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2020-local-korean-B-q09",
+      "paperId": "paper_civil_korean_2020_local_B",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2020/local-B/q09.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글쓴이는 회화와 달리 사진은 '그 작품'이라 부르는 인화본이 여럿 존재할 수 있고, 작가가 조도나 인화 방식 등을 달리하여 다른 예술적 속성을 갖는 복제본을 만들 수 있다고 말합니다. 원본만이 고유한 예술적 속성을 지닌다는 통념이 잘못되었다는 것이 주장입니다.",
+      "optionExplanations": [
+        "복제본이 원본을 무조건 뛰어넘는다고 말하지 않으며, 원본과 다른 특성을 지닐 수 있다는 것이 주장입니다.",
+        "매체적 특성이 비슷해졌다는 내용은 글에 없습니다.",
+        "사진의 경우 작가가 재현적 특질을 선택하고 변형하는 방법이 다양하다고 했으므로, '방법이 제한적'이라는 설명은 반대입니다.",
+        "복제본도 원본과는 다른 별개의 예술적 특성을 지닐 수 있다는 것이 글의 주장입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2020-local-korean-B-q10",
+      "paperId": "paper_civil_korean_2020_local_B",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2020/local-B/q10.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n문장 속 '버리다'가 뜻하는 바에 맞는 한자어를 고르는 문제입니다. 물건을 내다 버리는 ③의 상황에는 '投棄(투기)'가 가장 정확합니다.",
+      "optionExplanations": [
+        "꿈을 버리는 것은 단념하는 것이므로 '抛棄'가 어울리고, '遺棄'는 보호의 의무를 저버린다는 뜻이어서 적절하지 않습니다.",
+        "'버려지는'을 '뿌리 뽑힌다'는 뜻의 '根絶'로 바꾸면 뜻이 달라져 문장이 어색해집니다.",
+        "쓰레기를 내다 버린다는 뜻에는 내던져 버린다는 '投棄'가 가장 정확합니다. 정답입니다.",
+        "'抛棄'는 권리나 소유권, 의견 따위를 버린다는 뜻으로 주로 쓰여 지각하는 습관을 없앤다는 뜻에는 잘 어울리지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2020-local-korean-B-q11",
+      "paperId": "paper_civil_korean_2020_local_B",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2020/local-B/q11.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n㉠ '꼽혀지고 있다'는 '꼽히다'에 다시 피동 접미사가 붙은 이중 피동입니다. 이중 피동은 어법에 맞지 않으므로 '꼽히고 있다'로 고쳐야 하며, '꼽고'로 고치면 능동으로 바뀌어 원래 문장의 뜻이 달라집니다.",
+      "optionExplanations": [
+        "이중 피동을 '꼽고'라는 능동형으로 고치면 문장의 주체와 의미가 달라집니다. '꼽히고'로 고치는 것이 맞으므로 적절하지 않은 방안입니다. 정답입니다.",
+        "'리셋 증후군'이라는 말의 유래는 첫 문장(유형으로 꼽힘) 뒤에 이어지는 것이 자연스러우므로 두 번째 문장 뒤로 옮기는 것이 적절합니다.",
+        "㉢ '막다른 골목으로 몰 듯'은 관계를 끊는 태도를 비유하는 표현이므로 '칼로 무를 자르듯'으로 바꾸면 문맥에 맞습니다.",
+        "㉣ 앞 문장(진단이 어렵다)과 뒤 문장(예방을 위해 노력해야 한다)이 원인과 대책의 관계이므로 '그러므로'로 연결하는 것이 적절합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2020-local-korean-B-q12",
+      "paperId": "paper_civil_korean_2020_local_B",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2020/local-B/q12.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n'楮'는 닥나무, '白'은 흰빛, '無玷'은 티 없음, '채륜의 후손'은 종이를 발명한 채륜을 가리키며, 벗인 '毛學士'는 붓을 뜻합니다. 종이를 사람처럼 의인화한 글입니다.",
+      "optionExplanations": [
+        "대나무는 '毛學士'(붓)의 재료로 쓰이지만, 글의 주인공은 아닙니다.",
+        "흰 구슬과 흰 띠는 종이의 흰빛을 비유한 표현입니다.",
+        "엽전은 회계와 관련되지만 '채륜의 후손'이나 '毛學士의 벗'이라는 단서와 맞지 않습니다.",
+        "닥나무(楮)로 만들고 채륜의 후손이라 하며 붓(毛學士)과 어울려 글을 쓰는 사물, 곧 종이를 의인화했습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2020-local-korean-B-q13",
+      "paperId": "paper_civil_korean_2020_local_B",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2020/local-B/q13.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n보도 기사의 성격에 맞는 마무리 표현을 고르는 문제입니다. '어느 쪽이 옳다고 말하기 애매한 소식'은 판단을 유보하는 성격이므로, 그 의미를 되새기게 하는 표현보다 양쪽의 입장을 함께 전하거나 귀추를 지켜보겠다는 표현이 어울립니다.",
+      "optionExplanations": [
+        "소송이나 다툼에 관한 소식에는 원만한 해결을 바라는 표현이 어울립니다.",
+        "'그 의미를 새삼 돌아보게 됩니다'는 사건의 의미를 되새기게 하는 소식에 어울리는 마무리로, 어느 쪽이 옳은지 애매한 소식에는 적절하지 않습니다. 정답입니다.",
+        "'귀추가 주목되고 있습니다'는 결과가 드러나기 전 소식에 어울리는 마무리입니다.",
+        "'호사가들의 입방아에 오르내리고 있습니다'는 연예 스캔들 소식에 어울리는 마무리입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2020-local-korean-B-q14",
+      "paperId": "paper_civil_korean_2020_local_B",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2020/local-B/q14.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n봉산 탈춤의 한 장면으로, 말뚝이가 양반을 조롱하고 양반들이 이에 반응하는 내용입니다. 무대 지시문의 내용을 함께 확인해야 합니다.",
+      "optionExplanations": [
+        "말뚝이가 '개잘량' '개다리소반'으로 양반을 조롱하자 양반들이 '이놈, 뭐야'라고 야단쳤으므로 적절한 이해입니다.",
+        "무대 지시에 샌님이 부채와 장죽을, 서방님이 부채와 장죽을 들었다고 되어 있고 양반들이 춤을 추며 등장하므로 적절합니다.",
+        "말뚝이가 사설을 늘어놓기 전에 '음악과 춤 멈춘다'고 되어 있어 굿거리 장단에 맞추어 사설을 한 것이 아닙니다. 적절하지 않은 이해입니다. 정답입니다.",
+        "도련님이 형들의 면상을 부채로 때리며 방정맞게 군다는 무대 지시가 있으므로 적절합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2020-local-korean-B-q15",
+      "paperId": "paper_civil_korean_2020_local_B",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2020/local-B/q15.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n의존 명사는 앞말과 띄어 쓰고, 조사는 앞말에 붙여 씁니다. '너무하다'는 한 단어로 굳어진 동사임도 함께 확인해야 합니다.",
+      "optionExplanations": [
+        "'너무하다'는 하나의 동사이므로 '너무한다'로 붙여 써야 합니다.",
+        "'내'는 '동안'을 뜻하는 의존 명사이므로 '시일 내'와 같이 띄어 쓴 것이 옳습니다. 정답입니다.",
+        "'데'는 '경우'를 뜻하는 의존 명사이므로 '대접하는 데나'로 띄어 써야 합니다.",
+        "'밖에'는 조사이므로 앞말에 붙여 '정공법밖에'로 써야 합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2020-local-korean-B-q16",
+      "paperId": "paper_civil_korean_2020_local_B",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2020/local-B/q16.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n작품에 제시된 공간의 모습을 정확히 읽어 내는 문제입니다. 아이들이 낮은 철조망을 '깨금발로 뛰어넘었다'는 대목에서 철조망이 넘을 수 있는 높이라는 점을 알 수 있습니다.",
+      "optionExplanations": [
+        "'시를 남북으로 나누며 달리는 철도'라는 표현에서 도시가 철길로 나뉘어 있음을 알 수 있습니다.",
+        "항만 북쪽 끝의 제분 공장과 철도 건너 저탄장이 제시되어 있으므로 적절합니다.",
+        "아이들이 '낮은 철조망을 깨금발로 뛰어넘었다'고 했으므로 넘을 수 없는 철조망이라는 설명은 적절하지 않습니다. 정답입니다.",
+        "선창의 간이 음식점에서 석탄을 노획량에 따라 가락국수, 만두, 찐빵 등과 바꾸었으므로 적절합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2020-local-korean-B-q17",
+      "paperId": "paper_civil_korean_2020_local_B",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2020/local-B/q17.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n조류 인플루엔자 바이러스와 면역계의 관계를 좀도둑에 비유한 글입니다. ㉢ '강도로 돌변한다'는 애초의 좀도둑이 면역계와 싸우며 강도처럼 위협적인 존재가 된다는 뜻으로, 치명적인 바이러스(H5N1)에 대응합니다.",
+      "optionExplanations": [
+        "㉠ '좀도둑'은 작은 손해를 감수하고 내보내는 존재, 곧 계절 독감 정도의 바이러스를 가리킵니다.",
+        "㉡ '몽둥이를 들고 도둑과 싸우려 드는' 것은 인체의 면역계가 과민 반응을 일으키는 것을 가리킵니다.",
+        "㉢ '강도로 돌변한다'는 면역계와 싸우며 치명적인 존재가 된 바이러스를 가리키므로 적절합니다. 정답입니다.",
+        "㉣ '승리의 대가'는 숙주가 죽어 바이러스도 함께 죽어야 하는 것을 가리킵니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4
+    },
+    {
+      "id": "civil2020-local-korean-B-q18",
+      "paperId": "paper_civil_korean_2020_local_B",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2020/local-B/q18.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n미국인의 소득이 영국을 넘어선 사실(ㄱ)에서 시작해 그 배경(ㄷ)과 초기 정착기의 풍요로움(ㅁ)을 설명하고, 이어 남북전쟁 이후 성장 원인에 대한 통념(ㄹ)과 그에 대한 반박(ㄴ)으로 마무리하는 흐름이 자연스럽습니다. ㄴ의 '그러한 분야'는 ㄹ에 제시된 과학·기술, 기업가 정신 등을 가리킵니다.",
+      "optionExplanations": [
+        "ㄱ으로 사실을 제시하고 ㄷ에서 배경을, ㅁ에서 초기 정착기의 풍요로움을 설명한 뒤 ㄹ의 통념과 ㄴ의 반박으로 이어져 자연스럽습니다. 정답입니다.",
+        "ㄹ의 '남북전쟁 이후'는 ㄱ의 1700년대 중반보다 뒤의 시점이므로 ㄱ 다음에 바로 이어지기 어렵습니다.",
+        "ㄹ로 시작하면 ㄴ의 '그러한 분야'가 가리킬 내용이 먼저 제시되지 않아 연결이 어색합니다.",
+        "ㄷ의 '이후로도 소득은 계속 증가했다'는 ㄱ 뒤에 이어져야 하므로 ㄱ보다 뒤에 놓인 이 순서는 자연스럽지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4
+    },
+    {
+      "id": "civil2020-local-korean-B-q19",
+      "paperId": "paper_civil_korean_2020_local_B",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2020/local-B/q19.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n확증 편향의 개념과 그 심리적 이점, 실험 사례를 설명한 글입니다. 사람들이 믿음과 일치하는 정보를 받아들이고 반대 정보를 무시하는 경향은 확인할 수 있지만, 새로운 정보 자체가 심리적 불안을 일으킨다는 내용은 글에 없습니다.",
+      "optionExplanations": [
+        "동의하지 않는 정보를 접하면 뇌 회로가 활성화되지 않는다는 대목에서 행동을 바꾸지 않으려는 경향을 추론할 수 있습니다.",
+        "반대 당 후보의 모순은 잘 찾고 지지 후보의 모순은 절반만 찾았다는 대목에서 객관적 판단이 어렵다는 특성을 추론할 수 있습니다.",
+        "자신의 견해와 일치하는 정보를 수용하고 반대 정보를 무시한다는 설명에서 신념을 강화하는 경향을 추론할 수 있습니다.",
+        "글에는 새로운 정보를 접할 때 심리적 불안을 느낀다는 내용이 없습니다. 추론할 수 없으므로 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4
+    },
+    {
+      "id": "civil2020-local-korean-B-q20",
+      "paperId": "paper_civil_korean_2020_local_B",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2020/local-B/q20.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n주몽 설화에서 서술된 행위의 주체를 문맥으로 확인하는 문제입니다. ㉢은 알에서 나온 아이(주몽)가, ㉥은 주몽이 말을 먹여 살찌게 한 행위이므로 주체가 같습니다.",
+      "optionExplanations": [
+        "㉠은 유화가, ㉡은 금와왕이 한 행위이므로 주체가 다릅니다.",
+        "㉡은 금와왕, ㉣은 나라의 풍속(사람들)에 해당하여 주체가 다릅니다.",
+        "㉢은 알에서 깨 나온 아이(주몽)가, ㉥은 주몽이 한 행위이므로 주체가 같습니다. 정답입니다.",
+        "㉣은 나라 풍속(사람들)이, ㉤은 주몽을 없애려는 금와왕이 주체이므로 다릅니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4
+    }
+  ]
+}
