@@ -11,8 +11,8 @@
     },
     {
       "id": "nursing",
-      "name": "간호직",
-      "desc": "간호관리 · 지역사회간호",
+      "name": "8·9급 공무원",
+      "desc": "8급 간호·보건진료 공통·전공 과목",
       "categoryGroup": "공무원",
       "order": 11,
       "hidden": true,
