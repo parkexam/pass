@@ -284,3 +284,8 @@ button.scan-link small{font-size:12px;text-decoration:none}
 .history-delete-btn:active{background:#ffe5e9}
 .history-delete-note{color:#79859b;font-size:11px;line-height:1.6;margin:4px 0 12px}
 @media(max-width:360px){.result-topbar{gap:6px}.history-delete-btn{padding:9px 10px;font-size:11px}.history-delete-note{font-size:10px}}
+
+/* 결과 화면 — 시험지 제목 · 응시일 */
+.result-paper{margin:9px 0 0}
+.result-paper-title{display:block;font-size:16px;font-weight:850;line-height:1.45;letter-spacing:-.045em;color:var(--ink);word-break:keep-all;overflow-wrap:anywhere}
+.result-paper-meta{display:inline-block;margin-top:4px;font-size:12px;font-weight:650;color:var(--muted)}

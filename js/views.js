@@ -64,9 +64,16 @@ function result(){
  const totalTime=hasClock?formatClock(h.totalSpentMs??h.timeSpentMs.reduce((s,v)=>s+(Number(v)||0),0)):null;
  const timeLabel=i=>hasClock?`<span class="result-time">⏱ ${formatClock(h.timeSpentMs[i]||0)}</span>`:'';
   const canDelete=!!db.history.find(x=>x.id===h.id);
+  // 결과 화면에서 무슨 시험을 봤는지 한눈에 알 수 있도록 시험지 제목과 응시일을 남깁니다.
+  const reviewPapers=reviewMode?[...new Set(h.items.map(q=>paperBy(q.paperId)?.title).filter(Boolean))]:[];
+  const paperLabel=reviewMode
+    ?(reviewPapers.length?reviewPapers.slice(0,2).join(' · ')+(reviewPapers.length>2?` 외 ${reviewPapers.length-2}개 시험지`:''):'오답 복습')
+    :String(h.title||paperBy(h.paperId)?.title||'').trim();
+  const paperBlock=`<div class="result-paper">${paperLabel?`<b class="result-paper-title">${esc(paperLabel)}</b>`:''}<span class="result-paper-meta">${esc(formatDay(h.time))} ${reviewMode?'복습':'응시'}</span></div>`;
   return `<div class="result-topbar"><button class="back" data-act="view" data-val="history">← 내가 푼 기출 목록</button>${canDelete?`<button type="button" class="history-delete-btn" data-act="historyDelete" data-val="${esc(h.id)}">기록 삭제</button>`:''}</div>
   ${canDelete?`<p class="history-delete-note">${reviewMode?'오답 복습은 누적 풀이·평균 정답률에 집계되지 않아요. 삭제하면 이 복습 기록만 제거돼요.':'기록 삭제 시 누적 풀이·평균 정답률 집계에서 제외되고, 이 응시로 발생한 오답도 정리돼요.'}</p>`:''}
  <h1 class="titleline" style="margin-top:16px">${reviewMode?'오답 복습을 마쳤어요!':'시험이 끝났어요!'}</h1>
+ ${paperBlock}
  <p class="description">문항번호의 ○·×를 누르면 정답과 해설을 확인할 수 있어요.</p>
  ${reviewMode?`<div class="scorecard review-scorecard"><span class="small">오답 복습 결과</span>
  <div class="review-scoreline">오답 ${n}문항 중<br><strong>정답 ${ok}문항</strong></div>
