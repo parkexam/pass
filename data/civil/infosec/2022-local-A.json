@@ -451,7 +451,7 @@
    ],
    "answer": 0,
    "imageUrl": "assets/questions/civil/infosec/2022/local-A/q19.webp",
-   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nPGP는 분산된 키 인증(신뢰망) 방식이고 PEM은 중앙 집중화된 인증서 기반 방식이므로, 두 방식을 뒤바꾼 설명은 옳지 않다. PGP의 암호화·부인방지 기능에 관한 설명은 옳다.",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n※ 공개 최종정답은 1, 2 복수정답이며, 앱은 단일 정답 규격에 따라 ①을 정답으로 표시합니다.\nPGP는 분산된 키 인증(신뢰망) 방식이고 PEM은 중앙 집중화된 인증서 기반 방식이므로, 두 방식을 뒤바꾼 설명은 옳지 않다. PGP의 암호화·부인방지 기능에 관한 설명은 옳다.",
    "explanationStatus": "draft_review_required",
    "sourcePage": 3,
    "optionExplanations": [

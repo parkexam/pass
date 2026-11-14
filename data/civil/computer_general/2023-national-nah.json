@@ -403,7 +403,7 @@
    ],
    "answer": 0,
    "imageUrl": "assets/questions/civil/computer_general/2023/national-nah/q17.webp",
-   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nS를 기준으로 T를 LEFT JOIN하면 S의 모든 행이 남고, T와 연결되는 행은 T의 열 값이 채워지며 연결되지 않는 행은 NULL이 된다. 제시된 실행 결과에 해당하는 것은 첫 번째 결과이다.",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n※ 공개 최종정답은 1, 2 복수정답이며, 앱은 단일 정답 규격에 따라 ①을 정답으로 표시합니다.\nS를 기준으로 T를 LEFT JOIN하면 S의 모든 행이 남고, T와 연결되는 행은 T의 열 값이 채워지며 연결되지 않는 행은 NULL이 된다. 제시된 실행 결과에 해당하는 것은 첫 번째 결과이다.",
    "explanationStatus": "draft_review_required",
    "sourcePage": 2,
    "optionExplanations": [
