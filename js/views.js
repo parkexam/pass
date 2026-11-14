@@ -67,7 +67,7 @@ function result(){
   // 결과 화면에서 무슨 시험을 봤는지 한눈에 알 수 있도록 시험지 제목과 응시일을 남깁니다.
   const reviewPapers=reviewMode?[...new Set(h.items.map(q=>paperBy(q.paperId)?.title).filter(Boolean))]:[];
   const paperLabel=reviewMode
-    ?(reviewPapers.length?reviewPapers.slice(0,2).join(' · ')+(reviewPapers.length>2?` 외 ${reviewPapers.length-2}개 시험지`:''):'오답 복습')
+    ?(reviewPapers.length?reviewPapers.slice(0,1).join('')+(reviewPapers.length>1?` 외 ${reviewPapers.length-1}개 시험지`:''):'오답 복습')
     :String(h.title||paperBy(h.paperId)?.title||'').trim();
   const paperBlock=`<div class="result-paper">${paperLabel?`<b class="result-paper-title">${esc(paperLabel)}</b>`:''}<span class="result-paper-meta">${esc(formatDay(h.time))} ${reviewMode?'복습':'응시'}</span></div>`;
   return `<div class="result-topbar"><button class="back" data-act="view" data-val="history">← 내가 푼 기출 목록</button>${canDelete?`<button type="button" class="history-delete-btn" data-act="historyDelete" data-val="${esc(h.id)}">기록 삭제</button>`:''}</div>
