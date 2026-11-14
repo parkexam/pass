@@ -1,1244 +1,1304 @@
 {
-  "version": 1,
-  "exams": [
-    {
-      "id": "leet",
-      "name": "LEET",
-      "desc": "법학적성시험 · 추리논증"
-    },
-    {
-      "id": "nursing",
-      "name": "간호직",
-      "desc": "간호관리 · 지역사회간호"
-    },
-    {
-      "id": "civil",
-      "name": "9급 공무원",
-      "desc": "국어 · 영어 · 한국사 · 행정법총론 · 행정학개론"
-    },
-    {
-      "id": "police",
-      "name": "경찰 공무원",
-      "desc": "형사법 · 경찰학 · 헌법"
-    }
-  ],
-  "subjects": [
-    {
-      "id": "sub_leet_1",
-      "examId": "leet",
-      "name": "추리논증"
-    },
-    {
-      "id": "sub_nursing_manage",
-      "examId": "nursing",
-      "name": "간호관리"
-    },
-    {
-      "id": "sub_civil_0",
-      "examId": "civil",
-      "name": "국어"
-    },
-    {
-      "id": "sub_civil_1",
-      "examId": "civil",
-      "name": "영어"
-    },
-    {
-      "id": "sub_nursing_community",
-      "examId": "nursing",
-      "name": "지역사회간호"
-    },
-    {
-      "id": "sub_civil_2",
-      "examId": "civil",
-      "name": "한국사"
-    },
-    {
-      "id": "sub_civil_3",
-      "examId": "civil",
-      "name": "행정법총론"
-    },
-    {
-      "id": "sub_civil_4",
-      "examId": "civil",
-      "name": "행정학개론"
-    },
-    {
-      "id": "sub_police_criminal",
-      "examId": "police",
-      "name": "형사법"
-    },
-    {
-      "id": "sub_police_science",
-      "examId": "police",
-      "name": "경찰학"
-    },
-    {
-      "id": "sub_police_const",
-      "examId": "police",
-      "name": "헌법"
-    }
-  ],
-  "papers": [
-    {
-      "id": "paper_leet_2027_reasoning",
-      "subjectId": "sub_leet_1",
-      "title": "2027학년도 LEET 추리논증 (제2교시)",
-      "year": 2027,
-      "source": "제공된 문제지·정답표 기준 · 해설 미제공",
-      "questionCount": 40,
-      "dataFile": "data/leet/reasoning/2027.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_korean_2026_national_gah",
-      "subjectId": "sub_civil_0",
-      "title": "2026 국가직 9급 국어 가책형",
-      "year": 2026,
-      "source": "제공된 2026 국가직 가책형 문제지·정답표 기준 · 상세 해설 추후 등록",
-      "questionCount": 20,
-      "dataFile": "data/civil/korean/2026-national-gah.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_english_2026_national_gah",
-      "subjectId": "sub_civil_1",
-      "title": "2026 국가직 9급 영어 가책형",
-      "year": 2026,
-      "source": "제공된 2026 국가직 영어 가책형 문제지·정답표 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/english/2026-national-gah.json",
-      "external": true
-    },
-    {
-      "id": "paper_nursing_management_2026_local_D",
-      "subjectId": "sub_nursing_manage",
-      "title": "2026 지방직 9급 간호관리 D책형",
-      "year": 2026,
-      "source": "제공된 2026 간호관리 D책형 문제지·정답표 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/nursing/management/2026-local-D.json",
-      "external": true
-    },
-    {
-      "id": "paper_nursing_community_2026_local_D",
-      "subjectId": "sub_nursing_community",
-      "title": "2026 지방직 9급 지역사회간호 D책형",
-      "year": 2026,
-      "source": "2026 지방공무원 지역사회간호 D책형 PDF 및 사용자 제공 정답표 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/nursing/community/2026-local-D.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_korean_2026_local_D",
-      "subjectId": "sub_civil_0",
-      "title": "2026 지방직 9급 국어 D책형",
-      "year": 2026,
-      "source": "2026 지방직 9급 국어 D책형 PDF 및 사용자 제공 정답표 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/korean/2026-local-D.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_english_2026_local_D",
-      "subjectId": "sub_civil_1",
-      "title": "2026 지방직 9급 영어 D책형",
-      "year": 2026,
-      "source": "사용자 제공 2026 지방공무원 9급 영어 D책형 문제지와 정답표 (선택지별 자체 해설 초안)",
-      "questionCount": 20,
-      "dataFile": "data/civil/english/2026-local-D.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_korean_2025_local_B",
-      "subjectId": "sub_civil_0",
-      "title": "2025 지방직 9급 국어 B책형",
-      "year": 2025,
-      "source": "2025 지방직 9급 국어 B책형 PDF 및 공개 정답표 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/korean/2025-local-B.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_english_2025_local_B",
-      "subjectId": "sub_civil_1",
-      "title": "2025 지방직 9급 영어 B책형",
-      "year": 2025,
-      "source": "2025 지방직 9급 영어 B책형 PDF 및 공개 정답표 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/english/2025-local-B.json",
-      "external": true
-    },
-    {
-      "id": "paper_nursing_management_2025_local_B",
-      "subjectId": "sub_nursing_manage",
-      "title": "2025 지방직 9급 간호관리 B책형",
-      "year": 2025,
-      "source": "2025 지방직 9급 간호관리 B책형 PDF 및 공개 정답표 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/nursing/management/2025-local-B.json",
-      "external": true
-    },
-    {
-      "id": "paper_nursing_community_2025_local_B",
-      "subjectId": "sub_nursing_community",
-      "title": "2025 지방직 9급 지역사회간호 B책형",
-      "year": 2025,
-      "source": "2025 지방직 9급 지역사회간호 B책형 PDF 및 공개 정답표 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/nursing/community/2025-local-B.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_korean_2025_national_nah",
-      "subjectId": "sub_civil_0",
-      "title": "2025 국가직 9급 국어 나책형",
-      "year": 2025,
-      "source": "2025 국가직 9급 국어 나책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/korean/2025-national-nah.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_english_2025_national_nah",
-      "subjectId": "sub_civil_1",
-      "title": "2025 국가직 9급 영어 나책형",
-      "year": 2025,
-      "source": "2025 국가직 9급 영어 나책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/english/2025-national-nah.json",
-      "external": true
-    },
-    {
-      "id": "paper_leet_2026_reasoning",
-      "subjectId": "sub_leet_1",
-      "title": "2026학년도 LEET 추리논증 (홀수형)",
-      "year": 2026,
-      "source": "2026학년도 법학적성시험 추리논증 홀수형 문제지 및 공개 정답표 기준 · 해설 미제공",
-      "questionCount": 40,
-      "dataFile": "data/leet/reasoning/2026.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_korean_2024_local_C",
-      "subjectId": "sub_civil_0",
-      "title": "2024 지방직 9급 국어 C책형",
-      "year": 2024,
-      "source": "2024 지방직 9급 국어 C책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/korean/2024-local-C.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_english_2024_local_C",
-      "subjectId": "sub_civil_1",
-      "title": "2024 지방직 9급 영어 C책형",
-      "year": 2024,
-      "source": "2024 지방직 9급 영어 C책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/english/2024-local-C.json",
-      "external": true
-    },
-    {
-      "id": "paper_nursing_management_2024_local_C",
-      "subjectId": "sub_nursing_manage",
-      "title": "2024 지방직 9급 간호관리 C책형",
-      "year": 2024,
-      "source": "2024 지방직 9급 간호관리 C책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/nursing/management/2024-local-C.json",
-      "external": true
-    },
-    {
-      "id": "paper_nursing_community_2024_local_C",
-      "subjectId": "sub_nursing_community",
-      "title": "2024 지방직 9급 지역사회간호 C책형",
-      "year": 2024,
-      "source": "2024 지방직 9급 지역사회간호 C책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/nursing/community/2024-local-C.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_korean_2024_national_gah",
-      "subjectId": "sub_civil_0",
-      "title": "2024 국가직 9급 국어 가책형",
-      "year": 2024,
-      "source": "2024 국가직 9급 국어 가책형 PDF 및 인사혁신처 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/korean/2024-national-gah.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_english_2024_national_gah",
-      "subjectId": "sub_civil_1",
-      "title": "2024 국가직 9급 영어 가책형",
-      "year": 2024,
-      "source": "2024 국가직 9급 영어 가책형 PDF 및 인사혁신처 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/english/2024-national-gah.json",
-      "external": true
-    },
-    {
-      "id": "paper_leet_2025_reasoning",
-      "subjectId": "sub_leet_1",
-      "title": "2025학년도 LEET 추리논증 (홀수형)",
-      "year": 2025,
-      "source": "2025학년도 법학적성시험 추리논증 홀수형 문제지 및 공개 정답표 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 40,
-      "dataFile": "data/leet/reasoning/2025.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_korean_2023_local_B",
-      "subjectId": "sub_civil_0",
-      "title": "2023 지방직 9급 국어 B책형",
-      "year": 2023,
-      "source": "2023 지방직 9급 국어 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/korean/2023-local-B.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_english_2023_local_B",
-      "subjectId": "sub_civil_1",
-      "title": "2023 지방직 9급 영어 B책형",
-      "year": 2023,
-      "source": "2023 지방직 9급 영어 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/english/2023-local-B.json",
-      "external": true
-    },
-    {
-      "id": "paper_nursing_management_2023_local_B",
-      "subjectId": "sub_nursing_manage",
-      "title": "2023 지방직 9급 간호관리 B책형",
-      "year": 2023,
-      "source": "2023 지방직 9급 간호관리 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/nursing/management/2023-local-B.json",
-      "external": true
-    },
-    {
-      "id": "paper_nursing_community_2023_local_B",
-      "subjectId": "sub_nursing_community",
-      "title": "2023 지방직 9급 지역사회간호 B책형",
-      "year": 2023,
-      "source": "2023 지방직 9급 지역사회간호 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/nursing/community/2023-local-B.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_korean_2023_national_nah",
-      "subjectId": "sub_civil_0",
-      "title": "2023 국가직 9급 국어 나책형",
-      "year": 2023,
-      "source": "2023 국가직 9급 국어 나책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/korean/2023-national-nah.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_english_2023_national_nah",
-      "subjectId": "sub_civil_1",
-      "title": "2023 국가직 9급 영어 나책형",
-      "year": 2023,
-      "source": "2023 국가직 9급 영어 나책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/english/2023-national-nah.json",
-      "external": true
-    },
-    {
-      "id": "paper_leet_2024_reasoning",
-      "subjectId": "sub_leet_1",
-      "title": "2024학년도 LEET 추리논증 (홀수형)",
-      "year": 2024,
-      "source": "2024학년도 법학적성시험 추리논증 홀수형 문제지 및 공개 정답표 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 40,
-      "dataFile": "data/leet/reasoning/2024.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_korean_2022_local_A",
-      "subjectId": "sub_civil_0",
-      "title": "2022 지방직 9급 국어 A책형",
-      "year": 2022,
-      "source": "2022 지방직 9급 국어 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/korean/2022-local-A.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_english_2022_local_A",
-      "subjectId": "sub_civil_1",
-      "title": "2022 지방직 9급 영어 A책형",
-      "year": 2022,
-      "source": "2022 지방직 9급 영어 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/english/2022-local-A.json",
-      "external": true
-    },
-    {
-      "id": "paper_nursing_management_2022_seoul8_A",
-      "subjectId": "sub_nursing_manage",
-      "title": "2022 지방직(서울시) 8급 간호관리 A책형",
-      "year": 2022,
-      "source": "2022년도 제2회 서울특별시 지방공무원 임용 필기시험 간호관리(8급) A책형 PDF 및 서울시 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/nursing/management/2022-seoul8-A.json",
-      "external": true
-    },
-    {
-      "id": "paper_nursing_community_2022_local_A",
-      "subjectId": "sub_nursing_community",
-      "title": "2022 지방직 9급 지역사회간호 A책형",
-      "year": 2022,
-      "source": "2022 지방직 9급 지역사회간호 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/nursing/community/2022-local-A.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_korean_2022_national_gah",
-      "subjectId": "sub_civil_0",
-      "title": "2022 국가직 9급 국어 가책형",
-      "year": 2022,
-      "source": "2022 국가직 9급 국어 가책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/korean/2022-national-gah.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_english_2022_national_gah",
-      "subjectId": "sub_civil_1",
-      "title": "2022 국가직 9급 영어 가책형",
-      "year": 2022,
-      "source": "2022 국가직 9급 영어 가책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/english/2022-national-gah.json",
-      "external": true
-    },
-    {
-      "id": "paper_leet_2023_reasoning",
-      "subjectId": "sub_leet_1",
-      "title": "2023학년도 LEET 추리논증 (홀수형)",
-      "year": 2023,
-      "source": "2023학년도 법학적성시험 추리논증 홀수형 문제지 및 공개 정답표 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 40,
-      "dataFile": "data/leet/reasoning/2023.json",
-      "external": true
-    },
-    {
-      "id": "paper_leet_2022_reasoning",
-      "subjectId": "sub_leet_1",
-      "title": "2022학년도 LEET 추리논증 (홀수형)",
-      "year": 2022,
-      "source": "2022학년도 법학적성시험 추리논증 홀수형 문제지 및 공개 정답표 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 40,
-      "dataFile": "data/leet/reasoning/2022.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_korean_2021_local_A",
-      "subjectId": "sub_civil_0",
-      "title": "2021 지방직 9급 국어 A책형",
-      "year": 2021,
-      "source": "2021 지방직 9급 국어 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/korean/2021-local-A.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_english_2021_local_A",
-      "subjectId": "sub_civil_1",
-      "title": "2021 지방직 9급 영어 A책형",
-      "year": 2021,
-      "source": "2021 지방직 9급 영어 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/english/2021-local-A.json",
-      "external": true
-    },
-    {
-      "id": "paper_nursing_management_2021_local_A",
-      "subjectId": "sub_nursing_manage",
-      "title": "2021 지방직 9급 간호관리 A책형",
-      "year": 2021,
-      "source": "2021 지방직 9급 간호관리 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/nursing/management/2021-local-A.json",
-      "external": true
-    },
-    {
-      "id": "paper_nursing_community_2021_local_A",
-      "subjectId": "sub_nursing_community",
-      "title": "2021 지방직 9급 지역사회간호 A책형",
-      "year": 2021,
-      "source": "2021 지방직 9급 지역사회간호 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/nursing/community/2021-local-A.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_korean_2021_national_nah",
-      "subjectId": "sub_civil_0",
-      "title": "2021 국가직 9급 국어 나책형",
-      "year": 2021,
-      "source": "2021 국가직 9급 국어 나책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/korean/2021-national-nah.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_english_2021_national_nah",
-      "subjectId": "sub_civil_1",
-      "title": "2021 국가직 9급 영어 나책형",
-      "year": 2021,
-      "source": "2021 국가직 9급 영어 나책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/english/2021-national-nah.json",
-      "external": true
-    },
-    {
-      "id": "paper_nursing_management_2020_local_B",
-      "subjectId": "sub_nursing_manage",
-      "title": "2020 지방직 9급 간호관리 B책형",
-      "year": 2020,
-      "source": "2020년도 지방공무원 9급 등 공개경쟁임용 필기시험 간호관리 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/nursing/management/2020-local-B.json",
-      "external": true
-    },
-    {
-      "id": "paper_nursing_community_2020_local_B",
-      "subjectId": "sub_nursing_community",
-      "title": "2020 지방직 9급 지역사회간호 B책형",
-      "year": 2020,
-      "source": "2020년도 지방공무원 9급 등 공개경쟁임용 필기시험 지역사회간호 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/nursing/community/2020-local-B.json",
-      "external": true
-    },
-    {
-      "id": "paper_nursing_management_2019_local_A",
-      "subjectId": "sub_nursing_manage",
-      "title": "2019 지방직 9급 간호관리 A책형",
-      "year": 2019,
-      "source": "2019년도 지방공무원 9급 등 공개경쟁임용 필기시험 간호관리 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/nursing/management/2019-local-A.json",
-      "external": true
-    },
-    {
-      "id": "paper_nursing_community_2019_local_A",
-      "subjectId": "sub_nursing_community",
-      "title": "2019 지방직 9급 지역사회간호 A책형",
-      "year": 2019,
-      "source": "2019년도 지방공무원 9급 등 공개경쟁임용 필기시험 지역사회간호 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/nursing/community/2019-local-A.json",
-      "external": true
-    },
-    {
-      "id": "paper_nursing_management_2018_local_B",
-      "subjectId": "sub_nursing_manage",
-      "title": "2018 지방직 9급 간호관리 B책형",
-      "year": 2018,
-      "source": "2018년도 지방공무원 9급 등 공개경쟁임용 필기시험 간호관리 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/nursing/management/2018-local-B.json",
-      "external": true
-    },
-    {
-      "id": "paper_nursing_community_2018_local_B",
-      "subjectId": "sub_nursing_community",
-      "title": "2018 지방직 9급 지역사회간호 B책형",
-      "year": 2018,
-      "source": "2018년도 지방공무원 9급 등 공개경쟁임용 필기시험 지역사회간호 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/nursing/community/2018-local-B.json",
-      "external": true
-    },
-    {
-      "id": "paper_nursing_management_2017_local_B",
-      "subjectId": "sub_nursing_manage",
-      "title": "2017 지방직 9급 간호관리 B책형",
-      "year": 2017,
-      "source": "2017년도 9급 지방공무원 임용 필기시험 간호관리 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/nursing/management/2017-local-B.json",
-      "external": true
-    },
-    {
-      "id": "paper_nursing_community_2017_local_B",
-      "subjectId": "sub_nursing_community",
-      "title": "2017 지방직 9급 지역사회간호 B책형",
-      "year": 2017,
-      "source": "2017년도 9급 지방공무원 임용 필기시험 지역사회간호 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/nursing/community/2017-local-B.json",
-      "external": true
-    },
-    {
-      "id": "paper_nursing_management_2016_local_A",
-      "subjectId": "sub_nursing_manage",
-      "title": "2016 지방직 9급 간호관리 A책형",
-      "year": 2016,
-      "source": "2016년도 9급 등 지방공무원 임용 필기시험 간호관리 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/nursing/management/2016-local-A.json",
-      "external": true
-    },
-    {
-      "id": "paper_nursing_community_2016_local_A",
-      "subjectId": "sub_nursing_community",
-      "title": "2016 지방직 9급 지역사회간호 A책형",
-      "year": 2016,
-      "source": "2016년도 9급 등 지방공무원 임용 필기시험 지역사회간호 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/nursing/community/2016-local-A.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_korean_2020_local_B",
-      "subjectId": "sub_civil_0",
-      "title": "2020 지방직 9급 국어 B책형",
-      "year": 2020,
-      "source": "2020년도 지방공무원 9급 등 공개경쟁임용 필기시험 국어 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/korean/2020-local-B.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_english_2020_local_B",
-      "subjectId": "sub_civil_1",
-      "title": "2020 지방직 9급 영어 B책형",
-      "year": 2020,
-      "source": "2020년도 지방공무원 9급 등 공개경쟁임용 필기시험 영어 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/english/2020-local-B.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_korean_2019_local_A",
-      "subjectId": "sub_civil_0",
-      "title": "2019 지방직 9급 국어 A책형",
-      "year": 2019,
-      "source": "2019년도 지방공무원 9급 등 공개경쟁임용 필기시험 국어 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/korean/2019-local-A.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_english_2019_local_A",
-      "subjectId": "sub_civil_1",
-      "title": "2019 지방직 9급 영어 A책형",
-      "year": 2019,
-      "source": "2019년도 지방공무원 9급 등 공개경쟁임용 필기시험 영어 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/english/2019-local-A.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_korean_2018_local_B",
-      "subjectId": "sub_civil_0",
-      "title": "2018 지방직 9급 국어 B책형",
-      "year": 2018,
-      "source": "2018년도 지방공무원 9급 등 공개경쟁임용 필기시험 국어 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/korean/2018-local-B.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_english_2018_local_B",
-      "subjectId": "sub_civil_1",
-      "title": "2018 지방직 9급 영어 B책형",
-      "year": 2018,
-      "source": "2018년도 지방공무원 9급 등 공개경쟁임용 필기시험 영어 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/english/2018-local-B.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_korean_2017_local_B",
-      "subjectId": "sub_civil_0",
-      "title": "2017 지방직 9급 국어 B책형",
-      "year": 2017,
-      "source": "2017년도 9급 지방공무원 임용 필기시험 국어 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/korean/2017-local-B.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_english_2017_local_B",
-      "subjectId": "sub_civil_1",
-      "title": "2017 지방직 9급 영어 B책형",
-      "year": 2017,
-      "source": "2017년도 9급 지방공무원 임용 필기시험 영어 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/english/2017-local-B.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_korean_2016_local_A",
-      "subjectId": "sub_civil_0",
-      "title": "2016 지방직 9급 국어 A책형",
-      "year": 2016,
-      "source": "2016년도 9급 등 지방공무원 임용 필기시험 국어 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/korean/2016-local-A.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_english_2016_local_A",
-      "subjectId": "sub_civil_1",
-      "title": "2016 지방직 9급 영어 A책형",
-      "year": 2016,
-      "source": "2016년도 9급 등 지방공무원 임용 필기시험 영어 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/english/2016-local-A.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_admin_law_2026_national_gah",
-      "subjectId": "sub_civil_3",
-      "title": "2026 국가직 9급 행정법총론 가책형",
-      "year": 2026,
-      "source": "2026년도 국가공무원 9급 공채 필기시험 행정법총론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/admin_law/2026-national-gah.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_admin_sci_2026_national_gah",
-      "subjectId": "sub_civil_4",
-      "title": "2026 국가직 9급 행정학개론 가책형",
-      "year": 2026,
-      "source": "2026년도 국가공무원 9급 공채 필기시험 행정학개론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/admin_sci/2026-national-gah.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_admin_law_2026_local_D",
-      "subjectId": "sub_civil_3",
-      "title": "2026 지방직 9급 행정법총론 D책형",
-      "year": 2026,
-      "source": "2026년도 지방공무원 9급 공개경쟁임용 등 필기시험 행정법총론 D책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/admin_law/2026-local-D.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_admin_sci_2026_local_D",
-      "subjectId": "sub_civil_4",
-      "title": "2026 지방직 9급 행정학개론 D책형",
-      "year": 2026,
-      "source": "2026년도 지방공무원 9급 공개경쟁임용 등 필기시험 행정학개론 D책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/admin_sci/2026-local-D.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_admin_law_2025_national_nah",
-      "subjectId": "sub_civil_3",
-      "title": "2025 국가직 9급 행정법총론 나책형",
-      "year": 2025,
-      "source": "2025년도 국가공무원 9급 공채 필기시험 행정법총론 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/admin_law/2025-national-nah.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_admin_sci_2025_national_nah",
-      "subjectId": "sub_civil_4",
-      "title": "2025 국가직 9급 행정학개론 나책형",
-      "year": 2025,
-      "source": "2025년도 국가공무원 9급 공채 필기시험 행정학개론 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/admin_sci/2025-national-nah.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_admin_sci_2025_local_B",
-      "subjectId": "sub_civil_4",
-      "title": "2025 지방직 9급 행정학개론 B책형",
-      "year": 2025,
-      "source": "2025년도 지방공무원 9급 등 공개경쟁임용 필기시험 행정학개론 B책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/admin_sci/2025-local-B.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_admin_law_2025_local_B",
-      "subjectId": "sub_civil_3",
-      "title": "2025 지방직 9급 행정법총론 B책형",
-      "year": 2025,
-      "source": "2025년도 지방공무원 9급 등 공개경쟁임용 필기시험 행정법총론 B책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/admin_law/2025-local-B.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_korean_2020_national_gah",
-      "subjectId": "sub_civil_0",
-      "title": "2020 국가직 9급 국어 가책형",
-      "year": 2020,
-      "source": "2020 국가직 9급 국어 가책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/korean/2020-national-gah.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_english_2020_national_gah",
-      "subjectId": "sub_civil_1",
-      "title": "2020 국가직 9급 영어 가책형",
-      "year": 2020,
-      "source": "2020 국가직 9급 영어 가책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/english/2020-national-gah.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_korean_2019_national_nah",
-      "subjectId": "sub_civil_0",
-      "title": "2019 국가직 9급 국어 나책형",
-      "year": 2019,
-      "source": "2019 국가직 9급 국어 나책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/korean/2019-national-nah.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_english_2019_national_nah",
-      "subjectId": "sub_civil_1",
-      "title": "2019 국가직 9급 영어 나책형",
-      "year": 2019,
-      "source": "2019 국가직 9급 영어 나책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/english/2019-national-nah.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_korean_2018_national_gah",
-      "subjectId": "sub_civil_0",
-      "title": "2018 국가직 9급 국어 가책형",
-      "year": 2018,
-      "source": "2018 국가직 9급 국어 가책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/korean/2018-national-gah.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_english_2018_national_gah",
-      "subjectId": "sub_civil_1",
-      "title": "2018 국가직 9급 영어 가책형",
-      "year": 2018,
-      "source": "2018 국가직 9급 영어 가책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/english/2018-national-gah.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_korean_2017_national_nah",
-      "subjectId": "sub_civil_0",
-      "title": "2017 국가직 9급 국어 나책형",
-      "year": 2017,
-      "source": "2017년도 국가공무원 9급 공개경쟁채용 필기시험 국어 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/korean/2017-national-nah.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_english_2017_national_nah",
-      "subjectId": "sub_civil_1",
-      "title": "2017 국가직 9급 영어 나책형",
-      "year": 2017,
-      "source": "2017년도 국가공무원 9급 공개경쟁채용 필기시험 영어 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/english/2017-national-nah.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_korean_2016_national_2",
-      "subjectId": "sub_civil_0",
-      "title": "2016 국가직 9급 국어 2책형",
-      "year": 2016,
-      "source": "2016년도 국가 9급 공채 필기시험 국어 2책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/korean/2016-national-2.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_english_2016_national_2",
-      "subjectId": "sub_civil_1",
-      "title": "2016 국가직 9급 영어 2책형",
-      "year": 2016,
-      "source": "2016년도 국가 9급 공채 필기시험 영어 2책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/english/2016-national-2.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_admin_law_2024_national_gah",
-      "subjectId": "sub_civil_3",
-      "title": "2024 국가직 9급 행정법총론 가책형",
-      "year": 2024,
-      "source": "2024년도 국가공무원 9급 공채 필기시험 행정법총론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/admin_law/2024-national-gah.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_admin_sci_2024_national_gah",
-      "subjectId": "sub_civil_4",
-      "title": "2024 국가직 9급 행정학개론 가책형",
-      "year": 2024,
-      "source": "2024년도 국가공무원 9급 공채 필기시험 행정학개론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/admin_sci/2024-national-gah.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_admin_law_2024_local_C",
-      "subjectId": "sub_civil_3",
-      "title": "2024 지방직 9급 행정법총론 C책형",
-      "year": 2024,
-      "source": "2024년도 지방공무원 9급 등 공개경쟁임용 필기시험 행정법총론 C책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/admin_law/2024-local-C.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_admin_sci_2024_local_C",
-      "subjectId": "sub_civil_4",
-      "title": "2024 지방직 9급 행정학개론 C책형",
-      "year": 2024,
-      "source": "2024년도 지방공무원 9급 등 공개경쟁임용 필기시험 행정학개론 C책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/admin_sci/2024-local-C.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_admin_law_2023_national_nah",
-      "subjectId": "sub_civil_3",
-      "title": "2023 국가직 9급 행정법총론 나책형",
-      "year": 2023,
-      "source": "2023년도 국가공무원 9급 공채 필기시험 행정법총론 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/admin_law/2023-national-nah.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_admin_sci_2023_national_nah",
-      "subjectId": "sub_civil_4",
-      "title": "2023 국가직 9급 행정학개론 나책형",
-      "year": 2023,
-      "source": "2023년도 국가공무원 9급 공채 필기시험 행정학개론 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/admin_sci/2023-national-nah.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_admin_law_2023_local_B",
-      "subjectId": "sub_civil_3",
-      "title": "2023 지방직 9급 행정법총론 B책형",
-      "year": 2023,
-      "source": "2023년도 지방공무원 9급 등 공개경쟁임용 필기시험 행정법총론 B책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/admin_law/2023-local-B.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_admin_sci_2023_local_B",
-      "subjectId": "sub_civil_4",
-      "title": "2023 지방직 9급 행정학개론 B책형",
-      "year": 2023,
-      "source": "2023년도 지방공무원 9급 등 공개경쟁임용 필기시험 행정학개론 B책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/admin_sci/2023-local-B.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_admin_law_2022_national_gah",
-      "subjectId": "sub_civil_3",
-      "title": "2022 국가직 9급 행정법총론 가책형",
-      "year": 2022,
-      "source": "2022년도 국가공무원 9급 공개경쟁채용 필기시험 행정법총론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/admin_law/2022-national-gah.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_admin_sci_2022_national_gah",
-      "subjectId": "sub_civil_4",
-      "title": "2022 국가직 9급 행정학개론 가책형",
-      "year": 2022,
-      "source": "2022년도 국가공무원 9급 공개경쟁채용 필기시험 행정학개론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/admin_sci/2022-national-gah.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_admin_law_2022_local_A",
-      "subjectId": "sub_civil_3",
-      "title": "2022 지방직 9급 행정법총론 A책형",
-      "year": 2022,
-      "source": "2022년도 시·도 지방공무원 9급 등 임용 필기시험 행정법총론 A책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/admin_law/2022-local-A.json",
-      "external": true
-    },
-    {
-      "id": "paper_civil_admin_sci_2022_local_A",
-      "subjectId": "sub_civil_4",
-      "title": "2022 지방직 9급 행정학개론 A책형",
-      "year": 2022,
-      "source": "2022년도 시·도 지방공무원 9급 등 임용 필기시험 행정학개론 A책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/civil/admin_sci/2022-local-A.json",
-      "external": true
-    },
-    {
-      "id": "paper_police_const_2026_r1",
-      "subjectId": "sub_police_const",
-      "title": "2026 순경 공개채용 1차 헌법",
-      "year": 2026,
-      "source": "2026년도 제1차 경찰공무원(순경) 공개채용 필기시험 헌법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/police/const/2026-r1.json",
-      "external": true
-    },
-    {
-      "id": "paper_police_const_2026_r2",
-      "subjectId": "sub_police_const",
-      "title": "2026 순경 공개채용 2차 헌법",
-      "year": 2026,
-      "source": "2026년도 제2차 경찰공무원(순경) 공개채용 필기시험 헌법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/police/const/2026-r2.json",
-      "external": true
-    },
-    {
-      "id": "paper_police_criminal_2026_r1",
-      "subjectId": "sub_police_criminal",
-      "title": "2026 순경 공개채용 1차 형사법",
-      "year": 2026,
-      "source": "2026년도 제1차 경찰공무원(순경) 공개채용 필기시험 형사법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 40,
-      "dataFile": "data/police/criminal/2026-r1.json",
-      "external": true
-    },
-    {
-      "id": "paper_police_criminal_2026_r2",
-      "subjectId": "sub_police_criminal",
-      "title": "2026 순경 공개채용 2차 형사법",
-      "year": 2026,
-      "source": "2026년도 제2차 경찰공무원(순경) 공개채용 필기시험 형사법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 40,
-      "dataFile": "data/police/criminal/2026-r2.json",
-      "external": true
-    },
-    {
-      "id": "paper_police_science_2026_r1",
-      "subjectId": "sub_police_science",
-      "title": "2026 순경 공개채용 1차 경찰학",
-      "year": 2026,
-      "source": "2026년도 제1차 경찰공무원(순경) 공개채용 필기시험 경찰학 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 40,
-      "dataFile": "data/police/science/2026-r1.json",
-      "external": true
-    },
-    {
-      "id": "paper_police_science_2026_r2",
-      "subjectId": "sub_police_science",
-      "title": "2026 순경 공개채용 2차 경찰학",
-      "year": 2026,
-      "source": "2026년도 제2차 경찰공무원(순경) 공개채용 필기시험 경찰학 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 40,
-      "dataFile": "data/police/science/2026-r2.json",
-      "external": true
-    },
-    {
-      "id": "paper_police_const_2025_r1",
-      "subjectId": "sub_police_const",
-      "title": "2025 순경 공개채용 1차 헌법",
-      "year": 2025,
-      "source": "2025년도 제1차 경찰공무원(순경) 공개채용 필기시험 헌법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/police/const/2025-r1.json",
-      "external": true
-    },
-    {
-      "id": "paper_police_const_2025_r2",
-      "subjectId": "sub_police_const",
-      "title": "2025 순경 공개채용 2차 헌법",
-      "year": 2025,
-      "source": "2025년도 제2차 경찰공무원(순경) 공개채용 필기시험 헌법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/police/const/2025-r2.json",
-      "external": true
-    },
-    {
-      "id": "paper_police_criminal_2025_r1",
-      "subjectId": "sub_police_criminal",
-      "title": "2025 순경 공개채용 1차 형사법",
-      "year": 2025,
-      "source": "2025년도 제1차 경찰공무원(순경) 공개채용 필기시험 형사법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 40,
-      "dataFile": "data/police/criminal/2025-r1.json",
-      "external": true
-    },
-    {
-      "id": "paper_police_criminal_2025_r2",
-      "subjectId": "sub_police_criminal",
-      "title": "2025 순경 공개채용 2차 형사법",
-      "year": 2025,
-      "source": "2025년도 제2차 경찰공무원(순경) 공개채용 필기시험 형사법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 40,
-      "dataFile": "data/police/criminal/2025-r2.json",
-      "external": true
-    },
-    {
-      "id": "paper_police_science_2025_r1",
-      "subjectId": "sub_police_science",
-      "title": "2025 순경 공개채용 1차 경찰학",
-      "year": 2025,
-      "source": "2025년도 제1차 경찰공무원(순경) 공개채용 필기시험 경찰학 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 40,
-      "dataFile": "data/police/science/2025-r1.json",
-      "external": true
-    },
-    {
-      "id": "paper_police_science_2025_r2",
-      "subjectId": "sub_police_science",
-      "title": "2025 순경 공개채용 2차 경찰학",
-      "year": 2025,
-      "source": "2025년도 제2차 경찰공무원(순경) 공개채용 필기시험 경찰학 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 40,
-      "dataFile": "data/police/science/2025-r2.json",
-      "external": true
-    },
-    {
-      "id": "paper_police_const_2024_r1",
-      "subjectId": "sub_police_const",
-      "title": "2024 순경 공개채용 1차 헌법",
-      "year": 2024,
-      "source": "2024년도 제1차 경찰공무원(순경) 공개채용 필기시험 헌법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/police/const/2024-r1.json",
-      "external": true
-    },
-    {
-      "id": "paper_police_const_2024_r2",
-      "subjectId": "sub_police_const",
-      "title": "2024 순경 공개채용 2차 헌법",
-      "year": 2024,
-      "source": "2024년도 제2차 경찰공무원(순경) 공개채용 필기시험 헌법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/police/const/2024-r2.json",
-      "external": true
-    },
-    {
-      "id": "paper_police_criminal_2024_r1",
-      "subjectId": "sub_police_criminal",
-      "title": "2024 순경 공개채용 1차 형사법",
-      "year": 2024,
-      "source": "2024년도 제1차 경찰공무원(순경) 공개채용 필기시험 형사법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 40,
-      "dataFile": "data/police/criminal/2024-r1.json",
-      "external": true
-    },
-    {
-      "id": "paper_police_criminal_2024_r2",
-      "subjectId": "sub_police_criminal",
-      "title": "2024 순경 공개채용 2차 형사법",
-      "year": 2024,
-      "source": "2024년도 제2차 경찰공무원(순경) 공개채용 필기시험 형사법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 40,
-      "dataFile": "data/police/criminal/2024-r2.json",
-      "external": true
-    },
-    {
-      "id": "paper_police_science_2024_r1",
-      "subjectId": "sub_police_science",
-      "title": "2024 순경 공개채용 1차 경찰학",
-      "year": 2024,
-      "source": "2024년도 제1차 경찰공무원(순경) 공개채용 필기시험 경찰학 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 40,
-      "dataFile": "data/police/science/2024-r1.json",
-      "external": true
-    },
-    {
-      "id": "paper_police_science_2024_r2",
-      "subjectId": "sub_police_science",
-      "title": "2024 순경 공개채용 2차 경찰학",
-      "year": 2024,
-      "source": "2024년도 제2차 경찰공무원(순경) 공개채용 필기시험 경찰학 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 40,
-      "dataFile": "data/police/science/2024-r2.json",
-      "external": true
-    },
-    {
-      "id": "paper_police_const_2023_r1",
-      "subjectId": "sub_police_const",
-      "title": "2023 순경 공개채용 1차 헌법",
-      "year": 2023,
-      "source": "2023년도 제1차 경찰공무원(순경) 공개채용 필기시험 헌법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/police/const/2023-r1.json",
-      "external": true
-    },
-    {
-      "id": "paper_police_const_2023_r2",
-      "subjectId": "sub_police_const",
-      "title": "2023 순경 공개채용 2차 헌법",
-      "year": 2023,
-      "source": "2023년도 제2차 경찰공무원(순경) 공개채용 필기시험 헌법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 20,
-      "dataFile": "data/police/const/2023-r2.json",
-      "external": true
-    },
-    {
-      "id": "paper_police_criminal_2023_r1",
-      "subjectId": "sub_police_criminal",
-      "title": "2023 순경 공개채용 1차 형사법",
-      "year": 2023,
-      "source": "2023년도 제1차 경찰공무원(순경) 공개채용 필기시험 형사법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 40,
-      "dataFile": "data/police/criminal/2023-r1.json",
-      "external": true
-    },
-    {
-      "id": "paper_police_criminal_2023_r2",
-      "subjectId": "sub_police_criminal",
-      "title": "2023 순경 공개채용 2차 형사법",
-      "year": 2023,
-      "source": "2023년도 제2차 경찰공무원(순경) 공개채용 필기시험 형사법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 40,
-      "dataFile": "data/police/criminal/2023-r2.json",
-      "external": true
-    },
-    {
-      "id": "paper_police_science_2023_r1",
-      "subjectId": "sub_police_science",
-      "title": "2023 순경 공개채용 1차 경찰학",
-      "year": 2023,
-      "source": "2023년도 제1차 경찰공무원(순경) 공개채용 필기시험 경찰학 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 40,
-      "dataFile": "data/police/science/2023-r1.json",
-      "external": true
-    },
-    {
-      "id": "paper_police_science_2023_r2",
-      "subjectId": "sub_police_science",
-      "title": "2023 순경 공개채용 2차 경찰학",
-      "year": 2023,
-      "source": "2023년도 제2차 경찰공무원(순경) 공개채용 필기시험 경찰학 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
-      "questionCount": 40,
-      "dataFile": "data/police/science/2023-r2.json",
-      "external": true
-    }
-  ]
+ "version": 1,
+ "exams": [
+  {
+   "id": "leet",
+   "name": "LEET",
+   "desc": "법학적성시험 · 추리논증"
+  },
+  {
+   "id": "nursing",
+   "name": "간호직",
+   "desc": "간호관리 · 지역사회간호"
+  },
+  {
+   "id": "civil",
+   "name": "9급 공무원",
+   "desc": "국어 · 영어 · 한국사 · 행정법총론 · 행정학개론"
+  },
+  {
+   "id": "police",
+   "name": "경찰 공무원",
+   "desc": "형사법 · 경찰학 · 헌법"
+  }
+ ],
+ "subjects": [
+  {
+   "id": "sub_leet_1",
+   "examId": "leet",
+   "name": "추리논증"
+  },
+  {
+   "id": "sub_nursing_manage",
+   "examId": "nursing",
+   "name": "간호관리"
+  },
+  {
+   "id": "sub_civil_0",
+   "examId": "civil",
+   "name": "국어"
+  },
+  {
+   "id": "sub_civil_1",
+   "examId": "civil",
+   "name": "영어"
+  },
+  {
+   "id": "sub_nursing_community",
+   "examId": "nursing",
+   "name": "지역사회간호"
+  },
+  {
+   "id": "sub_civil_2",
+   "examId": "civil",
+   "name": "한국사"
+  },
+  {
+   "id": "sub_civil_3",
+   "examId": "civil",
+   "name": "행정법총론"
+  },
+  {
+   "id": "sub_civil_4",
+   "examId": "civil",
+   "name": "행정학개론"
+  },
+  {
+   "id": "sub_police_criminal",
+   "examId": "police",
+   "name": "형사법"
+  },
+  {
+   "id": "sub_police_science",
+   "examId": "police",
+   "name": "경찰학"
+  },
+  {
+   "id": "sub_police_const",
+   "examId": "police",
+   "name": "헌법"
+  }
+ ],
+ "papers": [
+  {
+   "id": "paper_leet_2027_reasoning",
+   "subjectId": "sub_leet_1",
+   "title": "2027학년도 LEET 추리논증 (제2교시)",
+   "year": 2027,
+   "source": "제공된 문제지·정답표 기준 · 해설 미제공",
+   "questionCount": 40,
+   "dataFile": "data/leet/reasoning/2027.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_korean_2026_national_gah",
+   "subjectId": "sub_civil_0",
+   "title": "2026 국가직 9급 국어 가책형",
+   "year": 2026,
+   "source": "제공된 2026 국가직 가책형 문제지·정답표 기준 · 상세 해설 추후 등록",
+   "questionCount": 20,
+   "dataFile": "data/civil/korean/2026-national-gah.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_english_2026_national_gah",
+   "subjectId": "sub_civil_1",
+   "title": "2026 국가직 9급 영어 가책형",
+   "year": 2026,
+   "source": "제공된 2026 국가직 영어 가책형 문제지·정답표 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/english/2026-national-gah.json",
+   "external": true
+  },
+  {
+   "id": "paper_nursing_management_2026_local_D",
+   "subjectId": "sub_nursing_manage",
+   "title": "2026 지방직 9급 간호관리 D책형",
+   "year": 2026,
+   "source": "제공된 2026 간호관리 D책형 문제지·정답표 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/nursing/management/2026-local-D.json",
+   "external": true
+  },
+  {
+   "id": "paper_nursing_community_2026_local_D",
+   "subjectId": "sub_nursing_community",
+   "title": "2026 지방직 9급 지역사회간호 D책형",
+   "year": 2026,
+   "source": "2026 지방공무원 지역사회간호 D책형 PDF 및 사용자 제공 정답표 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/nursing/community/2026-local-D.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_korean_2026_local_D",
+   "subjectId": "sub_civil_0",
+   "title": "2026 지방직 9급 국어 D책형",
+   "year": 2026,
+   "source": "2026 지방직 9급 국어 D책형 PDF 및 사용자 제공 정답표 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/korean/2026-local-D.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_english_2026_local_D",
+   "subjectId": "sub_civil_1",
+   "title": "2026 지방직 9급 영어 D책형",
+   "year": 2026,
+   "source": "사용자 제공 2026 지방공무원 9급 영어 D책형 문제지와 정답표 (선택지별 자체 해설 초안)",
+   "questionCount": 20,
+   "dataFile": "data/civil/english/2026-local-D.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_korean_2025_local_B",
+   "subjectId": "sub_civil_0",
+   "title": "2025 지방직 9급 국어 B책형",
+   "year": 2025,
+   "source": "2025 지방직 9급 국어 B책형 PDF 및 공개 정답표 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/korean/2025-local-B.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_english_2025_local_B",
+   "subjectId": "sub_civil_1",
+   "title": "2025 지방직 9급 영어 B책형",
+   "year": 2025,
+   "source": "2025 지방직 9급 영어 B책형 PDF 및 공개 정답표 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/english/2025-local-B.json",
+   "external": true
+  },
+  {
+   "id": "paper_nursing_management_2025_local_B",
+   "subjectId": "sub_nursing_manage",
+   "title": "2025 지방직 9급 간호관리 B책형",
+   "year": 2025,
+   "source": "2025 지방직 9급 간호관리 B책형 PDF 및 공개 정답표 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/nursing/management/2025-local-B.json",
+   "external": true
+  },
+  {
+   "id": "paper_nursing_community_2025_local_B",
+   "subjectId": "sub_nursing_community",
+   "title": "2025 지방직 9급 지역사회간호 B책형",
+   "year": 2025,
+   "source": "2025 지방직 9급 지역사회간호 B책형 PDF 및 공개 정답표 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/nursing/community/2025-local-B.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_korean_2025_national_nah",
+   "subjectId": "sub_civil_0",
+   "title": "2025 국가직 9급 국어 나책형",
+   "year": 2025,
+   "source": "2025 국가직 9급 국어 나책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/korean/2025-national-nah.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_english_2025_national_nah",
+   "subjectId": "sub_civil_1",
+   "title": "2025 국가직 9급 영어 나책형",
+   "year": 2025,
+   "source": "2025 국가직 9급 영어 나책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/english/2025-national-nah.json",
+   "external": true
+  },
+  {
+   "id": "paper_leet_2026_reasoning",
+   "subjectId": "sub_leet_1",
+   "title": "2026학년도 LEET 추리논증 (홀수형)",
+   "year": 2026,
+   "source": "2026학년도 법학적성시험 추리논증 홀수형 문제지 및 공개 정답표 기준 · 해설 미제공",
+   "questionCount": 40,
+   "dataFile": "data/leet/reasoning/2026.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_korean_2024_local_C",
+   "subjectId": "sub_civil_0",
+   "title": "2024 지방직 9급 국어 C책형",
+   "year": 2024,
+   "source": "2024 지방직 9급 국어 C책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/korean/2024-local-C.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_english_2024_local_C",
+   "subjectId": "sub_civil_1",
+   "title": "2024 지방직 9급 영어 C책형",
+   "year": 2024,
+   "source": "2024 지방직 9급 영어 C책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/english/2024-local-C.json",
+   "external": true
+  },
+  {
+   "id": "paper_nursing_management_2024_local_C",
+   "subjectId": "sub_nursing_manage",
+   "title": "2024 지방직 9급 간호관리 C책형",
+   "year": 2024,
+   "source": "2024 지방직 9급 간호관리 C책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/nursing/management/2024-local-C.json",
+   "external": true
+  },
+  {
+   "id": "paper_nursing_community_2024_local_C",
+   "subjectId": "sub_nursing_community",
+   "title": "2024 지방직 9급 지역사회간호 C책형",
+   "year": 2024,
+   "source": "2024 지방직 9급 지역사회간호 C책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/nursing/community/2024-local-C.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_korean_2024_national_gah",
+   "subjectId": "sub_civil_0",
+   "title": "2024 국가직 9급 국어 가책형",
+   "year": 2024,
+   "source": "2024 국가직 9급 국어 가책형 PDF 및 인사혁신처 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/korean/2024-national-gah.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_english_2024_national_gah",
+   "subjectId": "sub_civil_1",
+   "title": "2024 국가직 9급 영어 가책형",
+   "year": 2024,
+   "source": "2024 국가직 9급 영어 가책형 PDF 및 인사혁신처 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/english/2024-national-gah.json",
+   "external": true
+  },
+  {
+   "id": "paper_leet_2025_reasoning",
+   "subjectId": "sub_leet_1",
+   "title": "2025학년도 LEET 추리논증 (홀수형)",
+   "year": 2025,
+   "source": "2025학년도 법학적성시험 추리논증 홀수형 문제지 및 공개 정답표 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 40,
+   "dataFile": "data/leet/reasoning/2025.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_korean_2023_local_B",
+   "subjectId": "sub_civil_0",
+   "title": "2023 지방직 9급 국어 B책형",
+   "year": 2023,
+   "source": "2023 지방직 9급 국어 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/korean/2023-local-B.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_english_2023_local_B",
+   "subjectId": "sub_civil_1",
+   "title": "2023 지방직 9급 영어 B책형",
+   "year": 2023,
+   "source": "2023 지방직 9급 영어 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/english/2023-local-B.json",
+   "external": true
+  },
+  {
+   "id": "paper_nursing_management_2023_local_B",
+   "subjectId": "sub_nursing_manage",
+   "title": "2023 지방직 9급 간호관리 B책형",
+   "year": 2023,
+   "source": "2023 지방직 9급 간호관리 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/nursing/management/2023-local-B.json",
+   "external": true
+  },
+  {
+   "id": "paper_nursing_community_2023_local_B",
+   "subjectId": "sub_nursing_community",
+   "title": "2023 지방직 9급 지역사회간호 B책형",
+   "year": 2023,
+   "source": "2023 지방직 9급 지역사회간호 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/nursing/community/2023-local-B.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_korean_2023_national_nah",
+   "subjectId": "sub_civil_0",
+   "title": "2023 국가직 9급 국어 나책형",
+   "year": 2023,
+   "source": "2023 국가직 9급 국어 나책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/korean/2023-national-nah.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_english_2023_national_nah",
+   "subjectId": "sub_civil_1",
+   "title": "2023 국가직 9급 영어 나책형",
+   "year": 2023,
+   "source": "2023 국가직 9급 영어 나책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/english/2023-national-nah.json",
+   "external": true
+  },
+  {
+   "id": "paper_leet_2024_reasoning",
+   "subjectId": "sub_leet_1",
+   "title": "2024학년도 LEET 추리논증 (홀수형)",
+   "year": 2024,
+   "source": "2024학년도 법학적성시험 추리논증 홀수형 문제지 및 공개 정답표 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 40,
+   "dataFile": "data/leet/reasoning/2024.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_korean_2022_local_A",
+   "subjectId": "sub_civil_0",
+   "title": "2022 지방직 9급 국어 A책형",
+   "year": 2022,
+   "source": "2022 지방직 9급 국어 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/korean/2022-local-A.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_english_2022_local_A",
+   "subjectId": "sub_civil_1",
+   "title": "2022 지방직 9급 영어 A책형",
+   "year": 2022,
+   "source": "2022 지방직 9급 영어 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/english/2022-local-A.json",
+   "external": true
+  },
+  {
+   "id": "paper_nursing_management_2022_seoul8_A",
+   "subjectId": "sub_nursing_manage",
+   "title": "2022 지방직(서울시) 8급 간호관리 A책형",
+   "year": 2022,
+   "source": "2022년도 제2회 서울특별시 지방공무원 임용 필기시험 간호관리(8급) A책형 PDF 및 서울시 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/nursing/management/2022-seoul8-A.json",
+   "external": true
+  },
+  {
+   "id": "paper_nursing_community_2022_local_A",
+   "subjectId": "sub_nursing_community",
+   "title": "2022 지방직 9급 지역사회간호 A책형",
+   "year": 2022,
+   "source": "2022 지방직 9급 지역사회간호 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/nursing/community/2022-local-A.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_korean_2022_national_gah",
+   "subjectId": "sub_civil_0",
+   "title": "2022 국가직 9급 국어 가책형",
+   "year": 2022,
+   "source": "2022 국가직 9급 국어 가책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/korean/2022-national-gah.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_english_2022_national_gah",
+   "subjectId": "sub_civil_1",
+   "title": "2022 국가직 9급 영어 가책형",
+   "year": 2022,
+   "source": "2022 국가직 9급 영어 가책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/english/2022-national-gah.json",
+   "external": true
+  },
+  {
+   "id": "paper_leet_2023_reasoning",
+   "subjectId": "sub_leet_1",
+   "title": "2023학년도 LEET 추리논증 (홀수형)",
+   "year": 2023,
+   "source": "2023학년도 법학적성시험 추리논증 홀수형 문제지 및 공개 정답표 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 40,
+   "dataFile": "data/leet/reasoning/2023.json",
+   "external": true
+  },
+  {
+   "id": "paper_leet_2022_reasoning",
+   "subjectId": "sub_leet_1",
+   "title": "2022학년도 LEET 추리논증 (홀수형)",
+   "year": 2022,
+   "source": "2022학년도 법학적성시험 추리논증 홀수형 문제지 및 공개 정답표 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 40,
+   "dataFile": "data/leet/reasoning/2022.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_korean_2021_local_A",
+   "subjectId": "sub_civil_0",
+   "title": "2021 지방직 9급 국어 A책형",
+   "year": 2021,
+   "source": "2021 지방직 9급 국어 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/korean/2021-local-A.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_english_2021_local_A",
+   "subjectId": "sub_civil_1",
+   "title": "2021 지방직 9급 영어 A책형",
+   "year": 2021,
+   "source": "2021 지방직 9급 영어 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/english/2021-local-A.json",
+   "external": true
+  },
+  {
+   "id": "paper_nursing_management_2021_local_A",
+   "subjectId": "sub_nursing_manage",
+   "title": "2021 지방직 9급 간호관리 A책형",
+   "year": 2021,
+   "source": "2021 지방직 9급 간호관리 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/nursing/management/2021-local-A.json",
+   "external": true
+  },
+  {
+   "id": "paper_nursing_community_2021_local_A",
+   "subjectId": "sub_nursing_community",
+   "title": "2021 지방직 9급 지역사회간호 A책형",
+   "year": 2021,
+   "source": "2021 지방직 9급 지역사회간호 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/nursing/community/2021-local-A.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_korean_2021_national_nah",
+   "subjectId": "sub_civil_0",
+   "title": "2021 국가직 9급 국어 나책형",
+   "year": 2021,
+   "source": "2021 국가직 9급 국어 나책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/korean/2021-national-nah.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_english_2021_national_nah",
+   "subjectId": "sub_civil_1",
+   "title": "2021 국가직 9급 영어 나책형",
+   "year": 2021,
+   "source": "2021 국가직 9급 영어 나책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/english/2021-national-nah.json",
+   "external": true
+  },
+  {
+   "id": "paper_nursing_management_2020_local_B",
+   "subjectId": "sub_nursing_manage",
+   "title": "2020 지방직 9급 간호관리 B책형",
+   "year": 2020,
+   "source": "2020년도 지방공무원 9급 등 공개경쟁임용 필기시험 간호관리 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/nursing/management/2020-local-B.json",
+   "external": true
+  },
+  {
+   "id": "paper_nursing_community_2020_local_B",
+   "subjectId": "sub_nursing_community",
+   "title": "2020 지방직 9급 지역사회간호 B책형",
+   "year": 2020,
+   "source": "2020년도 지방공무원 9급 등 공개경쟁임용 필기시험 지역사회간호 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/nursing/community/2020-local-B.json",
+   "external": true
+  },
+  {
+   "id": "paper_nursing_management_2019_local_A",
+   "subjectId": "sub_nursing_manage",
+   "title": "2019 지방직 9급 간호관리 A책형",
+   "year": 2019,
+   "source": "2019년도 지방공무원 9급 등 공개경쟁임용 필기시험 간호관리 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/nursing/management/2019-local-A.json",
+   "external": true
+  },
+  {
+   "id": "paper_nursing_community_2019_local_A",
+   "subjectId": "sub_nursing_community",
+   "title": "2019 지방직 9급 지역사회간호 A책형",
+   "year": 2019,
+   "source": "2019년도 지방공무원 9급 등 공개경쟁임용 필기시험 지역사회간호 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/nursing/community/2019-local-A.json",
+   "external": true
+  },
+  {
+   "id": "paper_nursing_management_2018_local_B",
+   "subjectId": "sub_nursing_manage",
+   "title": "2018 지방직 9급 간호관리 B책형",
+   "year": 2018,
+   "source": "2018년도 지방공무원 9급 등 공개경쟁임용 필기시험 간호관리 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/nursing/management/2018-local-B.json",
+   "external": true
+  },
+  {
+   "id": "paper_nursing_community_2018_local_B",
+   "subjectId": "sub_nursing_community",
+   "title": "2018 지방직 9급 지역사회간호 B책형",
+   "year": 2018,
+   "source": "2018년도 지방공무원 9급 등 공개경쟁임용 필기시험 지역사회간호 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/nursing/community/2018-local-B.json",
+   "external": true
+  },
+  {
+   "id": "paper_nursing_management_2017_local_B",
+   "subjectId": "sub_nursing_manage",
+   "title": "2017 지방직 9급 간호관리 B책형",
+   "year": 2017,
+   "source": "2017년도 9급 지방공무원 임용 필기시험 간호관리 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/nursing/management/2017-local-B.json",
+   "external": true
+  },
+  {
+   "id": "paper_nursing_community_2017_local_B",
+   "subjectId": "sub_nursing_community",
+   "title": "2017 지방직 9급 지역사회간호 B책형",
+   "year": 2017,
+   "source": "2017년도 9급 지방공무원 임용 필기시험 지역사회간호 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/nursing/community/2017-local-B.json",
+   "external": true
+  },
+  {
+   "id": "paper_nursing_management_2016_local_A",
+   "subjectId": "sub_nursing_manage",
+   "title": "2016 지방직 9급 간호관리 A책형",
+   "year": 2016,
+   "source": "2016년도 9급 등 지방공무원 임용 필기시험 간호관리 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/nursing/management/2016-local-A.json",
+   "external": true
+  },
+  {
+   "id": "paper_nursing_community_2016_local_A",
+   "subjectId": "sub_nursing_community",
+   "title": "2016 지방직 9급 지역사회간호 A책형",
+   "year": 2016,
+   "source": "2016년도 9급 등 지방공무원 임용 필기시험 지역사회간호 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/nursing/community/2016-local-A.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_korean_2020_local_B",
+   "subjectId": "sub_civil_0",
+   "title": "2020 지방직 9급 국어 B책형",
+   "year": 2020,
+   "source": "2020년도 지방공무원 9급 등 공개경쟁임용 필기시험 국어 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/korean/2020-local-B.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_english_2020_local_B",
+   "subjectId": "sub_civil_1",
+   "title": "2020 지방직 9급 영어 B책형",
+   "year": 2020,
+   "source": "2020년도 지방공무원 9급 등 공개경쟁임용 필기시험 영어 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/english/2020-local-B.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_korean_2019_local_A",
+   "subjectId": "sub_civil_0",
+   "title": "2019 지방직 9급 국어 A책형",
+   "year": 2019,
+   "source": "2019년도 지방공무원 9급 등 공개경쟁임용 필기시험 국어 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/korean/2019-local-A.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_english_2019_local_A",
+   "subjectId": "sub_civil_1",
+   "title": "2019 지방직 9급 영어 A책형",
+   "year": 2019,
+   "source": "2019년도 지방공무원 9급 등 공개경쟁임용 필기시험 영어 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/english/2019-local-A.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_korean_2018_local_B",
+   "subjectId": "sub_civil_0",
+   "title": "2018 지방직 9급 국어 B책형",
+   "year": 2018,
+   "source": "2018년도 지방공무원 9급 등 공개경쟁임용 필기시험 국어 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/korean/2018-local-B.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_english_2018_local_B",
+   "subjectId": "sub_civil_1",
+   "title": "2018 지방직 9급 영어 B책형",
+   "year": 2018,
+   "source": "2018년도 지방공무원 9급 등 공개경쟁임용 필기시험 영어 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/english/2018-local-B.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_korean_2017_local_B",
+   "subjectId": "sub_civil_0",
+   "title": "2017 지방직 9급 국어 B책형",
+   "year": 2017,
+   "source": "2017년도 9급 지방공무원 임용 필기시험 국어 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/korean/2017-local-B.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_english_2017_local_B",
+   "subjectId": "sub_civil_1",
+   "title": "2017 지방직 9급 영어 B책형",
+   "year": 2017,
+   "source": "2017년도 9급 지방공무원 임용 필기시험 영어 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/english/2017-local-B.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_korean_2016_local_A",
+   "subjectId": "sub_civil_0",
+   "title": "2016 지방직 9급 국어 A책형",
+   "year": 2016,
+   "source": "2016년도 9급 등 지방공무원 임용 필기시험 국어 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/korean/2016-local-A.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_english_2016_local_A",
+   "subjectId": "sub_civil_1",
+   "title": "2016 지방직 9급 영어 A책형",
+   "year": 2016,
+   "source": "2016년도 9급 등 지방공무원 임용 필기시험 영어 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/english/2016-local-A.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_admin_law_2026_national_gah",
+   "subjectId": "sub_civil_3",
+   "title": "2026 국가직 9급 행정법총론 가책형",
+   "year": 2026,
+   "source": "2026년도 국가공무원 9급 공채 필기시험 행정법총론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/admin_law/2026-national-gah.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_admin_sci_2026_national_gah",
+   "subjectId": "sub_civil_4",
+   "title": "2026 국가직 9급 행정학개론 가책형",
+   "year": 2026,
+   "source": "2026년도 국가공무원 9급 공채 필기시험 행정학개론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/admin_sci/2026-national-gah.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_admin_law_2026_local_D",
+   "subjectId": "sub_civil_3",
+   "title": "2026 지방직 9급 행정법총론 D책형",
+   "year": 2026,
+   "source": "2026년도 지방공무원 9급 공개경쟁임용 등 필기시험 행정법총론 D책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/admin_law/2026-local-D.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_admin_sci_2026_local_D",
+   "subjectId": "sub_civil_4",
+   "title": "2026 지방직 9급 행정학개론 D책형",
+   "year": 2026,
+   "source": "2026년도 지방공무원 9급 공개경쟁임용 등 필기시험 행정학개론 D책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/admin_sci/2026-local-D.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_admin_law_2025_national_nah",
+   "subjectId": "sub_civil_3",
+   "title": "2025 국가직 9급 행정법총론 나책형",
+   "year": 2025,
+   "source": "2025년도 국가공무원 9급 공채 필기시험 행정법총론 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/admin_law/2025-national-nah.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_admin_sci_2025_national_nah",
+   "subjectId": "sub_civil_4",
+   "title": "2025 국가직 9급 행정학개론 나책형",
+   "year": 2025,
+   "source": "2025년도 국가공무원 9급 공채 필기시험 행정학개론 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/admin_sci/2025-national-nah.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_admin_sci_2025_local_B",
+   "subjectId": "sub_civil_4",
+   "title": "2025 지방직 9급 행정학개론 B책형",
+   "year": 2025,
+   "source": "2025년도 지방공무원 9급 등 공개경쟁임용 필기시험 행정학개론 B책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/admin_sci/2025-local-B.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_admin_law_2025_local_B",
+   "subjectId": "sub_civil_3",
+   "title": "2025 지방직 9급 행정법총론 B책형",
+   "year": 2025,
+   "source": "2025년도 지방공무원 9급 등 공개경쟁임용 필기시험 행정법총론 B책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/admin_law/2025-local-B.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_korean_2020_national_gah",
+   "subjectId": "sub_civil_0",
+   "title": "2020 국가직 9급 국어 가책형",
+   "year": 2020,
+   "source": "2020 국가직 9급 국어 가책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/korean/2020-national-gah.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_english_2020_national_gah",
+   "subjectId": "sub_civil_1",
+   "title": "2020 국가직 9급 영어 가책형",
+   "year": 2020,
+   "source": "2020 국가직 9급 영어 가책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/english/2020-national-gah.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_korean_2019_national_nah",
+   "subjectId": "sub_civil_0",
+   "title": "2019 국가직 9급 국어 나책형",
+   "year": 2019,
+   "source": "2019 국가직 9급 국어 나책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/korean/2019-national-nah.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_english_2019_national_nah",
+   "subjectId": "sub_civil_1",
+   "title": "2019 국가직 9급 영어 나책형",
+   "year": 2019,
+   "source": "2019 국가직 9급 영어 나책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/english/2019-national-nah.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_korean_2018_national_gah",
+   "subjectId": "sub_civil_0",
+   "title": "2018 국가직 9급 국어 가책형",
+   "year": 2018,
+   "source": "2018 국가직 9급 국어 가책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/korean/2018-national-gah.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_english_2018_national_gah",
+   "subjectId": "sub_civil_1",
+   "title": "2018 국가직 9급 영어 가책형",
+   "year": 2018,
+   "source": "2018 국가직 9급 영어 가책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/english/2018-national-gah.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_korean_2017_national_nah",
+   "subjectId": "sub_civil_0",
+   "title": "2017 국가직 9급 국어 나책형",
+   "year": 2017,
+   "source": "2017년도 국가공무원 9급 공개경쟁채용 필기시험 국어 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/korean/2017-national-nah.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_english_2017_national_nah",
+   "subjectId": "sub_civil_1",
+   "title": "2017 국가직 9급 영어 나책형",
+   "year": 2017,
+   "source": "2017년도 국가공무원 9급 공개경쟁채용 필기시험 영어 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/english/2017-national-nah.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_korean_2016_national_2",
+   "subjectId": "sub_civil_0",
+   "title": "2016 국가직 9급 국어 2책형",
+   "year": 2016,
+   "source": "2016년도 국가 9급 공채 필기시험 국어 2책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/korean/2016-national-2.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_english_2016_national_2",
+   "subjectId": "sub_civil_1",
+   "title": "2016 국가직 9급 영어 2책형",
+   "year": 2016,
+   "source": "2016년도 국가 9급 공채 필기시험 영어 2책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/english/2016-national-2.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_admin_law_2024_national_gah",
+   "subjectId": "sub_civil_3",
+   "title": "2024 국가직 9급 행정법총론 가책형",
+   "year": 2024,
+   "source": "2024년도 국가공무원 9급 공채 필기시험 행정법총론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/admin_law/2024-national-gah.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_admin_sci_2024_national_gah",
+   "subjectId": "sub_civil_4",
+   "title": "2024 국가직 9급 행정학개론 가책형",
+   "year": 2024,
+   "source": "2024년도 국가공무원 9급 공채 필기시험 행정학개론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/admin_sci/2024-national-gah.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_admin_law_2024_local_C",
+   "subjectId": "sub_civil_3",
+   "title": "2024 지방직 9급 행정법총론 C책형",
+   "year": 2024,
+   "source": "2024년도 지방공무원 9급 등 공개경쟁임용 필기시험 행정법총론 C책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/admin_law/2024-local-C.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_admin_sci_2024_local_C",
+   "subjectId": "sub_civil_4",
+   "title": "2024 지방직 9급 행정학개론 C책형",
+   "year": 2024,
+   "source": "2024년도 지방공무원 9급 등 공개경쟁임용 필기시험 행정학개론 C책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/admin_sci/2024-local-C.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_admin_law_2023_national_nah",
+   "subjectId": "sub_civil_3",
+   "title": "2023 국가직 9급 행정법총론 나책형",
+   "year": 2023,
+   "source": "2023년도 국가공무원 9급 공채 필기시험 행정법총론 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/admin_law/2023-national-nah.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_admin_sci_2023_national_nah",
+   "subjectId": "sub_civil_4",
+   "title": "2023 국가직 9급 행정학개론 나책형",
+   "year": 2023,
+   "source": "2023년도 국가공무원 9급 공채 필기시험 행정학개론 나책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/admin_sci/2023-national-nah.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_admin_law_2023_local_B",
+   "subjectId": "sub_civil_3",
+   "title": "2023 지방직 9급 행정법총론 B책형",
+   "year": 2023,
+   "source": "2023년도 지방공무원 9급 등 공개경쟁임용 필기시험 행정법총론 B책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/admin_law/2023-local-B.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_admin_sci_2023_local_B",
+   "subjectId": "sub_civil_4",
+   "title": "2023 지방직 9급 행정학개론 B책형",
+   "year": 2023,
+   "source": "2023년도 지방공무원 9급 등 공개경쟁임용 필기시험 행정학개론 B책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/admin_sci/2023-local-B.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_admin_law_2022_national_gah",
+   "subjectId": "sub_civil_3",
+   "title": "2022 국가직 9급 행정법총론 가책형",
+   "year": 2022,
+   "source": "2022년도 국가공무원 9급 공개경쟁채용 필기시험 행정법총론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/admin_law/2022-national-gah.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_admin_sci_2022_national_gah",
+   "subjectId": "sub_civil_4",
+   "title": "2022 국가직 9급 행정학개론 가책형",
+   "year": 2022,
+   "source": "2022년도 국가공무원 9급 공개경쟁채용 필기시험 행정학개론 가책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/admin_sci/2022-national-gah.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_admin_law_2022_local_A",
+   "subjectId": "sub_civil_3",
+   "title": "2022 지방직 9급 행정법총론 A책형",
+   "year": 2022,
+   "source": "2022년도 시·도 지방공무원 9급 등 임용 필기시험 행정법총론 A책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/admin_law/2022-local-A.json",
+   "external": true
+  },
+  {
+   "id": "paper_civil_admin_sci_2022_local_A",
+   "subjectId": "sub_civil_4",
+   "title": "2022 지방직 9급 행정학개론 A책형",
+   "year": 2022,
+   "source": "2022년도 시·도 지방공무원 9급 등 임용 필기시험 행정학개론 A책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/civil/admin_sci/2022-local-A.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_const_2026_r1",
+   "subjectId": "sub_police_const",
+   "title": "2026 순경 공개채용 1차 헌법",
+   "year": 2026,
+   "source": "2026년도 제1차 경찰공무원(순경) 공개채용 필기시험 헌법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/police/const/2026-r1.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_const_2026_r2",
+   "subjectId": "sub_police_const",
+   "title": "2026 순경 공개채용 2차 헌법",
+   "year": 2026,
+   "source": "2026년도 제2차 경찰공무원(순경) 공개채용 필기시험 헌법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/police/const/2026-r2.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_criminal_2026_r1",
+   "subjectId": "sub_police_criminal",
+   "title": "2026 순경 공개채용 1차 형사법",
+   "year": 2026,
+   "source": "2026년도 제1차 경찰공무원(순경) 공개채용 필기시험 형사법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 40,
+   "dataFile": "data/police/criminal/2026-r1.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_criminal_2026_r2",
+   "subjectId": "sub_police_criminal",
+   "title": "2026 순경 공개채용 2차 형사법",
+   "year": 2026,
+   "source": "2026년도 제2차 경찰공무원(순경) 공개채용 필기시험 형사법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 40,
+   "dataFile": "data/police/criminal/2026-r2.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_science_2026_r1",
+   "subjectId": "sub_police_science",
+   "title": "2026 순경 공개채용 1차 경찰학",
+   "year": 2026,
+   "source": "2026년도 제1차 경찰공무원(순경) 공개채용 필기시험 경찰학 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 40,
+   "dataFile": "data/police/science/2026-r1.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_science_2026_r2",
+   "subjectId": "sub_police_science",
+   "title": "2026 순경 공개채용 2차 경찰학",
+   "year": 2026,
+   "source": "2026년도 제2차 경찰공무원(순경) 공개채용 필기시험 경찰학 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 40,
+   "dataFile": "data/police/science/2026-r2.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_const_2025_r1",
+   "subjectId": "sub_police_const",
+   "title": "2025 순경 공개채용 1차 헌법",
+   "year": 2025,
+   "source": "2025년도 제1차 경찰공무원(순경) 공개채용 필기시험 헌법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/police/const/2025-r1.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_const_2025_r2",
+   "subjectId": "sub_police_const",
+   "title": "2025 순경 공개채용 2차 헌법",
+   "year": 2025,
+   "source": "2025년도 제2차 경찰공무원(순경) 공개채용 필기시험 헌법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/police/const/2025-r2.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_criminal_2025_r1",
+   "subjectId": "sub_police_criminal",
+   "title": "2025 순경 공개채용 1차 형사법",
+   "year": 2025,
+   "source": "2025년도 제1차 경찰공무원(순경) 공개채용 필기시험 형사법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 40,
+   "dataFile": "data/police/criminal/2025-r1.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_criminal_2025_r2",
+   "subjectId": "sub_police_criminal",
+   "title": "2025 순경 공개채용 2차 형사법",
+   "year": 2025,
+   "source": "2025년도 제2차 경찰공무원(순경) 공개채용 필기시험 형사법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 40,
+   "dataFile": "data/police/criminal/2025-r2.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_science_2025_r1",
+   "subjectId": "sub_police_science",
+   "title": "2025 순경 공개채용 1차 경찰학",
+   "year": 2025,
+   "source": "2025년도 제1차 경찰공무원(순경) 공개채용 필기시험 경찰학 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 40,
+   "dataFile": "data/police/science/2025-r1.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_science_2025_r2",
+   "subjectId": "sub_police_science",
+   "title": "2025 순경 공개채용 2차 경찰학",
+   "year": 2025,
+   "source": "2025년도 제2차 경찰공무원(순경) 공개채용 필기시험 경찰학 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 40,
+   "dataFile": "data/police/science/2025-r2.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_const_2024_r1",
+   "subjectId": "sub_police_const",
+   "title": "2024 순경 공개채용 1차 헌법",
+   "year": 2024,
+   "source": "2024년도 제1차 경찰공무원(순경) 공개채용 필기시험 헌법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/police/const/2024-r1.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_const_2024_r2",
+   "subjectId": "sub_police_const",
+   "title": "2024 순경 공개채용 2차 헌법",
+   "year": 2024,
+   "source": "2024년도 제2차 경찰공무원(순경) 공개채용 필기시험 헌법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/police/const/2024-r2.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_criminal_2024_r1",
+   "subjectId": "sub_police_criminal",
+   "title": "2024 순경 공개채용 1차 형사법",
+   "year": 2024,
+   "source": "2024년도 제1차 경찰공무원(순경) 공개채용 필기시험 형사법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 40,
+   "dataFile": "data/police/criminal/2024-r1.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_criminal_2024_r2",
+   "subjectId": "sub_police_criminal",
+   "title": "2024 순경 공개채용 2차 형사법",
+   "year": 2024,
+   "source": "2024년도 제2차 경찰공무원(순경) 공개채용 필기시험 형사법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 40,
+   "dataFile": "data/police/criminal/2024-r2.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_science_2024_r1",
+   "subjectId": "sub_police_science",
+   "title": "2024 순경 공개채용 1차 경찰학",
+   "year": 2024,
+   "source": "2024년도 제1차 경찰공무원(순경) 공개채용 필기시험 경찰학 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 40,
+   "dataFile": "data/police/science/2024-r1.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_science_2024_r2",
+   "subjectId": "sub_police_science",
+   "title": "2024 순경 공개채용 2차 경찰학",
+   "year": 2024,
+   "source": "2024년도 제2차 경찰공무원(순경) 공개채용 필기시험 경찰학 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 40,
+   "dataFile": "data/police/science/2024-r2.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_const_2023_r1",
+   "subjectId": "sub_police_const",
+   "title": "2023 순경 공개채용 1차 헌법",
+   "year": 2023,
+   "source": "2023년도 제1차 경찰공무원(순경) 공개채용 필기시험 헌법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/police/const/2023-r1.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_const_2023_r2",
+   "subjectId": "sub_police_const",
+   "title": "2023 순경 공개채용 2차 헌법",
+   "year": 2023,
+   "source": "2023년도 제2차 경찰공무원(순경) 공개채용 필기시험 헌법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/police/const/2023-r2.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_criminal_2023_r1",
+   "subjectId": "sub_police_criminal",
+   "title": "2023 순경 공개채용 1차 형사법",
+   "year": 2023,
+   "source": "2023년도 제1차 경찰공무원(순경) 공개채용 필기시험 형사법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 40,
+   "dataFile": "data/police/criminal/2023-r1.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_criminal_2023_r2",
+   "subjectId": "sub_police_criminal",
+   "title": "2023 순경 공개채용 2차 형사법",
+   "year": 2023,
+   "source": "2023년도 제2차 경찰공무원(순경) 공개채용 필기시험 형사법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 40,
+   "dataFile": "data/police/criminal/2023-r2.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_science_2023_r1",
+   "subjectId": "sub_police_science",
+   "title": "2023 순경 공개채용 1차 경찰학",
+   "year": 2023,
+   "source": "2023년도 제1차 경찰공무원(순경) 공개채용 필기시험 경찰학 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 40,
+   "dataFile": "data/police/science/2023-r1.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_science_2023_r2",
+   "subjectId": "sub_police_science",
+   "title": "2023 순경 공개채용 2차 경찰학",
+   "year": 2023,
+   "source": "2023년도 제2차 경찰공무원(순경) 공개채용 필기시험 경찰학 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 40,
+   "dataFile": "data/police/science/2023-r2.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_const_2022_r1",
+   "subjectId": "sub_police_const",
+   "title": "2022 순경 공개채용 1차 헌법",
+   "year": 2022,
+   "source": "2022년도 제1차 경찰공무원(순경) 공개채용 필기시험 헌법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/police/const/2022-r1.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_const_2022_r2",
+   "subjectId": "sub_police_const",
+   "title": "2022 순경 공개채용 2차 헌법",
+   "year": 2022,
+   "source": "2022년도 제2차 경찰공무원(순경) 공개채용 필기시험 헌법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 20,
+   "dataFile": "data/police/const/2022-r2.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_criminal_2022_r1",
+   "subjectId": "sub_police_criminal",
+   "title": "2022 순경 공개채용 1차 형사법",
+   "year": 2022,
+   "source": "2022년도 제1차 경찰공무원(순경) 공개채용 필기시험 형사법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 40,
+   "dataFile": "data/police/criminal/2022-r1.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_criminal_2022_r2",
+   "subjectId": "sub_police_criminal",
+   "title": "2022 순경 공개채용 2차 형사법",
+   "year": 2022,
+   "source": "2022년도 제2차 경찰공무원(순경) 공개채용 필기시험 형사법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 40,
+   "dataFile": "data/police/criminal/2022-r2.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_science_2022_r1",
+   "subjectId": "sub_police_science",
+   "title": "2022 순경 공개채용 1차 경찰학",
+   "year": 2022,
+   "source": "2022년도 제1차 경찰공무원(순경) 공개채용 필기시험 경찰학 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 40,
+   "dataFile": "data/police/science/2022-r1.json",
+   "external": true
+  },
+  {
+   "id": "paper_police_science_2022_r2",
+   "subjectId": "sub_police_science",
+   "title": "2022 순경 공개채용 2차 경찰학",
+   "year": 2022,
+   "source": "2022년도 제2차 경찰공무원(순경) 공개채용 필기시험 경찰학 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+   "questionCount": 40,
+   "dataFile": "data/police/science/2022-r2.json",
+   "external": true
+  }
+ ]
 }
