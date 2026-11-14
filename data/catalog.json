@@ -1059,6 +1059,66 @@
       "questionCount": 20,
       "dataFile": "data/police/const/2026-r2.json",
       "external": true
+    },
+    {
+      "id": "paper_police_criminal_2025_r1",
+      "subjectId": "sub_police_criminal",
+      "title": "2025 순경 공개채용 1차 형사법",
+      "year": 2025,
+      "source": "2025년도 제1차 경찰공무원(순경) 공개채용 필기시험 형사법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 40,
+      "dataFile": "data/police/criminal/2025-r1.json",
+      "external": true
+    },
+    {
+      "id": "paper_police_criminal_2025_r2",
+      "subjectId": "sub_police_criminal",
+      "title": "2025 순경 공개채용 2차 형사법",
+      "year": 2025,
+      "source": "2025년도 제2차 경찰공무원(순경) 공개채용 필기시험 형사법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 40,
+      "dataFile": "data/police/criminal/2025-r2.json",
+      "external": true
+    },
+    {
+      "id": "paper_police_science_2025_r1",
+      "subjectId": "sub_police_science",
+      "title": "2025 순경 공개채용 1차 경찰학",
+      "year": 2025,
+      "source": "2025년도 제1차 경찰공무원(순경) 공개채용 필기시험 경찰학 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 40,
+      "dataFile": "data/police/science/2025-r1.json",
+      "external": true
+    },
+    {
+      "id": "paper_police_science_2025_r2",
+      "subjectId": "sub_police_science",
+      "title": "2025 순경 공개채용 2차 경찰학",
+      "year": 2025,
+      "source": "2025년도 제2차 경찰공무원(순경) 공개채용 필기시험 경찰학 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 40,
+      "dataFile": "data/police/science/2025-r2.json",
+      "external": true
+    },
+    {
+      "id": "paper_police_const_2025_r1",
+      "subjectId": "sub_police_const",
+      "title": "2025 순경 공개채용 1차 헌법",
+      "year": 2025,
+      "source": "2025년도 제1차 경찰공무원(순경) 공개채용 필기시험 헌법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/police/const/2025-r1.json",
+      "external": true
+    },
+    {
+      "id": "paper_police_const_2025_r2",
+      "subjectId": "sub_police_const",
+      "title": "2025 순경 공개채용 2차 헌법",
+      "year": 2025,
+      "source": "2025년도 제2차 경찰공무원(순경) 공개채용 필기시험 헌법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/police/const/2025-r2.json",
+      "external": true
     }
   ]
 }
