@@ -1,0 +1,489 @@
+{
+  "id": "paper_civil_korean_2018_national_gah",
+  "title": "2018 국가직 9급 국어 가책형",
+  "year": 2018,
+  "source": "2018 국가직 9급 국어 가책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+  "subjectId": "sub_civil_0",
+  "questions": [
+    {
+      "id": "civil2018-national-korean-gah-q01",
+      "paperId": "paper_civil_korean_2018_national_gah",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2018/national-gah/q01.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n로마자 표기법의 붙임표(-) 사용 규정을 적용한 사례를 찾는 문항입니다. 발음상 혼동의 우려가 있을 때 음절 사이에 붙임표를 쓸 수 있습니다.",
+      "optionExplanations": [
+        "'독도'는 [독또]로 발음되지만 표기상 혼동의 우려가 없어 붙임표를 쓰지 않고 Dokdo로 적습니다.",
+        "'반구대'를 Bangudae로 적으면 '방우대'로 읽힐 우려가 있으므로 음절 사이에 붙임표를 써서 Ban-gudae로 적습니다. 정답입니다.",
+        "'독립문'은 [동님문]으로 발음되므로 소리대로 적어 Dongnimmun이 됩니다. Dok-rip-mun은 붙임표 규정의 적용 사례가 아닙니다.",
+        "'인왕리'는 [인왕니]로 발음되므로 Inwangni로 적어야 합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2018-national-korean-gah-q02",
+      "paperId": "paper_civil_korean_2018_national_gah",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2018/national-gah/q02.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글의 중심 내용을 파악하는 문항입니다. 이 글은 언간의 사용 제약이 성별에서 드러나지만, 언간이 특정 계층이나 성별에 국한되지 않은 공유물이었음을 밝히고 있습니다.",
+      "optionExplanations": [
+        "'언문'과 마찬가지로 '언간'의 실용 범위에 제약이 있었다는 것은 글의 도입 부분에 해당합니다.",
+        "사용자의 성별 특징 때문에 '내간'으로 일컬어졌다는 것은 글의 일부 내용입니다.",
+        "언간이 특정 계층에 관계없이 남녀 모두의 공유물이었다는 진술이 글 전체를 아우르는 중심 내용입니다. 정답입니다.",
+        "발신자나 수신자 한쪽에 반드시 여성이 관여한다는 것은 글의 세부 내용입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2018-national-korean-gah-q03",
+      "paperId": "paper_civil_korean_2018_national_gah",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2018/national-gah/q03.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n문장을 고쳐 쓰는 방안의 적절성을 판단하는 문항입니다. 조사의 쓰임, 인용 조사, 연결 어미의 의미, 자격과 수단의 구분을 확인해야 합니다.",
+      "optionExplanations": [
+        "'수학 성적은'의 '은'이 국어 성적이 좋을 가능성을 배제하는 대조의 보조사이므로 '이'로 바꾸어야 한다는 설명은 적절합니다.",
+        "직접 인용문 뒤에는 '라고'를 쓰는 것이 맞으므로 적절한 설명입니다.",
+        "'-면서'는 두 동작이 동시에 일어남을 나타내는 어미입니다. 동시성을 나타내지 못한다는 설명 자체가 틀렸으므로 이 방안은 적절하지 않습니다. 정답입니다.",
+        "'로서'는 자격, '로써'는 수단을 나타내므로 '연설로써'로 고쳐야 한다는 설명은 적절합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2018-national-korean-gah-q04",
+      "paperId": "paper_civil_korean_2018_national_gah",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2018/national-gah/q04.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n<보기>의 통일성 개념을 적용해 글의 내용을 평가하는 문항입니다. 중심 내용인 '수학 선생님의 재미있는 수업'과 관련 없는 문장을 찾아야 합니다.",
+      "optionExplanations": [
+        "㉠은 수학 시간이 재미있는 이유를 제시하며 중심 내용과 긴밀하게 관련됩니다.",
+        "㉡은 선생님이 분위기를 부드럽게 만들어 수업을 재미있게 했음을 보여 주어 관련이 있습니다.",
+        "㉢은 선생님의 아들이 수학을 잘한다는 소문으로, 글의 중심 내용인 수업의 재미와 관련이 없어 통일성을 해칩니다. 정답입니다.",
+        "㉣은 재미있는 수업 덕택에 성적이 좋아졌다는 내용으로 중심 내용과 관련이 있습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2018-national-korean-gah-q05",
+      "paperId": "paper_civil_korean_2018_national_gah",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2018/national-gah/q05.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n두 작품에 나타난 '달'의 기능과 화자의 태도를 비교하는 문항입니다. (가)는 달을 만들어 임에게 가 비추겠다는 적극적 태도이고, (나)는 이별의 말을 못 하고 돌아와 우는 소극적 태도입니다.",
+      "optionExplanations": [
+        "(나)에서 '달'은 화자의 슬픔을 비추는 배경일 뿐 사랑을 전달하는 매개체가 아닙니다.",
+        "(나)의 '아리따운 아가씨'는 화자 자신이지 화자가 사랑하는 대상이 아닙니다.",
+        "(가)의 화자는 달을 만들어 임에게 가겠다는 적극적 태도를, (나)의 아가씨는 말을 못 하고 돌아와 우는 소극적 태도를 보입니다. 정답입니다.",
+        "(가)의 '장천'은 달이 걸린 하늘일 뿐 임이 머무는 공간이 아니고, (나)의 '문'은 마음을 숨기는 공간으로 보기 어렵습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2018-national-korean-gah-q06",
+      "paperId": "paper_civil_korean_2018_national_gah",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2018/national-gah/q06.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n시의 표현과 정서를 이해하는 문항입니다. 시는 눈 내리는 밤 대합실에서 막차를 기다리는 사람들의 침묵과 그리움을 그리고 있습니다.",
+      "optionExplanations": [
+        "㉠은 유리창마다 톱밥난로가 지펴지고 있음을 보여 줄 뿐, 여러 난로가 지펴진 안온한 대합실을 비유한 것으로 보기 어렵습니다.",
+        "㉡의 '청색의 손바닥'은 화자의 손을 시각적으로 형상화한 것으로, 대조적 색채로 겨울 풍경의 정취를 강조한 것이 아닙니다.",
+        "㉢은 오랜 기침과 쓴 약 같은 입술, 담배 연기로 사람들의 고단한 삶을 드러낸 것이지 비관적 심리와 무례한 행동을 묘사한 것이 아닙니다.",
+        "㉣은 그리웠던 순간을 호명하며 눈물을 불빛 속에 던지는 화자의 행위에 그리움의 정서가 투영된 것으로 적절합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2018-national-korean-gah-q07",
+      "paperId": "paper_civil_korean_2018_national_gah",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2018/national-gah/q07.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n소설의 표현 방식과 내용을 이해하는 문항입니다. 마름인 장인의 횡포와 됨됨이를 여러 정황을 통해 드러내는 대목입니다.",
+      "optionExplanations": [
+        "'호박개'에 빗대어 마름의 생김새를 낮잡아 표현하고 있어 적절합니다.",
+        "'이 자식 저 자식'과 같은 비속어와 '장인님'이라는 존칭을 함께 써서 해학적 효과를 내고 있어 적절합니다.",
+        "인심을 잃은 정황, 땅을 떼는 행태 등을 거론하며 장인의 됨됨이가 마땅치 않음을 드러내고 있어 적절합니다.",
+        "이 대목은 장인이 소작인들의 땅을 떼어 가는 횡포를 서술할 뿐, 장인과 소작인 사이의 뒷거래 장면을 생생하게 묘사한 것은 아닙니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2018-national-korean-gah-q08",
+      "paperId": "paper_civil_korean_2018_national_gah",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2018/national-gah/q08.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n문맥에 맞는 한자어를 고르는 문항입니다. 둘 이상의 주체가 합의에 이르기 위해 대안을 조정하고 구성하는 공동 의사 결정 과정은 '협상'입니다.",
+      "optionExplanations": [
+        "협찬은 힘을 모아 도움을 주는 것으로 문맥과 맞지 않습니다.",
+        "협주는 함께 연주하는 것으로 문맥과 맞지 않습니다.",
+        "협조는 힘을 보태어 돕는 것으로 문맥과 맞지 않습니다.",
+        "협상(協商)은 서로 협의하여 의논하고 합의에 이름을 뜻하여 문맥에 가장 적절합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2018-national-korean-gah-q09",
+      "paperId": "paper_civil_korean_2018_national_gah",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2018/national-gah/q09.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n한자어의 쓰임이 문맥에 맞는지 판단하는 문항입니다. 초고를 바로잡아 책을 완성하는 것은 '교정' 또는 '교정(校訂)'입니다.",
+      "optionExplanations": [
+        "校訂은 글이나 책의 잘못된 부분을 바로잡아 고친다는 뜻으로 문맥에 맞게 쓰였습니다. 정답입니다.",
+        "서로 검토한다는 뜻에는 '교차'가 아니라 '상호'나 '교정'이 어울립니다.",
+        "전자 문서로 대금을 주고받는 것은 '결제'이며 '결제를 받다'는 어색합니다.",
+        "계획을 더 높은 수준으로 끌어올리라는 뜻에는 '제고(提高)'를 써야 합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2018-national-korean-gah-q10",
+      "paperId": "paper_civil_korean_2018_national_gah",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2018/national-gah/q10.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n비형식적 오류의 유형을 구분하고 그 예를 찾는 문항입니다. ㉡ 애매어의 오류는 한 단어가 맥락에 따라 다른 의미로 쓰일 때 생기는 오류입니다.",
+      "optionExplanations": [
+        "㉠의 예로 제시된 정언 삼단 논리는 타당한 추론으로, 우연의 오류의 예가 아닙니다.",
+        "'부패하기 쉽다'가 음식이 상한다는 뜻과 세상이 타락했다는 뜻으로 달리 쓰여 애매어의 오류입니다. 정답입니다.",
+        "아이스하키 선수단의 성적에서 개인의 기량을 끌어내는 것은 분해의 오류에 해당합니다.",
+        "개별 문장이 탁월해서 답안 전체가 탁월하다는 추론은 결합의 오류에 해당합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2018-national-korean-gah-q11",
+      "paperId": "paper_civil_korean_2018_national_gah",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2018/national-gah/q11.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글의 주된 설명 방식을 파악하고 같은 방식이 쓰인 예를 고르는 문항입니다. 집을 짓는 일에 빗대어 문학의 창작 과정을 설명하는 유추의 방식입니다.",
+      "optionExplanations": [
+        "르네상스와 인상주의 회화의 사실성을 서술한 글로, 유추가 주된 방식이 아닙니다.",
+        "소설의 구성 요소를 정의하고 분류한 글로, 유추가 주된 방식이 아닙니다.",
+        "마라톤 완주에 빗대어 목적을 지닌 인생의 의미를 설명하는 유추의 방식이 쓰였습니다. 정답입니다.",
+        "육두품 출신 학자들의 예를 열거한 글로, 유추가 주된 방식이 아닙니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2018-national-korean-gah-q12",
+      "paperId": "paper_civil_korean_2018_national_gah",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2018/national-gah/q12.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글의 내용과 부합하지 않는 것을 고르는 문항입니다. 세잔, 고흐, 고갱이 인상주의의 한계를 느끼고 각자의 해법을 모색한 과정을 설명합니다.",
+      "optionExplanations": [
+        "세잔은 인상주의가 균형과 질서의 감각을 잃었다고 느꼈으므로 부합합니다.",
+        "고흐는 인상주의가 강렬한 정열을 상실할 위험에 처했다고 느꼈으므로 부합합니다.",
+        "고갱은 더 단순하고 솔직한 것을 열망했으므로, 인상주의가 충분히 솔직하고 단순했다고 생각한 것이 아닙니다. 부합하지 않습니다. 정답입니다.",
+        "세 화가가 각자 새로운 해결 방법을 모색했다는 내용은 글에 제시되어 있습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2018-national-korean-gah-q13",
+      "paperId": "paper_civil_korean_2018_national_gah",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2018/national-gah/q13.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n띄어쓰기가 옳지 않은 것을 고르는 문항입니다. 접두사 '제-'는 뒷말에 붙여 써야 하고, 순서를 나타내는 경우에도 '제3장'처럼 붙여 씁니다.",
+      "optionExplanations": [
+        "'좋은 걸'의 '걸'은 '것을'의 준말로 띄어 쓴 것이 자연스럽습니다.",
+        "'제3장'은 접두사 '제-'에 숫자가 붙은 형태로 '제3장'처럼 붙여 써야 합니다. '제 3장'으로 띄어 쓴 것은 옳지 않습니다. 정답입니다.",
+        "'진행한 지'의 '지'는 의존 명사로 띄어 쓴 것이 맞습니다.",
+        "'10년 차'의 '차'는 의존 명사로 띄어 쓴 것이 맞습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2018-national-korean-gah-q14",
+      "paperId": "paper_civil_korean_2018_national_gah",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2018/national-gah/q14.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n'깎다'의 활용형에 일어나는 음운 변동을 판별하는 문항입니다. 받침 'ㄲ'이 비음 'ㄴ' 앞에서 'ㅇ'으로 바뀌는 비음화는 교체에 해당합니다.",
+      "optionExplanations": [
+        "'깎는'은 [깡는]으로 발음되는데, 'ㄲ'이 'ㅇ'으로 바뀌는 교체 현상이 일어납니다. 정답입니다.",
+        "'깎아'는 [까까]로 발음되며, 이는 'ㄲ'이 그대로 유지되고 'ㅎ'이 탈락하는 것이 아니라 받침이 뒤 음절로 넘어가는 현상입니다. 탈락으로만 설명할 수 없습니다.",
+        "'깎고'는 [깍꼬]로 발음되며, 이는 된소리되기(교체)이지 음운의 위치가 바뀌는 도치가 아닙니다.",
+        "'깎지'는 [깍찌]로 발음되며, 된소리되기(교체)가 일어난 것으로 축약과 첨가가 함께 일어난 것이 아닙니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2018-national-korean-gah-q15",
+      "paperId": "paper_civil_korean_2018_national_gah",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2018/national-gah/q15.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글에서 추론할 수 있는 내용을 판단하는 문항입니다. 포스트휴먼은 인간의 세 가지 주요 능력에서 현재 인간의 한계를 넘어선 존재를 가리킵니다.",
+      "optionExplanations": [
+        "포스트휴먼은 과학 기술의 산물이므로 기술 발전의 영향을 현재 인간보다 크게 받을 것이라는 추론은 적절합니다.",
+        "글은 포스트휴먼이 인간의 신체적 결함을 보완하는 것을 넘어 인간의 능력 한계를 넘어선 존재라고 설명합니다. '기술적 한계의 극복'이라는 진술은 글의 취지와 어긋납니다. 정답입니다.",
+        "형태가 인공 지능, 업로드, 생물학적 개선 등 다양할 수 있다고 했으므로 적절한 추론입니다.",
+        "포스트휴먼이 인간의 개념을 새로 구성하게 할 것이라는 추론은 '현재의 기준으로는 더 이상 인간이라 부를 수 없다'는 진술에서 가능합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2018-national-korean-gah-q16",
+      "paperId": "paper_civil_korean_2018_national_gah",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2018/national-gah/q16.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n반의 관계 어휘의 특성을 판단하는 문항입니다. '크다/작다'는 정도 반의어로, '크지도 작지도 않다'처럼 두 단어를 함께 부정해도 모순이 생기지 않습니다.",
+      "optionExplanations": [
+        "'크다/작다'는 두 단어를 동시에 긍정하거나 부정해도 모순이 발생하지 않는 대립 관계입니다. 두 단어를 동시에 부정하면 모순이 발생한다는 설명은 옳지 않습니다. 정답입니다.",
+        "'출발/도착'은 한 단어의 부정이 다른 쪽의 부정과 모순되지 않는 대립 관계로 볼 수 있습니다.",
+        "'참/거짓'은 한쪽의 부정이 다른 쪽의 긍정을 함의하는 모순 관계입니다.",
+        "'넓다/좁다'는 한 단어의 의미가 다른 쪽의 부정을 함의하는 정도 반의어입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4
+    },
+    {
+      "id": "civil2018-national-korean-gah-q17",
+      "paperId": "paper_civil_korean_2018_national_gah",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2018/national-gah/q17.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n고전 문법 형태의 기능을 판별하는 문항입니다. ㉣의 '-외-'는 '알외다'에서 사동의 의미를 더하는 접미사로 기능합니다.",
+      "optionExplanations": [
+        "㉠의 '-이'는 '말씀을 아뢸 사람이'에서 주격 조사가 아니라 주제를 나타내거나 다른 기능을 하는 형태로 보아야 합니다.",
+        "㉡ '뵈아시니'의 '-아시-'는 하나의 선어말 어미가 아니라 연결 어미 '-아'와 주체 높임의 '-시-'가 결합한 형태입니다.",
+        "㉢의 '-ㄴ대'는 이유를 나타내는 연결 어미가 아니라 '-(으)므로'에 해당하는 뜻을 지닌 다른 형태입니다.",
+        "㉣ '알외시니'의 '-외-'는 '알다'에 사동의 의미를 더하는 접미사로 기능합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4
+    },
+    {
+      "id": "civil2018-national-korean-gah-q18",
+      "paperId": "paper_civil_korean_2018_national_gah",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2018/national-gah/q18.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글의 내용과 부합하는 것을 고르는 문항입니다. 송편과 월병에 담긴 상징과 유래를 설명한 글입니다.",
+      "optionExplanations": [
+        "월병은 제례 음식으로서의 위상을 잃었다고 했으므로 명맥을 유지하고 있다는 진술은 부합하지 않습니다.",
+        "반달이 더 나은 미래를 기원하는 뜻으로 쓰이며 그 뜻을 담아 송편을 빚었다고 했으므로 부합합니다. 정답입니다.",
+        "중국에서 수천 명분의 월병을 만든 것을 한국의 비빔밥에 비유한 것이지, 월병이 비빔밥을 본떠 만든 음식이라는 뜻이 아닙니다.",
+        "점술가의 예언이 적중했다고 했을 뿐, 예언 덕분에 신라가 발전했다는 인과 관계는 글에 없습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4
+    },
+    {
+      "id": "civil2018-national-korean-gah-q19",
+      "paperId": "paper_civil_korean_2018_national_gah",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2018/national-gah/q19.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n서사 속 사건을 시간 순서로 배열하는 문항입니다. ㉢은 전생에 성진이 육관대사와 십 년을 함께한 일, ㉣은 양소유가 열여섯 살 전까지 부모 곁을 떠나지 않은 일, ㉡은 꿈속 남악에서 노화상을 만난 일, ㉠은 현재 석양에 막대기 던지는 소리를 들은 일입니다.",
+      "optionExplanations": [
+        "㉠이 가장 먼저 올 수 없습니다. ㉠은 현재의 사건입니다.",
+        "㉠이 가장 먼저 올 수 없고, ㉡이 마지막에 올 수도 없습니다.",
+        "전생의 일(㉢) → 현실의 어린 시절(㉣) → 꿈속 남악에서의 만남(㉡) → 현재(㉠)의 순서로 배열한 것이 가장 적절합니다. 정답입니다.",
+        "㉣이 ㉢보다 먼저 올 수 없습니다. ㉢은 전생의 일로 가장 앞섭니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4
+    },
+    {
+      "id": "civil2018-national-korean-gah-q20",
+      "paperId": "paper_civil_korean_2018_national_gah",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2018/national-gah/q20.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n윗글의 내용을 이해하는 문항입니다. 승상은 중을 보며 낯이 익다고 여기고, 전에 꿈에서 남악의 노화상을 보았던 기억을 떠올립니다.",
+      "optionExplanations": [
+        "승상이 꿈에 남악에서 중을 보았던 기억을 떠올리며 낯이 익은 듯하다고 여기기 시작한다는 설명이 적절합니다. 정답입니다.",
+        "승상은 자신이 승려였음을 인정하고 꿈에서 깨는 것이 아니라, 오히려 중의 환술로 혼란을 겪습니다.",
+        "승상은 중이 여덟 낭자를 사라지게 했다고 확인한 것이 아니라, 구름이 걷힌 뒤 모두 사라진 것을 봅니다.",
+        "승상은 중과의 관계를 부정하는 것이 아니라, 자신의 기억과 어긋나는 상황에 어리둥절해합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4
+    }
+  ]
+}

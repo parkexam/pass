@@ -1,0 +1,489 @@
+{
+  "id": "paper_civil_korean_2020_national_gah",
+  "title": "2020 국가직 9급 국어 가책형",
+  "year": 2020,
+  "source": "2020 국가직 9급 국어 가책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+  "subjectId": "sub_civil_0",
+  "questions": [
+    {
+      "id": "civil2020-national-korean-gah-q01",
+      "paperId": "paper_civil_korean_2020_national_gah",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2020/national-gah/q01.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n한 문장 안에 다른 문장이 한 성분으로 들어 있는 '안긴문장(내포문)'의 유무를 판별하는 문항입니다. 명사절·관형절·인용절처럼 문장이 성분으로 안기면 안긴문장이 되지만, 대등하게 이어진 접속문은 안긴문장이 아닙니다.",
+      "optionExplanations": [
+        "'동생이 시험에 합격하기를'이 서술어 '고대한다'의 목적어로 안긴 명사절입니다.",
+        "'착한'은 '영호가 착하다'라는 문장이 관형절로 안긴 형태로 볼 수 있습니다.",
+        "'해진이는 울산에 살고 초희는 광주에 산다'는 두 절이 '-고'로 대등하게 이어진 이어진 문장입니다. 한 절이 다른 절의 성분으로 안긴 것이 아니므로 안긴문장이 없습니다. 정답입니다.",
+        "'내일 가족여행을 가자고'가 서술어 '말씀하셨다'에 안긴 인용절입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2020-national-korean-gah-q02",
+      "paperId": "paper_civil_korean_2020_national_gah",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2020/national-gah/q02.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n표준어 표기와 어문 규범에 맞는지 판단하는 문항입니다. '곯다'는 속이 상하거나 병이 나서 몸이 여위고 기운이 빠진다는 뜻으로, '곯아떨어지다'로 적어야 합니다.",
+      "optionExplanations": [
+        "'골다'가 아니라 '곯다'를 써서 '곯아떨어졌겠지'로 적어야 하므로 바르게 쓰이지 않았습니다. 정답입니다.",
+        "'깨나'는 의존 명사로, '제법 많이'의 뜻을 나타내며 띄어 쓰는 것이 맞습니다.",
+        "'각오한 바이다'의 '바'는 앞의 내용을 가리키는 의존 명사로 띄어 쓴 것이 맞습니다.",
+        "'그러고 나서'는 '그렇게 하고 난 뒤'를 뜻하는 올바른 표기입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2020-national-korean-gah-q03",
+      "paperId": "paper_civil_korean_2020_national_gah",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2020/national-gah/q03.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n주어와 서술어, 목적어와 서술어가 의미상 자연스럽게 호응하는지를 살피는 문항입니다. 서술어가 요구하는 성분이 제대로 갖추어지지 않으면 비문이 됩니다.",
+      "optionExplanations": [
+        "'점은'의 서술어가 '가졌다'가 되어 호응하지 않습니다. '우리가 고유 언어를 가졌다는 것이다'로 고쳐야 합니다.",
+        "'일은'의 서술어가 '즐거운 시간이었다'가 되어 호응하지 않습니다.",
+        "'생각은'의 서술어가 '결정했다'가 되어 호응하지 않습니다.",
+        "'그는'이 '말을 하였다'의 주어로, '내 생각이 옳지 않다'가 인용절로 자연스럽게 호응합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2020-national-korean-gah-q04",
+      "paperId": "paper_civil_korean_2020_national_gah",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2020/national-gah/q04.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n문장을 자연스럽고 정확하게 고쳐 쓰는 방안을 검토하는 문항입니다. 의미 중복, 번역투, 이중 피동, 그리고 동작의 효력이 대상에게 미치는 표현을 구분해야 합니다.",
+      "optionExplanations": [
+        "'기간'에 '동안'이 더해져 의미가 중복되므로 '공사하는 동안'으로 고치는 것이 적절합니다.",
+        "'회의를 갖다'는 번역투이므로 '회의하다'로 고치는 것이 적절합니다.",
+        "'열려져'는 '열리-'에 '-어지다'가 겹친 이중 피동이므로 '열려'로 고치는 것이 적절합니다.",
+        "'구속하다'는 이미 동작의 대상에게 효력이 미치는 타동사이므로 '구속시켰다'로 고칠 필요가 없습니다. 오히려 사동 표현이 되어 부적절합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2020-national-korean-gah-q05",
+      "paperId": "paper_civil_korean_2020_national_gah",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2020/national-gah/q05.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국어사전은 표제어를 한글 자모 순서에 따라 배열하므로, 첫째 음절이 같으면 둘째 음절의 초성·중성·종성 순서로 비교해야 합니다.",
+      "optionExplanations": [
+        "'곬'과 '곳간'은 둘째 음절 모음이 'ㅗ'로 같고 종성이 'ㄽ'과 'ㅅ'입니다. 종성 배열 순서상 'ㄽ'이 'ㅅ'보다 앞서므로 '곬'이 '곳간'보다 앞에 오고, 뒤에 '광명', '규탄'이 이어져야 합니다.",
+        "'곬(ㄽ)' → '곳간(ㅅ)' → '광명(ㅘ)' → '규탄(ㅠ)' 순서로, 모음 'ㅗ'가 'ㅘ'보다 앞서고 'ㅘ'가 'ㅠ'보다 앞섭니다. 사전 배열 순서로 적절합니다. 정답입니다.",
+        "'곳간'이 '곬'보다 앞설 수 없습니다. 종성 'ㅅ'은 'ㄽ'보다 뒤에 배열됩니다.",
+        "'곳간'이 '곬'보다 앞설 수 없고, '광명'이 '규탄'보다 앞서야 합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2020-national-korean-gah-q06",
+      "paperId": "paper_civil_korean_2020_national_gah",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2020/national-gah/q06.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n'오지랖이 넓다'는 남의 일에 쓸데없이 참견을 잘한다는 뜻의 관용 표현입니다. 한자어 중 그와 의미가 먼 것을 골라야 합니다.",
+      "optionExplanations": [
+        "謁見은 높은 지위의 사람을 만나 뵙는다는 뜻으로, 간섭·참견과는 거리가 멉니다. 정답입니다.",
+        "干涉은 간섭, 즉 남의 일에 끼어들어 참견하는 것으로 '오지랖'과 의미가 가깝습니다.",
+        "參見은 참견, 곧 끼어들어 간섭하는 것으로 '오지랖'과 의미가 가깝습니다.",
+        "干與는 간여, 곧 간섭하여 관계한다는 뜻으로 '오지랖'과 의미가 가깝습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2020-national-korean-gah-q07",
+      "paperId": "paper_civil_korean_2020_national_gah",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2020/national-gah/q07.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n소설의 서사와 인물의 처지를 정확히 파악하는 문항입니다. 아버지는 서커스단 일을 시작하려 했으나 가족들의 반대로 꿈을 접고 다시 막노동을 하러 나갑니다.",
+      "optionExplanations": [
+        "다섯 식구가 전쟁 같은 생활을 견디며 살아가지만 넉넉하지 못한 처지임은 글에 드러납니다.",
+        "아버지는 가족들의 바람이 아니라 가족들의 성토와 반대 때문에 서커스단 일을 포기했습니다. '가족들의 바람을 수용하여'라는 진술은 글과 반대입니다. 정답입니다.",
+        "'보이지 않는 보호'는 남아프리카 원주민의 구역처럼 벗어날 수 없는 계층적 한계를 뜻한다고 볼 수 있습니다.",
+        "가족은 '공부를 하지 않고는 우리 구역에서 벗어날 수 없다'고 생각하며 자녀들에게 교정쇄를 읽게 합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2020-national-korean-gah-q08",
+      "paperId": "paper_civil_korean_2020_national_gah",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2020/national-gah/q08.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사물인터넷에 대한 글쓴이의 관점을 파악하는 문항입니다. 글쓴이는 '사물'이 아니라 '인터넷'에서 출발해 기존 인터넷과의 공통점에 주목해야 한다고 주장합니다.",
+      "optionExplanations": [
+        "글쓴이는 기존 인터넷과의 차이보다 공통점을 인식하는 것이 중요하다고 했으므로 부합합니다.",
+        "전원이 없던 사물에 센서·배터리·통신 모듈이 부착되어 컴퓨터가 되고 네트워크로 연결된다고 했으므로 부합합니다.",
+        "글쓴이는 사람 수준의 지능을 강조하는 견해와 M2M만을 강조하는 견해를 모두 '그릇된 것'이라고 했으므로 부합하지 않습니다. 정답입니다.",
+        "컴퓨터가 아니었던 사물도 네트워크에 연결된다는 점을 기존 인터넷과의 차이로 설명하고 있으므로 부합합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2020-national-korean-gah-q09",
+      "paperId": "paper_civil_korean_2020_national_gah",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2020/national-gah/q09.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n한시의 내용과 감상의 적절성을 함께 판단하는 문항입니다. 이 시는 제사를 마치고 돌아오는 노인과 아이의 모습을 장면 중심으로 제시할 뿐 정서를 직접 표출하지 않습니다.",
+      "optionExplanations": [
+        "첫 구절부터 두 사람이 제사를 지내고 돌아오는 상황을 노래하고 있어 적절합니다.",
+        "들밭머리에 무덤이 늘어서 있다는 표현은 전란으로 많은 이가 죽었음을 보여 준다는 해석이 적절합니다.",
+        "늙은이가 취한 까닭을 죽은 이에 대한 안타까움으로 보는 해석은 작품의 정황에 비추어 적절합니다.",
+        "이 시는 전반부와 후반부 모두 장면을 제시하는 서경(寫景) 중심의 시로, 후반부에 정서를 표출하는 선경후정의 형식이 아닙니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2020-national-korean-gah-q10",
+      "paperId": "paper_civil_korean_2020_national_gah",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2020/national-gah/q10.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n문맥에 맞는 한자어 표기를 판별하는 문항입니다. '도전(挑戰)', '지지(支持)', '침묵(沈默)', '맹세(盟誓)'가 모두 바른 표기입니다.",
+      "optionExplanations": [
+        "도전은 挑戰(도전할 도, 싸울 전)으로 적어야 합니다. 逃戰은 '도망하여 싸움'이라는 뜻이 되어 부적절합니다.",
+        "지지는 支持(지탱할 지, 지탱할 지)로 적습니다. 持地는 문맥에 맞지 않습니다.",
+        "침묵은 沈默(잠길 침, 잠잠할 묵)으로 적습니다. 浸默는 틀린 표기입니다.",
+        "맹세는 盟誓(맹세할 맹, 맹세할 서)로, 영원한 침묵을 다짐한다는 문맥에 맞는 표기입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2020-national-korean-gah-q11",
+      "paperId": "paper_civil_korean_2020_national_gah",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2020/national-gah/q11.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n의사소통 방식, 특히 상대의 고민에 반응하는 방식을 판단하는 문항입니다. 정민은 자신의 비슷한 경험을 들려주어 상수가 스스로 해결점을 찾도록 돕습니다.",
+      "optionExplanations": [
+        "정민은 갈등을 용서로 해결하도록 권한 것이 아니라 자기 경험을 나누고 짝꿍과 대화해 보라고 조언했습니다.",
+        "자신의 경험을 제시하여 상대가 해결점을 찾도록 돕고 있습니다. 정답입니다.",
+        "정민은 상수의 짝꿍을 비판하지 않고, 자신의 경험을 말하며 공감하고 있습니다.",
+        "정민은 상수의 말을 경청하고 공감했지만, 타당성을 평가하여 판정한 것은 아닙니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2020-national-korean-gah-q12",
+      "paperId": "paper_civil_korean_2020_national_gah",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2020/national-gah/q12.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n설명 방식의 종류를 알고 그 예를 가려내는 문항입니다. 인과는 원인과 결과의 관계로 내용을 전개하는 방식입니다.",
+      "optionExplanations": [
+        "온실효과로 기온이 상승하고, 그 결과 해수면이 상승하며 기후 변화와 침수가 일어난다는 원인-결과의 흐름이 드러나므로 인과의 예로 적절합니다. 정답입니다.",
+        "제로섬의 뜻을 풀어 설명하는 정의의 예입니다.",
+        "인물의 행동을 시간 순서로 서술하는 서사의 예입니다.",
+        "풍경을 시각적으로 그려 내는 묘사의 예입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2020-national-korean-gah-q13",
+      "paperId": "paper_civil_korean_2020_national_gah",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2020/national-gah/q13.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n진행자의 대화 진행 전략을 파악하는 문항입니다. 진행자는 상대의 말을 받아 주고 요약하며 화제를 이끌지만, 모순을 지적하는 방식은 쓰지 않습니다.",
+      "optionExplanations": [
+        "'그렇군요'와 같은 반응으로 상대의 말을 들었다는 것을 보여 주고 있습니다.",
+        "진행자는 상대의 대답에서 모순점을 찾아 논리적으로 반박하거나 대응하지 않습니다. 정답입니다.",
+        "참여 방법을 묻고 '간편해서 좋군요'라고 받아 사업을 홍보할 수 있는 대답을 유도하고 있습니다.",
+        "상대의 말을 요약해 '제도 정비나 의료 전문가의 지원이 필요하다는 말씀'이라고 해석하여 보충하고 있습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2020-national-korean-gah-q14",
+      "paperId": "paper_civil_korean_2020_national_gah",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2020/national-gah/q14.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n고전 설화의 내용을 정확히 이해하는 문항입니다. 배나무가 벼락에 꺾였으나 용이 쓰다듬어 소생했고, 그 나무가 근래에 쓰러져 막대기로 만들어졌다는 내용입니다.",
+      "optionExplanations": [
+        "배나무는 용이 쓰다듬어 소생했고(일설에는 보양 스님이 주문을 외워 살렸다고 함), 저절로 소생한 것은 아닙니다.",
+        "천사는 이목을 죽이려 했으나 보양 스님이 배나무를 가리키자 배나무에 벼락을 내린 것으로, 실수로 낸 것이 아닙니다.",
+        "벼락 맞은 배나무가 근래에 쓰러져 빗장 막대기로 만들어져 선법당과 식당에 두어졌다고 했으므로, 그 막대기가 글쓴이의 당대까지 전해졌다고 이해할 수 있습니다. 정답입니다.",
+        "옥황상제는 보양 스님이 아니라 하늘의 뜻을 모르고 비를 내린 이목을 벌하려고 천사를 보냈습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2020-national-korean-gah-q15",
+      "paperId": "paper_civil_korean_2020_national_gah",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2020/national-gah/q15.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n앞의 예들을 일반화하는 문장을 찾는 문항입니다. 경상도에서 'ㅓ/ㅡ', 'ㅅ/ㅆ'을 구별하지 못하고, 평안도 등에서 'ㅗ/ㅓ'를 분별하지 못한다는 사례가 이어집니다.",
+      "optionExplanations": [
+        "'다양한 소리가 있다'는 진술은 지역별로 구별되지 않는 소리가 있다는 논지의 핵심을 담지 못합니다.",
+        "표준 발음법에 관한 내용이 아니므로 적절하지 않습니다.",
+        "지역에 따라 서로 구별하지 못하는 음운이 있다는 공통점을 묶어 낸 진술로 가장 적절합니다. 정답입니다.",
+        "자음과 모음 중 어느 쪽이 더 변별되지 않는지 비교한 내용은 글에 없습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2020-national-korean-gah-q16",
+      "paperId": "paper_civil_korean_2020_national_gah",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2020/national-gah/q16.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글의 통일성을 고려해 속담·한자 성어를 넣는 문항입니다. 스마트폰 시대의 종말과 중국 업체의 부상, 선두 기업의 몰락 가능성을 말하고 있습니다.",
+      "optionExplanations": [
+        "절치부심은 분하여 이를 갈며 다시 일어나려는 태도로, 문맥의 '호시절이 끝났다'는 흐름과 맞지 않습니다.",
+        "권불십년은 권세는 십 년을 가지 못한다는 뜻으로, 오래도록 수위를 지켜 온 기업들의 호시절이 끝났다는 문맥에 가장 잘 어울립니다. 정답입니다.",
+        "아전인수는 자기 이익만을 위하여 남의 말이나 글을 자기에게 유리하게 해석함을 뜻하여 문맥과 맞지 않습니다.",
+        "내우외환은 나라 안팎의 근심 걱정을 뜻하는데, 기업 간 경쟁 상황을 다루는 문맥과 어울리지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2020-national-korean-gah-q17",
+      "paperId": "paper_civil_korean_2020_national_gah",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2020/national-gah/q17.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n베르그송과 프로이트의 희극론을 정확히 이해하는 문항입니다. 베르그송은 집단이 감성을 침묵시키고 지성만 행사하는 가운데 한 개인에게 주의가 집중될 때 희극이 발생한다고 보았습니다.",
+      "optionExplanations": [
+        "베르그송은 감성을 침묵하게 하고 지성만 행사하는 상태를 희극 발생의 조건으로 보았으므로, 감성이 집단적으로 표출된 결과라는 진술은 반대입니다. 정답입니다.",
+        "글에서 집단, 지성, 한 개인의 존재를 희극 발생의 조건으로 제시하고 있습니다.",
+        "신체적·성격적 결함이 웃음을 유발하는 직접적 장치라고 했습니다.",
+        "프로이트의 인용문은 육체 활동에는 힘을 쓰면서 정신 활동에는 힘을 쓰지 않는 인물이 희극적으로 보인다고 말합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2020-national-korean-gah-q18",
+      "paperId": "paper_civil_korean_2020_national_gah",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2020/national-gah/q18.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n인물의 정서를 파악하고 유사한 정서가 드러난 작품을 고르는 문항입니다. ㉠에는 임씨의 고된 삶을 안타까워하고 연민하는 마음이 담겨 있습니다.",
+      "optionExplanations": [
+        "김춘수의 시로, 존재의 충만과 신비를 노래하여 안타까움과 거리가 멉니다.",
+        "자연 속에서 홀로 피어 있는 꽃과 새를 예찬하는 정서로, 연민과 거리가 멉니다.",
+        "산밭을 일구느라 저물도록 돌아오지 못하는 남편을 기다리며 걱정하고 안타까워하는 정서가 드러나 ㉠과 가장 유사합니다. 정답입니다.",
+        "박재삼의 시로, 고향과 어린 시절에 대한 그리움이 드러납니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4
+    },
+    {
+      "id": "civil2020-national-korean-gah-q19",
+      "paperId": "paper_civil_korean_2020_national_gah",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2020/national-gah/q19.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글의 시사점을 추론하는 문항입니다. 표준화된 신체를 기준으로 삼은 연구의 문제와 성별·연령에 따른 차이를 고려해야 한다는 것이 글의 요지입니다.",
+      "optionExplanations": [
+        "다양한 대상을 선정해 연구해야 한다는 결론은 글의 취지에 부합합니다.",
+        "연구 대상을 확인하고 그대로 활용할지 결정해야 한다는 결론도 글의 취지에 부합합니다.",
+        "근무 환경 조성 시 성별·연령을 고려해야 한다는 결론은 글의 취지에 부합합니다.",
+        "글이 제시한 것은 성별·연령에 따른 차이를 고려해야 한다는 것이지, 모든 사무실 온도를 일률적으로 높이자는 것이 아닙니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4
+    },
+    {
+      "id": "civil2020-national-korean-gah-q20",
+      "paperId": "paper_civil_korean_2020_national_gah",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2020/national-gah/q20.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사례를 통해 ㉠ '연극에서의 관객의 공감'의 성격을 이해하는 문항입니다. 아우슈비츠 증언 낭독에는 공감이 일었지만, 셰익스피어 희곡 낭독에는 공감이 일지 않았습니다.",
+      "optionExplanations": [
+        "낭독은 세련되지도 능숙하지도 않았는데도 공감을 이끌어 냈으므로 연기력이 공감을 좌우한다는 진술은 맞지 않습니다.",
+        "비극적 소재인 셰익스피어 희곡 낭독에서는 공감이 일지 않았으므로 일반화할 수 없습니다.",
+        "위대한 고전인 셰익스피어 희곡조차 관객의 공감을 얻지 못한 사례를 통해, 훌륭한 고전이라도 항상 공감을 불러일으키는 것은 아님을 알 수 있습니다. 정답입니다.",
+        "아우슈비츠 사례는 가까운 역사가 오히려 공감을 불러일으킨 경우이므로, 그 진술은 글의 사례와 어긋납니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4
+    }
+  ]
+}

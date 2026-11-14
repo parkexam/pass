@@ -759,6 +759,66 @@
       "questionCount": 20,
       "dataFile": "data/civil/admin_law/2025-local-B.json",
       "external": true
+    },
+    {
+      "id": "paper_civil_korean_2020_national_gah",
+      "subjectId": "sub_civil_0",
+      "title": "2020 국가직 9급 국어 가책형",
+      "year": 2020,
+      "source": "2020 국가직 9급 국어 가책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/korean/2020-national-gah.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_english_2020_national_gah",
+      "subjectId": "sub_civil_1",
+      "title": "2020 국가직 9급 영어 가책형",
+      "year": 2020,
+      "source": "2020 국가직 9급 영어 가책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/english/2020-national-gah.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_korean_2019_national_nah",
+      "subjectId": "sub_civil_0",
+      "title": "2019 국가직 9급 국어 나책형",
+      "year": 2019,
+      "source": "2019 국가직 9급 국어 나책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/korean/2019-national-nah.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_english_2019_national_nah",
+      "subjectId": "sub_civil_1",
+      "title": "2019 국가직 9급 영어 나책형",
+      "year": 2019,
+      "source": "2019 국가직 9급 영어 나책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/english/2019-national-nah.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_korean_2018_national_gah",
+      "subjectId": "sub_civil_0",
+      "title": "2018 국가직 9급 국어 가책형",
+      "year": 2018,
+      "source": "2018 국가직 9급 국어 가책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/korean/2018-national-gah.json",
+      "external": true
+    },
+    {
+      "id": "paper_civil_english_2018_national_gah",
+      "subjectId": "sub_civil_1",
+      "title": "2018 국가직 9급 영어 가책형",
+      "year": 2018,
+      "source": "2018 국가직 9급 영어 가책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/civil/english/2018-national-gah.json",
+      "external": true
     }
   ]
 }
