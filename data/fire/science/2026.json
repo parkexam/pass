@@ -1,0 +1,609 @@
+{
+  "id": "paper_fire_science_2026",
+  "title": "2026 소방학개론 (소방사 공개채용)",
+  "year": 2026,
+  "source": "2026년 3월 7일 시행 2026년도 소방공무원 공개경쟁채용 필기시험 소방학개론 문제지 및 확정답안(2026년도 소방공무원 정답표) 기준 · 자체 해설 초안(검수 필요)",
+  "subjectId": "sub_fire_science",
+  "questions": [
+    {
+      "id": "fire2026-science-q01",
+      "paperId": "paper_fire_science_2026",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/fire/science/2026/q01.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n「소방공무원법」상 시보임용 기간에는 휴직·직위해제 기간과 정직 처분을 받은 기간뿐 아니라 감봉 처분을 받은 기간도 산입하지 않는다. ④는 감봉 처분 기간을 시보임용 기간에 포함한다고 했으므로 옳지 않다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1,
+      "optionExplanations": [
+        "임용권자(임용권을 위임받은 사람을 포함한다)가 대통령령이 정하는 바에 따라 소속 소방공무원의 인사기록을 작성·보관하는 것은 법이 정한 대로다. 옳은 설명이다.",
+        "소방준감 이하 계급의 승진은 승진심사로 하고, 소방령 이하 계급의 승진은 대통령령이 정하는 비율에 따라 승진심사와 승진시험을 병행할 수 있다. 특별유공자 등은 특별승진으로 처리한다. 옳은 설명이다.",
+        "소방청장은 소방공무원의 능력 발전과 소방사무의 연계성을 위해 소방청과 시·도 간, 시·도 상호 간 인사교류가 필요하다고 인정하면 인사교류계획을 수립해 실시할 수 있다. 옳은 설명이다.",
+        "소방장 이하 6개월, 소방위 이상 1년의 시보임용과 그 기간이 만료된 다음 날의 정규임용은 맞지만, 정직 처분 기간뿐 아니라 감봉 처분을 받은 기간도 시보임용 기간에 포함하지 않는다. 감봉 기간을 포함한다는 부분이 틀렸다. 정답입니다."
+      ]
+    },
+    {
+      "id": "fire2026-science-q02",
+      "paperId": "paper_fire_science_2026",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/fire/science/2026/q02.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n「재난 및 안전관리 기본법 시행규칙」은 재난문자방송의 기준·운영에 필요한 세부 사항 가운데 지진·지진해일·화산에 관한 것은 기상청장이 정하도록 하고, 그 밖의 재난은 행정안전부장관이 정하도록 한다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1,
+      "optionExplanations": [
+        "폭염은 기상청장이 아니라 행정안전부장관이 정하는 재난이다.",
+        "지진(지진해일·화산 포함)은 기상청장이 관장하는 재난이므로 문자방송의 세부 기준도 기상청장이 정한다. 정답입니다.",
+        "황사는 행정안전부장관이 정하는 재난으로, 기상청장이 정하는 종류에 해당하지 않는다.",
+        "산불 역시 행정안전부장관이 정하는 재난이다."
+      ]
+    },
+    {
+      "id": "fire2026-science-q03",
+      "paperId": "paper_fire_science_2026",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/fire/science/2026/q03.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n통합관리방식은 모든 재난을 하나 또는 소수의 조직이 맡아 업무와 책임이 집중되는 단점이 있고(ㄴ), FEMA 창설에 이론적 근거를 제공했으며(ㄷ), 콰란텔리는 재난개념의 변화와 재난대응·계획내용·대응자원의 유사성을 근거로 통합관리로의 전환을 주장했다(ㄹ). ㄱ은 유형별 분산관리방식의 장점을 통합관리방식으로 옮겨 적은 것이다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1,
+      "optionExplanations": [
+        "ㄱ이 틀렸다. 업무 수행의 전문성과 업무 과다의 방지는 유형별 분산관리방식의 장점이다.",
+        "ㄷ은 맞지만 ㄱ이 틀려 ㄱ과 ㄷ만을 고를 수 없다.",
+        "ㄴ은 맞지만 통합관리방식으로의 전환 근거를 제시한 ㄹ을 빠뜨렸다.",
+        "ㄴ·ㄷ·ㄹ이 모두 옳다. 책임의 집중이라는 단점, FEMA 창설의 근거, 콰란텔리의 전환 근거가 모두 통합관리방식과 연결된다. 정답입니다."
+      ]
+    },
+    {
+      "id": "fire2026-science-q04",
+      "paperId": "paper_fire_science_2026",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/fire/science/2026/q04.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지역통제단장인 소방본부장·소방서장은 대통령령으로 정하는 권한을 행사할 때 위험구역 설정, 대피 명령, 차량 통행 금지·제한 요청 등 긴급한 조치를 할 수 있지만, 「민방위기본법」에 따른 민방위대 동원은 중앙대책본부장이나 시장·군수·구청장의 권한이어서 지역통제단장의 조치 사항이 아니다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1,
+      "optionExplanations": [
+        "민방위대의 동원 등 조치는 지역통제단장이 아니라 중앙대책본부장, 시장·군수·구청장의 권한이다. 정답입니다.",
+        "재난이 발생하거나 발생할 우려가 있을 때 위해 방지나 질서 유지를 위해 위험구역을 설정하는 것은 지역통제단장이 할 수 있는 조치다.",
+        "응급조치에 필요한 물자의 긴급 수송 등을 위해 경찰관서의 장에게 도로 구간을 지정해 통행을 금지·제한하도록 요청할 수 있다. 옳은 조치다.",
+        "주민이나 그 지역 안에 있는 사람에게 대피를 명하고, 선박·자동차 등의 소유자·관리자·점유자에게 대피시킬 것을 명할 수 있다. 옳은 조치다."
+      ]
+    },
+    {
+      "id": "fire2026-science-q05",
+      "paperId": "paper_fire_science_2026",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/fire/science/2026/q05.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n「재난 및 안전관리 기본법 시행령」별표의 사회재난 유형별 재난관리주관기관을 보면 수산물종합유통센터의 화재로 인한 대규모 피해는 해양수산부가 맡는다. 같은 유통시설이라도 농산물 쪽은 농림축산식품부 소관이다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1,
+      "optionExplanations": [
+        "수산물종합유통센터 화재로 인한 대규모 피해의 주관기관은 해양수산부다. 올바른 연결이다. 정답입니다.",
+        "출입국관리법에 따른 외국인보호실의 화재는 외교부가 아니라 법무부 소관이다.",
+        "수도의 화재로 인한 대규모 피해는 국토교통부가 아니라 환경부 소관이다.",
+        "전기 등 에너지의 수급차질로 인한 대규모 피해는 산업통상자원부 소관인데, 기관명을 '산업통상부'로 적어 틀렸다."
+      ]
+    },
+    {
+      "id": "fire2026-science-q06",
+      "paperId": "paper_fire_science_2026",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/fire/science/2026/q06.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n통합지휘·조정통제센터는 긴급구조대응계획에 따른 비상지원임무를 수행하고, 긴급구조 관련 기관 간 상호연락과 협조체제를 유지하며, 기관별 지휘소 간 통합대응을 위한 통신연락을 담당한다. 현장에서 지휘권을 행사하며 조정·통제하는 것은 긴급구조통제단장(현장지휘소)의 역할이다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1,
+      "optionExplanations": [
+        "긴급구조대응계획에 의한 비상지원임무는 통합지휘·조정통제센터의 기능이다.",
+        "긴급구조 관련 기관 간 상호연락 및 협조체제의 유지는 센터의 핵심 기능이다.",
+        "기관별 지휘소 간 통합대응을 위한 통신연락에 관한 사항도 센터가 맡는다.",
+        "주요 긴급구조지원기관과 합동으로 현장지휘를 조정·통제하는 것은 현장지휘소를 꾸리는 긴급구조통제단장의 권한이다. 정답입니다."
+      ]
+    },
+    {
+      "id": "fire2026-science-q07",
+      "paperId": "paper_fire_science_2026",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/fire/science/2026/q07.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n나이트로벤젠(C6H5NO2)은 인화점이 70℃ 이상 200℃ 미만인 제4류 위험물 가운데 제3석유류(비수용성)에 해당하고 지정수량은 2,000L다. 제5류 나이트로화합물로 분류하고 지정수량을 제2종 100kg으로 적은 ②가 틀렸다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2,
+      "optionExplanations": [
+        "과산화수소(농도 36중량% 이상)는 제6류 산화성액체, 지정수량 300kg이며 다량의 물로 희석해 소화한다. 옳은 설명이다.",
+        "나이트로벤젠은 제5류 자기반응성물질이 아니라 제4류 제3석유류(비수용성)이고 지정수량도 2,000L다. 유별·품명·지정수량이 모두 잘못되었다. 정답입니다.",
+        "글리세린은 제4류 제3석유류(수용성)로 지정수량 4,000L이며, 알코올포로 질식소화하거나 다량의 물로 희석해 소화한다. 옳은 설명이다.",
+        "탄화칼슘은 제3류 칼슘의 탄화물(금수성 물질), 지정수량 300kg이며 물과 반응하므로 마른모래·팽창질석·팽창진주암·건조석회로 질식소화한다. 옳은 설명이다."
+      ]
+    },
+    {
+      "id": "fire2026-science-q08",
+      "paperId": "paper_fire_science_2026",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/fire/science/2026/q08.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n먼저 각 물질이 위험물에 해당하는지 따져야 한다. 질산은 비중 1.49 이상이므로 위험물로 1,200kg÷300kg=4배, 과산화수소는 농도 36중량% 이상이므로 위험물로 300kg÷300kg=1배, 철분은 53㎛ 표준체 통과분이 50중량% 이상이므로 위험물로 1,000kg÷500kg=2배다. 황은 순도 60중량% 이상이어야 위험물인데 불순물 100kg을 뺀 순도가 50%이므로 계산에서 빠진다. 합계 7배다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2,
+      "optionExplanations": [
+        "3.52배는 황을 위험물로 보거나 과산화수소·철분의 배수를 달리 잡아야 나오는 값으로, 실제 배수의 합과 맞지 않는다.",
+        "6.52배는 황의 순수량 100kg을 지정수량 100kg으로 나눠 1배로 더한 값이다. 황은 순도 60중량%에 미치지 못해 위험물이 아니다.",
+        "4배(질산)+1배(과산화수소)+2배(철분)=7배다. 정답입니다.",
+        "9배는 황 200kg을 지정수량 100kg으로 나눠 2배로 더한 값이다. 황이 위험물이 아니므로 성립하지 않는다."
+      ]
+    },
+    {
+      "id": "fire2026-science-q09",
+      "paperId": "paper_fire_science_2026",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/fire/science/2026/q09.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nK급(주방화재)용 소화기는 식용유 화재를 재현한 K급 전용 소화성능시험을 거쳐 적응성을 인정받는다. B급(유류화재)용 소화기의 소화성능시험을 그대로 적용하지는 않는다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2,
+      "optionExplanations": [
+        "K급 화재는 주방에서 동·식물유를 취급하는 조리기구에서 일어나는 화재를 말한다. 옳은 설명이다.",
+        "탄산수소나트륨(NaHCO3)을 주성분으로 하는 분말 소화약제는 식용유와 비누화 반응을 일으켜 소화에 도움을 준다. 옳은 설명이다.",
+        "K급 소화기는 K급 전용 소화성능시험에 따른다. B급 시험에 따른다는 서술이 틀렸다. 정답입니다.",
+        "식용유는 발화점이 끓는점보다 낮아 화염을 제거한 뒤에도 다시 불이 붙을 수 있다. 옳은 설명이다."
+      ]
+    },
+    {
+      "id": "fire2026-science-q10",
+      "paperId": "paper_fire_science_2026",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/fire/science/2026/q10.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n완진(소화활동이 끝난) 시각을 초진으로 적으면 안 되고(ㄱ), 병원 치료가 필요 없는 단순 연기 흡입자는 부상자로 집계하지 않으며(ㄴ), 서로 다른 사람이 저지른 방화·불장난은 같은 대상물에서 발화했더라도 각각 별개의 화재로 보고한다(ㄷ). ㄹ(입체면적 40% 소실·잔존부분 보수 후 재사용 가능은 반소)과 ㅁ(감정 의뢰 시 소방관서장 사전 보고 후 보고일 연장)은 규정에 맞다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2,
+      "optionExplanations": [
+        "ㄱ·ㄴ·ㄷ이 모두 규정과 다르므로 정답입니다. 초진이 아니라 완진 시각을 적고, 단순 연기 흡입자는 부상자에서 제외하며, 다른 사람의 방화는 별건으로 본다.",
+        "ㄹ은 규정에 맞는 서술이므로 '옳지 않은 것'에 넣을 수 없다.",
+        "ㄹ이 규정에 맞으므로 이 조합은 성립하지 않는다.",
+        "ㅁ이 규정에 맞으므로 다섯 항목을 모두 고를 수 없다."
+      ]
+    },
+    {
+      "id": "fire2026-science-q11",
+      "paperId": "paper_fire_science_2026",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/fire/science/2026/q11.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n흑체의 복사에너지는 E=σAT⁴t로 계산한다. 절대온도 T=127+273=400K, 면적 A=5m², 시간 t=100초이므로 (5×10⁻⁸)×5×400⁴×100=6.4×10⁵J, 즉 640kJ이다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2,
+      "optionExplanations": [
+        "63.5kJ은 온도를 절대온도로 바꾸지 않거나 4승 계산을 잘못 적용한 값이다.",
+        "317.5kJ은 면적이나 시간을 잘못 대입해 나온 값이다.",
+        "400⁴과 스테판볼츠만 상수를 그대로 적용하면 640kJ이다. 정답입니다.",
+        "1,150kJ은 상수나 지수 계산이 어긋난 값으로, 실제 계산 결과와 맞지 않는다."
+      ]
+    },
+    {
+      "id": "fire2026-science-q12",
+      "paperId": "paper_fire_science_2026",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/fire/science/2026/q12.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n가연성 가스가 공기나 조연성 가스와 적정 비율로 섞인 혼합기가 발화원에 착화되어 폭발하는 것은 혼합가스폭발이다. 분해폭발은 아세틸렌처럼 산소가 없어도 물질 자체가 분해되면서 폭발하는 것으로, 화재 현장에서 가장 많이 발생하는 폭발은 혼합가스폭발이다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3,
+      "optionExplanations": [
+        "연기는 연소과정에서 생긴 고체·액체·기체 미립자와 화학물질의 복합체로 공기 중에 떠다닌다. 옳은 설명이다.",
+        "대류는 유체의 이동으로 열이 전달되는 현상이고, 그 크기는 주로 뉴턴의 냉각법칙으로 표현된다. 옳은 설명이다.",
+        "정촉매는 활성화에너지를 낮추는 새로운 반응 경로를 제공하고 반응 후에도 소모되지 않는다. 옳은 설명이다.",
+        "설명한 현상은 혼합가스폭발이다. 분해폭발은 산소 없이 물질 자체가 분해하며 일어나므로 서술이 틀렸다. 정답입니다."
+      ]
+    },
+    {
+      "id": "fire2026-science-q13",
+      "paperId": "paper_fire_science_2026",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/fire/science/2026/q13.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n그래프에서 A는 생성물의 엔탈피 준위에서 최고점까지의 높이로 역반응 활성화에너지다. 정반응 활성화에너지는 반응물의 엔탈피 준위에서 최고점까지의 높이이므로 ①이 틀렸다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3,
+      "optionExplanations": [
+        "A는 역반응 활성화에너지다. 정답입니다.",
+        "B는 생성물과 반응물의 엔탈피 차이인 반응열로, 생성물의 엔탈피가 더 높으므로 ΔH>0이다. 옳은 설명이다.",
+        "반응 후 엔탈피가 높아졌으므로 엔탈피가 증가한 흡열반응이다. 옳은 설명이다.",
+        "생성물의 엔탈피가 반응물보다 높은 흡열반응의 그래프다. 옳은 설명이다."
+      ]
+    },
+    {
+      "id": "fire2026-science-q14",
+      "paperId": "paper_fire_science_2026",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/fire/science/2026/q14.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n(CH3)3Al+3H2O → Al(OH)3+3CH4 이다. 1mol의 트라이메틸알루미늄이 3mol의 물과 반응해 3mol의 메테인을 만든다. 6.02×10²³개는 1mol이므로 표준상태에서 3×22.4=67.2L의 메테인이 생성된다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3,
+      "optionExplanations": [
+        "반응식의 계수대로 1mol당 3mol의 물이 필요하다. 옳은 설명이다.",
+        "(CH3)3Al의 몰질량은 72g/mol이므로 144g은 2mol이고, 메테인은 6mol 생성된다. 옳은 설명이다.",
+        "1mol에서 메테인 3mol, 즉 67.2L가 생성된다. 22.4L는 1mol일 때의 부피다. 정답입니다.",
+        "물 3mol이 메테인 3mol을 만들므로 두 몰수는 같다. 옳은 설명이다."
+      ]
+    },
+    {
+      "id": "fire2026-science-q15",
+      "paperId": "paper_fire_science_2026",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/fire/science/2026/q15.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nC5H12+8O2 → 5CO2+6H2O 이므로 산소 계수는 8이다. 화학양론농도는 100÷(1+8÷0.2)≈2.4를 반올림해 2vol%, 연소하한계는 0.55×2=1.1을 반올림해 1vol%, 최소산소농도는 연소하한계×산소계수=1×8=8vol%다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3,
+      "optionExplanations": [
+        "6vol%는 산소 계수 8 대신 물의 계수 6을 곱한 값이다.",
+        "연소하한계 1vol%에 산소 계수 8을 곱하면 8vol%다. 정답입니다.",
+        "최소산소농도는 공기 중 산소농도(20vol%로 가정)보다 낮아야 하므로 88vol%는 성립하지 않는다.",
+        "농도는 100vol%를 넘을 수 없으므로 104vol%도 답이 될 수 없다."
+      ]
+    },
+    {
+      "id": "fire2026-science-q16",
+      "paperId": "paper_fire_science_2026",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/fire/science/2026/q16.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n밀폐된 건물에서 하층 개구부를 열면 중성대(압력 경계)가 아래로 내려가 내부 압력선은 D 쪽으로, 상층 개구부를 열면 중성대가 위로 올라가 C 쪽으로 이동한다. ④는 C와 D를 거꾸로 적었다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3,
+      "optionExplanations": [
+        "A는 실내와 실외의 정압이 같아지는 중성대이며, 개구부 분포와 화재 조건에 따라 위치가 달라질 수 있다. 옳은 설명이다.",
+        "중성대 위쪽은 실내 압력이 높아 열과 연기가 유출되고, 아래쪽은 외부 공기가 유입된다. 옳은 설명이다.",
+        "B가 넓어질수록 압력차가 커져 상부 배출과 하부 유입이 함께 강해진다. 옳은 설명이다.",
+        "하층 개구부 개방은 D, 상층 개구부 개방은 C로 서술해야 옳다. 정답입니다."
+      ]
+    },
+    {
+      "id": "fire2026-science-q17",
+      "paperId": "paper_fire_science_2026",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/fire/science/2026/q17.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n분진폭발은 입자 표면이 마찰 등으로 가열되고, 열분해로 생긴 가연성 기체가 공기와 섞인 뒤 발화하는 순서로 진행된다. 발화가 첫 단계라고 한 ④의 서술이 틀렸다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4,
+      "optionExplanations": [
+        "산화폭발에는 가스폭발, 분무폭발, 분진폭발이 포함된다. 옳은 설명이다.",
+        "증기운폭발은 다량의 가연성 가스가 개방된 대기에 구름 형태로 모인 뒤 점화되어 순간적으로 폭발하는 화학적 폭발이다. 옳은 설명이다.",
+        "증기폭발은 액화가스가 급격히 기화하며 증기압이 용기의 내압을 넘어 파열되는 폭발이다. 옳은 설명이다.",
+        "분진폭발은 가열→열분해→가연성 기체와 공기의 혼합→발화 순으로 일어난다. 발화를 첫 단계로 둔 서술이 틀렸다. 정답입니다."
+      ]
+    },
+    {
+      "id": "fire2026-science-q18",
+      "paperId": "paper_fire_science_2026",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/fire/science/2026/q18.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n농도가 높아질수록 호흡이 깊어지는 것은 호흡중추를 자극하는 이산화탄소의 성질이다. 일산화탄소는 헤모글로빈과 강하게 결합해 산소 운반을 방해하는 것이 주된 독성이다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4,
+      "optionExplanations": [
+        "이산화질소는 독성이 매우 강해 200~700ppm에 단시간 노출되어도 치명적일 수 있다. 옳은 설명이다.",
+        "암모니아는 상·공업용 냉동시설의 냉매로 널리 쓰이므로 화재 시 누출되면 큰 위험이 된다. 옳은 설명이다.",
+        "황화수소는 0.04%에서도 30분 이상 호흡하면 위험하고 0.08%에서는 치명적일 수 있다. 옳은 설명이다.",
+        "호흡 심도를 높이는 것은 이산화탄소이고, 일산화탄소는 혈액의 산소 운반을 막는다. 정답입니다."
+      ]
+    },
+    {
+      "id": "fire2026-science-q19",
+      "paperId": "paper_fire_science_2026",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/fire/science/2026/q19.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nA·B·C급 화재에 모두 적응성이 있는 소화약제는 인산염류(ㄱ), 고체에어로졸화합물(ㄷ), 할로겐화합물 및 불활성기체소화약제(ㅁ)다. 중탄산염류(ㄴ)는 A급에, 마른모래·팽창질석 등(ㄹ)은 C급에 적응성이 없다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4,
+      "optionExplanations": [
+        "ㄱ·ㄷ·ㅁ이 모두 A·B·C급에 적응성이 있다. 정답입니다.",
+        "ㄴ 중탄산염류는 B·C급에는 적응성이 있지만 A급에는 없다.",
+        "ㄴ이 A급에 적응성이 없고 ㄹ도 C급에 적응성이 없어 성립하지 않는다.",
+        "ㄹ 마른모래·팽창질석·팽창진주암은 A·B급에는 쓰지만 C급(전기화재)에는 적응성이 없다."
+      ]
+    },
+    {
+      "id": "fire2026-science-q20",
+      "paperId": "paper_fire_science_2026",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/fire/science/2026/q20.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n고체에어로졸화합물은 산화제·가연성 물질 등의 혼합물로, 불이 붙어 연소하면서 비전도성의 미세입자인 에어로졸을 만들어 소화한다. '불연성물질의 혼합물'이라고 정의한 ③이 틀렸다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4,
+      "optionExplanations": [
+        "불활성기체소화약제는 헬륨·네온·아르곤 또는 질소가스 중 하나 이상을 기본성분으로 한다. 옳은 정의다.",
+        "할로겐화합물소화약제는 불소·염소·브롬·요오드 중 하나 이상을 포함하는 유기화합물을 기본성분으로 한다. 옳은 정의다.",
+        "고체에어로졸화합물은 불연성 물질이 아니라 과산화물질·가연성 물질 등의 혼합물로서 연소로 에어로졸을 만드는 고체다. 정답입니다.",
+        "고체에어로졸은 연소과정에서 생성된 직경 10㎛ 이하의 고체 입자와 기체 상태 물질의 혼합물이다. 옳은 정의다."
+      ]
+    },
+    {
+      "id": "fire2026-science-q21",
+      "paperId": "paper_fire_science_2026",
+      "number": 21,
+      "kind": "scan",
+      "body": "21번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/fire/science/2026/q21.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n제연설비 수동기동장치를 조작하면 급기댐퍼는 전 층의 제연구역에서 열리지만, 배출댐퍼나 개폐기는 조작한 해당 층에서만 열린다. 따라서 전 층의 배출댐퍼를 개방한다는 ①이 틀렸다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4,
+      "optionExplanations": [
+        "배출댐퍼·개폐기는 수동기동장치를 조작한 해당 층에서만 개방된다. 정답입니다.",
+        "급기댐퍼는 전 층의 제연구역에 설치된 것이 모두 개방된다. 옳은 작동이다.",
+        "급기송풍기와 유입공기의 배출용 송풍기가 함께 작동한다. 옳은 작동이다.",
+        "개방·고정된 모든 출입문(제연구역과 옥내 사이의 출입문에 한함)의 개폐장치가 작동한다. 옳은 작동이다."
+      ]
+    },
+    {
+      "id": "fire2026-science-q22",
+      "paperId": "paper_fire_science_2026",
+      "number": 22,
+      "kind": "scan",
+      "body": "22번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/fire/science/2026/q22.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n펌프성능시험에서 체절운전은 토출량 0에서 정격토출압의 140% 이하, 정격토출량의 150% 운전은 정격토출압의 65% 이상이어야 '양호'로 판정한다. 정격토출압이 1MPa이므로 ㉠은 0L/min, ㉢은 0.65MPa 이상인 0.67MPa이 된다. ㉡은 정격토출압 1MPa의 140%인 1.4MPa 이하이어야 하므로 1.35MPa이 들어갈 수 있다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 5,
+      "optionExplanations": [
+        "㉠ 0L/min(체절), ㉡ 1.35MPa(140% 이하), ㉢ 0.67MPa(65% 이상)이 모두 기준에 들어간다. 정답입니다.",
+        "㉢ 0.5MPa은 정격토출압의 65%(0.65MPa)에 미치지 못해 '양호' 판정을 받을 수 없다.",
+        "체절운전의 토출량은 0L/min이어야 하므로 1,300L/min은 들어갈 수 없다.",
+        "㉠이 1,300L/min이고 ㉢도 기준에 미달해 성립하지 않는다."
+      ]
+    },
+    {
+      "id": "fire2026-science-q23",
+      "paperId": "paper_fire_science_2026",
+      "number": 23,
+      "kind": "scan",
+      "body": "23번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/fire/science/2026/q23.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n㉠은 역류를 막는 체크밸브, ㉡은 여러 방호구역 중 선택한 구역으로 약제를 보내는 선택밸브, ㉢은 화재신호를 받아 파괴침으로 기동용 가스용기 밸브의 봉판을 뚫는 솔레노이드밸브(기동장치)다. ㉣은 소화약제 저장용기인데 설명은 기동용 가스용기에 붙어 있어 틀렸다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 5,
+      "optionExplanations": [
+        "㉠과 ㉡의 설명은 그림의 기능과 일치하지만 ㉢의 설명이 빠져 모두 옳은 조합이 아니다.",
+        "㉣의 설명이 실제 기동용 가스용기가 아니라 소화약제 저장용기를 가리키므로 성립하지 않는다.",
+        "㉠ 체크밸브, ㉡ 선택밸브, ㉢ 솔레노이드밸브의 설명이 모두 맞다. 정답입니다.",
+        "㉣이 틀렸으므로 ㉡·㉢·㉣을 모두 고를 수 없다."
+      ]
+    },
+    {
+      "id": "fire2026-science-q24",
+      "paperId": "paper_fire_science_2026",
+      "number": 24,
+      "kind": "scan",
+      "body": "24번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/fire/science/2026/q24.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n㉠은 충압펌프다. 배관의 누설 등으로 압력이 떨어지면 배관 내 압력을 보충해 주펌프가 빈번하게 기동하지 않도록 하는 역할을 한다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 6,
+      "optionExplanations": [
+        "배관 내 압력손실에 따른 주펌프의 빈번한 기동을 막기 위해 압력을 보충하는 펌프, 즉 충압펌프다. 정답입니다.",
+        "구동장치의 회전·왕복 운동으로 소화용수를 가압하는 주된 펌프는 주펌프다.",
+        "압축공기나 불연성 기체의 압력으로 소화용수를 가압하는 것은 가압수조 방식의 설명이다.",
+        "토출 측 압력변동을 검지해 펌프를 자동 기동·정지시키는 것은 압력챔버와 압력스위치의 역할이다."
+      ]
+    },
+    {
+      "id": "fire2026-science-q25",
+      "paperId": "paper_fire_science_2026",
+      "number": 25,
+      "kind": "scan",
+      "body": "25번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/fire/science/2026/q25.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n층수가 11층 이상인 건물에서 2층 이상의 층에서 화재가 발생하면, 비상방송설비의 우선경보 대상은 발화층과 그 직상 4개 층이다. 지상 2층에서 발화했으므로 지상 2층부터 6층까지 경보한다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 6,
+      "optionExplanations": [
+        "발화층과 직상 4개층이 우선경보 대상이므로 2층·3층만으로는 부족하다.",
+        "지하 전 층은 지하층에서 화재가 났을 때 경보 대상이 되며, 이 경우에는 해당되지 않는다.",
+        "발화층인 지상 2층과 직상 4개층인 3~6층까지 경보한다. 정답입니다.",
+        "발화층보다 아래층인 지상 1층은 우선경보 대상이 아니다."
+      ]
+    }
+  ]
+}

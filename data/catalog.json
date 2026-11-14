@@ -20,6 +20,11 @@
       "id": "police",
       "name": "경찰 공무원",
       "desc": "형사법 · 경찰학 · 헌법"
+    },
+    {
+      "id": "fire",
+      "name": "소방 공무원",
+      "desc": "소방학개론 · 소방관계법규 · 행정법총론"
     }
   ],
   "subjects": [
@@ -77,6 +82,21 @@
       "id": "sub_police_const",
       "examId": "police",
       "name": "헌법"
+    },
+    {
+      "id": "sub_fire_science",
+      "examId": "fire",
+      "name": "소방학개론"
+    },
+    {
+      "id": "sub_fire_law",
+      "examId": "fire",
+      "name": "소방관계법규"
+    },
+    {
+      "id": "sub_fire_admin_law",
+      "examId": "fire",
+      "name": "행정법총론"
     }
   ],
   "papers": [
@@ -1298,6 +1318,96 @@
       "source": "2022년도 제2차 경찰공무원(순경) 공개채용 필기시험 경찰학 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
       "questionCount": 40,
       "dataFile": "data/police/science/2022-r2.json",
+      "external": true
+    },
+    {
+      "id": "paper_fire_science_2026",
+      "subjectId": "sub_fire_science",
+      "title": "2026 소방학개론 (소방사 공개채용)",
+      "year": 2026,
+      "source": "2026년 3월 7일 시행 2026년도 소방공무원 공개경쟁채용 필기시험 소방학개론 문제지 및 확정답안(2026년도 소방공무원 정답표) 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 25,
+      "dataFile": "data/fire/science/2026.json",
+      "external": true
+    },
+    {
+      "id": "paper_fire_law_2026",
+      "subjectId": "sub_fire_law",
+      "title": "2026 소방관계법규 (소방사 공개채용)",
+      "year": 2026,
+      "source": "2026년 3월 7일 시행 2026년도 소방공무원 공개경쟁채용 필기시험 소방관계법규 문제지 및 확정답안(2026년도 소방공무원 정답표) 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 25,
+      "dataFile": "data/fire/law/2026.json",
+      "external": true
+    },
+    {
+      "id": "paper_fire_admin_law_2026",
+      "subjectId": "sub_fire_admin_law",
+      "title": "2026 행정법총론 (소방사 공개채용)",
+      "year": 2026,
+      "source": "2026년 3월 7일 시행 2026년도 소방공무원 공개경쟁채용 필기시험 행정법총론 문제지 및 확정답안(2026년도 소방공무원 정답표) 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 25,
+      "dataFile": "data/fire/admin_law/2026.json",
+      "external": true
+    },
+    {
+      "id": "paper_fire_science_2025",
+      "subjectId": "sub_fire_science",
+      "title": "2025 소방학개론 (소방사 공개채용)",
+      "year": 2025,
+      "source": "2025년 3월 29일 시행 2025년 소방공무원 공개경쟁채용 필기시험 소방학개론 문제지 및 공개 가답안(2025년 소방공무원 과목별 가답안) 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 25,
+      "dataFile": "data/fire/science/2025.json",
+      "external": true
+    },
+    {
+      "id": "paper_fire_law_2025",
+      "subjectId": "sub_fire_law",
+      "title": "2025 소방관계법규 (소방사 공개채용)",
+      "year": 2025,
+      "source": "2025년 3월 29일 시행 2025년 소방공무원 공개경쟁채용 필기시험 소방관계법규 문제지 및 공개 가답안(2025년 소방공무원 과목별 가답안) 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 25,
+      "dataFile": "data/fire/law/2025.json",
+      "external": true
+    },
+    {
+      "id": "paper_fire_admin_law_2025",
+      "subjectId": "sub_fire_admin_law",
+      "title": "2025 행정법총론 (소방사 공개채용)",
+      "year": 2025,
+      "source": "2025년 3월 29일 시행 2025년 소방공무원 공개경쟁채용 필기시험 행정법총론 문제지 및 공개 가답안(2025년 소방공무원 과목별 가답안) 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 25,
+      "dataFile": "data/fire/admin_law/2025.json",
+      "external": true
+    },
+    {
+      "id": "paper_fire_science_2024",
+      "subjectId": "sub_fire_science",
+      "title": "2024 소방학개론 (소방사 공개채용)",
+      "year": 2024,
+      "source": "2024년 3월 30일 시행 2024년 소방공무원 공개경쟁채용 필기시험 소방학개론 문제지 및 확정답안(2024년 소방공무원 필기시험 확정답안) 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 25,
+      "dataFile": "data/fire/science/2024.json",
+      "external": true
+    },
+    {
+      "id": "paper_fire_law_2024",
+      "subjectId": "sub_fire_law",
+      "title": "2024 소방관계법규 (소방사 공개채용)",
+      "year": 2024,
+      "source": "2024년 3월 30일 시행 2024년 소방공무원 공개경쟁채용 필기시험 소방관계법규 문제지 및 확정답안(2024년 소방공무원 필기시험 확정답안) 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 25,
+      "dataFile": "data/fire/law/2024.json",
+      "external": true
+    },
+    {
+      "id": "paper_fire_admin_law_2024",
+      "subjectId": "sub_fire_admin_law",
+      "title": "2024 행정법총론 (소방사 공개채용)",
+      "year": 2024,
+      "source": "2024년 3월 30일 시행 2024년 소방공무원 공개경쟁채용 필기시험 행정법총론 문제지 및 확정답안(2024년 소방공무원 필기시험 확정답안) 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 25,
+      "dataFile": "data/fire/admin_law/2024.json",
       "external": true
     }
   ]

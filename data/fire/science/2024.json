@@ -1,0 +1,609 @@
+{
+  "id": "paper_fire_science_2024",
+  "title": "2024 소방학개론 (소방사 공개채용)",
+  "year": 2024,
+  "source": "2024년 3월 30일 시행 2024년 소방공무원 공개경쟁채용 필기시험 소방학개론 문제지 및 확정답안(2024년 소방공무원 필기시험 확정답안) 기준 · 자체 해설 초안(검수 필요)",
+  "subjectId": "sub_fire_science",
+  "questions": [
+    {
+      "id": "fire2024-science-q01",
+      "paperId": "paper_fire_science_2024",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/fire/science/2024/q01.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n소방 조직은 미군정기의 도 소방위원회(1946)에서 출발해 1975년 내무부 소방국, 1992년 시·도 소방본부, 2004년 소방방재청 순으로 설치되었다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1,
+      "optionExplanations": [
+        "내무부 소방과가 도 소방위원회보다 앞선다는 순서가 옳지 않다.",
+        "도 소방위원회→내무부 소방국→시·도 소방본부→소방방재청 순이 실제 설치 순서다. 정답입니다.",
+        "중앙소방위원회를 맨 앞에 둔 순서가 옳지 않다.",
+        "내무부 소방국이 중앙소방위원회보다 앞서므로 성립하지 않는다."
+      ]
+    },
+    {
+      "id": "fire2024-science-q02",
+      "paperId": "paper_fire_science_2024",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/fire/science/2024/q02.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n1948년 정부 수립 후 소방은 내무부 치안국 소방과로 경찰 조직 안에 편입되었다. 소방이 경찰에서 분리된 것은 1975년 내무부에 소방국이 설치되면서다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1,
+      "optionExplanations": [
+        "1426년 금화도감을 설치하고 성문도감과 병합해 수성금화도감으로 개편한 것은 옳은 설명이다.",
+        "1894년 경무청이 설치되고 '소방'이라는 용어가 처음 사용된 것도 옳은 설명이다.",
+        "1948년 정부 수립으로 소방이 경찰에서 분리되었다고 한 부분이 틀렸다. 당시에는 오히려 경찰 조직 안으로 들어갔다. 정답입니다.",
+        "2017년 「정부조직법」 개정으로 국민안전처를 해체하고 소방청을 개청한 것은 옳은 설명이다."
+      ]
+    },
+    {
+      "id": "fire2024-science-q03",
+      "paperId": "paper_fire_science_2024",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/fire/science/2024/q03.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n「재난 및 안전관리 기본법 시행령」상 저수지 사고의 재난관리 주관기관은 농림축산식품부다. 국토교통부는 소관 공동구 재난 등 다른 유형을 맡는다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1,
+      "optionExplanations": [
+        "저수지 사고는 국토교통부가 아니라 농림축산식품부 소관이다. 정답입니다.",
+        "자연우주물체의 추락·충돌은 과학기술정보통신부가 주관한다. 옳은 연결이다.",
+        "국토교통부가 관장하는 공동구를 제외한 공동구 재난은 행정안전부 소관이다. 옳은 연결이다.",
+        "파업에 따른 가동중단으로 한정한 원자력안전 사고는 산업통상자원부 소관이다. 옳은 연결이다."
+      ]
+    },
+    {
+      "id": "fire2024-science-q04",
+      "paperId": "paper_fire_science_2024",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/fire/science/2024/q04.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n하인리히의 도미노 이론에서는 셋째 단계인 불안전한 행동·상태를 제거하면 사고로 이어지는 연쇄가 끊긴다고 보았다. 버드의 수정 도미노 이론에서는 그 근원인 기본원인(제어의 부족에서 비롯된)을 없애야 한다고 보았다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1,
+      "optionExplanations": [
+        "ㄱ의 개인적 결함, ㄴ의 직접원인은 각 이론이 제거 대상으로 강조한 단계가 아니다.",
+        "ㄴ의 기본원인은 맞지만 ㄱ의 개인적 결함이 틀렸다.",
+        "ㄱ의 불안전한 행동·상태는 맞지만 ㄴ의 직접원인이 틀렸다.",
+        "하인리히는 불안전한 행동·상태, 버드는 기본원인을 제거해야 한다고 보았다. 정답입니다."
+      ]
+    },
+    {
+      "id": "fire2024-science-q05",
+      "paperId": "paper_fire_science_2024",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/fire/science/2024/q05.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n작열연소는 숯·코크스처럼 불꽃 없이 고체 표면이 빨갛게 타는 표면연소(무염연소)다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2,
+      "optionExplanations": [
+        "작열연소를 화염이 없는 표면연소로 설명한 것이 맞다. 정답입니다.",
+        "유황·나프탈렌은 열분해로 생긴 가연성 가스가 타는 분해연소이지만, 분해연소를 그렇게만 규정한 서술은 유황의 예시와 맞지 않는다. 나프탈렌은 승화성 물질로 증발연소로 보는 것이 일반적이다.",
+        "증발연소는 액체뿐 아니라 나프탈렌처럼 승화하는 고체에서도 일어난다. 액체에서만 발생한다는 서술이 틀렸다.",
+        "자기연소는 제5류(자기반응성 물질)에서 나타나는 연소로, 제3류 위험물의 연소 형태가 아니다."
+      ]
+    },
+    {
+      "id": "fire2024-science-q06",
+      "paperId": "paper_fire_science_2024",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/fire/science/2024/q06.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n탱크가 균열되면 내부 압력이 급격히 떨어져 과열 상태의 액체가 한꺼번에 끓어오르므로 액상과 기상의 동적 평형이 깨진다. 평형이 유지된다고 한 ③이 틀렸다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2,
+      "optionExplanations": [
+        "가연물이 비점 이상으로 가열될 때 블레비가 발생한다. 옳은 설명이다.",
+        "저장탱크의 기계적 강도를 넘는 압력이 형성될 때 블레비가 일어난다. 옳은 설명이다.",
+        "균열로 압력이 떨어지면 과열 액체가 급격히 비등해 평형이 깨진다. 평형이 유지된다고 한 서술이 틀렸다. 정답입니다.",
+        "탱크 외부를 열전도성이 작은 물질로 단열해 가열을 막는 것은 블레비 예방 대책이다."
+      ]
+    },
+    {
+      "id": "fire2024-science-q07",
+      "paperId": "paper_fire_science_2024",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/fire/science/2024/q07.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n최성기에는 화염과 실내 온도가 최고조에 이르지만 산소가 부족해져 환기지배형 화재가 되고, 연소속도는 산소 유입량에 따라 느려진다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2,
+      "optionExplanations": [
+        "화재 초기에는 온도 상승이 완만하고, 급격한 상승은 성장기 이후에 나타난다.",
+        "성장기에는 연료지배형 양상이 나타나고, 환기지배형은 최성기에 나타난다.",
+        "최성기에 화염이 최고조이나 산소 부족으로 연소속도가 느려진다는 설명이 맞다. 정답입니다.",
+        "감쇠기에도 훈소가 이어지면 백드래프트 위험이 남는다. 위험이 없다고 한 서술이 틀렸다."
+      ]
+    },
+    {
+      "id": "fire2024-science-q08",
+      "paperId": "paper_fire_science_2024",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/fire/science/2024/q08.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n불완전연소는 산소 공급이 부족하거나 연소 온도가 낮을 때 일어난다. 산소가 과잉인 상태는 완전연소의 조건이므로 ①이 틀렸다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2,
+      "optionExplanations": [
+        "산소 과잉 상태는 완전연소 조건이다. 정답입니다.",
+        "불꽃이 저온 물체에 닿아 온도가 떨어지면 불완전연소가 된다. 옳은 설명이다.",
+        "일산화탄소와 그을음은 불완전연소의 대표적 생성물이다. 옳은 설명이다.",
+        "배기가스 배출이 나빠 연소실에 공기 공급이 줄면 불완전연소가 된다. 옳은 설명이다."
+      ]
+    },
+    {
+      "id": "fire2024-science-q09",
+      "paperId": "paper_fire_science_2024",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/fire/science/2024/q09.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n과염소산은 제6류 산화성액체로 지정수량 300kg이 맞지만, 제6류 위험물의 위험등급은 Ⅰ등급이다. Ⅱ등급으로 적은 ④가 틀렸다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2,
+      "optionExplanations": [
+        "황린은 지정수량 20kg, 위험등급 Ⅰ등급이다. 옳은 연결이다.",
+        "마그네슘은 지정수량 500kg, 위험등급 Ⅲ등급이다. 옳은 연결이다.",
+        "유기과산화물은 지정수량 10kg, 위험등급 Ⅰ등급이다. 옳은 연결이다.",
+        "과염소산은 지정수량 300kg이지만 위험등급은 Ⅰ등급이다. 정답입니다."
+      ]
+    },
+    {
+      "id": "fire2024-science-q10",
+      "paperId": "paper_fire_science_2024",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/fire/science/2024/q10.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n점화원을 제거해도 스스로 연소를 계속할 수 있는 최저온도를 연소점이라 한다. 점화원에 의해 발화가 시작되는 최저온도는 인화점이고, 발화점은 스스로 발화하는 최저온도다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3,
+      "optionExplanations": [
+        "점화원에 의해 불꽃 연소를 일으키는 최저온도는 인화점이다. 발화점과 혼동한 서술이다.",
+        "연소점은 점화원을 없애도 연소가 계속되는 최저온도다. 정답입니다.",
+        "최소발화에너지가 작을수록 위험하다. 클수록 위험하다고 한 서술이 틀렸다.",
+        "연소점은 발화점보다 낮다. 높다고 한 서술이 틀렸다."
+      ]
+    },
+    {
+      "id": "fire2024-science-q11",
+      "paperId": "paper_fire_science_2024",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/fire/science/2024/q11.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n백드래프트 발생 징후는 연기가 틈이나 구멍으로 건물 안으로 빨려 들어가는 것이다. 연기가 밖으로 밀려 나오는 것은 플래시오버가 일어난 뒤 연소가실 내부에서 밀려 나오는 현상이다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3,
+      "optionExplanations": [
+        "창틈으로 타르 같은 물질이 흘러내리는 것은 백드래프트의 대표적 징후다.",
+        "창문 너머로 연기가 소용돌이치는 것도 징후로 본다.",
+        "화염 없이 문손잡이·창문이 뜨거운 것도 징후다.",
+        "연기가 틈으로 안으로 빨려 들어가는 것이 징후다. 밖으로 밀려 나온다고 한 서술이 틀렸다. 정답입니다."
+      ]
+    },
+    {
+      "id": "fire2024-science-q12",
+      "paperId": "paper_fire_science_2024",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/fire/science/2024/q12.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n폭연이 폭굉으로 전이되는 과정은 착화→화염전파→압축파→충격파→폭굉파 순이다. 화염 앞에 압력파가 쌓여 충격파로 발전하고 이것이 폭굉파가 된다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3,
+      "optionExplanations": [
+        "착화→화염전파→압축파→충격파→폭굉파 순이 옳다. 정답입니다.",
+        "충격파가 압축파보다 먼저 생길 수 없다.",
+        "착화 직후 압축파가 먼저 생긴다는 순서는 옳지 않다.",
+        "압축파가 화염전파보다 앞선다는 순서도 옳지 않다."
+      ]
+    },
+    {
+      "id": "fire2024-science-q13",
+      "paperId": "paper_fire_science_2024",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/fire/science/2024/q13.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n일반화재(A급)는 나무·종이·섬유처럼 재가 남는 고체 가연물의 화재다. 전원이 차단된 콘센트 주변의 가연물 화재만 A급이고, 통전 중 배전반은 C급, 새어 나온 석유는 B급, 나트륨은 D급이다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3,
+      "optionExplanations": [
+        "통전 중인 배전반 화재는 전기화재(C급)다.",
+        "전원이 차단된 콘센트에서 발생한 불은 일반 가연물의 화재로 A급이다. 정답입니다.",
+        "ㄹ의 나트륨은 금속화재(D급)다.",
+        "ㄱ·ㄷ·ㄹ은 각각 C·B·D급이다."
+      ]
+    },
+    {
+      "id": "fire2024-science-q14",
+      "paperId": "paper_fire_science_2024",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/fire/science/2024/q14.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n탱크 화재의 열류층이 오랜 시간에 걸쳐 바닥까지 전해져 바닥의 물이 끓고, 팽창한 수증기가 유류를 탱크 밖으로 분출시키는 현상이 보일오버다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4,
+      "optionExplanations": [
+        "탱크 바닥의 물이 비등해 유류가 넘치는 현상이 보일오버다. 정답입니다.",
+        "슬롭오버는 열류층이 유류층 하부에 이르러 물이 끓기 전에 거품이 넘치는 현상이다.",
+        "프로스오버는 소화용 물이 뜨거운 유류에 닿아 거품이 넘치는 현상이다.",
+        "오일오버는 탱크 아래로 흘러내린 유류가 다른 곳으로 흘러가며 타는 현상을 가리키는 경우가 많다."
+      ]
+    },
+    {
+      "id": "fire2024-science-q15",
+      "paperId": "paper_fire_science_2024",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/fire/science/2024/q15.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n연료지배형 화재는 산소 공급이 충분해 연소속도가 가연물의 양과 성질로 결정되고, 환기지배형보다 연소속도가 빠르다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4,
+      "optionExplanations": [
+        "플래시오버는 성장기에서 최성기로 넘어갈 때 발생하며 충격파는 수반하지 않는다.",
+        "굴뚝효과가 발생하면 중성대 하부에서 공기가 들어오고 상부에서 연기가 나간다. 서술이 거꾸로다.",
+        "연료지배형 화재가 산소 공급이 원활하고 연소속도가 빠르다는 설명이 맞다. 정답입니다.",
+        "가연성 가스가 천장을 따라 복도로 뿜어져 나오는 현상은 화재플룸이 아니라 롤오버다."
+      ]
+    },
+    {
+      "id": "fire2024-science-q16",
+      "paperId": "paper_fire_science_2024",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/fire/science/2024/q16.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n위험도 H=(상한계−하한계)/하한계로 계산하면 A는 (22−2)/2=10, B는 (75−4)/4≈17.8, C는 (44−1)/1=43이다. 위험도가 낮은 순서는 A, B, C다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4,
+      "optionExplanations": [
+        "A(10), B(17.8), C(43) 순으로 위험도가 높아진다. 정답입니다.",
+        "B보다 C를 낮게 본 순서가 틀렸다.",
+        "B가 A보다 위험도가 높으므로 성립하지 않는다.",
+        "C가 가장 위험도가 높으므로 반대 순서다."
+      ]
+    },
+    {
+      "id": "fire2024-science-q17",
+      "paperId": "paper_fire_science_2024",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/fire/science/2024/q17.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n주위 온도가 일정한 상승률 이상이 되면 작동하는 것은 차동식 감지기이고, 넓은 범위에서 열효과가 누적되어 작동하는 것은 분포형 감지기다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 4,
+      "optionExplanations": [
+        "차동식 분포형 감지기가 두 조건을 모두 갖춘다. 정답입니다.",
+        "스포트형은 좁은 한 지점의 열을 감지하므로 넓은 범위의 누적 열효과와 맞지 않는다.",
+        "정온식은 온도 상승률이 아니라 일정 온도에 도달할 때 작동한다.",
+        "정온식 감지선형은 일정 온도 도달 시 작동하며 상승률과 무관하다."
+      ]
+    },
+    {
+      "id": "fire2024-science-q18",
+      "paperId": "paper_fire_science_2024",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/fire/science/2024/q18.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n1:1 접점(공통신호) 방식으로 감지기·발신기의 신호를 받는 것은 P형 수신기다. R형 수신기는 각 감지기의 신호를 고유신호로 구분해 받는다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 5,
+      "optionExplanations": [
+        "시각경보기는 청각장애인에게 점멸로 시각경보를 보내는 장치다. 옳은 설명이다.",
+        "R형 수신기는 고유신호를 수신한다. 1:1 접점방식이라고 한 서술이 틀렸다. 정답입니다.",
+        "비상방송설비는 수신기의 화재신호에 따라 방송으로 화재 사실을 알리는 설비다. 옳은 설명이다.",
+        "이온화식·광전식 감지기는 연기를 감지해 화재신호를 발한다. 옳은 설명이다."
+      ]
+    },
+    {
+      "id": "fire2024-science-q19",
+      "paperId": "paper_fire_science_2024",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/fire/science/2024/q19.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n황린과 유황은 물로 냉각소화하고(ㄱ·ㄴ), 경유·휘발유는 포로 덮어 질식소화하며(ㄷ), 물과 반응해 가연성 가스를 내는 탄화알루미늄·알킬알루미늄은 건조사·팽창질석으로 질식소화한다(ㄹ). 네 연결이 모두 옳다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 5,
+      "optionExplanations": [
+        "ㄱ·ㄷ만으로는 부족하다. ㄴ·ㄹ도 옳은 연결이다.",
+        "ㄴ·ㄹ만으로는 부족하다.",
+        "ㄴ을 빠뜨렸다.",
+        "ㄱ·ㄴ·ㄷ·ㄹ 모두 올바른 소화방법 연결이다. 정답입니다."
+      ]
+    },
+    {
+      "id": "fire2024-science-q20",
+      "paperId": "paper_fire_science_2024",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/fire/science/2024/q20.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n이산화탄소는 산소 농도를 낮추는 질식소화 효과가 주된 작용이고, 방사될 때 기화열을 흡수해 냉각효과도 낸다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 5,
+      "optionExplanations": [
+        "이산화탄소는 무색·무취이고 전도성이 없으며, 고농도에서 질식 위험이 있을 뿐 그 자체가 독성 가스는 아니다.",
+        "질식효과와 기화열에 의한 냉각효과가 있다는 설명이 맞다. 정답입니다.",
+        "제3류·제5류 위험물에는 적응성이 없다. 금속분진·자기반응성 물질 화재에는 쓰지 않는다.",
+        "이산화탄소는 자체 증기압이 높아 별도의 가압원이 필요 없다."
+      ]
+    },
+    {
+      "id": "fire2024-science-q21",
+      "paperId": "paper_fire_science_2024",
+      "number": 21,
+      "kind": "scan",
+      "body": "21번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/fire/science/2024/q21.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n2024년 확정답안은 이 문항을 '모두 정답'으로 처리했다(전원 정답 인정). 앱은 단일 정답만 채점하므로 ①을 정답으로 표시한다. 학습용으로 보면 할론은 메테인·에테인의 수소를 할로젠으로 치환한 화합물이지만, 불에 타지 않는 등 원래 탄화수소와 성질이 다르다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 5,
+      "optionExplanations": [
+        "할론이 탄화수소와 물리·화학적 성질이 비슷하다는 부분은 옳지 않다. 할론은 불연성이며 탄화수소와 성질이 전혀 다르다.",
+        "Halon 1301·1211은 상온·상압에서 기체이고 유류·전기화재에 적응성이 있으나, 금속의 수소화합물에는 적응성이 없다.",
+        "Halon 2402는 상온·상압에서 액체이며 자체 독성은 낮지만 열분해 시 독성가스를 낸다.",
+        "Halon 1211은 자체 증기압이 높아 질소가스로 가압해 방출한다. 증기압이 낮다는 서술이 틀렸다."
+      ]
+    },
+    {
+      "id": "fire2024-science-q22",
+      "paperId": "paper_fire_science_2024",
+      "number": 22,
+      "kind": "scan",
+      "body": "22번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/fire/science/2024/q22.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n단백포 소화약제는 단백질 가수분해물을 주원료로 하며 내열성이 뛰어나 재연소 방지에 강하지만, 유동성과 내유성이 떨어져 소화속도가 느리다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 6,
+      "optionExplanations": [
+        "불화단백포는 불소계 계면활성제를 더해 단백포의 유동성 부족을 보완한 것이다. 옳은 설명이다.",
+        "알콜형포는 케톤·알데히드·아민 등 수용성 용제의 소화에 쓴다. 옳은 설명이다.",
+        "단백포는 유동성·내유성이 떨어져 소화속도가 느리다. 빠르다고 한 서술이 틀렸다. 정답입니다.",
+        "합성계면활성제포는 유동성·저장성이 좋고 저팽창포부터 고팽창포까지 쓸 수 있다. 옳은 설명이다."
+      ]
+    },
+    {
+      "id": "fire2024-science-q23",
+      "paperId": "paper_fire_science_2024",
+      "number": 23,
+      "kind": "scan",
+      "body": "23번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/fire/science/2024/q23.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n복사열유속은 복사분율×열방출률÷(4πr²)로 구한다. 0.5×120÷(4×3×1²)=60÷12=5.0kW/m²다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 6,
+      "optionExplanations": [
+        "3.5는 분율이나 면적 계산이 어긋난 값이다.",
+        "4.0은 복사분율을 잘못 적용한 값이다.",
+        "4.5는 원주율이나 면적 계산이 어긋난 값이다.",
+        "0.5×120÷12=5.0kW/m²다. 정답입니다."
+      ]
+    },
+    {
+      "id": "fire2024-science-q24",
+      "paperId": "paper_fire_science_2024",
+      "number": 24,
+      "kind": "scan",
+      "body": "24번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/fire/science/2024/q24.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n르샤틀리에식 100/L=VA/LA+VB/LB+VC/LC=20/4+40/20+40/10=5+2+4=11이므로 L=100/11≈9.1vol%다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 6,
+      "optionExplanations": [
+        "4.3은 체적비와 하한계를 뒤집어 계산한 값이다.",
+        "100/11≈9.1vol%다. 정답입니다.",
+        "11.0은 분모 합계를 그대로 답으로 쓴 값이다.",
+        "12.8은 계산식 적용이 어긋난 값이다."
+      ]
+    },
+    {
+      "id": "fire2024-science-q25",
+      "paperId": "paper_fire_science_2024",
+      "number": 25,
+      "kind": "scan",
+      "body": "25번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/fire/science/2024/q25.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n과산화나트륨(Na2O2)은 알칼리금속 과산화물로 물과 반응해 산소를 발생시키고 열을 내므로 주수소화하면 위험하다.",
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 6,
+      "optionExplanations": [
+        "칼륨은 물과 반응해 수소를 발생시킨다. 산소가 아니다.",
+        "탄화칼슘은 물과 반응해 아세틸렌을 발생시킨다.",
+        "과산화나트륨은 물과 반응해 산소를 발생시킨다. 정답입니다.",
+        "오황화인은 물과 반응해 황화수소 등을 발생시킨다."
+      ]
+    }
+  ]
+}
