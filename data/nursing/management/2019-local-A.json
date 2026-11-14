@@ -1,0 +1,489 @@
+{
+  "id": "paper_nursing_management_2019_local_A",
+  "title": "2019 지방직 9급 간호관리 A책형",
+  "year": 2019,
+  "source": "2019년도 지방공무원 9급 등 공개경쟁임용 필기시험 간호관리 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+  "subjectId": "sub_nursing_manage",
+  "questions": [
+    {
+      "id": "nursing2019-2019-local-management-A-q01",
+      "paperId": "paper_nursing_management_2019_local_A",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/management/2019/local-A/q01.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기획의 원칙에는 목표 지향성, 계속성, 간결성, 객관성, 탄력성, 계층화(계층성), 균형성 등이 있습니다. 객관성의 원칙은 기획자의 주관을 배제하고 객관적 정보에 근거해 미래를 예측하도록 요구합니다.",
+      "optionExplanations": [
+        "전문용어 사용은 간결성·명료성의 원칙에 어긋납니다.",
+        "기획자의 주관이 개입되지 않도록 객관적 정보로 미래를 예측하는 것은 객관성의 원칙입니다. 정답입니다.",
+        "환경 변화에 대응할 수 있도록 계획은 수정 가능해야 하며, 이는 탄력성의 원칙입니다.",
+        "추상성이 높은 수준에서 낮은 수준으로 구체화되는 것이 계층화의 원칙입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2019-2019-local-management-A-q02",
+      "paperId": "paper_nursing_management_2019_local_A",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2019/local-A/q02.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n변혁적 리더십의 구성요소는 이상적 영향력(카리스마), 영감적 동기부여, 지적 자극, 개별적 배려입니다. 보상 연계는 거래적 리더십의 요소입니다.",
+      "optionExplanations": [
+        "개별적 배려는 변혁적 리더십의 구성요소입니다.",
+        "지적 자극은 변혁적 리더십의 구성요소입니다.",
+        "개별적 배려·영감적 동기부여·지적 자극은 모두 변혁적 리더십의 구성요소입니다. 정답입니다.",
+        "보상 연계는 거래적 리더십의 요소이므로 변혁적 리더십의 구성요소가 아닙니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2019-2019-local-management-A-q03",
+      "paperId": "paper_nursing_management_2019_local_A",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/management/2019/local-A/q03.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n간호관리 체계모형에서 투입은 간호활동에 필요한 인력·물자·정보 등 자원을 말합니다. 간호인력의 수가 투입 요소에 해당합니다.",
+      "optionExplanations": [
+        "간호인력의 수는 간호활동에 투입되는 인적 자원으로 투입 요소입니다. 정답입니다.",
+        "환자의 재원일수는 간호서비스 제공 후의 결과로 산출 요소입니다.",
+        "간호사 이직률은 조직 성과를 보여주는 산출 지표입니다.",
+        "환자 만족도는 간호서비스의 결과인 산출 요소입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2019-2019-local-management-A-q04",
+      "paperId": "paper_nursing_management_2019_local_A",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/management/2019/local-A/q04.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n점진적 예산제는 전년도 경비를 기준으로 물가상승률이나 소비자물가지수 등을 반영해 차기 연도의 예산을 산정하는 방법입니다.",
+      "optionExplanations": [
+        "유동예산제는 실제 조업도나 활동량에 따라 예산을 탄력적으로 조정하는 방법입니다.",
+        "점진적 예산제는 전년도 예산에 물가상승률 등을 반영해 다음 연도 예산을 편성합니다. 정답입니다.",
+        "기획예산제는 목표와 사업별로 예산을 편성하는 제도입니다.",
+        "영기준 예산제는 전년도 예산을 기준으로 하지 않고 사업의 타당성을 처음부터 재검토합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2019-2019-local-management-A-q05",
+      "paperId": "paper_nursing_management_2019_local_A",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/management/2019/local-A/q05.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nN95 마스크는 공기전파 질환의 결핵주의 대상 질환에 사용합니다. 홍역과 수두는 공기전파 질환으로 N95 마스크가 필요합니다.",
+      "optionExplanations": [
+        "홍역과 수두는 모두 공기전파 질환으로 N95 마스크 착용이 필요합니다. 정답입니다.",
+        "홍역은 맞지만 디프테리아는 비말전파 질환입니다.",
+        "풍진과 성홍열은 비말전파 질환으로 N95 마스크가 필수는 아닙니다.",
+        "수두는 공기전파지만 디프테리아는 비말전파이므로 함께 고를 수 없습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2019-2019-local-management-A-q06",
+      "paperId": "paper_nursing_management_2019_local_A",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2019/local-A/q06.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n오류유형과 영향분석(FMEA)은 업무 프로세스에서 발생할 수 있는 사건 유형을 사전에 파악하고 그 영향을 체계적으로 분석하는 전향적 위험 분석 기법입니다.",
+      "optionExplanations": [
+        "근본원인분석은 적신호 사건이 발생한 후 원인을 후향적으로 파악하는 방법입니다.",
+        "린(Lean)은 업무 프로세스의 낭비 요소를 제거해 가치를 높이는 방법입니다.",
+        "6시그마는 업무 성과의 변이를 최소화해 결함을 줄이는 방법입니다.",
+        "FMEA는 사건 유형을 사전에 파악해 분석하는 전향적 방법이라는 설명이 옳습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2019-2019-local-management-A-q07",
+      "paperId": "paper_nursing_management_2019_local_A",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2019/local-A/q07.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nMBO는 구성원이 참여해 구체적이고 측정 가능한 목표를 설정하고 그 달성도를 평가하는 제도입니다. 계량적 목표 측정을 소홀히 한다는 설명은 MBO의 특징과 반대입니다.",
+      "optionExplanations": [
+        "구체적인 목표와 측정 방법을 계획해 조직성과를 높이는 것은 MBO의 장점입니다.",
+        "단기목표에 치중해 장기목표에 지장을 줄 수 있는 것은 MBO의 한계입니다.",
+        "객관적 직무수행평가와 통제를 용이하게 하는 것도 MBO의 장점입니다.",
+        "MBO는 계량적 목표와 측정을 강조하므로 측정을 소홀히 한다는 설명은 옳지 않습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2019-2019-local-management-A-q08",
+      "paperId": "paper_nursing_management_2019_local_A",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2019/local-A/q08.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n허즈버그의 동기-위생이론에서 동기요인은 성취, 인정, 책임, 성장 가능성 등 직무 자체와 관련된 요인입니다. 직무충실화는 직무에 동기요인을 불어넣어 동기를 높이는 방법입니다.",
+      "optionExplanations": [
+        "위생요인 개선은 불만족을 감소시킬 뿐 만족이나 동기를 높이지는 못합니다.",
+        "위생요인 개선은 불만족을 예방하는 수준이며 직무만족을 높이는 요인은 아닙니다.",
+        "작업조건은 위생요인이므로 이를 개선해도 동기요인이 개선되지는 않습니다.",
+        "직무충실화로 성취감·책임감 등 동기요인을 개선하는 것이 동기부여에 효과적입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2019-2019-local-management-A-q09",
+      "paperId": "paper_nursing_management_2019_local_A",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2019/local-A/q09.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n수레바퀴형 의사소통 네트워크는 중심의 리더가 모든 구성원과 연결된 구조로, 구성원 간 소통 만족도가 낮고 과업이 복잡하면 정보 공유가 어렵습니다.",
+      "optionExplanations": [
+        "원형은 구성원이 인접한 사람과만 소통하는 구조입니다.",
+        "사슬형은 위에서 아래로 단계적으로 전달되는 구조입니다.",
+        "수레바퀴형은 모든 구성원이 리더와 소통하며 리더에게 정보가 집중됩니다. 정답입니다.",
+        "완전연결형은 모든 구성원이 서로 직접 소통하는 구조로 만족도가 높습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2019-2019-local-management-A-q10",
+      "paperId": "paper_nursing_management_2019_local_A",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2019/local-A/q10.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n일반병동 간호관리료 차등제는 직전 분기의 평균 병상 수 대비 당해 병동에서 간호업무에 종사하는 직전 분기 평균 간호사 수에 따라 등급을 산정합니다.",
+      "optionExplanations": [
+        "7개 등급으로 구분하지만 1등급을 기준으로 가산하며, 7등급이 가장 낮습니다.",
+        "병상 수 대 간호사 수의 비가 2.5:1 미만이면 1등급이 아니라 가장 높은 등급 기준에 해당하는지는 세부 기준에 따르며, 이 설명만으로 옳다고 할 수 없습니다.",
+        "응급실·신생아실·분만실 등 특수부서는 별도의 간호관리료 차등제가 적용됩니다.",
+        "직전 분기 평균 병상 수와 직전 분기 평균 간호사 수의 비로 등급을 산정합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2019-2019-local-management-A-q11",
+      "paperId": "paper_nursing_management_2019_local_A",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/management/2019/local-A/q11.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n과오(malpractice)는 의료인이 업무상 요구되는 주의의무를 위반해 환자에게 손해를 발생시키는 행위입니다. '상식을 가진 일반인의 표준적 수준을 충족하지 못하는 행위'는 과실(negligence)에 대한 설명입니다.",
+      "optionExplanations": [
+        "의료오류는 예방 가능한 위해사건이나 근접오류로 설명이 옳습니다.",
+        "과오에 대한 설명으로 제시된 내용은 과실의 정의이므로 옳지 않습니다. 정답입니다.",
+        "과실은 해로운 결과가 발생하지 않도록 정신을 집중할 주의의무를 태만히 한 행위로 설명이 옳습니다.",
+        "전단적 의료는 환자의 동의 없이 위험성 있는 의료행위를 하는 것으로 설명이 옳습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2019-2019-local-management-A-q12",
+      "paperId": "paper_nursing_management_2019_local_A",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/management/2019/local-A/q12.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n집단 의사결정의 장점은 결정의 질이 높아지고 구성원의 수용성이 커진다는 점입니다. 신속성과 비용은 오히려 개인 의사결정의 장점입니다.",
+      "optionExplanations": [
+        "결정의 질과 수용성은 집단 의사결정의 대표적 장점입니다. 정답입니다.",
+        "신속성과 비용 절감은 개인 의사결정의 장점에 해당합니다.",
+        "비용은 집단 의사결정에서 오히려 증가하므로 장점이 아닙니다.",
+        "신속성은 집단 의사결정의 단점입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2019-2019-local-management-A-q13",
+      "paperId": "paper_nursing_management_2019_local_A",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/management/2019/local-A/q13.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n원형평가법은 간호서비스 유형과 양을 결정하는 환자군별 특징을 광범위하게 기술하고, 그 기술을 기준으로 유사성에 따라 환자를 분류하는 방법입니다.",
+      "optionExplanations": [
+        "요인평가법은 환자분류에 영향을 주는 요인들을 점수화하는 방법입니다.",
+        "원형평가법은 환자군의 특성을 서술해 유사성에 따라 분류합니다. 정답입니다.",
+        "점수평가법은 간호요구 항목에 점수를 부여해 합산하는 방법입니다.",
+        "서술평가법은 환자 상태를 서술해 분류하되 대표 환자군 기술을 기준으로 하지는 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2019-2019-local-management-A-q14",
+      "paperId": "paper_nursing_management_2019_local_A",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2019/local-A/q14.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n의료기관 인증에서 조건부인증을 받은 의료기관의 장은 1년의 유효기간 내에 보건복지부령으로 정하는 바에 따라 재인증을 받아야 합니다.",
+      "optionExplanations": [
+        "2018년 의료법 개정으로 인증등급(조건부인증·불인증)이 폐지되어 인증 여부만 결정되므로, 등급 구분을 전제한 설명은 옳지 않습니다.",
+        "인증 결과에 대한 이의신청 기간은 통보받은 날부터 30일 이내이므로 60일이라는 설명은 옳지 않습니다.",
+        "조건부인증을 받은 기관은 1년의 유효기간 내에 재인증을 받아야 합니다. 정답입니다.",
+        "의료기관인증위원회 위원은 보건복지부장관이 임명하거나 위촉합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2019-2019-local-management-A-q15",
+      "paperId": "paper_nursing_management_2019_local_A",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2019/local-A/q15.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n행위별수가제와 포괄수가제의 결과를 비교해 비용 감소와 동일한 치료 결과를 확인했다면, 같은 결과를 더 적은 자원으로 달성했다는 의미이므로 효율성이 높다고 평가합니다.",
+      "optionExplanations": [
+        "효능성은 이상적인 조건에서의 효과를 뜻합니다.",
+        "효과성은 목표한 결과를 실제로 달성했는지를 뜻하며, 비용과의 관계를 보는 개념은 아닙니다.",
+        "효율성은 투입 자원 대비 산출의 비율로, 비용 감소와 동일한 결과는 효율성 향상을 의미합니다. 정답입니다.",
+        "형평성은 의료자원의 공정한 분배를 뜻합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2019-2019-local-management-A-q16",
+      "paperId": "paper_nursing_management_2019_local_A",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2019/local-A/q16.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n간호인력 수요예측에서 서술적 방법은 간호업무를 서술해 필요한 인력을 산정하는 방법으로, 업무의 난이도와 중요도를 정량적으로 반영하기 어렵습니다. 따라서 난이도와 중요도를 반영하기 위해 서술적 방법을 쓴다는 설명은 옳지 않습니다.",
+      "optionExplanations": [
+        "시간-동작 분석은 간호업무량을 파악하는 대표적 방법입니다.",
+        "간호인력 수요는 환자 수, 환자 요구도, 병상점유율의 영향을 받습니다.",
+        "사전에 직무분석을 통해 직무 내용과 자격요건을 결정하는 것은 옳은 설명입니다.",
+        "서술적 방법으로 업무의 난이도와 중요도를 반영해 인력을 산정한다는 설명은 옳지 않습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2019-2019-local-management-A-q17",
+      "paperId": "paper_nursing_management_2019_local_A",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/management/2019/local-A/q17.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n한국간호사 윤리강령의 '건강 환경 구현'은 간호사가 건강을 위협하는 사회적 유해환경, 재해, 생태계 오염으로부터 간호대상자를 보호하고 건강한 환경을 보전·유지하는 데 참여한다는 내용입니다.",
+      "optionExplanations": [
+        "건강 환경 구현 항목의 실제 내용과 일치합니다. 정답입니다.",
+        "전문적 활동 항목은 간호 수준 향상과 근거기반 실무를 위한 교육·연구 참여를 다루며, 제시문의 설명은 다른 항목의 내용과 뒤섞여 있습니다.",
+        "대상자 보호 항목은 간호의 전 과정에서 인간의 존엄과 안전을 우선하는 내용으로, 제시문의 설명과 항목이 어긋납니다.",
+        "취약한 대상자 보호는 생명과학기술을 이용한 시술 등으로부터 취약한 대상을 보호하는 항목입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2019-2019-local-management-A-q18",
+      "paperId": "paper_nursing_management_2019_local_A",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/management/2019/local-A/q18.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n서열법은 표준 척도 없이 직무의 중요도와 가치를 종합적으로 비교해 순위를 정하는 직무평가 방법입니다.",
+      "optionExplanations": [
+        "서열법은 표준 척도 없이 직무를 종합 비교해 서열을 정합니다. 정답입니다.",
+        "점수법은 직무평가 요소별로 점수를 부여해 총점을 산출하는 방법입니다.",
+        "직무등급법은 기준이 되는 직무와 비교해 등급을 정하는 방법이 아니라, 미리 정한 등급의 정의에 따라 직무를 분류하는 방법입니다.",
+        "요소비교법은 기준 직무와의 비교를 통해 요소별로 등급을 정하는 방법입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2019-2019-local-management-A-q19",
+      "paperId": "paper_nursing_management_2019_local_A",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2019/local-A/q19.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n코호트 격리 중인 VRE 감염 환자의 활력징후를 측정할 때는 환자마다 장갑을 교체하고 손위생을 시행해야 접촉전파를 막을 수 있습니다.",
+      "optionExplanations": [
+        "격리 환자에게 사용한 수액세트는 일반의료 폐기물이 아니라 격리의료폐기물로 처리해야 합니다.",
+        "응급실 소아 환자의 보호자 수도 감염 예방을 위해 제한 대상에 포함됩니다.",
+        "코호트 격리 환자도 환자마다 장갑을 교체하고 손위생을 해야 합니다. 정답입니다.",
+        "격리 환자에게 사용한 가운은 병실 안의 지정된 폐기물 박스에 버려야 합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2019-2019-local-management-A-q20",
+      "paperId": "paper_nursing_management_2019_local_A",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/management/2019/local-A/q20.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n병동 물품의 기준량은 침상 수, 환자 수, 간호요구도 등을 고려해 결정합니다.",
+      "optionExplanations": [
+        "물품의 기준량은 침상 수·환자 수·간호요구도 등을 고려해 정합니다. 정답입니다.",
+        "먼저 공급된 멸균제품을 앞쪽에 배치해 먼저 사용하도록 해야 합니다.",
+        "부피가 작고 사용량이 많은 진료재료는 정수보충방식보다 사용량 파악이 쉬운 방법으로 관리하며, 정수보충방식은 부피가 크고 사용량이 일정한 물품에 적합합니다.",
+        "매주 공급되는 소모품은 주간 평균 사용량보다 여유를 두고 청구해 재고가 끊기지 않도록 합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    }
+  ]
+}

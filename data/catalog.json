@@ -469,6 +469,66 @@
       "questionCount": 20,
       "dataFile": "data/civil/english/2021-national-nah.json",
       "external": true
+    },
+    {
+      "id": "paper_nursing_management_2020_local_B",
+      "subjectId": "sub_nursing_manage",
+      "title": "2020 지방직 9급 간호관리 B책형",
+      "year": 2020,
+      "source": "2020년도 지방공무원 9급 등 공개경쟁임용 필기시험 간호관리 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/nursing/management/2020-local-B.json",
+      "external": true
+    },
+    {
+      "id": "paper_nursing_community_2020_local_B",
+      "subjectId": "sub_nursing_community",
+      "title": "2020 지방직 9급 지역사회간호 B책형",
+      "year": 2020,
+      "source": "2020년도 지방공무원 9급 등 공개경쟁임용 필기시험 지역사회간호 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/nursing/community/2020-local-B.json",
+      "external": true
+    },
+    {
+      "id": "paper_nursing_management_2019_local_A",
+      "subjectId": "sub_nursing_manage",
+      "title": "2019 지방직 9급 간호관리 A책형",
+      "year": 2019,
+      "source": "2019년도 지방공무원 9급 등 공개경쟁임용 필기시험 간호관리 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/nursing/management/2019-local-A.json",
+      "external": true
+    },
+    {
+      "id": "paper_nursing_community_2019_local_A",
+      "subjectId": "sub_nursing_community",
+      "title": "2019 지방직 9급 지역사회간호 A책형",
+      "year": 2019,
+      "source": "2019년도 지방공무원 9급 등 공개경쟁임용 필기시험 지역사회간호 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/nursing/community/2019-local-A.json",
+      "external": true
+    },
+    {
+      "id": "paper_nursing_management_2018_local_B",
+      "subjectId": "sub_nursing_manage",
+      "title": "2018 지방직 9급 간호관리 B책형",
+      "year": 2018,
+      "source": "2018년도 지방공무원 9급 등 공개경쟁임용 필기시험 간호관리 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/nursing/management/2018-local-B.json",
+      "external": true
+    },
+    {
+      "id": "paper_nursing_community_2018_local_B",
+      "subjectId": "sub_nursing_community",
+      "title": "2018 지방직 9급 지역사회간호 B책형",
+      "year": 2018,
+      "source": "2018년도 지방공무원 9급 등 공개경쟁임용 필기시험 지역사회간호 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/nursing/community/2018-local-B.json",
+      "external": true
     }
   ]
 }

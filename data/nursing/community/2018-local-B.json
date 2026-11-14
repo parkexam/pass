@@ -1,0 +1,489 @@
+{
+  "id": "paper_nursing_community_2018_local_B",
+  "title": "2018 지방직 9급 지역사회간호 B책형",
+  "year": 2018,
+  "source": "2018년도 지방공무원 9급 등 공개경쟁임용 필기시험 지역사회간호 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+  "subjectId": "sub_nursing_community",
+  "questions": [
+    {
+      "id": "nursing2018-2018-local-community-B-q01",
+      "paperId": "paper_nursing_community_2018_local_B",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2018/local-B/q01.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n질병군별 포괄수가제는 입원 진료를 질병군 단위로 묶어 미리 정한 진료비를 지불하는 제도로, 진료의 표준화를 유도하고 과잉진료와 진료비를 억제하며 청구 행정을 간소화합니다. 다만 의료인의 자율성은 제한됩니다.",
+      "optionExplanations": [
+        "진료의 표준화를 유도할 수 있다는 설명은 옳습니다.",
+        "과잉진료 및 진료비 억제 효과가 있다는 설명은 옳습니다.",
+        "진료비 청구를 위한 행정 사무가 간편해진다는 설명은 옳습니다.",
+        "포괄수가제는 정해진 진료비 안에서 진료하므로 의료인의 자율성이 제한됩니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2018-2018-local-community-B-q02",
+      "paperId": "paper_nursing_community_2018_local_B",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2018/local-B/q02.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n취약가족은 가족 구조의 변화, 역할 수행의 어려움, 자원 부족 등으로 발생합니다. 만성질환자 가족은 구조 변화보다 질병으로 인한 돌봄 부담 때문에 취약해지는 경우입니다.",
+      "optionExplanations": [
+        "만성질환자 가족은 가족 구조의 변화가 아닌 질병으로 인한 돌봄 요구 때문에 취약해진 경우입니다. 정답입니다.",
+        "한부모 가족은 부모 중 한 사람이 없어진 구조 변화로 발생합니다.",
+        "별거 가족은 부부가 떨어져 사는 구조 변화로 발생합니다.",
+        "이혼 가족은 이혼이라는 구조 변화로 발생합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2018-2018-local-community-B-q03",
+      "paperId": "paper_nursing_community_2018_local_B",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2018/local-B/q03.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지역보건법 시행령상 보건소는 시·군·구별로 1개씩 설치하는데, 이는 일정한 지리적 구역을 기준으로 한 지정학적 공동체에 해당합니다.",
+      "optionExplanations": [
+        "생태학적 문제의 공동체는 공통의 환경 문제를 공유하는 공동체입니다.",
+        "특수흥미 공동체는 특정 관심사를 공유하는 사람들의 집단입니다.",
+        "지정학적 공동체는 일정한 지리적 경계를 가진 지역 공동체로, 제시문의 기준입니다. 정답입니다.",
+        "자원 공동체는 공동의 자원을 공유하는 공동체입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2018-2018-local-community-B-q04",
+      "paperId": "paper_nursing_community_2018_local_B",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2018/local-B/q04.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n심포지엄은 동일한 주제에 대해 여러 전문가가 다양한 관점의 의견을 발표한 뒤 사회자가 청중을 공개토론 형식으로 참여시키는 토의 방법입니다.",
+      "optionExplanations": [
+        "팝콘회의라고 불리며 기발한 아이디어를 자유롭게 제시하는 것은 브레인스토밍입니다.",
+        "참가자 전원이 대등하게 자유롭게 의견을 교환하는 것은 자유토의(포럼)입니다.",
+        "전체를 여러 분단으로 나누어 토의한 뒤 전체 회의에서 종합하는 것은 분단토의입니다.",
+        "전문가 발표 후 사회자가 청중을 참여시키는 방법은 심포지엄입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2018-2018-local-community-B-q05",
+      "paperId": "paper_nursing_community_2018_local_B",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2018/local-B/q05.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n건강증진모형(Pender)은 개인의 특성과 경험, 행위 관련 인지와 감정을 중심으로 건강행위에 영향을 미치는 요인을 설명하며, 사회인지이론과 건강신념모델에 기초해 개발되었습니다.",
+      "optionExplanations": [
+        "계획된 행위이론은 태도, 주관적 규범, 지각된 행위통제로 행위의도를 설명합니다.",
+        "건강증진모형은 개인의 특성과 경험, 행위 관련 인지·감정을 중심으로 건강행위를 설명합니다. 정답입니다.",
+        "범이론 모형은 행동 변화의 단계를 설명하는 모형입니다.",
+        "PRECEDE-PROCEED 모형은 프로그램 기획과 평가를 위한 모형입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2018-2018-local-community-B-q06",
+      "paperId": "paper_nursing_community_2018_local_B",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2018/local-B/q06.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n조개류 생식 후 복통·설사·미열이 발생한 경우 비브리오균에 의한 감염형 식중독을 의심할 수 있습니다. 감염형 식중독은 원인균이 증식한 식품을 먹어 발생하며 충분히 가열하면 예방할 수 있습니다.",
+      "optionExplanations": [
+        "7~8월에 주로 발생하는 것은 비브리오 식중독이지만 원인균은 포도상구균이 아닙니다.",
+        "화농성 질환을 가진 조리사의 조리 과정에서 발생하는 것은 포도상구균 독소형 식중독입니다.",
+        "감염형 식중독은 균이 증식한 식품 섭취로 발생하며 가열 조리로 예방할 수 있습니다. 정답입니다.",
+        "독소형 식중독이 신경마비성 증상을 나타내는 것은 마비성 패독이나 보툴리누스균의 경우입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2018-2018-local-community-B-q07",
+      "paperId": "paper_nursing_community_2018_local_B",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2018/local-B/q07.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n리벨과 클라크의 질병 자연사에서 초기병변단계(불현성감염기)는 질병이 시작되었으나 증상이 나타나기 전 단계로, 2차 예방에 해당하는 조기진단과 조기치료가 이루어집니다.",
+      "optionExplanations": [
+        "보건교육은 질병 발생 전의 1차 예방 활동입니다.",
+        "조기진단은 불현성감염기에 질병을 조기에 발견하는 2차 예방 활동입니다. 정답입니다.",
+        "예방접종은 감수성을 낮추는 1차 예방 활동입니다.",
+        "재활훈련은 질병 진행 후의 3차 예방 활동입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2018-2018-local-community-B-q08",
+      "paperId": "paper_nursing_community_2018_local_B",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2018/local-B/q08.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n중증도 분류에서 황색은 즉시 치료가 필요하지만 생명에는 지장이 없는 중증 환자로, 경추를 제외한 척추 손상 등이 해당합니다.",
+      "optionExplanations": [
+        "황색은 중증이지만 응급은 아닌 환자로 척추 손상 등이 해당합니다. 정답입니다.",
+        "녹색은 보행이 가능한 경증 환자이며, 대량 출혈로 혈압이 낮은 환자는 적색입니다.",
+        "적색은 즉시 소생술이 필요한 최우선 환자이며, 30분 이상 심정지된 환자는 흑색입니다.",
+        "흑색은 사망 또는 사망이 임박한 환자이며, 경증 열상은 녹색입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2018-2018-local-community-B-q09",
+      "paperId": "paper_nursing_community_2018_local_B",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2018/local-B/q09.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n발생률은 일정 기간 새로 발생한 환자 수를 그 시점의 위험에 노출된 인구로 나눈 값입니다. 4월 신규 발생 2명을 감수성 인구 90명으로 나누면 2.2%가 됩니다.",
+      "optionExplanations": [
+        "2.0은 계산 결과와 다릅니다.",
+        "9.0은 계산 결과와 다릅니다.",
+        "4월 신규 발생 2명을 감수성 인구 90명으로 나눈 2.2%가 4월 발생률입니다. 정답입니다.",
+        "9.7은 계산 결과와 다릅니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2018-2018-local-community-B-q10",
+      "paperId": "paper_nursing_community_2018_local_B",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2018/local-B/q10.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nBPRS 계산 후 사업의 실현가능성을 판단하는 기준은 PEARL(적합성, 경제성, 수용성, 자원의 이용 가능성, 합법성)입니다.",
+      "optionExplanations": [
+        "Bryant는 우선순위 결정 점수 체계의 하나입니다.",
+        "PATCH는 지역사회 건강사정과 프로그램 기획 모형입니다.",
+        "MAPP은 지역사회 건강사정과 기획을 위한 모형입니다.",
+        "PEARL은 사업의 실현가능성을 판단하는 기준입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2018-2018-local-community-B-q11",
+      "paperId": "paper_nursing_community_2018_local_B",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2018/local-B/q11.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지역주민의 건강증진을 위해 지역보건의료계획을 수립·시행하도록 한 근거 법은 지역보건법입니다.",
+      "optionExplanations": [
+        "보건소법은 지역보건법으로 전면 개정되었습니다.",
+        "지역보건법이 지역보건의료계획 수립과 시행의 근거가 됩니다. 정답입니다.",
+        "국민건강보험법은 건강보험 급여와 보험자 업무를 규정합니다.",
+        "국민건강증진법은 건강증진사업의 기본 계획과 지원을 규정합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2018-2018-local-community-B-q12",
+      "paperId": "paper_nursing_community_2018_local_B",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2018/local-B/q12.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n2차 자료는 다른 목적으로 이미 수집·정리된 자료로, 통계청이 제공하는 생정통계가 이에 해당합니다.",
+      "optionExplanations": [
+        "면담으로 직접 얻은 자료는 1차 자료입니다.",
+        "요구도 조사는 직접 수집한 1차 자료입니다.",
+        "행사에 참여해 직접 관찰한 자료도 1차 자료입니다.",
+        "통계청의 생정통계는 이미 수집된 2차 자료입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2018-2018-local-community-B-q13",
+      "paperId": "paper_nursing_community_2018_local_B",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2018/local-B/q13.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n브래드쇼의 교육 요구 중 대상자가 스스로 필요하다고 인식하고 말로 표현한 요구는 표현적(외향적) 요구입니다. 치매 남편 간호요령을 알고 싶다고 말한 경우가 이에 해당합니다.",
+      "optionExplanations": [
+        "규범적 요구는 전문가가 판단한 규범적 기준에 의해 규정되는 요구입니다.",
+        "내면적(인지적) 요구는 대상자가 스스로 느끼기만 하고 표현하지 않은 요구입니다.",
+        "외향적(표현적) 요구는 대상자가 말이나 행동으로 표현한 요구입니다. 정답입니다.",
+        "상대적 요구는 다른 집단과 비교해 판단하는 요구입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2018-2018-local-community-B-q14",
+      "paperId": "paper_nursing_community_2018_local_B",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2018/local-B/q14.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n기후변화에 따른 국민건강영향평가는 보건소의 기능 및 업무로 규정되어 있지 않습니다.",
+      "optionExplanations": [
+        "보건의료 관련 기관·단체, 학교, 직장 등과의 협력체계 구축은 보건소 업무입니다.",
+        "국민건강증진·구강건강·영양관리사업 및 보건교육은 보건소 업무입니다.",
+        "정신건강증진 및 생명존중에 관한 사항도 보건소 업무입니다.",
+        "기후변화에 따른 국민건강영향평가는 지역보건법상 보건소의 기능 및 업무가 아닙니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2018-2018-local-community-B-q15",
+      "paperId": "paper_nursing_community_2018_local_B",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2018/local-B/q15.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n1900년 이전 방문간호시대에 로선복이 태화여자관에 보건사업부를 설치하고 모자보건사업을 실시한 것은 우리나라 지역사회간호의 초기 역사에 해당합니다.",
+      "optionExplanations": [
+        "로선복이 태화여자관에 보건사업부를 설치해 모자보건사업을 실시한 것은 방문간호시대의 일입니다. 정답입니다.",
+        "라론드 보고서의 영향으로 건강증진사업이 활성화된 것은 1960년 이후 시기입니다.",
+        "릴리안 왈드가 헨리스트리트에 구제사업소를 설립한 것은 미국의 방문간호시대(1900년 이전) 활동입니다.",
+        "메디케어·메디케이드 도입 이후 가정간호가 활성화된 것은 1960년 이후 시기입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2018-2018-local-community-B-q16",
+      "paperId": "paper_nursing_community_2018_local_B",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2018/local-B/q16.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지역사회간호과정의 계획단계에서는 목표와 세부 계획을 설정합니다. 비만여성 운동프로그램 참여율에 대한 목표를 설정한 것이 계획단계의 활동입니다.",
+      "optionExplanations": [
+        "참여율 목표를 설정하는 것은 계획단계의 활동입니다. 정답입니다.",
+        "우선순위를 설정하는 것은 사정 단계의 활동입니다.",
+        "비만이 건강에 미치는 영향을 조사하는 것은 사정(자료수집) 단계입니다.",
+        "다른 지역과 유병률을 비교하는 것도 사정 단계의 활동입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2018-2018-local-community-B-q17",
+      "paperId": "paper_nursing_community_2018_local_B",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2018/local-B/q17.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n지역사회간호사정의 자료 분석 단계에서 부족한 자료가 없는지 파악하고 다른 지역이나 과거 자료와 비교하는 것은 확인 단계입니다.",
+      "optionExplanations": [
+        "분류는 수집한 자료를 유형별로 나누는 단계입니다.",
+        "요약은 자료를 정리해 핵심을 드러내는 단계입니다.",
+        "확인은 부족한 자료를 파악하고 다른 자료와 비교·검증하는 단계입니다. 정답입니다.",
+        "결론은 분석 결과를 종합해 판단하는 단계입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2018-2018-local-community-B-q18",
+      "paperId": "paper_nursing_community_2018_local_B",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2018/local-B/q18.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n우리나라 의료보장제도는 사회보험 방식의 국민건강보험과 공공부조 방식의 의료급여로 이원화되어 운영됩니다.",
+      "optionExplanations": [
+        "전국민 의료보험은 1989년에 완성되었습니다.",
+        "국민건강보험 가입은 법에 따라 강제되며 자발적 선택이 아닙니다.",
+        "사회보험 방식의 국민건강보험과 공공부조 방식의 의료급여를 운영합니다. 정답입니다.",
+        "의료급여 수급권자는 국민건강보험의 적용 대상자가 아닙니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2018-2018-local-community-B-q19",
+      "paperId": "paper_nursing_community_2018_local_B",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2018/local-B/q19.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n제시된 사정도구는 가족을 둘러싼 외부 체계와의 관계를 표시한 것으로, 가족 내·외부 간의 지지 정도를 확인할 수 있습니다.",
+      "optionExplanations": [
+        "K씨와 가족 내·외부 간의 지지 정도를 확인할 수 있습니다. 정답입니다.",
+        "자원의 흐름을 파악하는 도구는 생태도나 자원 연계도입니다.",
+        "가족구성원 간의 상호관계와 친밀도를 도식화한 것은 가계도나 관계도입니다.",
+        "가족구성원의 구조를 한눈에 보여주는 것은 가계도입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2018-2018-local-community-B-q20",
+      "paperId": "paper_nursing_community_2018_local_B",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2018/local-B/q20.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n노인인구 구성비는 총인구에 대한 65세 이상 인구의 비율입니다. 65세 이상이 200명, 총인구가 1,000명이므로 20%입니다.",
+      "optionExplanations": [
+        "노령화지수는 (65세 이상 ÷ 0~14세) × 100으로 150입니다.",
+        "노인인구 구성비는 200 ÷ 1,000 × 100 = 20%입니다. 정답입니다.",
+        "노년부양비는 200 ÷ 500 × 100 = 40입니다.",
+        "유년부양비는 200 ÷ 500 × 100 = 40입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    }
+  ]
+}

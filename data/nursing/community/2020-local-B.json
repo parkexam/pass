@@ -1,0 +1,489 @@
+{
+  "id": "paper_nursing_community_2020_local_B",
+  "title": "2020 지방직 9급 지역사회간호 B책형",
+  "year": 2020,
+  "source": "2020년도 지방공무원 9급 등 공개경쟁임용 필기시험 지역사회간호 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+  "subjectId": "sub_nursing_community",
+  "questions": [
+    {
+      "id": "nursing2020-2020-local-community-B-q01",
+      "paperId": "paper_nursing_community_2020_local_B",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2020/local-B/q01.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n제시문은 지역보건법령에 근거해 설치하고, 보건소가 없는 읍·면·동마다 1개씩 설치할 수 있으며, 진료서비스는 하지 않고 만성질환 예방과 건강한 생활습관 형성 지원을 목적으로 하는 조직을 설명합니다. 이는 건강생활지원센터입니다.",
+      "optionExplanations": [
+        "보건지소는 읍·면 지역에서 진료 등 일차보건의료를 제공하는 기관입니다.",
+        "보건진료소는 보건진료 전담공무원이 진료와 보건서비스를 제공하는 기관입니다.",
+        "정신건강복지센터는 정신건강 증진과 정신질환 관리에 특화된 기관입니다.",
+        "건강생활지원센터는 진료 없이 만성질환 예방과 건강생활 실천 지원을 담당합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2020-2020-local-community-B-q02",
+      "paperId": "paper_nursing_community_2020_local_B",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2020/local-B/q02.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n뉴만의 건강관리체계이론에서 유연방어선은 정상방어선 바깥에서 환경의 스트레스원과 맞서는 완충선이며, 이를 강화하는 활동은 건강상태를 감시하고 스트레스원에 대응하는 1차 예방에 해당합니다.",
+      "optionExplanations": [
+        "역할기대는 대인간 스트레스원에 해당하며 외적 요인으로 분류됩니다. 다만 이 문항의 정답은 유연방어선에 대한 설명입니다.",
+        "저항선은 정상방어선 안쪽, 즉 기초구조를 둘러싸고 있는 내부 방어선입니다.",
+        "유연방어선을 강화해 건강상태를 감시하고 스트레스원에 대응하는 것은 1차 예방 활동입니다. 정답입니다.",
+        "정상방어선은 기초구조의 바깥쪽에 위치하며 대상체계의 평형 상태를 나타냅니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2020-2020-local-community-B-q03",
+      "paperId": "paper_nursing_community_2020_local_B",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2020/local-B/q03.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n과정평가는 프로그램이 계획대로 수행되고 있는지를 보는 평가로, 대상자의 참여율이나 서비스 제공 실적 등이 대표적인 과정 평가지표입니다.",
+      "optionExplanations": [
+        "프로그램 참여율은 사업이 계획대로 진행되는지를 보여주는 과정 평가지표입니다. 정답입니다.",
+        "금주 실천율은 프로그램 수행 후 대상자의 행동 변화를 보는 영향(효과) 평가지표입니다.",
+        "프로그램 예산의 적정성은 투입 자원에 대한 평가로 과정평가의 핵심 지표와는 거리가 있습니다.",
+        "음주 관련 질환에 대한 지식 수준의 변화 역시 프로그램의 결과로 나타난 효과 지표입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2020-2020-local-community-B-q04",
+      "paperId": "paper_nursing_community_2020_local_B",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2020/local-B/q04.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n범이론적 모형에서 계획단계는 문제 행동의 폐해를 인식하고 6개월 이내에 행동을 시작할 생각을 하는 단계입니다. 담배를 끊어야 한다고 생각하는 상태가 여기에 해당합니다.",
+      "optionExplanations": [
+        "계획 전 단계는 6개월 이내에 행동을 시작할 생각이 없는 상태입니다.",
+        "계획 단계는 6개월 이내에 금연할 생각을 하는 상태로 제시문과 일치합니다. 정답입니다.",
+        "준비 단계는 1개월 이내에 행동을 시작할 계획을 구체적으로 세우는 단계입니다.",
+        "행동 단계는 실제로 금연을 실천하고 있는 단계입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2020-2020-local-community-B-q05",
+      "paperId": "paper_nursing_community_2020_local_B",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2020/local-B/q05.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n건강증진 영역의 분류에서 '건강한 사람'을 대상으로 건강증진과 질병예방을 도모하는 단계는 예방 단계입니다. 학교에서 건강한 학생을 대상으로 감염병 예방교육을 하는 것은 예방 단계에 해당합니다.",
+      "optionExplanations": [
+        "예방 단계는 건강한 인구집단을 대상으로 건강증진과 질병예방을 수행하는 단계입니다. 정답입니다.",
+        "대응 제1단계는 질병 발생 초기에 조기발견·조기치료를 목표로 합니다.",
+        "대응 제2단계는 질병의 진행을 억제하고 합병증을 예방하는 단계입니다.",
+        "대응 제3단계는 재활과 사회 복귀를 지원하는 단계입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2020-2020-local-community-B-q06",
+      "paperId": "paper_nursing_community_2020_local_B",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2020/local-B/q06.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nMATCH 모형은 목적과 목표 설정, 중재 계획, 프로그램 개발, 평가의 단계로 진행됩니다. 중재의 대상과 접근 방법을 결정하는 일은 목적·목표 설정 단계에서 이루어지므로, 이를 중재 계획 단계의 활동으로 본 설명은 옳지 않습니다.",
+      "optionExplanations": [
+        "목적·목표 설정 단계에서 행동 및 환경 요인과 관련된 목적을 정하는 것은 옳은 설명입니다.",
+        "중재의 대상과 접근 방법을 결정하는 것은 목적·목표 설정 단계의 일이므로, 이를 중재 계획 단계로 설명한 것은 옳지 않습니다. 정답입니다.",
+        "프로그램 개발 단계에서 사업의 우선순위가 높은 인구집단을 선정하는 것은 옳은 설명입니다.",
+        "평가 단계에서 사업의 과정·영향·결과를 평가하는 것은 옳은 설명입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2020-2020-local-community-B-q07",
+      "paperId": "paper_nursing_community_2020_local_B",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2020/local-B/q07.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n가족체계이론은 가족을 상호작용하는 하나의 전체 체계로 보고 순환적 인과관계와 체계 전체의 균형을 중시합니다. 가족 구성원을 개별적으로 분석해 문제를 파악하는 것은 가족체계이론의 설명이 아닙니다.",
+      "optionExplanations": [
+        "구조-기능이론은 가족이 사회와 균형을 이루는 구조와 기능을 설명합니다.",
+        "가족발달이론은 가족생활주기 단계별 발달과업과 위기 대처 능력을 설명합니다.",
+        "가족 구성원을 개별적으로 분석해 가족체계 전체를 이해한다는 설명은 체계이론과 맞지 않습니다. 정답입니다.",
+        "상징적 상호작용이론은 가족 간 상호작용이 개인의 정체성에 영향을 준다고 봅니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2020-2020-local-community-B-q08",
+      "paperId": "paper_nursing_community_2020_local_B",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2020/local-B/q08.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n유년부양비는 생산가능연령인구(15~64세) 100명에 대한 0~14세 유년인구의 비율로 산출합니다.",
+      "optionExplanations": [
+        "유년부양비는 0~14세 유년인구를 15~64세 생산가능인구로 나눈 값입니다. 정답입니다.",
+        "노년부양비는 65세 이상 노인인구를 생산가능인구로 나눈 비율로, 제시문은 이를 유년부양비로 잘못 설명했습니다.",
+        "부양비는 생산가능인구에 대한 유년인구와 노년인구의 합의 비율입니다.",
+        "비생산인구구가 동일할 때 생산인구가 증가하면 부양비는 오히려 감소합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2020-2020-local-community-B-q09",
+      "paperId": "paper_nursing_community_2020_local_B",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2020/local-B/q09.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n행동주의는 학습을 자극과 반응의 연합, 즉 외적 조건과 강화의 결과로 설명합니다. 행동의 지속·소멸이 외적 요인에 영향받고 내적 신념이나 가치는 무시된다는 설명은 행동주의에 해당합니다.",
+      "optionExplanations": [
+        "인지주의는 내적 사고 과정과 정보처리에 초점을 둡니다.",
+        "행동주의는 외적 자극과 강화, 즉각적 피드백으로 학습을 설명합니다. 정답입니다.",
+        "인본주의는 개인의 주관적 경험과 자아실현을 중시합니다.",
+        "구성주의는 학습자가 경험을 통해 지식을 스스로 구성한다고 봅니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2020-2020-local-community-B-q10",
+      "paperId": "paper_nursing_community_2020_local_B",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2020/local-B/q10.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n대상자의 행동이 바람직한 방향으로 변화하도록 유도하는 역할은 변화 촉진자(change agent)입니다. 조정자는 여러 전문가와 기관의 서비스를 연결·조정하는 역할이므로 설명이 맞지 않습니다.",
+      "optionExplanations": [
+        "조정자는 대상자에게 필요한 여러 서비스와 전문가를 연결·조정하는 역할이며, 행동 변화를 유도하는 역할은 변화 촉진자입니다. 정답입니다.",
+        "의뢰자는 대상자를 적절한 기관이나 전문가에게 연결해 주는 역할입니다.",
+        "사례관리자는 대상자의 욕구를 충족시키고 자원을 효율적으로 활용하도록 돕습니다.",
+        "사례발견자는 지역사회 주민 중 서비스가 필요한 개인이나 집단을 찾아 연결합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2020-2020-local-community-B-q11",
+      "paperId": "paper_nursing_community_2020_local_B",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2020/local-B/q11.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n가계도에서 부부 사이의 사선 하나는 별거, 두 개는 이혼을 나타냅니다. 제시문 가계도는 별거 상태를 표시하고 있으므로 '이혼한 상태'라는 설명은 옳지 않습니다.",
+      "optionExplanations": [
+        "가계도의 결혼선에 표시된 사선은 하나이므로 별거를 뜻하며, 이혼으로 단정할 수 없습니다. 정답입니다.",
+        "김씨 아버지는 사망을 나타내는 X 표시와 사망 연도(1943~1975)가 표시되어 있어 설명이 옳습니다.",
+        "김씨의 자녀는 19세 딸 1명과 16세 아들 2명으로 2남 1녀가 맞습니다.",
+        "16세 아들 두 명은 같은 나이로 표시되어 쌍둥이임을 알 수 있습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2020-2020-local-community-B-q12",
+      "paperId": "paper_nursing_community_2020_local_B",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2020/local-B/q12.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n완화·예방 단계는 재난 발생 전에 피해를 줄이기 위한 활동을 말합니다. 위험지도 작성은 취약 지역과 위험 요인을 미리 파악해 대비하는 완화·예방 활동입니다.",
+      "optionExplanations": [
+        "생필품 공급은 재난 직후의 대응 단계 활동입니다.",
+        "부상자의 중증도 분류는 현장 대응 단계의 활동입니다.",
+        "위험지도 작성은 재난 발생 전 위험 요인을 파악해 대비하는 완화·예방 활동입니다. 정답입니다.",
+        "이재민의 거주지 지원은 재난 이후의 복구 단계 활동입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2020-2020-local-community-B-q13",
+      "paperId": "paper_nursing_community_2020_local_B",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2020/local-B/q13.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n자녀가 모두 출가해 부부만 남은 두발가족(빈 둥지) 시기의 발달과업은 부모 역할의 재정립, 즉 자녀 출가에 따른 부부 역할 적응입니다.",
+      "optionExplanations": [
+        "가족계획은 결혼 초기 가족 형성기의 과업입니다.",
+        "부상자의 중증도 분류는 재난 대응과 관련된 활동으로 가족 발달과업이 아닙니다.",
+        "자녀의 사회화와 학업 성취 지원은 자녀 양육기의 과업입니다.",
+        "자녀의 출가에 따른 부모 역할 적응은 두발가족 시기의 대표적 발달과업입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2020-2020-local-community-B-q14",
+      "paperId": "paper_nursing_community_2020_local_B",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2020/local-B/q14.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n비례사망률은 특정 원인에 의한 사망자 수를 같은 기간 총사망자 수로 나눈 비율입니다. 결핵 비례사망률은 A지역 8/400=2.0%, B지역 5/500=1.0%, C지역 15/1,000=1.5%입니다. 따라서 A는 C의 약 1.3배이며 2배가 아닙니다.",
+      "optionExplanations": [
+        "폐암 비례사망률은 A 4.0%, B 2.0%, C 1.8%로 A지역이 가장 높습니다.",
+        "결핵 비례사망률은 A 2.0%, B 1.0%로 A가 B의 2배입니다.",
+        "결핵 비례사망률은 A 2.0%, B 1.0%, C 1.5%로 A지역이 가장 높습니다.",
+        "A지역 2.0%와 C지역 1.5%를 비교하면 약 1.3배이므로 2배라는 설명은 옳지 않습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2020-2020-local-community-B-q15",
+      "paperId": "paper_nursing_community_2020_local_B",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2020/local-B/q15.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n의료법상 면허나 자격증을 가진 사람만이 할 수 있는 업무를 수행하도록 지시·위임하려면 의료인의 지도가 필요합니다. 간호사, 간호조무사, 임상병리사, 한의사에 대한 위임상황은 모두 의료인의 지도가 필요한 경우에 해당합니다.",
+      "optionExplanations": [
+        "간호사에 대한 업무 위임은 의료인의 지도가 필요한 상황입니다.",
+        "한의사에 대한 업무 위임도 의료인의 지도가 필요한 상황입니다.",
+        "간호조무사와 임상병리사에 대한 위임 역시 지도가 필요합니다.",
+        "네 가지 모두 면허·자격 업무에 대한 위임으로 의료인의 지도가 필요합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2020-2020-local-community-B-q16",
+      "paperId": "paper_nursing_community_2020_local_B",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/community/2020/local-B/q16.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\nBPRS는 (문제의 크기 + 문제의 중요성) × 사업의 추정효과로 계산합니다. ①은 (5+5)×7=70, ②는 (5+6)×6=66, ③은 (6+5)×5=55, ④는 (7+5)×5=60이므로 ①이 가장 높습니다.",
+      "optionExplanations": [
+        "(5+5)×7=70으로 네 안 중 우선순위가 가장 높습니다. 정답입니다.",
+        "(5+6)×6=66으로 ①보다 낮습니다.",
+        "(6+5)×5=55로 네 안 중 가장 낮습니다.",
+        "(7+5)×5=60으로 ①보다 낮습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2020-2020-local-community-B-q17",
+      "paperId": "paper_nursing_community_2020_local_B",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/community/2020/local-B/q17.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n집단 내에서 원발환자(primary case)가 발생한 뒤 그와 접촉한 감수성 있는 사람들 중 새로 감염된 사람의 비율은 이차 발병률(이차 침습률)입니다.",
+      "optionExplanations": [
+        "평균 발병률은 일정 기간 인구 전체를 분모로 산출한 발생률입니다.",
+        "평균 발병률은 전체 인구를 기준으로 한 발생률로, 원발환자 접촉자만을 대상으로 하지 않습니다.",
+        "이차 발병률은 원발환자와 접촉한 감수성자 중 새로 발생한 감염자의 비율입니다. 정답입니다.",
+        "이차 발병률은 감수성자 중 감염자 비율이며, 유병률이나 사망률과는 다릅니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2020-2020-local-community-B-q18",
+      "paperId": "paper_nursing_community_2020_local_B",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/community/2020/local-B/q18.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n사업평가는 계획 단계부터 이해당사자를 참여시켜 평가 지표와 방법을 함께 정하는 것이 바람직합니다. 주요 이해당사자를 계획 단계에서 배제한다는 설명은 옳지 않습니다.",
+      "optionExplanations": [
+        "평가의 계획 단계에서부터 평가를 준비하는 것은 옳은 설명입니다.",
+        "주요 이해당사자를 계획 단계에서 배제한다는 것은 참여적 평가 원칙에 어긋납니다. 정답입니다.",
+        "평가 결과는 차기 사업 계획에 환류하여 활용하는 것이 바람직합니다.",
+        "사업 목표 달성 정도를 파악하기 위해 효과성 평가를 실시하는 것은 옳은 설명입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2020-2020-local-community-B-q19",
+      "paperId": "paper_nursing_community_2020_local_B",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2020/local-B/q19.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n산업재해보상보험법상 업무상 사유로 부상하거나 질병에 걸린 근로자에게 요양을 위해 지급하는 급여가 휴업급여입니다. 업무상 부상·질병으로 취업하지 못한 기간에 평균임금의 100분의 70에 해당하는 금액을 지급합니다(3일 이내는 제외).",
+      "optionExplanations": [
+        "요양급여는 업무상 재해로 요양이 필요할 때 진찰·치료 등의 요양 비용을 지급하는 급여입니다.",
+        "장해급여는 치유 후 신체에 장해가 남은 경우 지급하는 급여입니다.",
+        "간병급여는 치유 후 간병이 필요한 경우 지급하는 급여입니다.",
+        "휴업급여는 업무상 부상·질병으로 취업하지 못한 기간에 지급하는 급여로, 제시문의 설명과 일치합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2020-2020-local-community-B-q20",
+      "paperId": "paper_nursing_community_2020_local_B",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/community/2020/local-B/q20.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n가족기능 평가도구인 Family APGAR는 적응도(adaptation), 동반자 관계(partnership), 성장(growth), 애정(affection), 결의(resolve)의 다섯 요소로 가족기능을 평가합니다. 가족이 가진 자원의 크기는 평가 영역이 아닙니다.",
+      "optionExplanations": [
+        "적응도는 가족이 문제 상황에 대처하기 위해 가족 내·외 자원을 활용하는 능력입니다.",
+        "성장은 가족이 변화와 성숙을 위해 서로 지지하고 허용하는 정도입니다.",
+        "애정은 가족 간의 정서적 친밀감과 관심을 나타내는 영역입니다.",
+        "가족이 가진 자원의 크기는 APGAR의 평가 영역이 아닙니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    }
+  ]
+}

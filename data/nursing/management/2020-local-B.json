@@ -1,0 +1,489 @@
+{
+  "id": "paper_nursing_management_2020_local_B",
+  "title": "2020 지방직 9급 간호관리 B책형",
+  "year": 2020,
+  "source": "2020년도 지방공무원 9급 등 공개경쟁임용 필기시험 간호관리 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+  "subjectId": "sub_nursing_manage",
+  "questions": [
+    {
+      "id": "nursing2020-2020-local-management-B-q01",
+      "paperId": "paper_nursing_management_2020_local_B",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2020/local-B/q01.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n간호관리체계모형은 투입-변환과정-산출-환류의 순환으로 설명됩니다. 간호사 만족도, 응급실 재방문율, 환자의 욕창발생률은 간호서비스가 제공된 뒤에 나타난 결과, 즉 산출에 해당합니다.",
+      "optionExplanations": [
+        "조정은 부서 간 활동을 조화시키는 관리 기능으로 체계모형의 구성요소가 아닙니다.",
+        "투입은 간호인력, 물품, 정보 등 활동에 투입되는 자원을 말합니다.",
+        "변환과정은 투입된 자원이 간호활동을 통해 결과로 바뀌는 과정 자체를 말합니다.",
+        "산출은 간호활동의 결과로 나타난 성과이며, 만족도·재방문율·욕창발생률은 대표적인 산출 지표입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2020-2020-local-management-B-q02",
+      "paperId": "paper_nursing_management_2020_local_B",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2020/local-B/q02.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n조직은 구조가 고정되어 지속되는 정태적 조직과, 특정 과업을 위해 한시적으로 구성되는 동태적 조직으로 나눌 수 있습니다. 위원회·매트릭스·프로젝트 조직은 모두 동태적 조직입니다.",
+      "optionExplanations": [
+        "위원회 조직은 특정 문제 해결을 위해 구성원이 모인 동태적 조직입니다.",
+        "매트릭스 조직은 기능식 구조와 프로젝트 구조를 결합한 동태적 조직입니다.",
+        "프로젝트 조직은 특정 사업 수행을 위해 한시적으로 편성되는 동태적 조직입니다.",
+        "라인-스태프 조직은 명령계통이 고정된 대표적인 정태적 조직으로, 나머지 셋과 유형이 다릅니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2020-2020-local-management-B-q03",
+      "paperId": "paper_nursing_management_2020_local_B",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2020/local-B/q03.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n간접간호활동은 환자에게 직접 닿지 않으면서 간호의 연속성을 지탱하는 업무입니다. 인수인계는 환자 상태와 업무를 다음 근무자에게 전달하는 활동으로 간접간호에 해당합니다.",
+      "optionExplanations": [
+        "투약은 환자에게 직접 수행하는 대표적인 직접간호활동입니다.",
+        "산소투여 역시 환자에게 직접 시행하는 직접간호활동입니다.",
+        "인수인계는 환자를 직접 대면하지 않고 정보를 전달·조정하는 간접간호활동입니다. 정답입니다.",
+        "섭취량 및 배설량 측정은 환자에게 직접 시행하는 관찰·측정 활동으로 직접간호입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2020-2020-local-management-B-q04",
+      "paperId": "paper_nursing_management_2020_local_B",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2020/local-B/q04.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n제시문은 의료행위 전 설명과 동의, 그리고 질병 상태·치료방법·예상결과·진료비용에 대한 질문권을 내용으로 합니다. 이는 환자의 알 권리와 자기결정권에 해당합니다.",
+      "optionExplanations": [
+        "진료받을 권리는 적절한 의료를 제공받을 권리로, 설명과 동의라는 내용과는 초점이 다릅니다.",
+        "비밀을 보호받을 권리는 환자의 정보가 누설되지 않을 권리입니다.",
+        "설명을 듣고 질문할 수 있으며 그에 근거해 치료를 결정하는 권리로, 제시문의 두 내용을 모두 포함합니다. 정답입니다.",
+        "상담·조정을 신청할 권리는 분쟁 발생 시의 절차적 권리입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2020-2020-local-management-B-q05",
+      "paperId": "paper_nursing_management_2020_local_B",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/management/2020/local-B/q05.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n간호관리과정은 기획-조직-인사-지휘-통제로 이어집니다. 조직은 공식 구조를 만들고 간호전달체계를 정하며 업무를 배치하는 단계입니다.",
+      "optionExplanations": [
+        "실제 성과가 목표나 기준에 일치하는지 확인하는 것은 통제입니다.",
+        "공식 구조를 만들고 간호전달체계를 결정하며 업무활동을 배치하는 것은 조직 기능에 대한 설명입니다. 정답입니다.",
+        "유능한 인력을 확보하고 개발·유지하며 보상하는 것은 인사(충원) 기능입니다.",
+        "조직의 신념과 목표를 세우고 행동지침을 결정하는 것은 기획 기능입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2020-2020-local-management-B-q06",
+      "paperId": "paper_nursing_management_2020_local_B",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2020/local-B/q06.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n논리적 오류는 평가자가 서로 논리적으로 관련 있다고 믿는 특성들을 서로 연결하여 평가하는 오류입니다. 출근 시간이 이르다는 특성과 업무수행 능력이 우수하다는 특성을 논리적으로 연결한 사례입니다.",
+      "optionExplanations": [
+        "혼효과는 특정 요소가 부족하다는 인상이 다른 요소까지 낮게 평가하는 부정적 후광효과입니다.",
+        "근접오류는 최근의 행동을 기준으로 평가하는 오류입니다.",
+        "규칙적 착오(규칙적 오류)는 평가자의 습관적 경향이 일관되게 반영되는 오류입니다.",
+        "출근 시간과 업무능력은 실제로는 별개인데 관련 있다고 믿고 평가한 논리적 오류입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2020-2020-local-management-B-q07",
+      "paperId": "paper_nursing_management_2020_local_B",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2020/local-B/q07.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n의료법상 면허취소 사유는 의료관련 법령을 위반하여 금고 이상의 형을 선고받고 그 형의 집행이 종료되지 않았거나 집행을 받지 아니하기로 확정되지 아니한 경우 등입니다.",
+      "optionExplanations": [
+        "품위를 심하게 손상시키는 행위는 자격정지 사유입니다.",
+        "의료기관 개설자가 될 수 없는 자에게 고용되어 의료행위를 한 때는 자격정지 사유입니다.",
+        "진료기록부를 거짓 작성하거나 고의로 사실과 다르게 추가기재·수정한 때는 자격정지 사유입니다.",
+        "금고 이상의 형을 선고받고 집행이 종료되지 않은 경우는 면허취소 사유입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2020-2020-local-management-B-q08",
+      "paperId": "paper_nursing_management_2020_local_B",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/management/2020/local-B/q08.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n마약류는 이중 잠금장치가 된 철제 금고에 별도 보관하는 것이 원칙입니다.",
+      "optionExplanations": [
+        "마약 처방전은 2년간 보관한 후 폐기해야 합니다.",
+        "마약은 이중 잠금장치가 된 철제 금고에 별도 저장하는 것이 올바른 관리 방법입니다. 정답입니다.",
+        "마약 파손 시에는 파손 사실을 확인·기록하고 폐기 절차에 따라 처리하며, 깨어진 조각을 분리수거해 폐기해서는 안 됩니다.",
+        "냉장·냉동 보관이 필요한 마약류도 잠금장치가 있는 곳에 보관해야 합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2020-2020-local-management-B-q09",
+      "paperId": "paper_nursing_management_2020_local_B",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2020/local-B/q09.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n브레인스토밍은 참석자가 압력 없이 아이디어를 자유롭게 제시하고, 그 내용에 대해 평가나 비판을 하지 않는 집단 의사결정 방법입니다.",
+      "optionExplanations": [
+        "델파이법은 전문가에게 반복적으로 설문하여 의견을 수렴하는 방법입니다.",
+        "전자회의는 정보기술을 활용해 원격으로 회의하는 방식입니다.",
+        "명목집단법은 아이디어를 기록한 뒤 순서대로 발표하고 투표로 결정하는 방법입니다.",
+        "자유로운 제안과 비판 금지를 특징으로 하는 브레인스토밍에 대한 설명입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2020-2020-local-management-B-q10",
+      "paperId": "paper_nursing_management_2020_local_B",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2020/local-B/q10.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n회계연도 중 수입과 지출의 실적을 확정적 계수로 표시하고 사후적 재정보고로 재무활동을 평가하는 과정은 결산 및 보고입니다.",
+      "optionExplanations": [
+        "예산 편성은 다음 연도의 수입·지출 계획을 세우는 단계입니다.",
+        "예산 심의는 편성된 예산안을 검토·확정하는 단계입니다.",
+        "결산 및 보고는 집행 실적을 확정해 보고하고 평가하는 사후 단계입니다. 정답입니다.",
+        "회계 감사는 예산 집행의 적정성을 독립적으로 검증하는 절차입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "nursing2020-2020-local-management-B-q11",
+      "paperId": "paper_nursing_management_2020_local_B",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/management/2020/local-B/q11.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n의료서비스의 특성 중 소멸성은 서비스가 저장될 수 없어 제공되지 못한 서비스는 그 가치가 사라진다는 의미입니다.",
+      "optionExplanations": [
+        "생산과 소비가 동시에 이루어지는 것은 동시성(비분리성)이며, 가변성은 서비스의 이질성을 뜻합니다.",
+        "소멸성은 의료서비스를 저장·보관할 수 없음을 뜻하며, 설명이 옳습니다. 정답입니다.",
+        "내부마케팅은 직원을 내부고객으로 보고 직원 만족을 높이는 활동입니다. 환자 대상 활동은 외부마케팅입니다.",
+        "이질성은 가변성의 다른 이름이며, 동시성은 비분리성에 해당합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2020-2020-local-management-B-q12",
+      "paperId": "paper_nursing_management_2020_local_B",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/nursing/management/2020/local-B/q12.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n간호단위 환경관리에서 조명은 자연채광을 활용하되 강한 햇빛은 커튼이나 블라인드로 가릴 수 있어야 합니다.",
+      "optionExplanations": [
+        "병실 적정 습도는 40~60% 정도이며 20~25%는 너무 건조합니다.",
+        "중환자실·수술실·결핵병동은 창문을 닫고 공조시설로 환기해야 하며, 자주 창문을 여는 것은 부적절합니다.",
+        "병실 소음은 35~45dB 정도로 유지하며 60dB 이상은 소음으로 간주됩니다.",
+        "자연채광을 활용하고 강한 햇빛은 커튼·블라인드로 가리는 것이 올바른 조명 관리입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2020-2020-local-management-B-q13",
+      "paperId": "paper_nursing_management_2020_local_B",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/management/2020/local-B/q13.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n간호사고 예방은 개인 처벌보다 시스템 개선을 중심으로 이루어져야 합니다. 근본 원인을 해결하기 위해 필요하면 병원의 구조적 변화를 요청하는 것이 조직적 예방 방안입니다.",
+      "optionExplanations": [
+        "근본적 원인 해결을 위해 구조적 변화를 요청하는 것은 조직 차원의 예방 활동입니다. 정답입니다.",
+        "사건보고와 인사고과를 연결하면 보고 기피가 생겨 오히려 사고 예방을 해칩니다.",
+        "사고의 원인 분석은 '누가'보다 '왜'에 초점을 두어야 합니다.",
+        "지침서 위주의 교육보다 사례 중심의 문제해결 교육이 효과적입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2020-2020-local-management-B-q14",
+      "paperId": "paper_nursing_management_2020_local_B",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/management/2020/local-B/q14.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n환자가 의료기관에 도착해 퇴원할 때까지의 실제 경로를 따라 진료 과정을 통합적으로 조사하고, 개별 환자뿐 아니라 조직 시스템을 대상으로 하는 질 평가 방법은 추적조사방법입니다.",
+      "optionExplanations": [
+        "추적조사방법은 환자 경로를 따라 기록검토·관찰·면담을 통합적으로 수행합니다. 정답입니다.",
+        "국가고객만족도조사는 서비스 만족도를 설문으로 측정하는 방법입니다.",
+        "BSC는 재무·고객·내부프로세스·학습과 성장의 네 관점으로 성과를 관리하는 기법입니다.",
+        "PDCA는 계획-실행-점검-개선의 질 향상 순환 모형입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2020-2020-local-management-B-q15",
+      "paperId": "paper_nursing_management_2020_local_B",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/management/2020/local-B/q15.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n소수의 사람은 위대해질 자질을 타고난다는 전제로, 리더십을 개발할 수 없는 타고난 특성으로 보는 이론은 특성이론입니다.",
+      "optionExplanations": [
+        "행동이론은 리더의 행동 유형에 주목합니다.",
+        "특성이론은 리더의 타고난 자질과 특성을 강조하며, 제시문의 두 내용과 일치합니다. 정답입니다.",
+        "상황이론은 상황에 따라 효과적인 리더십이 달라진다고 봅니다.",
+        "거래적 리더십은 보상과 처벌을 통한 교환 관계에 기초합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2020-2020-local-management-B-q16",
+      "paperId": "paper_nursing_management_2020_local_B",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/management/2020/local-B/q16.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n접근성은 환자가 필요한 의료를 얼마나 쉽게 이용할 수 있는지를 나타내며, 원격진료로 병원 방문 시간을 줄인 것은 접근성 개선의 예입니다.",
+      "optionExplanations": [
+        "6시간 걸리던 병원 방문시간을 원격진료로 단축한 것은 접근성 향상의 예입니다. 정답입니다.",
+        "의료자원의 공정한 분배는 형평성에 해당합니다.",
+        "투입비용 감소는 효율성에 해당합니다.",
+        "전원 시 의료정보 공유로 진료의 일관성을 유지한 것은 지속성에 해당합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2020-2020-local-management-B-q17",
+      "paperId": "paper_nursing_management_2020_local_B",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/management/2020/local-B/q17.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n활동성 결핵은 공기전파 질환이므로 음압격리실에 배치하고 공기주의 지침을 적용해야 합니다.",
+      "optionExplanations": [
+        "활동성 결핵 환자는 음압격리실에 배치하는 것이 원칙입니다. 정답입니다.",
+        "환자 침상에는 격리 관련 경고 표지를 부착하여 직원과 방문객이 주의하도록 해야 합니다.",
+        "격리실 안에서 장갑과 가운을 벗고 지정된 의료폐기물 용기에 버려야 하며 일반 폐기물통은 부적절합니다.",
+        "결핵 환자는 다인실 커튼 격리로는 충분하지 않아 음압 1인실 격리가 필요합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2020-2020-local-management-B-q18",
+      "paperId": "paper_nursing_management_2020_local_B",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/nursing/management/2020/local-B/q18.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n영역별 실제 수행 정도와 기대되는 수행 정도를 방사형 축에 표시해 그 차이를 한눈에 볼 수 있는 도구는 레이더 차트입니다.",
+      "optionExplanations": [
+        "산점도는 두 변수 간의 상관관계를 점으로 표시하는 도구입니다.",
+        "레이더 차트는 여러 영역의 실제값과 기대값을 겹쳐 그려 차이를 보여줍니다. 정답입니다.",
+        "파레토 차트는 문제의 빈도를 내림차순으로 배열해 주요 원인을 찾는 도구입니다.",
+        "원인 결과도는 결과에 영향을 준 원인을 가지 모양으로 정리하는 도구입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2020-2020-local-management-B-q19",
+      "paperId": "paper_nursing_management_2020_local_B",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/nursing/management/2020/local-B/q19.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n허쉬와 블랜차드 이론에서 능력은 낮지만 의지가 높은 상태는 성숙도 M2에 해당하며, 이때는 과업지향 행동과 관계지향 행동을 모두 높이는 설득형 리더가 적합합니다.",
+      "optionExplanations": [
+        "설득형 리더는 관계지향 행동과 과업지향 행동이 모두 높아 M2 상태의 구성원에게 적합합니다. 정답입니다.",
+        "설득형 리더는 관계지향과 과업지향이 모두 높으므로 과업지향이 낮다는 설명은 옳지 않습니다.",
+        "참여형 리더는 관계지향이 높고 과업지향이 낮으며, 능력은 있으나 의지가 낮은 M3 상태에 적합합니다.",
+        "참여형 리더는 과업지향이 낮으므로 과업지향이 높다는 설명이 옳지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "nursing2020-2020-local-management-B-q20",
+      "paperId": "paper_nursing_management_2020_local_B",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/nursing/management/2020/local-B/q20.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n집권화는 조직 내 자원 배분과 관련된 의사결정의 집중도, 직위 간 권한 분배의 정도를 나타내는 조직 구성요소입니다.",
+      "optionExplanations": [
+        "복잡성은 수평적·수직적 분화와 직능의 세분화 정도입니다.",
+        "공식화는 규칙과 절차가 문서로 정해진 정도입니다.",
+        "집권화는 의사결정 권한이 조직 내 어디에 집중되어 있는지를 나타냅니다. 정답입니다.",
+        "전문화는 업무가 전문화된 정도를 뜻합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    }
+  ]
+}
