@@ -168,6 +168,8 @@
   var EXAM_NAME = /\b(LEET|MEET|DEET|M·DEET|TOEIC|TOEFL|TEPS|SAT|GRE|GMAT|JLPT|JPT|HSK|MOS|ITQ|GTQ|ERP|CISSP|SQL)\b/i;
   function removeDecorativeEyebrows(page) {
     page.querySelectorAll('.eyebrow').forEach(el => {
+      // 홈 히어로의 'MY STUDY'는 사용자가 남겨 둔 라벨이므로 장식용 eyebrow 정리에서 제외합니다.
+      if (el.closest('.pass-target-head')) return;
       const t = text(el).trim();
       if (!t) { el.remove(); return; }
       if (EXAM_NAME.test(t)) return;
