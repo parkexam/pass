@@ -1,0 +1,969 @@
+{
+ "id": "paper_police_science_2026_r1",
+ "title": "2026 순경 공개채용 1차 경찰학",
+ "year": 2026,
+ "source": "2026년도 제1차 경찰공무원(순경) 공개채용 필기시험 경찰학 문제지·최종정답 기준 · 자체 해설 초안(검수 필요)",
+ "subjectId": "sub_police_science",
+ "questions": [
+  {
+   "id": "police2026-science-r1-q01",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 1,
+   "kind": "scan",
+   "body": "1번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/police/science/2026/r1/q01.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n실질적 의미의 경찰은 경찰작용의 성질에 따라 학문적으로 정립된 개념이고, 형식적 의미의 경찰은 실정법상 보통경찰기관에 맡겨진 임무를 기준으로 한 개념이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "1953년 경찰관 직무집행법에 담긴 생명·신체·재산 보호는 영미법계의 사고이고, 대륙법계는 공공의 안녕과 질서 유지에 무게를 두었다.",
+    "국가경찰은 지휘체계가 하나여서 광역 범죄 대응과 기관 간 협조가 쉽고, 단점은 지역 실정에 어둡고 관료화되기 쉽다는 데 있다.",
+    "실질적 의미의 경찰은 작용의 성질에 따른 학문상 개념이고, 형식적 의미의 경찰은 보통경찰기관이 맡은 임무를 기준으로 한 실정법상 개념이다. 정답입니다.",
+    "블랑코 판결은 국가배상 사건의 관할을 행정재판소로 정한 판결이고, 경찰권을 소극적 위험방지로 한정한 계기는 크로이츠베르크 판결이다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q02",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 2,
+   "kind": "scan",
+   "body": "2번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/police/science/2026/r1/q02.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n다섯 설명이 모두 옳지 않다. 사려 깊게 개입했으나 실제 위험이 없던 것은 외관적 위험이고, 공공의 안녕은 개인의 생명·신체·재산 보호를 포함하는 상위 개념이며, 공공의 질서는 불문규범의 총체로서 사용 영역이 줄어드는 개념이다. 위험은 보호법익을 전제로 하고 추상적 위험에도 개입할 수 있으며, 오상위험에 대한 개입은 위법하여 국가배상책임이 문제 될 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "2개라고 본 것은 ㉠·㉢ 등 여러 설명을 옳다고 본 것이다. 위험 혐의와 외관적 위험은 구별되고, 공공의 질서는 성문규범이 아니라 불문규범의 총체다.",
+    "3개라고 본 것은 ㉡·㉣을 포함해 옳다고 본 것이다. 공공의 안녕이 개인적 법익 보호를 포함하는 상위 개념이고, 경찰 개입은 추상적 위험에도 가능하다.",
+    "4개라고 본 것은 다섯 설명 중 하나만 옳지 않다고 본 것이다. 실제로는 ㉠부터 ㉤까지 모두 옳지 않다.",
+    "옳지 않은 설명이 5개다. 다섯 설명 모두 판례·통설과 어긋난다. 정답입니다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q03",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 3,
+   "kind": "scan",
+   "body": "3번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/police/science/2026/r1/q03.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n경찰 인권정책 기본계획을 5년마다 수립하는 주체는 경찰청장이고, 시·도경찰청장은 그 주체가 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "인권정책 기본계획은 경찰청장이 5년마다 수립한다. 시·도경찰청장도 수립 주체라는 서술이 옳지 않다. 정답입니다.",
+    "경찰 인권교육협의회는 인권교육에 관한 의견을 모으고 대내외 협력을 강화하기 위하여 경찰청에 두는 협의기구다.",
+    "협의회는 협의회장을 포함하여 10명 이상 20명 이하로 구성하고, 협의회장은 경찰청 인권보호담당관이 맡는다.",
+    "인권교육은 대면·사이버 등 방법을 가리지 않고 이수할 수 있고, 권장되는 방식은 강의식이 아니라 토론식·참여식이다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q04",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 4,
+   "kind": "scan",
+   "body": "4번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/police/science/2026/r1/q04.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n강도범을 추격하다 내버려 둔 것은 경찰이 법을 집행하리라는 시민의 믿음을 저버린 것으로, '공공의 신뢰' 기준에 어긋난다. 냉정하고 객관적인 자세는 과잉개입이나 무관심의 문제이지 추격 포기의 문제가 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "홉스는 자연상태를 만인의 만인에 대한 투쟁으로 보고, 자연권을 군주에게 넘기는 절대군주제를 정당화하였다.",
+    "공정한 접근은 경찰 서비스를 누구에게나 같게 제공하라는 기준이므로, 동료라고 단속을 봐주는 것은 이 기준의 위반이다.",
+    "협동은 경찰기관 안팎의 협력을 요구하므로, 상부에 보고하지 않고 혼자 검거에 나선 것은 협동에 실패한 사례다.",
+    "추격하던 강도범을 놓아준 것은 공공의 신뢰 위반이다. '냉정하고 객관적인 자세'에 실패한 것이라는 서술이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q05",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 5,
+   "kind": "scan",
+   "body": "5번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/police/science/2026/r1/q05.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n직무관련자와 골프를 같이 하는 것은 원칙적으로 금지되고, 부득이한 사정이 있으면 소속관서장이 아니라 소속관서의 행동강령책임관에게 신고하여야 한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "직무 중 알게 된 가상자산 정보로 거래·투자하거나 그 정보를 남에게 주어 거래·투자를 돕는 행위는 금지된다.",
+    "골프를 같이 할 때 신고할 상대는 소속관서의 행동강령책임관이다. 소속관서장에게 신고한다는 서술이 옳지 않다. 정답입니다.",
+    "직무관련자와 마작·화투·카드처럼 우연한 승패로 금품 등 이익을 노리는 사행성 오락을 함께해서는 안 된다.",
+    "직무관련자에게 경조사를 통지하는 것은 금지되지만, 신문·방송이나 전·현 근무기관 직원만 보는 내부통신망으로 알리는 것은 허용된다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q06",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 6,
+   "kind": "scan",
+   "body": "6번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/police/science/2026/r1/q06.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n소속기관장은 공직자 등이 수수 금지 금품을 받거나 제공의 약속·의사표시를 받은 사실을 알게 되면, 수사가 필요하다고 인정하는 때에 그 내용을 지체 없이 수사기관에 통보하여야 한다. '통보할 수 있다'는 임의 규정으로 설명한 것이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "사례금을 받는 외부강의는 마친 날부터 10일 안에 서면으로 신고하되, 요청한 쪽이 국가나 지방자치단체이면 신고하지 않는다.",
+    "수사 필요성이 인정되면 지체 없이 수사기관에 통보해야 하는 의무가 있다. '통보할 수 있다'는 서술이 옳지 않다. 정답입니다.",
+    "부정청탁의 유형과 판단기준, 예방조치의 기준을 만들어 보급하는 사무는 국민권익위원회가 관장한다.",
+    "직무 관련성이나 명목과 관계없이 동일인에게서 1회 100만 원, 한 회계연도 300만 원을 초과하여 받거나 요구·약속하는 것은 금지된다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q07",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 7,
+   "kind": "scan",
+   "body": "7번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/police/science/2026/r1/q07.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n임용 전 3년 이내에 민간 부문에서 업무활동을 한 고위공직자는 그 활동내역을 임용일이나 임기 개시일부터 30일 안에 소속기관장에게 제출하여야 한다. 소속부서장에게 제출한다는 서술이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "경찰의 고위공직자는 치안감 이상 경찰공무원과 계급과 관계없이 시·도경찰청장이다.",
+    "비밀·미공개정보를 사적으로 이용하게만 하여도 3년 이하 징역 또는 3천만 원 이하 벌금이고, 재산상 이익을 얻으면 7년 이하 징역 또는 7천만 원 이하 벌금으로 무거워진다.",
+    "제출 상대는 소속기관장이다. 소속부서장에게 제출한다는 서술이 옳지 않다. 정답입니다.",
+    "위반자가 자진신고하거나 다른 사람의 신고로 자기 위반이 드러나면 형사처벌·과태료·징계 등을 감경하거나 면제할 수 있다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q08",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 8,
+   "kind": "scan",
+   "body": "8번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/police/science/2026/r1/q08.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n적극행정 관련 교육은 중앙행정기관의 장이 소속 공무원을 대상으로 연 1회 이상 실시하여야 하는 의무이므로, '실시할 수 있다'는 임의 규정으로 설명한 것이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 1,
+   "optionExplanations": [
+    "적극행정은 공공의 이익이라는 목적과 창의성·전문성이라는 바탕을 갖춘 업무처리이고, 소극행정은 부작위·직무태만으로 국민 권익을 해치는 것이다.",
+    "교육은 연 1회 이상 반드시 실시하여야 한다. '실시할 수 있다'는 서술이 옳지 않다. 정답입니다.",
+    "소극행정은 누구나 소속 중앙행정기관의 장이나 국민권익위원회 신고센터에 신고할 수 있고, 권익위는 기관장에게 조치를 권고할 수 있다.",
+    "중앙행정기관의 장은 적극행정으로 발생한 민·형사 책임에서 소속 공무원을 보호할 조치를 하여야 하고, 변호사 조력이나 소송 지원이 그 내용이 된다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q09",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 9,
+   "kind": "scan",
+   "body": "9번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/police/science/2026/r1/q09.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n쇼와 맥케이가 본 전이지역은 빈곤과 거주 불안정뿐 아니라 민족적 이질성이 높아 사회해체가 일어나는 지역이다. 민족적 동질성이 높다는 설명이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "고전주의는 인간을 자유의지로 손익을 따지는 존재로 보고, 처벌이 엄격·확실·신속하여야 범죄를 억제한다고 본다.",
+    "허쉬의 사회유대이론은 애착·전념·참여·신념의 네 유대가 약해지면 비행이 발생한다고 보는 통제이론이다.",
+    "전이지역의 특징은 빈곤, 민족적 이질성, 거주 불안정성이다. 민족적 동질성을 특징으로 든 서술이 옳지 않다. 정답입니다.",
+    "일상활동이론은 동기화된 범죄자, 적절한 범행 대상, 보호자의 부재가 한 시공간에서 만날 때 범죄가 발생한다고 본다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q10",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 10,
+   "kind": "scan",
+   "body": "10번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/police/science/2026/r1/q10.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n문제지향적 경찰활동의 능률성은 체포율이나 적발건수, 현장 대응시간 같은 전통적 지표가 아니라 문제가 실제로 줄었는지로 측정된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "골드슈타인은 신고에 반응하는 사건 중심 경찰활동을 넘어, 사건을 되풀이해 낳는 문제 자체를 다루는 문제지향적 경찰활동을 제안하였다.",
+    "체포율·적발건수·대응시간은 전통적 경찰활동의 성과 척도이고, 문제지향적 경찰활동은 문제의 감소로 평가한다. ②의 설명이 옳지 않다. 정답입니다.",
+    "문제해결은 조사·분석·대응·평가의 SARA 모형으로 진행되고, 평가 결과는 다시 조사로 이어진다.",
+    "형법의 적용은 여러 대응 수단 가운데 하나일 뿐이어서 환경 개선이나 다른 기관과의 협력도 함께 활용한다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q11",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 11,
+   "kind": "scan",
+   "body": "11번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/police/science/2026/r1/q11.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n델라트르는 작은 호의도 반복되면 멈추기 어려운 부패로 이어지므로 결코 무시하거나 간과해서는 안 된다고 보았다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "작은 호의라도 반복되면 점점 더 멈추기 어려운 부패로 이어진다는 델라트르의 주장이 옳다. 정답입니다.",
+    "시민사회의 부패를 주원인으로 본 것은 윌슨의 전체사회 가설이고, 니더호퍼·로벅·바커의 구조원인 가설은 조직 내부의 사회화를 원인으로 본다.",
+    "부패를 관직중심·시장중심·공익중심으로 나눈 사람은 하이덴하이머이고, 사례는 시장중심적 정의에 해당한다.",
+    "클라이니히의 내부고발 정당화 요건에는 도덕적 동기, 내부 통로 우선, 믿을 만한 증거, 중대성·급박성과 함께 성공가능성도 포함된다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q12",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 12,
+   "kind": "scan",
+   "body": "12번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/police/science/2026/r1/q12.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n1991년 경찰법 제정으로 내무부 외청인 경찰청으로 승격된 것은 1974년에 치안국이 개편된 치안본부이지 치안국이 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "갑오개혁 때 만든 경무청관제직장은 우리나라 최초의 경찰조직법이고, 행정경찰장정은 최초의 경찰작용법이다.",
+    "대한민국임시정부는 우리 역사에서 처음 민주공화제를 선포하였으므로 그 경찰은 민주공화제 경찰의 효시로 평가된다.",
+    "대한민국임시정부의 초대 경무국장은 1919년 상하이 임시정부에서 취임한 백범 김구이다.",
+    "1974년 치안국이 치안본부로 바뀌었고, 1991년 경찰법 제정으로 치안본부가 경찰청으로 승격하였다. 치안국이 곧바로 경찰청이 되었다는 서술이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q13",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 13,
+   "kind": "scan",
+   "body": "13번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/police/science/2026/r1/q13.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n미국의 연방수사국(FBI)은 재무부가 아니라 법무부 소속 수사기관이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "헨리 필딩은 18세기 런던 보우가의 치안판사로서 범인 추적 전문 조직인 보우가의 주자를 만들어 근대 경찰의 앞길을 열었다.",
+    "FBI는 법무부 소속이다. 재무부 소속이라는 서술이 옳지 않다. 정답입니다.",
+    "프랑스 국립경찰은 내무부 소속으로 주로 도시를 담당하고, 그 밖의 지역은 군인 신분인 국가헌병대가 담당한다.",
+    "일본 경찰청은 국가공안위원회가 관리하는 국가경찰이고, 도도부현 경찰은 자치경찰이다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q14",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 14,
+   "kind": "scan",
+   "body": "14번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/police/science/2026/r1/q14.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n자기구속원칙은 평등원칙과 신뢰보호원칙에서 도출되는 것으로 행정기본법에 명문 규정이 없다. 행정기본법 제8조는 법치행정의 원칙이다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "자기구속은 같은 사안에서 제3자에게 한 결정과 달리 상대방을 대하지 못하도록 묶는 원칙으로 평등원칙과 신뢰보호원칙에서 나온다.",
+    "자기구속은 재량준칙의 반복 시행으로 행정관행이 형성된 재량행위에서 문제 되고, 법이 결론을 정한 기속행위에는 적용되지 않는다.",
+    "위법한 처분이 반복되었다고 하더라도 위법의 평등은 요구할 수 없으므로 행정청에 자기구속력이 생기지 않는다.",
+    "자기구속원칙은 행정기본법에 명문 규정이 없다. 명문 규정이 있다는 서술이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q15",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 15,
+   "kind": "scan",
+   "body": "15번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/police/science/2026/r1/q15.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n징계를 할 것인지 자체를 고르는 것이 결정재량이고, 징계하기로 한 뒤 파면·해임·정직 등 어떤 종류를 고르는 것이 선택재량이다. 두 재량의 명칭을 바꾸어 설명한 것이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "금품수수 징계는 액수와 경위, 직무에 미친 영향을 함께 따져야 하므로, 피동적으로 받은 30만 원을 돌려준 20여 년 근속 경찰관에 대한 해임은 재량권을 남용한 것이다.",
+    "행정심판은 위법뿐 아니라 부당한 처분도 다루므로, 일탈·남용에 이르지 않은 재량 판단의 잘못도 심판 대상이 된다.",
+    "징계 여부를 고르는 것이 결정재량, 징계의 종류를 고르는 것이 선택재량이다. ③은 이를 반대로 설명하였다. 정답입니다.",
+    "재량 여부는 '할 수 있다'는 문언만으로 정하지 않고 법규의 체재와 목적, 행위의 성질을 함께 보아 판단하며, 재량행위는 일탈·남용만 심사한다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q16",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 16,
+   "kind": "scan",
+   "body": "16번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/police/science/2026/r1/q16.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n직무명령은 상관의 일반적인 지휘·감독권에서 나오므로 개별적인 법령의 근거 없이도 발할 수 있다. 법적 근거가 필요하다는 서술이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "훈령은 상급관청이 하급관청의 권한 행사를 지휘하기 위하여 내리는 명령이어서 기관을 구속하고, 담당자가 바뀌어도 효력이 남는다.",
+    "하급관청의 권한에 속하는 사항이라도 그 행사의 독립성이 보장된 사항이면 훈령을 발할 수 없다는 것이 훈령의 형식적 요건이다.",
+    "훈령은 기관 구성원도 구속하여 직무명령의 성질을 함께 갖지만, 공무원 개인을 향한 직무명령은 기관을 구속하는 훈령이 되지 못한다.",
+    "직무명령은 상관의 일반적 지휘·감독권에 근거하므로 개별 법령의 근거가 필요 없다. 법적 근거가 필요하다는 서술이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q17",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 17,
+   "kind": "scan",
+   "body": "17번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/police/science/2026/r1/q17.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n위임·위탁기관은 수임·수탁사무의 처리에 관하여 사전승인을 받거나 협의를 하도록 요구할 수 없다. 요구할 수 있다는 서술이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "사전승인이나 협의를 요구할 수 있다는 서술은 규정과 반대다. 정답입니다.",
+    "수임·수탁사무에 대한 사후 통제로서 위법한 처리뿐 아니라 부당한 처리도 취소하거나 정지시킬 수 있다.",
+    "위탁은 지휘계통 밖의 다른 행정기관에 맡기는 것이어서, 수탁기관에는 그 기관의 장과 민간위탁을 받은 법인·단체·개인이 포함된다.",
+    "사전승인·협의 요구는 금지되지만, 적정성 확보를 위하여 처리 상황을 수시로 감사하는 사후 통제는 할 수 있다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q18",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 18,
+   "kind": "scan",
+   "body": "18번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/police/science/2026/r1/q18.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n부령은 행정각부의 장관이 제정하고 법제처의 심사만 거치며, 국무회의의 심의는 대통령령안에 대하여 이루어진다. 부령도 국무회의 심의를 거쳐야 한다는 서술이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 2,
+   "optionExplanations": [
+    "행정기본법상 법령등에는 법률·대통령령·총리령·부령의 위임을 받아 중앙행정기관의 장이 정한 훈령·예규·고시도 포함된다.",
+    "집행명령은 법률 집행에 필요한 세부 사항을 정하는 것으로 개별 위임 없이 발할 수 있지만 새로운 권리·의무는 정하지 못한다.",
+    "부령은 법제처 심사만 거친다. 국무회의 심의까지 거쳐야 한다는 서술이 옳지 않다. 정답입니다.",
+    "헌법이 법률로 정하도록 한 국회 전속 입법사항은 법률의 구체적 위임 없이 법규명령으로 정할 수 없다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q19",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 19,
+   "kind": "scan",
+   "body": "19번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/police/science/2026/r1/q19.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n최소침해의 원칙은 필요성의 원칙이고, 협의의 비례원칙은 잃는 사익과 얻는 공익을 비교형량하는 상당성의 원칙이다. 두 원칙의 명칭을 바꾸어 설명한 것이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "비례원칙은 경찰관 직무집행법의 '직권은 필요한 최소한도에서' 조항과 행정기본법의 비례원칙 조항에 명문으로 규정되어 있다.",
+    "적합성의 원칙은 수단이 목적 달성에 유효하고 적절하여야 한다는 것으로 비례원칙의 첫 단계다.",
+    "최소침해의 원칙은 필요성의 원칙이고, 협의의 비례원칙은 상당성의 원칙이다. ③은 이를 반대로 설명하였다. 정답입니다.",
+    "상당성의 원칙은 행정작용으로 인한 사익의 침해가 의도한 공익보다 크지 않아야 한다는 것으로 협의의 비례원칙이라고도 한다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q20",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 20,
+   "kind": "scan",
+   "body": "20번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/police/science/2026/r1/q20.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국가경찰위원회 위원의 임기는 3년 단임으로 ㉠은 옳고, 국가수사본부장의 지휘·감독 범위에 관한 ㉢도 옳다. 반면 자치경찰사무 예산을 심의·의결할 때 들어야 하는 의견은 경찰청장의 의견이어서 ㉡이 옳지 않고, 시·도자치경찰위원회 위원을 임명하는 사람은 시·도지사여서 ㉣도 옳지 않다. 따라서 옳지 않은 것은 2개다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "1개라고 본 것은 ㉡ 또는 ㉣ 중 하나를 옳다고 본 것이다. 둘 다 옳지 않다.",
+    "옳지 않은 것이 2개(㉡, ㉣)다. 정답입니다.",
+    "3개라고 본 것은 ㉠이나 ㉢을 옳지 않다고 본 것이다. 두 설명은 법률 규정과 맞다.",
+    "4개라고 본 것은 ㉠·㉢까지 옳지 않다고 본 것이다. 국가경찰위원의 임기는 3년 단임이고, 국가수사본부장의 지휘·감독에 관한 설명도 옳다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q21",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 21,
+   "kind": "scan",
+   "body": "21번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/police/science/2026/r1/q21.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n경찰공무원법상 파산선고를 받고 복권되지 아니한 사람은 임용 결격사유이고, 복권되면 결격이 해소되어 임용될 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "대한민국 국적이 없는 사람은 결격사유여서 임용될 수 있고, 복수국적자도 마찬가지다. '임용될 수 있다'는 서술이 옳지 않다.",
+    "경찰공무원법은 피성년후견인과 피한정후견인을 모두 결격으로 규정하고 있어, 국가공무원법과 다르다.",
+    "자격정지 이상의 형의 선고유예 기간 중인 사람도 결격이므로, 금고 이상의 형의 선고유예 기간 중인 사람도 결격이다.",
+    "파산선고를 받고 복권되지 아니한 사람은 임용될 수 없다. 다만 복권되면 결격이 풀린다. 정답입니다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q22",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 22,
+   "kind": "scan",
+   "body": "22번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/police/science/2026/r1/q22.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n경찰하명의 대상은 법률행위에 한하지 않고 통행금지나 광고물 철거처럼 사실행위도 될 수 있다. 사실행위는 대상이 될 수 없다는 서술이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "경찰하명은 위해 방지를 위하여 개인에게 작위·부작위·수인·급부의 의무를 지우는 행정행위로, 하명처분뿐 아니라 법규의 형태로도 나타난다.",
+    "부작위하명은 일정한 행위를 하지 말라는 의무를 지우는 것으로 경찰금지라고 하고, 이 금지를 해제해 주는 것이 경찰허가다.",
+    "하명의 대상은 사실행위도 될 수 있다. 법률행위만 될 수 있다는 서술이 옳지 않다. 정답입니다.",
+    "하명을 위반한 행위는 강제집행이나 처벌의 대상이 될 뿐, 그 사법상 효력은 원칙적으로 그대로 유지된다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q23",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 23,
+   "kind": "scan",
+   "body": "23번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/police/science/2026/r1/q23.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n행정절차법상 행정청은 신청에 흠이 있으면 보완에 필요한 상당한 기간을 정하여 지체 없이 보완을 요구하여야 하고, '7일 이내'라는 기한은 없다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "처분의 신청은 문서로 하는 것이 원칙이고 법령의 특칙이나 미리 공시한 방법이 예외이며, 전자문서는 행정청의 컴퓨터에 입력된 때에 신청한 것으로 본다.",
+    "보완 요구에 7일이라는 기한은 없다. '7일 이내에 요구하여야 한다'는 서술이 옳지 않다. 정답입니다.",
+    "신청 전에 알아야 할 구비서류와 접수기관, 처리기간은 인터넷을 포함한 게시나 편람으로 누구나 볼 수 있게 하여야 한다.",
+    "신청인의 편의를 위하여 다른 행정청에서 신청을 받게 할 수 있되, 받을 수 있는 신청의 종류는 미리 정하여 공시하여야 한다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q24",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 24,
+   "kind": "scan",
+   "body": "24번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/police/science/2026/r1/q24.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n제3자와 관련된 정보를 공개하려면 그 사실을 제3자에게 지체 없이 알려야 하고, 3일은 통지를 받은 제3자가 비공개를 요청할 수 있는 기간이다. 통지 기간으로 설명한 것이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "정보공개를 청구할 권리는 모든 국민에게 있고, 외국인의 청구는 대통령령이 정한 범위에서 인정된다.",
+    "공개 여부는 청구를 받은 날부터 10일 안에 결정하고, 부득이한 경우 그 기간이 끝난 다음 날부터 10일을 넘지 않는 범위에서 연장할 수 있다.",
+    "3일은 제3자가 비공개를 요청할 수 있는 기간이다. '3일 이내에 제3자에게 통지하여야 한다'는 서술이 옳지 않다. 정답입니다.",
+    "공개 결정에 불복하거나 청구 후 20일이 지나도 결정이 없으면 이의신청이나 행정심판을 거치지 않고 행정소송을 제기할 수 있다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q25",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 25,
+   "kind": "scan",
+   "body": "25번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/police/science/2026/r1/q25.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n목을 압박하거나 관절을 꺾고, 넘어뜨리거나 위에서 눌러 제압하는 방법은 적극적 저항 이상의 대상자에게 쓰는 저위험 물리력이므로, 폭력적 공격 단계에서도 사용할 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "대상자 행위의 마지막 단계는 치명적 공격이고, '치사적 공격'이라는 표현은 규칙과 다르다.",
+    "경찰관 대응의 마지막 단계는 고위험 물리력이고, '치명적 물리력'이라는 표현은 규칙과 다르다.",
+    "순응하는 대상자에게는 협조적 통제만 쓸 수 있고, 접촉 통제는 소극적 저항 이상에서 사용한다.",
+    "목 압박·관절 꺾기·넘어뜨리기 등은 적극적 저항 이상에 쓰는 저위험 물리력이어서 폭력적 공격에도 쓸 수 있다. 정답입니다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q26",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 26,
+   "kind": "scan",
+   "body": "26번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/police/science/2026/r1/q26.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n경찰관 직무집행법상 제지는 생명·신체에 대한 위해나 재산의 중대한 손해 발생 우려가 있는 긴급한 경우에 '할 수 있는' 재량 조치이지, 반드시 하여야 하는 의무가 아니다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "제지는 긴급한 경우에 할 수 있는 재량 조치다. '하여야 한다'는 의무로 설명한 것이 옳지 않다. 정답입니다.",
+    "경찰관서 출석 요구는 미아의 보호자, 유실물의 권리자, 사고 사상자의 확인과 행정처분을 위한 교통사고 조사로 한정되고 범죄수사는 포함되지 않는다.",
+    "의무 위반이나 직권 남용으로 다른 사람에게 해를 끼친 경찰관은 1년 이하의 징역·금고 또는 300만 원 이하의 벌금에 처한다.",
+    "무기는 체포·도주 방지, 생명·신체의 방어, 공무집행에 대한 항거 제지에 필요한 한도에서 사용하되, 사람에게 위해를 주는 것은 정당방위·긴급피난 등으로 한정된다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q27",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 27,
+   "kind": "scan",
+   "body": "27번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/police/science/2026/r1/q27.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n㉠의 형 감면 대상 위해에는 타인의 생명·신체에 대한 위해만 들어가고 재산에 대한 위해는 포함되지 않으며, ㉡은 경찰관이 아니라 경찰관을 향한 유형력 행사에 대응하는 행위를 말한다. ㉤은 '감경하거나 면제할 수 있다'는 임의적 감면이다. 반면 ㉢과 ㉣은 조문과 같다. 따라서 옳지 않은 것은 3개다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 3,
+   "optionExplanations": [
+    "1개라고 본 것은 대부분의 설명을 옳다고 본 것이다. 실제로는 ㉠·㉡·㉤이 옳지 않다.",
+    "2개라고 본 것은 ㉠·㉡·㉤ 중 하나를 빠뜨린 것이다. 형 감면은 임의적 감면이고, 대상 위해에 재산상 위해는 포함되지 않는다.",
+    "옳지 않은 것은 ㉠·㉡·㉤의 3개다. 정답입니다.",
+    "4개라고 본 것은 ㉢이나 ㉣까지 옳지 않다고 본 것이다. 두 설명은 조문과 부합한다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q28",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 28,
+   "kind": "scan",
+   "body": "28번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/police/science/2026/r1/q28.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n관료제 병리 가운데 할거주의(소속 이기주의)와 피터의 원리(무능력의 한계까지 승진)에 관한 ㉡과 ㉣이 옳다. ㉠은 변화에 대한 저항에 형식주의 설명을 붙였고, ㉢은 번문욕례에 무사안일주의 설명을 붙여 모두 옳지 않다. 따라서 옳은 것은 2개다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "1개라고 본 것은 ㉡·㉣ 중 하나를 옳지 않다고 본 것이다. 둘 다 병리 현상에 대한 정확한 설명이다.",
+    "옳은 것은 ㉡·㉣의 2개다. 정답입니다.",
+    "3개라고 본 것은 ㉠이나 ㉢을 옳다고 본 것이다. 두 설명은 각각 다른 병리 현상의 내용을 뒤바꾸어 서술하였다.",
+    "4개라고 본 것은 네 설명을 모두 옳다고 본 것이다. ㉠과 ㉢은 개념과 설명이 서로 어긋난다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q29",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 29,
+   "kind": "scan",
+   "body": "29번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/police/science/2026/r1/q29.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n계층제는 권한과 책임의 정도에 따라 직무를 등급화하여 상하의 명령·복종 관계를 만드는 조직 원리다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "한 사람에게 한 가지 주된 업무를 맡기는 것은 분업의 원리이고, 명령통일은 한 상관에게서만 명령을 받고 보고하도록 하는 원리다.",
+    "계층제는 직무를 등급화하여 상하의 명령과 복종 관계를 만드는 원리다. 정답입니다.",
+    "한 사람이 직접 감독할 수 있는 부하의 수를 정하는 것은 통솔범위의 원리이고, 조정과 통합은 나뉜 업무를 조직 목표로 묶는 원리다.",
+    "무니가 조직편성의 제1원리로 든 것은 조정과 통합의 원리이고, 통솔범위는 감독할 수 있는 부하 수의 한계를 정하는 원리다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q30",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 30,
+   "kind": "scan",
+   "body": "30번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/police/science/2026/r1/q30.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n㉠은 동료나 조직에 대한 친근감과 귀속감을 인간관계 개선으로 채우는 내용으로, 매슬로우 욕구 단계의 셋째인 사회적(애정) 욕구에 해당한다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "동료·조직에 대한 친근감과 귀속감은 사회적 욕구이고, 자아실현은 ㉡의 내용이다. ㉠을 자아실현으로 본 것이 옳지 않다.",
+    "㉠은 사회적 욕구에 해당한다. 정답입니다.",
+    "㉡은 창조와 잠재력의 실현, 자기완성을 말하는 자아실현의 욕구다. 존경의 욕구는 남의 인정과 자존심을 채우려는 욕구다.",
+    "안전의 욕구는 신분 보장이나 연금처럼 생활의 불안을 덜려는 욕구여서 자기발전을 말하는 ㉡과 맞지 않는다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q31",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 31,
+   "kind": "scan",
+   "body": "31번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/police/science/2026/r1/q31.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n직업공무원제도는 젊은 인재를 선발하여 공직을 평생 직업으로 삼게 하고 신분을 보장함으로써, 정권이 바뀌어도 행정이 계속 이어지게 하는 제도다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "직업공무원제도에 대한 설명으로 옳다. 정답입니다.",
+    "엽관주의는 미국에서 발달하여 잭슨 대통령 때 본격화되었고, 영국에서 발달한 것은 정실주의다.",
+    "계급제는 신규 채용 뒤 내부 승진으로 직위를 채우는 폐쇄형이고, 외부에서 곧바로 충원하는 개방형은 직위분류제의 특징이다.",
+    "직위분류제는 직무를 세밀하게 나누어 전보·배치가 경직되고, 인사배치의 신축성은 계급제의 장점이다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q32",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 32,
+   "kind": "scan",
+   "body": "32번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 0,
+   "imageUrl": "assets/questions/police/science/2026/r1/q32.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n본예산은 매년 정기적으로 편성하여 국회의 의결로 처음 확정된 예산이고, 의결 전에 고치면 수정예산, 확정된 뒤에 고치면 추가경정예산이 된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "본예산에 대한 설명으로 옳다. 정답입니다.",
+    "영기준예산은 모든 사업을 원점에서 다시 평가하는 방식이므로, 자원이 부족하여 줄여야 하는 감축관리 시대에 주목받는다.",
+    "'단위원가×업무량=예산액'은 성과주의예산의 방식이고, 품목별 예산은 인건비·물건비 같은 지출 대상별로 편성하여 통제에 중점을 둔다.",
+    "예산이 성립하지 않을 때 행정중단을 막는 제도는 준예산이고, 추가경정예산은 성립된 예산을 사정 변화에 따라 고치는 예산이다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q33",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 33,
+   "kind": "scan",
+   "body": "33번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 1,
+   "imageUrl": "assets/questions/police/science/2026/r1/q33.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n㉢ 보안업무규정상 비밀은 Ⅰ급·Ⅱ급·Ⅲ급으로 구분되고, ㉣ 보호지역은 제한지역·제한구역·통제구역으로 나뉜다. 반면 과도·과소분류 금지, 독립분류, 외국비밀 존중은 비밀분류의 원칙이고, 한정성·부분화·보안과 효율의 조화는 보안의 원칙이어서 ㉠과 ㉡은 서로 뒤바뀌었다. 따라서 옳은 것은 2개다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "1개라고 본 것은 ㉢·㉣ 중 하나를 옳지 않다고 본 것이다. 두 설명 모두 규정과 맞다.",
+    "옳은 것은 ㉢·㉣의 2개다. 정답입니다.",
+    "3개라고 본 것은 ㉠이나 ㉡을 옳다고 본 것이다. 두 설명은 보안의 원칙과 비밀분류의 원칙을 서로 바꾸어 서술하였다.",
+    "4개라고 본 것은 네 설명을 모두 옳다고 본 것이다. ㉠과 ㉡은 원칙의 분류가 뒤바뀌었다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q34",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 34,
+   "kind": "scan",
+   "body": "34번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/police/science/2026/r1/q34.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n치안센터는 24시간 운영이 원칙이고, 경찰서장이 지역의 치안 상황과 인원 여건을 고려하여 운영시간을 탄력적으로 조정할 수 있다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "순찰팀은 범죄예방 순찰과 초동조치 같은 현장 치안활동을 담당하고, 팀장은 경감이나 경위로 보한다.",
+    "관리팀과 순찰팀의 인원은 경찰서장이 정하고, 시·도경찰청장이 정하는 것은 순찰팀의 수다.",
+    "치안센터는 시·도경찰청장이 지역경찰관서장 소속으로 설치할 수 있다. 경찰청장이 설치한다는 서술이 옳지 않다.",
+    "치안센터는 24시간 운영이 원칙이고 경찰서장이 운영시간을 탄력적으로 조정할 수 있다. 정답입니다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q35",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 35,
+   "kind": "scan",
+   "body": "35번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/police/science/2026/r1/q35.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n㉠ 혼잡·교통유도경비업무, ㉡ 정비사업 다툼 장소의 집단민원현장 해당, ㉣ 법인의 특정 경비업무 허가, ㉤ 폐업·휴업 신고에 관한 설명이 옳다. ㉢은 허가받은 업무 외의 업무에 경비원을 종사시킬 수 있는 예외를 대통령령으로 정한다는 점에서 옳지 않다. 따라서 옳은 것은 4개다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "2개라고 본 것은 옳은 설명을 여럿 빠뜨린 것이다. 혼잡·교통유도경비업무는 2024년 개정으로 추가된 여섯째 업무다.",
+    "3개라고 본 것은 ㉡이나 ㉣을 옳지 않다고 본 것이다. 정비사업 다툼 장소는 집단민원현장에 해당하고, 경비업은 법인만 할 수 있다.",
+    "옳은 것은 ㉠㉡㉣㉤의 4개다. 정답입니다.",
+    "5개라고 본 것은 ㉢을 옳다고 본 것이다. 예외 업무는 행정안전부령이 아니라 대통령령으로 정한다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q36",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 36,
+   "kind": "scan",
+   "body": "36번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/police/science/2026/r1/q36.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n㉡은 수사자료 감식·검토의 원칙이 아니라 검증적 수사의 원칙 설명이고, ㉢은 '수사사항의 결정 → 수사방법의 결정 → 수사실행'의 순서여야 하므로 두 설명이 모두 옳지 않다. ㉠과 ㉣은 옳다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 4,
+   "optionExplanations": [
+    "㉠㉡을 고른 것은 ㉠을 옳지 않다고 본 것이다. 수사관의 주관적 판단을 객관적으로 증명하여야 한다는 설명은 옳다.",
+    "㉠㉢을 고른 것은 ㉠을 옳지 않다고 본 것이다. 사실판단 증명의 원칙에 관한 ㉠은 옳다.",
+    "㉡㉢이 옳지 않다. 추측을 모든 각도에서 검토하는 것은 검증적 수사의 원칙이고, 검증적 수사의 순서는 수사사항 결정이 먼저다. 정답입니다.",
+    "㉡㉣을 고른 것은 ㉣을 옳지 않다고 본 것이다. 수사자료 완전수집이 수사의 제1원칙이라는 설명은 옳다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q37",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 37,
+   "kind": "scan",
+   "body": "37번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/police/science/2026/r1/q37.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n유예기간은 공개 결정일이 아니라 피의자에게 공개를 통지한 날부터 5일 이상이고, 피의자가 서면으로 이의가 없음을 밝히면 두지 않을 수 있다. '결정일부터'라는 서술이 옳지 않다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 5,
+   "optionExplanations": [
+    "공개 여부는 범죄의 중대성, 범행 후의 정황, 피해자 보호의 필요성과 피해자(유족 포함)의 의사를 종합하여 정하고, 피의자가 미성년자이면 공개하지 않는다.",
+    "공개하는 얼굴은 특별한 사정이 없으면 결정일 전후 30일 안의 모습이어야 하고, 적법하게 보관한 사진·영상을 활용할 수 있다.",
+    "얼굴 공개에 필요하면 새로 촬영할 수 있고 피의자는 이를 거부할 수 없으며, 공개는 정보통신망을 통해 30일간 한다.",
+    "유예기간은 공개 결정일이 아니라 통지한 날부터 5일 이상이다. '결정일부터'라는 서술이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q38",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 38,
+   "kind": "scan",
+   "body": "38번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/police/science/2026/r1/q38.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n국가와 지방자치단체의 재난·안전관리 업무를 총괄·조정하는 것은 행정안전부장관이고, 중앙안전관리위원회는 국무총리 소속으로 심의 기능을 맡는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 5,
+   "optionExplanations": [
+    "안전관리는 재난이나 사고로부터 사람의 생명·신체뿐 아니라 재산의 안전까지 확보하려는 모든 활동이다.",
+    "중앙안전관리위원회는 국무총리 소속이고 위원장도 국무총리다. 행정안전부장관 소속이라는 서술이 옳지 않다.",
+    "재난·안전관리 업무의 총괄·조정은 행정안전부장관이 하고, 심의는 국무총리 소속 중앙안전관리위원회가 한다. 정답입니다.",
+    "응급조치는 대응 단계의 활동이고, 재난피해의 신고·조사와 특별재난지역 선포는 복구 단계의 활동이다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q39",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 39,
+   "kind": "scan",
+   "body": "39번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 3,
+   "imageUrl": "assets/questions/police/science/2026/r1/q39.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n조건부 면허는 5년 안에 음주운전으로 면허가 취소된 사람을 대상으로 하고, 이때 음주운전은 자동차등과 노면전차로 한정되어 개인형 이동장치는 포함되지 않는다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 5,
+   "optionExplanations": [
+    "음주운전 방지장치는 술에 취하면 시동이 걸리지 않게 하는 장치이고, 조건부 면허자는 장치가 없거나 기준에 맞지 않는 차를 운전할 수 없다.",
+    "사업용 자동차 등에 장치를 단 사람도 시·도경찰청장에게 등록하여야 하고, 등록자는 연 2회 이상 운행기록을 제출하고 검사를 받아야 한다.",
+    "조건부 면허자를 대신하여 장치에 숨을 불어넣거나 다른 부정한 방법으로 시동을 걸어 주는 행위는 누구에게나 금지된다.",
+    "대상 음주운전에 개인형 이동장치는 포함되지 않는다. 포함된다는 서술이 옳지 않다. 정답입니다."
+   ]
+  },
+  {
+   "id": "police2026-science-r1-q40",
+   "paperId": "paper_police_science_2026_r1",
+   "number": 40,
+   "kind": "scan",
+   "body": "40번",
+   "options": [
+    "①",
+    "②",
+    "③",
+    "④"
+   ],
+   "answer": 2,
+   "imageUrl": "assets/questions/police/science/2026/r1/q40.webp",
+   "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n(가)의 임시적·돌발적 단기 요구는 SRI, (나)의 계획서를 작성해 계속·반복적으로 수집하는 것은 EEI, (다)의 정보활동 최우선 지침은 PNIO가 된다.",
+   "explanationStatus": "draft_review_required",
+   "sourcePage": 5,
+   "optionExplanations": [
+    "(가)에 PNIO, (다)에 PNIO를 둔 것은 짝이 맞지 않는다. (가)는 SRI, (다)는 PNIO다.",
+    "(가)에 PNIO, (나)에 SRI, (다)에 EEI를 둔 것은 세 짝이 모두 어긋났다. 바른 짝은 SRI·EEI·PNIO다.",
+    "(가) SRI, (나) EEI, (다) PNIO로 짝지은 것이 옳다. 정답입니다.",
+    "(나)의 계속·반복 수집 사항은 EEI이고 (다)의 최우선 지침은 PNIO이므로 PNIO와 OIR을 둔 (나)·(다)가 어긋난다."
+   ]
+  }
+ ]
+}

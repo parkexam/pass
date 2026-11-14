@@ -15,6 +15,11 @@
       "id": "civil",
       "name": "9급 공무원",
       "desc": "국어 · 영어 · 한국사 · 행정법총론 · 행정학개론"
+    },
+    {
+      "id": "police",
+      "name": "경찰 공무원",
+      "desc": "형사법 · 경찰학 · 헌법"
     }
   ],
   "subjects": [
@@ -57,6 +62,21 @@
       "id": "sub_civil_4",
       "examId": "civil",
       "name": "행정학개론"
+    },
+    {
+      "id": "sub_police_criminal",
+      "examId": "police",
+      "name": "형사법"
+    },
+    {
+      "id": "sub_police_science",
+      "examId": "police",
+      "name": "경찰학"
+    },
+    {
+      "id": "sub_police_const",
+      "examId": "police",
+      "name": "헌법"
     }
   ],
   "papers": [
@@ -978,6 +998,66 @@
       "source": "2022년도 시·도 지방공무원 9급 등 임용 필기시험 행정학개론 A책형 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
       "questionCount": 20,
       "dataFile": "data/civil/admin_sci/2022-local-A.json",
+      "external": true
+    },
+    {
+      "id": "paper_police_criminal_2026_r1",
+      "subjectId": "sub_police_criminal",
+      "title": "2026 순경 공개채용 1차 형사법",
+      "year": 2026,
+      "source": "2026년도 제1차 경찰공무원(순경) 공개채용 필기시험 형사법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 40,
+      "dataFile": "data/police/criminal/2026-r1.json",
+      "external": true
+    },
+    {
+      "id": "paper_police_criminal_2026_r2",
+      "subjectId": "sub_police_criminal",
+      "title": "2026 순경 공개채용 2차 형사법",
+      "year": 2026,
+      "source": "2026년도 제2차 경찰공무원(순경) 공개채용 필기시험 형사법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 40,
+      "dataFile": "data/police/criminal/2026-r2.json",
+      "external": true
+    },
+    {
+      "id": "paper_police_science_2026_r1",
+      "subjectId": "sub_police_science",
+      "title": "2026 순경 공개채용 1차 경찰학",
+      "year": 2026,
+      "source": "2026년도 제1차 경찰공무원(순경) 공개채용 필기시험 경찰학 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 40,
+      "dataFile": "data/police/science/2026-r1.json",
+      "external": true
+    },
+    {
+      "id": "paper_police_science_2026_r2",
+      "subjectId": "sub_police_science",
+      "title": "2026 순경 공개채용 2차 경찰학",
+      "year": 2026,
+      "source": "2026년도 제2차 경찰공무원(순경) 공개채용 필기시험 경찰학 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 40,
+      "dataFile": "data/police/science/2026-r2.json",
+      "external": true
+    },
+    {
+      "id": "paper_police_const_2026_r1",
+      "subjectId": "sub_police_const",
+      "title": "2026 순경 공개채용 1차 헌법",
+      "year": 2026,
+      "source": "2026년도 제1차 경찰공무원(순경) 공개채용 필기시험 헌법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/police/const/2026-r1.json",
+      "external": true
+    },
+    {
+      "id": "paper_police_const_2026_r2",
+      "subjectId": "sub_police_const",
+      "title": "2026 순경 공개채용 2차 헌법",
+      "year": 2026,
+      "source": "2026년도 제2차 경찰공무원(순경) 공개채용 필기시험 헌법 문제지 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+      "questionCount": 20,
+      "dataFile": "data/police/const/2026-r2.json",
       "external": true
     }
   ]
