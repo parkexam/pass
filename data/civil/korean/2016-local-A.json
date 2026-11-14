@@ -1,0 +1,489 @@
+{
+  "id": "paper_civil_korean_2016_local_A",
+  "title": "2016 지방직 9급 국어 A책형",
+  "year": 2016,
+  "source": "2016년도 9급 등 지방공무원 임용 필기시험 국어 A책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+  "subjectId": "sub_civil_0",
+  "questions": [
+    {
+      "id": "civil2016-local-korean-A-q01",
+      "paperId": "paper_civil_korean_2016_local_A",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2016/local-A/q01.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n비통사적 합성어는 어간이나 어미가 생략되거나 어순이 어긋나는 등 통사적 구성과 다른 방식으로 두 어근이 결합한 합성어입니다. 두 단어가 모두 비통사적 합성어인 묶음을 찾아야 합니다.",
+      "optionExplanations": [
+        "'열쇠'는 어간과 명사가 결합한 비통사적 합성어이나, '새빨갛다'는 접두사 '새'가 붙은 파생어이므로 합성어로만 묶이지 않습니다.",
+        "'덮밥'은 어간 '덮-'에 명사 '밥'이 어미 없이 결합하고, '짙푸르다'는 어간 '짙-'에 어간 '푸르-'가 어미 없이 결합한 비통사적 합성어입니다. 정답입니다.",
+        "'감발'은 비통사적 합성어이나, '돌아가다'는 어미 '-아'가 통사적으로 결합한 통사적 합성어입니다.",
+        "'젊은이'는 관형형 어미가 붙은 통사적 합성어이고, '가로막다'도 부사 '가로'가 통사적으로 결합한 말입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2016-local-korean-A-q02",
+      "paperId": "paper_civil_korean_2016_local_A",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2016/local-A/q02.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n한글 맞춤법에 맞는 문장을 고르는 문항입니다. 어간과 어미의 결합, 준 대로 적는 표기 등을 하나씩 확인해야 합니다.",
+      "optionExplanations": [
+        "기본형이 '치르다'이므로 '치러야'로 써야 합니다.",
+        "'뒤로 처지다'는 뜻이므로 '뒤처진'으로 써야 합니다.",
+        "기본형 '들르다'의 관형사형 '들른'이 옳고, '거여요'는 '것이어요'가 줄어든 '거이어요'에서 '이어요'가 '여요'로 준 바른 표기입니다. 정답입니다.",
+        "기본형이 '잠그다'이므로 '안 잠가'로 써야 합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2016-local-korean-A-q03",
+      "paperId": "paper_civil_korean_2016_local_A",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2016/local-A/q03.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n단위를 나타내는 명사와 의존 명사의 띄어쓰기를 확인하는 문항입니다.",
+      "optionExplanations": [
+        "'지금으로부터', '십여 년 전에', '작은 소요가' 모두 띄어쓰기가 바릅니다. 정답입니다.",
+        "'정한 대로'로 띄어 써야 합니다.",
+        "'요청 시'로 띄어 쓰고, '재조정하여야'는 한 단어로 붙여 써야 합니다.",
+        "'능력뿐만 아니라', '추진력마저'로 써야 합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2016-local-korean-A-q04",
+      "paperId": "paper_civil_korean_2016_local_A",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2016/local-A/q04.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n글을 고쳐 쓰기 위한 생각으로 적절하지 않은 것을 고르는 문항입니다. ㉡ 앞뒤 문장의 관계를 따져 보아야 합니다.",
+      "optionExplanations": [
+        "'기존의 사고방식을 돌파하는'은 어색하므로 '탈피하는'으로 고치는 것이 적절합니다.",
+        "㉡ 앞은 개인의 독특함을, 뒤는 사회·문화적 환경과 교육을 말하므로 역접의 '그러나'가 적절합니다. '또한'으로 바꾸면 대비 관계가 사라져 적절하지 않습니다. 정답입니다.",
+        "'더욱 중요한 것은 창의적 사고가 … 길러진다'는 주술 호응이 되지 않으므로 '길러진다는 점이다'로 고치는 것이 적절합니다.",
+        "㉣은 환경과 교육의 중요성이라는 글 전체의 주장을 담지 못하므로 고치는 것이 적절합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2016-local-korean-A-q05",
+      "paperId": "paper_civil_korean_2016_local_A",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2016/local-A/q05.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n한자 '否'의 음이 쓰인 단어에 따라 달라지는 점을 묻는 문항입니다. 否는 뒤에 오는 글자에 따라 '부'로도 '비'로도 읽습니다.",
+      "optionExplanations": [
+        "'否認'은 '부인'으로 읽습니다.",
+        "'否定'은 '부정'으로 읽습니다.",
+        "'否決'은 '부결'로 읽습니다.",
+        "'否運'은 '부운'으로 읽어 나머지와 음이 다릅니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2016-local-korean-A-q06",
+      "paperId": "paper_civil_korean_2016_local_A",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2016/local-A/q06.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n생각은 말보다 범위가 넓어 말로 다 옮길 수 없다는 글의 요지를 뒷받침하는 예를 고르는 문항입니다.",
+      "optionExplanations": [
+        "'사과'라는 이름의 유래를 모른다는 것은 말의 기원에 관한 예입니다.",
+        "같은 사물을 언어마다 다르게 부른다는 예로, 생각과 말의 관계를 보여 주는 데는 거리가 있습니다.",
+        "받은 감동을 말로는 설명할 수 없다는 예로, 생각이 말보다 넓고 커서 말로 다 전할 수 없다는 요지에 가장 잘 맞습니다. 정답입니다.",
+        "시간 단위가 사회적 약속이라는 예로, 요지와 관계가 없습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2016-local-korean-A-q07",
+      "paperId": "paper_civil_korean_2016_local_A",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2016/local-A/q07.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n패널 토의와 심포지엄의 특징을 설명한 글을 '샛강을 어떻게 살릴 수 있을까?'라는 주제의 토의에 적용해 보는 문항입니다.",
+      "optionExplanations": [
+        "두 토의 모두 전문가의 의견을 들은 뒤 질의·응답 시간을 갖는다고 했으므로 적절합니다.",
+        "두 토의 모두 공통된 문제의 최선의 해결안을 얻는 것을 목적으로 하므로 적절합니다.",
+        "심포지엄은 하위 주제를 나누어 발표하므로 생태적 특성, 경제적 효과 같은 하위 주제를 발표한다는 설명은 적절합니다.",
+        "패널 토의는 찬반 입장을 나누는 토론이 아니라 전문가들이 정보와 견해를 자유롭게 주고받는 형식이므로 적절하지 않습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2016-local-korean-A-q08",
+      "paperId": "paper_civil_korean_2016_local_A",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2016/local-A/q08.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n김동인의 '광염 소나타'에서 화자가 피아노를 치는 장면입니다. '감정의 재뿐이 있었다'는 감정이 타 버리고 남은 것만 있다는 뜻으로 읽어야 합니다.",
+      "optionExplanations": [
+        "화려한 기교가 없다는 것은 '야성, 힘, 귀기'가 없다는 서술과 다른 방향입니다.",
+        "악보와 일치하지 않는 연주라는 내용은 지문에 나오지 않습니다.",
+        "이해할 수 없는 연주라는 뜻이 아닙니다.",
+        "감정의 재만 남았다는 것은 기괴한 감정이 느껴지지 않는 연주였음을 뜻합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2016-local-korean-A-q09",
+      "paperId": "paper_civil_korean_2016_local_A",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2016/local-A/q09.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n박태원의 '천변풍경'에서 소년이 어른에게 거지 대장의 행선지를 미리 알려 주는 장면입니다.",
+      "optionExplanations": [
+        "두 사람은 같은 대상에 관심을 보이며 대화를 이어 가고 있습니다.",
+        "소년이 가게와 술집으로 갈 것을 미리 알아맞히며 대화를 주도하고 어른의 관심을 끌어들이고 있습니다. 정답입니다.",
+        "현실의 문제점을 확인하는 대화가 아닙니다.",
+        "의견 차이를 조정하며 절충점을 찾는 대화가 아닙니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2016-local-korean-A-q10",
+      "paperId": "paper_civil_korean_2016_local_A",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2016/local-A/q10.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n재미없기로 소문난 교수의 강의에서 학생들이 열심히 듣고 반응하자 교수도 열의 있게 강의하게 되었다는 실험을 다룬 글입니다.",
+      "optionExplanations": [
+        "학생 간 의사소통을 다룬 글이 아닙니다.",
+        "교수 간 의사소통을 다룬 글도 아닙니다.",
+        "언어적 메시지보다 반응하고 경청하는 태도가 변화를 이끌었다는 점이 핵심입니다.",
+        "교수의 열의를 끌어낸 것은 학생들의 공감하는 듣기였으므로 이것이 제목으로 가장 적절합니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2016-local-korean-A-q11",
+      "paperId": "paper_civil_korean_2016_local_A",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2016/local-A/q11.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n가난한 사람이 업신여김을 당하기 싫어 허세를 부리는 심리를 이르는 속담을 고르는 문항입니다.",
+      "optionExplanations": [
+        "'가난한 집 신주 굶듯'은 가난한 살림에 제사를 지내느라 더 궁해진다는 뜻입니다.",
+        "'가난한 집에 자식이 많다'는 살림이 어려울수록 부양할 식구가 많다는 뜻입니다.",
+        "'가난할수록 기와집 짓는다'는 가난한 사람이 남에게 업신여김을 당하기 싫어 허세를 부린다는 뜻입니다. 정답입니다.",
+        "'가난한 집 제사 돌아오듯'은 어려운 일이 자주 닥친다는 뜻입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2016-local-korean-A-q12",
+      "paperId": "paper_civil_korean_2016_local_A",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2016/local-A/q12.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n밑줄 친 한자어의 쓰임이 적절하지 않은 것을 고르는 문항입니다. 문맥에 맞는 뜻으로 쓰였는지 확인해야 합니다.",
+      "optionExplanations": [
+        "'자생'은 저절로 나서 자란다는 뜻으로 식물에 맞게 쓰였습니다.",
+        "'개재(介在)'는 어떤 것들 사이에 끼어 있음을 뜻합니다. 형편이나 기회를 뜻하는 '계제(階梯)'를 써야 하므로 적절하지 않습니다. 정답입니다.",
+        "'성패'는 성공과 실패를 뜻하여 출시 여부에 따라 사업 결과가 갈린다는 문맥에 맞습니다.",
+        "'유례'는 같거나 비슷한 예를 뜻하여 문맥에 맞습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2016-local-korean-A-q13",
+      "paperId": "paper_civil_korean_2016_local_A",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2016/local-A/q13.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n한 문장 안에 명사가 몇 개 들어 있는지 세는 문항입니다. 관형사, 부사, 대명사는 명사로 세지 않습니다.",
+      "optionExplanations": [
+        "'타율', '한'(조건을 나타내는 의존 명사), '독보적', '기록'으로 명사가 네 개입니다. 정답입니다.",
+        "'상자', '것'으로 두 개입니다. '이런'은 관형사입니다.",
+        "'친구', '외', '사람'으로 세 개입니다. '다른'은 관형사, '항상'은 부사입니다.",
+        "'모퉁이', '얼굴', '이'로 세 개입니다. '저'는 관형사입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2016-local-korean-A-q14",
+      "paperId": "paper_civil_korean_2016_local_A",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2016/local-A/q14.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n밑줄 친 한자의 표기가 옳은 것을 고르는 문항입니다.",
+      "optionExplanations": [
+        "'규정'은 '規定'으로 써야 합니다.",
+        "'구조'는 '構造'로 써야 합니다.",
+        "'충분(充分)히'가 옳은 표기입니다. 정답입니다.",
+        "'현상'은 '現象'으로 써야 합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2016-local-korean-A-q15",
+      "paperId": "paper_civil_korean_2016_local_A",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2016/local-A/q15.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n밑줄 친 한자 성어의 쓰임이 적절하지 않은 것을 고르는 문항입니다.",
+      "optionExplanations": [
+        "'口蜜腹劍'은 겉과 속이 다르다는 뜻으로, 말은 번드르르하나 미덥지 않다는 문맥에 맞습니다.",
+        "'一敗塗地'는 참패를 뜻하여 싸움에 진 뒤 달아난다는 문맥에 맞습니다.",
+        "'首鼠兩端'은 우물쭈물하며 결단을 내리지 못함을 뜻하여 시기를 놓쳤다는 문맥에 맞습니다.",
+        "'後生可畏'는 후배가 뛰어나 두려울 만큼 대견하다는 긍정의 뜻입니다. 예의를 갖추지 못한다는 부정적 문맥에는 쓸 수 없습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2016-local-korean-A-q16",
+      "paperId": "paper_civil_korean_2016_local_A",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2016/local-A/q16.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n보이스피싱 피해에 은행의 일부 보상 책임을 지게 하는 방안을 두고 토론자들이 펼치는 주장을 분석하는 문항입니다.",
+      "optionExplanations": [
+        "영수는 개인의 정보 관리 책임을 강조하고, 민수는 개인의 부주의를 인정하면서도 정부의 근본적 해결책을 강조합니다. 따라서 영수와 달리 민수는 책임을 소비자에게만 전가해서는 안 된다고 본다고 정리할 수 있습니다. 정답입니다.",
+        "두 사람 모두 일차적 책임이 은행과 정부에 있다고 말하지 않았습니다.",
+        "두 사람 모두 은행이 노력하고 있다는 점을 강조하지 않았습니다.",
+        "영수는 근본적 해결을 위해 은행의 역할을 강조하지 않았습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2016-local-korean-A-q17",
+      "paperId": "paper_civil_korean_2016_local_A",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2016/local-A/q17.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n위기를 뜻하는 영어 crisis의 어원과 동양의 위기(危機) 풀이를 통해 위기를 바라보는 관점을 설명한 글입니다.",
+      "optionExplanations": [
+        "위기가 다가오지 못하게 미리 대처해야 한다는 내용은 글에 없습니다.",
+        "동서양 모두 위기를 바라보는 관점에 따라 결과가 달라진다고 보았으므로, 위기 상황을 냉정하게 판단하고 긍정적으로 받아들이는 태도가 중심 내용입니다. 정답입니다.",
+        "위기가 지나갔다고 해서 반드시 기회가 오는 것은 아니라는 내용은 글에 없습니다.",
+        "욕심에서 비롯된 위기나 자신을 되돌아봐야 한다는 내용은 글에 없습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2016-local-korean-A-q18",
+      "paperId": "paper_civil_korean_2016_local_A",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2016/local-A/q18.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n주몽 신화의 각 부분에 대한 설명으로 적절하지 않은 것을 고르는 문항입니다.",
+      "optionExplanations": [
+        "㉠에는 유화가 중매 없이 남자를 따라간 일로 귀양을 가게 된 이유가 나옵니다.",
+        "㉡에는 햇빛이 비추는 가운데 임신하여 알을 낳은 과정이 나옵니다.",
+        "㉢에서 대소는 주몽을 해칠 것을 도모했을 뿐, 주몽이 준마를 얻기 위해 대소와 모의한 내용은 없습니다. 적절하지 않습니다. 정답입니다.",
+        "㉣에는 주몽이 채찍으로 하늘을 가리키며 빌어 주교를 얻은 일이 나옵니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2016-local-korean-A-q19",
+      "paperId": "paper_civil_korean_2016_local_A",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2016/local-A/q19.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n인간이 자유로부터 도피하려는 권위주의적 양태를 설명한 글입니다. 개인적 자아의 독립을 포기하고 다른 존재에 종속되거나 상대를 복종시켜 안정을 얻으려는 태도가 핵심입니다.",
+      "optionExplanations": [
+        "개인의 이익이나 행복만을 추구하는 태도는 권위주의와 관계없습니다.",
+        "아이들의 요구를 먼저 고려하는 태도 역시 권위에의 복종과 다릅니다.",
+        "자신의 견해 없이 언론 매체의 의견을 무비판적으로 수용하는 태도는 스스로 판단하기를 포기하고 권위에 따르려는 모습이므로 가장 유사합니다. 정답입니다.",
+        "취미 활동에서 삶의 즐거움을 찾는 태도는 해당하지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2016-local-korean-A-q20",
+      "paperId": "paper_civil_korean_2016_local_A",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2016/local-A/q20.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n아메리카에서 시가가 유행하는 현상을 상징적 행동의 측면에서 설명한 글입니다. 기능적 설명으로는 설명되지 않는 차별의 이유를 자문자답으로 풀어 갑니다.",
+      "optionExplanations": [
+        "'왜 이런 차별이 생겼을까?'라고 묻고 스스로 답하는 자문자답 형식이 나타나므로 적절합니다.",
+        "글에 난해한 용어의 정의를 제시하는 부분은 없습니다. 적절하지 않습니다. 정답입니다.",
+        "연기를 삼키지 않아 덜 해롭다는 일반적 주장을 일부 인정하면서 그 한계를 지적하므로 적절합니다.",
+        "시가와 궐련을 비교하여 특정 현상에 담긴 의미를 밝히려 하므로 적절합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    }
+  ]
+}

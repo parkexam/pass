@@ -1,0 +1,489 @@
+{
+  "id": "paper_civil_korean_2017_local_B",
+  "title": "2017 지방직 9급 국어 B책형",
+  "year": 2017,
+  "source": "2017년도 9급 지방공무원 임용 필기시험 국어 B책형 PDF 및 공개 최종정답 기준 · 자체 해설 초안(검수 필요)",
+  "subjectId": "sub_civil_0",
+  "questions": [
+    {
+      "id": "civil2017-local-korean-B-q01",
+      "paperId": "paper_civil_korean_2017_local_B",
+      "number": 1,
+      "kind": "scan",
+      "body": "1번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2017/local-B/q01.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n표준어 규정과 한글 맞춤법에 맞는 표기를 가려내는 문항입니다. 형용사 '퍼렇다'는 ㅎ 불규칙 활용을 하여 '퍼레서'로 적습니다.",
+      "optionExplanations": [
+        "'퍼레서'는 '퍼렇다'의 어간에 어미 '-어'가 붙어 줄어든 옳은 표기입니다. 정답입니다.",
+        "뱀이 몸을 감아 도는 모양을 이르는 말은 '똬리'이므로 '똬리 튼 뱀'으로 써야 합니다.",
+        "글의 첫머리를 뜻하는 말은 '머리말'이므로 사이시옷을 넣지 않습니다.",
+        "'잠그다'의 어간 '잠그-'에 어미 '-아'가 붙어 '잠가'가 되므로 '잠가야'로 써야 합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2017-local-korean-B-q02",
+      "paperId": "paper_civil_korean_2017_local_B",
+      "number": 2,
+      "kind": "scan",
+      "body": "2번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2017/local-B/q02.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n'말길이 되다'는 남에게 소개하여 말을 주고받을 길이 트이다, 곧 말을 꺼낼 기회가 생기다는 뜻의 관용구입니다. 몇 달 만에 소개받을 길이 열려 상대를 만났다는 문맥에 맞게 풀이해야 합니다.",
+      "optionExplanations": [
+        "'말꼬리를 물다'에 해당하는 풀이로, 남의 말을 이어받는 것과는 관계가 없습니다.",
+        "'말길이 되다'는 소개를 통해 말을 나눌 길이 트였다는 뜻이므로, 자신을 소개하는 길이 트였다는 풀이가 가장 가깝습니다. 정답입니다.",
+        "'말이 있다'에 해당하는 풀이로, 논의가 오간다는 뜻입니다.",
+        "'맛을 붙이다'에 해당하는 풀이로, 재미를 붙인다는 뜻입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2017-local-korean-B-q03",
+      "paperId": "paper_civil_korean_2017_local_B",
+      "number": 3,
+      "kind": "scan",
+      "body": "3번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2017/local-B/q03.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n물건을 세는 단위성 의존 명사의 값을 묻는 문항입니다. 바늘 한 쌈은 24개, 한약 한 제(劑)는 탕약 20첩, 오이·가지 한 거리는 50개입니다.",
+      "optionExplanations": [
+        "쌈을 10개로 잘못 알고 계산한 값입니다.",
+        "쌈을 12개로 잘못 알고 계산한 값입니다.",
+        "쌈을 20개로 잘못 알고 계산한 값입니다.",
+        "24(쌈) + 20(제) + 50(거리) = 94이므로 94가 맞습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2017-local-korean-B-q04",
+      "paperId": "paper_civil_korean_2017_local_B",
+      "number": 4,
+      "kind": "scan",
+      "body": "4번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2017/local-B/q04.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n객관적 상관물은 화자의 정서를 사물이나 풍경에 옮겨 드러내는 대상입니다. 문제에서는 그 가운데 '화자 자신과 동일시되는' 소재를 고르라고 했으므로, 시들어 지는 화자의 처지가 투영된 대상을 찾아야 합니다.",
+      "optionExplanations": [
+        "봄비는 서쪽 못을 어둑하게 만드는 배경일 뿐, 화자의 처지를 대신하지 않습니다.",
+        "찬바람이 스며드는 비단 장막은 공간을 이루는 사물입니다.",
+        "병풍은 화자가 시름에 겨워 몸을 기대는 대상입니다.",
+        "담장 위에서 떨어지는 살구꽃은 젊음을 잃어 가는 화자 자신의 처지에 빗댄 소재입니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2017-local-korean-B-q05",
+      "paperId": "paper_civil_korean_2017_local_B",
+      "number": 5,
+      "kind": "scan",
+      "body": "5번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2017/local-B/q05.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n술 익었다는 소식을 듣고 소를 발로 박차 달려가는 화자의 모습을 그린 시조입니다. 격식에 얽매이지 않는 호탕하고 소박한 풍류가 드러납니다.",
+      "optionExplanations": [
+        "술 익었다는 소식을 듣고 곧장 달려가는 모습에서 소박한 풍류를 즐기는 태도를 확인할 수 있습니다.",
+        "'박차'는 소를 발로 차서 달래는 동작으로, 장면에 생동감을 줍니다.",
+        "'언치'는 안장 밑에 까는 깔개로, 그것을 놓아 버리고 지즐밟는 모습은 오히려 격식을 벗어난 자유분방함을 보여 줍니다. 적절하지 않습니다. 정답입니다.",
+        "'아희야'는 종을 부르는 말이면서 대화체로 이끄는 영탄적 어구로 쓰였습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2017-local-korean-B-q06",
+      "paperId": "paper_civil_korean_2017_local_B",
+      "number": 6,
+      "kind": "scan",
+      "body": "6번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2017/local-B/q06.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n장광설(長廣舌), 유언비어(流言蜚語), 변명(辨明)의 한자 표기를 묻는 문항입니다.",
+      "optionExplanations": [
+        "㉠ 長廣舌, ㉡ 流言蜚語, ㉢ 辨明으로 모두 옳게 적었습니다. 정답입니다.",
+        "㉡을 '流言非語'로 적었는데, 근거 없이 퍼지는 말은 '流言蜚語'로 씁니다.",
+        "㉠을 '長廣說'로 적었는데, 장광설의 한자는 '長廣舌'입니다.",
+        "㉠의 '舌'을 '說'로, ㉡의 '蜚'를 '非'로 잘못 적었습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2017-local-korean-B-q07",
+      "paperId": "paper_civil_korean_2017_local_B",
+      "number": 7,
+      "kind": "scan",
+      "body": "7번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2017/local-B/q07.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n정지용의 '인동차'는 눈 내리는 깊은 산중의 정경을 정갈하게 그려 낸 작품입니다. '잠착하다'는 '참척하다'의 원말로 한 가지 일에만 정신을 골똘하게 쓰다는 뜻입니다.",
+      "optionExplanations": [
+        "책력도 없이 삼동을 나는 산중이 배경임을 알 수 있습니다.",
+        "붉은 자작나무 불, 파릇한 무순, 하이얀 삼동이 색채 대조를 이룹니다.",
+        "정지된 장면을 병치하여 한 폭의 그림 같은 인상을 줍니다.",
+        "'잠착하다'는 '한 가지 일에만 정신을 골똘하게 쓰다'는 뜻으로, '여러모로 고려하다'와 다릅니다. 적절하지 않습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2017-local-korean-B-q08",
+      "paperId": "paper_civil_korean_2017_local_B",
+      "number": 8,
+      "kind": "scan",
+      "body": "8번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2017/local-B/q08.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n주체 높임은 서술의 주체를, 객체 높임은 목적어나 부사어를, 상대 높임은 듣는 이를 높이는 것입니다. '내가 선생님께 꽃다발을 드렸다'를 숙희에게 말하는 상황으로 나누어 봅니다.",
+      "optionExplanations": [
+        "주체인 '내가'는 높이지 않았고, 객체인 '선생님께'와 '드렸다'는 높였으며, 듣는 이에게 반말을 했으므로 [주체－], [객체＋], [상대－]입니다. 정답입니다.",
+        "'내가'가 주체인데도 주체 높임으로 표시되어 틀립니다.",
+        "듣는 이에게 반말을 하는 상황이므로 상대 높임은 '-'입니다.",
+        "'께'와 '드렸다'로 객체가 높여졌으므로 [객체＋]로 표시해야 합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2017-local-korean-B-q09",
+      "paperId": "paper_civil_korean_2017_local_B",
+      "number": 9,
+      "kind": "scan",
+      "body": "9번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2017/local-B/q09.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n제시문은 미가 어떤 맥락에서도 자율적일 수 있다는 칸트의 입장을 소개하면서, 미가 사회·경제적 맥락의 영향을 받는다는 타율적 측면도 함께 언급합니다. 칸트의 입장에 부합하는 것은 미를 외부 맥락과 분리해 보는 견해입니다.",
+      "optionExplanations": [
+        "작품 자체의 정제된 시어와 운율을 중심으로 감상해야 한다는 견해는 미의 자율성을 강조한 칸트의 입장에 부합합니다. 정답입니다.",
+        "사회의 모순을 고발하고 개혁의 전망을 제시한다는 견해는 미를 사회적 맥락과 연결하는 타율적 입장입니다.",
+        "시인과의 대화를 통한 정서적 성장은 수용자 중심의 견해로, 칸트의 자율성 논의와 거리가 있습니다.",
+        "당시의 사회 상황을 알아야 한다는 견해 역시 맥락을 중시하는 타율적 입장입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 1
+    },
+    {
+      "id": "civil2017-local-korean-B-q10",
+      "paperId": "paper_civil_korean_2017_local_B",
+      "number": 10,
+      "kind": "scan",
+      "body": "10번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2017/local-B/q10.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n김유정의 '만무방'에 쓰인 어휘의 뜻을 묻는 문항입니다. '새우잠'은 새우처럼 등을 구부리고 자는 잠을 이르는 말입니다.",
+      "optionExplanations": [
+        "'파적(破寂)'은 심심함을 잊고 시간을 보내려고 하는 일이므로 '심심풀이'와 뜻이 통합니다.",
+        "'새우잠'은 몸을 새우처럼 구부리고 자는 잠입니다. '안잠'은 여자가 남의 집에 붙어 지내며 일을 거들어 주는 일을 이르는 전혀 다른 말이므로 옳지 않습니다. 정답입니다.",
+        "'난장(亂杖)'은 마구 때리는 매를 뜻하므로 '몰매'와 뜻이 통합니다.",
+        "'사관(四關)'은 양쪽 팔꿈치와 무릎 관절을 아울러 이르는 말입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2017-local-korean-B-q11",
+      "paperId": "paper_civil_korean_2017_local_B",
+      "number": 11,
+      "kind": "scan",
+      "body": "11번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 0,
+      "imageUrl": "assets/questions/civil/korean/2017/local-B/q11.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n하늘에서 받은 성품을 그대로 지키며 살겠다는 다짐을 노래한 시조입니다. '내 (…) 좋다 하고 슬픈 일 하지 말며 / (…) 이르다 하고 義 아니면 좇지 말며 / 우리는 天性을 지켜여 삼긴 대로 하리라'의 뜻을 새겨야 합니다.",
+      "optionExplanations": [
+        "옳다고 여기는 바를 따르고 의롭지 않은 일은 좇지 않으며 타고난 성품을 지키겠다는 뜻이므로 '率性(성을 따름)'이 주제입니다. 정답입니다.",
+        "'善交(벗을 잘 사귐)'는 벗과의 관계를 다룬 노래의 주제입니다.",
+        "'遵法(법을 따름)'은 법이나 규범을 따르는 데 초점이 있어 이 노래와 다릅니다.",
+        "'篤學(학문을 독실히 함)'은 학문에 힘쓰는 태도를 이르는 말입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2017-local-korean-B-q12",
+      "paperId": "paper_civil_korean_2017_local_B",
+      "number": 12,
+      "kind": "scan",
+      "body": "12번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2017/local-B/q12.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n표준어로 인정된 말과 비표준어를 가려내는 문항입니다. 표준어 규정에서는 둘 이상의 형태가 쓰일 때 널리 쓰이는 하나만 표준어로 삼습니다.",
+      "optionExplanations": [
+        "'뉘연히'는 비표준어로, 남의 시선을 꺼리지 않을 만큼 당당한 모양을 뜻할 때는 '버젓이'를 씁니다.",
+        "'뒤어내다'는 비표준어로, 샅샅이 뒤져서 찾아낸다는 뜻에는 '뒤져내다'를 씁니다.",
+        "'깨단하다'는 오랫동안 생각해 내지 못하던 일을 어떤 실마리로 말미암아 깨닫거나 분명히 알게 된다는 뜻의 표준어입니다. 정답입니다.",
+        "형용사 '허구하다'의 관형사형은 '허구한'이므로 '허구한 날'로 써야 합니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2017-local-korean-B-q13",
+      "paperId": "paper_civil_korean_2017_local_B",
+      "number": 13,
+      "kind": "scan",
+      "body": "13번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2017/local-B/q13.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n조지훈의 '지조론'에 쓰인 한자어의 표기를 묻는 문항입니다.",
+      "optionExplanations": [
+        "'확집(確執)'은 굳게 지키려는 태도를 이르는 말로 표기가 옳습니다.",
+        "'위의(威儀)'는 위엄 있는 태도나 몸가짐을 이르는 말로 표기가 옳습니다.",
+        "'강도(强度)'는 세기의 정도를 이르는 말로 표기가 옳습니다.",
+        "하루 아침을 뜻하는 말은 '일조(一朝)'입니다. '日照'는 햇볕이 비침을 뜻하므로 표기가 옳지 않습니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2017-local-korean-B-q14",
+      "paperId": "paper_civil_korean_2017_local_B",
+      "number": 14,
+      "kind": "scan",
+      "body": "14번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2017/local-B/q14.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n용언의 활용형이 본래의 품사를 그대로 지니는지 살펴 동사와 형용사를 가려내는 문항입니다.",
+      "optionExplanations": [
+        "㉠은 형용사이나 ㉢은 동사이므로 품사가 같지 않습니다.",
+        "㉠ '흐드러지게'는 형용사 '흐드러지다'의 부사형, ㉣ '충만한'은 형용사 '충만하다'의 관형사형, ㉤ '없는'은 형용사 '없다'의 관형사형으로 모두 형용사입니다. 정답입니다.",
+        "㉡ '찍은'과 ㉢ '설레는'은 동사이나 ㉤ '없는'은 형용사입니다.",
+        "㉢ '설레는'은 동사 '설레다'의 관형사형이므로 ㉣, ㉤과 품사가 다릅니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2017-local-korean-B-q15",
+      "paperId": "paper_civil_korean_2017_local_B",
+      "number": 15,
+      "kind": "scan",
+      "body": "15번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2017/local-B/q15.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n토머스 쿤의 정상 과학 개념을 설명한 글입니다. 정상 과학 시기에는 이미 이론의 핵심 부분들이 정립되어 있고, 과학자들은 수수께끼 풀이를 통해 지식을 확장해 갑니다.",
+      "optionExplanations": [
+        "본문은 상반된 학설이 난립하는 것이 아니라 이론과 자연 현상을 일치시켜 가는 지식의 확장으로서의 다양성을 이룬다고 설명합니다.",
+        "정상 과학 시기에는 이론의 핵심 부분들이 이미 정립되어 있다고 밝히고 있습니다. 정답입니다.",
+        "패러다임은 세계에 대한 해석의 끝이 아니라고 했으므로 세계를 완전히 해석하는 과학으로 발전한다는 설명은 틀립니다.",
+        "본문은 과학자들의 열정과 헌신성이 무엇으로 유지되는지 묻고 수수께끼 풀이로 답할 뿐, 열정이 낮아진다고 단정하지 않습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 2
+    },
+    {
+      "id": "civil2017-local-korean-B-q16",
+      "paperId": "paper_civil_korean_2017_local_B",
+      "number": 16,
+      "kind": "scan",
+      "body": "16번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2017/local-B/q16.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n'잡다'의 여러 뜻 가운데 제시된 유의어와 같은 뜻으로 쓰인 예를 가려내는 문항입니다.",
+      "optionExplanations": [
+        "돼지를 잡았다는 '죽이다'의 뜻으로 쓰였습니다.",
+        "멱살을 잡았다는 '쥐다'의 뜻으로 쓰였습니다.",
+        "술값으로 시계를 잡았다는 담보로 받아 두다는 뜻이므로, 값을 짐작한다는 '어림하다'와 다릅니다. 정답입니다.",
+        "불길을 잡았다는 '진압하다'의 뜻으로 쓰였습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2017-local-korean-B-q17",
+      "paperId": "paper_civil_korean_2017_local_B",
+      "number": 17,
+      "kind": "scan",
+      "body": "17번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 1,
+      "imageUrl": "assets/questions/civil/korean/2017/local-B/q17.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n조간대의 환경과 생물의 수직 분포를 설명한 글입니다. 글에 제시된 정보만으로 답할 수 있는지를 따져야 합니다.",
+      "optionExplanations": [
+        "총알고둥류와 따개비가 사는 곳이 조간대에서 물이 가장 높이 올라오는 지점이라는 내용이 제시되어 있습니다.",
+        "중부에 사는 생물의 종류는 글에 나오지 않으므로 답을 찾을 수 없습니다. 정답입니다.",
+        "불안정하고 척박한 환경에 적응하기 위해 높이에 따라 수직으로 분포한다고 밝히고 있습니다.",
+        "물에 잠김과 공기 중 노출, 파도, 민물, 염분 등 환경 조건이 제시되어 있습니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2017-local-korean-B-q18",
+      "paperId": "paper_civil_korean_2017_local_B",
+      "number": 18,
+      "kind": "scan",
+      "body": "18번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 3,
+      "imageUrl": "assets/questions/civil/korean/2017/local-B/q18.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n주제문은 서론의 문제 제기, 본론의 분석, 결론의 방안 제시를 모두 아우려야 합니다. 개요의 흐름을 그대로 담은 문장을 골라야 합니다.",
+      "optionExplanations": [
+        "정부의 지원은 결론에 없는 내용이고, 본론의 분석 결과도 담지 못합니다.",
+        "내수 시장은 개요에 제시되지 않은 내용입니다.",
+        "연구 개발과 품질은 비가격 경쟁력 요인의 일부일 뿐이라 전체를 아우르지 못합니다.",
+        "수출 경쟁력을 좌우하는 요인을 분석한 뒤 그에 맞는 방안을 마련하자는 문장이 개요 전체를 아우릅니다. 정답입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2017-local-korean-B-q19",
+      "paperId": "paper_civil_korean_2017_local_B",
+      "number": 19,
+      "kind": "scan",
+      "body": "19번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2017/local-B/q19.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n인칭 대명사가 가리키는 대상을 정확히 파악하는 문항입니다. 말하는 이는 '저', 듣는 이는 '그쪽'과 '당신', 이야기의 대상은 '할머니'입니다.",
+      "optionExplanations": [
+        "'그쪽'은 듣는 이를 가리키는 2인칭이므로 1인칭 대명사가 아닙니다.",
+        "'우리 할머니'는 화자와 듣는 이를 함께 아우르는 말이 아니라 이야기의 대상인 할머니를 가리킵니다.",
+        "㉣ '할머니'와 ㉦ '당신'은 모두 돌아가신 할머니를 가리키는 말입니다. 정답입니다.",
+        "㉤ '본인'은 할머니를, ㉥ '당신'은 부탁을 받는 상대방을 가리키므로 서로 다른 사람입니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    },
+    {
+      "id": "civil2017-local-korean-B-q20",
+      "paperId": "paper_civil_korean_2017_local_B",
+      "number": 20,
+      "kind": "scan",
+      "body": "20번",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④"
+      ],
+      "answer": 2,
+      "imageUrl": "assets/questions/civil/korean/2017/local-B/q20.webp",
+      "explanation": "자체 작성 해설(공식 해설 아님 · 검수 필요)\n동물의 의사소통 수단을 둘러싼 논증의 구조를 파악하는 문항입니다. ㉠, ㉡은 통념을 제시하고 ㉢에서 이를 뒤집은 뒤 ㉣의 근거를 들어 ㉤에서 결론을 내립니다.",
+      "optionExplanations": [
+        "㉠은 논의를 여는 주제문이지만 논증의 최종 결론은 ㉤입니다.",
+        "㉡은 ㉠을 다른 말로 부연한 것으로, 논리적 결함을 지적한 것이 아닙니다.",
+        "㉢은 '그러나'로 ㉠, ㉡의 겉모습 중심 주장을 부정하고 사람의 말과 동물의 소리 사이의 근본적 차이라는 새 논점을 제시합니다. 정답입니다.",
+        "㉤은 ㉢, ㉣로부터 끌어낸 결론이므로 ㉢, ㉣의 근거가 아닙니다."
+      ],
+      "explanationStatus": "draft_review_required",
+      "sourcePage": 3
+    }
+  ]
+}
